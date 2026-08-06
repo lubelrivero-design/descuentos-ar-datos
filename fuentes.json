@@ -1,0 +1,84 @@
+{
+  "_comentario": "Lista fija de lugares que el agente revisa todos los dias. 'metodo': fetch = descarga simple. navegador = la pagina arma el contenido con JavaScript. bloqueada = no se puede leer. 'calidad': que tan buena es la fuente para sacar dia + comercio + porcentaje + tope. Verificado el 2026-08-05 abriendo cada sitio.",
+  "billeteras": [
+    {
+      "id": "naranja_x", "nombre": "Naranja X", "url": "https://www.naranjax.com/promociones",
+      "metodo": "navegador", "calidad": "muy buena",
+      "nota": "LA MEJOR fuente propia. Dice el dia ('Martes', 'De lunes a miercoles', 'Del 5 al 9 de agosto'), el comercio, el porcentaje y si es credito o debito. Lo unico que le falta es el tope."
+    },
+    {
+      "id": "modo", "nombre": "MODO", "url": "https://www.modo.com.ar/promos",
+      "metodo": "navegador", "calidad": "buena",
+      "nota": "Muchisimas promos y de todos los bancos, pero el listado solo muestra el titulo ('20% de reintegro en ChangoMas'). Para saber dia y tope hay que abrir cada promo. Es la fuente mas completa pero la mas cara de leer."
+    },
+    {
+      "id": "mercado_pago", "nombre": "Mercado Pago", "url": "https://promociones.mercadopago.com.ar",
+      "metodo": "navegador", "calidad": "NO USAR",
+      "nota": "DESACTUALIZADA. El 05/08/2026 mostraba promos del Hot Sale 'validas del 11 al 17 de mayo' y el pie de pagina decia 2023. Es una landing vieja que quedo colgada. CONFIRMADO entrando con una cuenta real logueada: la web tampoco tiene seccion de promociones (/descuentos, /beneficios, /discounts y /loyalty dan 404, y el menu lateral no la incluye). Mercado Pago es app-only. Se cubre con prensa, o con capturas de la app."
+    },
+    {
+      "id": "uala", "nombre": "Ualá", "url": "https://www.uala.com.ar/promociones",
+      "metodo": "navegador", "calidad": "pobre",
+      "nota": "Solo beneficios de partners (Rappi, Coderhouse, gimnasios). No hay supermercados ni dias de la semana. Sirve de poco. Ojo: /beneficios da 404, la ruta correcta es /promociones."
+    },
+    {
+      "id": "cuenta_dni", "nombre": "Cuenta DNI", "url": "https://cuentadni.bancoprovincia.com.ar/beneficios",
+      "metodo": "bloqueada", "calidad": "no se puede leer",
+      "nota": "Certificado SSL vencido. Es la billetera mas usada en PBA, asi que se cubre con prensa (iProfesional e Infobae la detallan bien todos los meses). Conviene buscarle una fuente mejor."
+    },
+    { "id": "personal_pay", "nombre": "Personal Pay", "url": "https://www.personalpay.com.ar/beneficios", "metodo": "navegador", "calidad": "sin revisar" },
+    { "id": "bna_mas", "nombre": "BNA+", "url": "https://www.semananacion.com.ar/", "metodo": "navegador", "calidad": "sin revisar", "nota": "Semana Nacion es el sitio oficial de las promos de BNA+." },
+    { "id": "brubank", "nombre": "Brubank", "url": "https://brubank.com/descuentos", "metodo": "navegador", "calidad": "sin revisar" }
+  ],
+  "bancos": [
+    {
+      "id": "ciudad", "nombre": "Banco Ciudad", "url": "https://www.bancociudad.com.ar/beneficios/",
+      "metodo": "navegador", "calidad": "excelente",
+      "nota": "LA MEJOR fuente propia de todo el proyecto. Mas de 100 beneficios con comercio, % y dias. TRUCO: los dias salen como letras D L M M J V S y el activo tiene la clase 'active'; hay que leerlo del HTML (selector .bene-card, titulo .card-title, porcentaje .card-text-descuento, dias .card-text.ps-2). Sacando solo el texto se pierden los dias. No muestra topes en el listado."
+    },
+    {
+      "id": "galicia", "nombre": "Banco Galicia", "url": "https://www.galicia.ar/personas/promociones",
+      "metodo": "navegador", "calidad": "buena",
+      "nota": "Da comercio, % y dias en texto plano, pero nunca el tope y los porcentajes son 'hasta'. OJO: /personas/beneficios da 404, la ruta correcta es /personas/promociones."
+    },
+    {
+      "id": "santander", "nombre": "Santander", "url": "https://www.santander.com.ar/personas/beneficios",
+      "metodo": "navegador", "calidad": "pobre",
+      "nota": "Tiene una seccion util 'Hoy, <dia>' que lista los comercios del dia (sirve para CONFIRMAR dias), pero los porcentajes estan dentro de imagenes y no se pueden leer. Los numeros hay que sacarlos de prensa."
+    },
+    {
+      "id": "bbva", "nombre": "BBVA", "url": "https://www.bbva.com.ar/personas/promociones.html",
+      "metodo": "bloqueada", "calidad": "no se puede leer",
+      "nota": "Da 404, igual que /personas/beneficios.html. Sin fuente propia. Lo unico firme que se consiguio es la promo de la tarjeta Black+ Save via prensa."
+    },
+    { "id": "macro",     "nombre": "Banco Macro",   "url": "https://www.macro.com.ar/beneficios",              "metodo": "navegador", "calidad": "sin revisar" }
+  ],
+  "comercios": [
+    {
+      "id": "coto", "nombre": "Coto", "url": "https://www.coto.com.ar/",
+      "metodo": "navegador", "calidad": "muy buena",
+      "nota": "Seccion 'Descuentos en COTO' con selector de dia, texto legal y topes. Hay que tocar 'Sucursales' y 'Ver mas' para las promos bancarias completas."
+    },
+    { "id": "dia",       "nombre": "Dia",       "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones", "metodo": "navegador", "calidad": "sin revisar" },
+    { "id": "carrefour", "nombre": "Carrefour", "url": "https://www.carrefour.com.ar/promociones-bancarias",                     "metodo": "navegador", "calidad": "sin revisar" }
+  ],
+  "delivery": [
+    {
+      "id": "rappi", "nombre": "Rappi", "url": "https://promos.rappi.com/argentina",
+      "metodo": "navegador", "calidad": "media",
+      "nota": "Lista las promos con banco y vigencia exacta (Banco Provincia, Uala, Galicia, Comafi) pero NO el porcentaje, los dias ni el tope: hay que abrir los terminos de cada una. La home rappi.com.ar/promociones tira error tecnico sin ubicacion cargada."
+    },
+    {
+      "id": "pedidosya", "nombre": "PedidosYa", "url": "https://www.pedidosya.com.ar/",
+      "metodo": "bloqueada", "calidad": "no se puede leer",
+      "nota": "Tiene anti-bot: /promociones/medios-de-pago devuelve 'Acceso denegado'. La home si carga y muestra la seccion 'Medios de pago' (de ahi salio la de Santander). Sin acceso automatico: hay que mirarla a mano o por captura."
+    }
+  ],
+  "prensa": [
+    { "id": "lanacion", "nombre": "La Nación", "url": "https://www.lanacion.com.ar/economia/", "uso": "LA MEJOR fuente de Cuenta DNI: publica la tabla oficial del Banco Provincia entera (rubro, %, dias y tope) al arrancar cada mes. Buscar 'Cuenta DNI <mes> <año>'." },
+    { "id": "iprofesional",   "nombre": "iProfesional",    "url": "https://www.iprofesional.com/finanzas",  "uso": "Tapa el agujero de Mercado Pago, que no tiene fuente propia usable. Su nota mensual trae la tabla por supermercado y por banco." },
+    { "id": "infobae",        "nombre": "Infobae",         "url": "https://www.infobae.com/economia/",      "uso": "Publica el detalle mensual de Cuenta DNI, promo por promo." },
+    { "id": "calcularsueldo", "nombre": "Calcular Sueldo", "url": "https://calcularsueldo.com.ar/finanzas", "uso": "El mejor en topes y compras minimas, sobre todo BNA+." },
+    { "id": "promoarg",       "nombre": "PromoArg",        "url": "https://promoarg.com/promociones",       "uso": "Solo para contrastar. Tiene mucha basura (entradas de 0% OFF), no copiar sin verificar." }
+  ]
+}
