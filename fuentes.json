@@ -27,7 +27,7 @@
       "nota": "Certificado SSL vencido. Es la billetera mas usada en PBA, asi que se cubre con prensa (iProfesional e Infobae la detallan bien todos los meses). Conviene buscarle una fuente mejor."
     },
     { "id": "personal_pay", "nombre": "Personal Pay", "url": "https://www.personalpay.com.ar/beneficios", "metodo": "navegador", "calidad": "sin revisar" },
-    { "id": "bna_mas", "nombre": "BNA+", "url": "https://www.semananacion.com.ar/", "metodo": "navegador", "calidad": "sin revisar", "nota": "Semana Nacion es el sitio oficial de las promos de BNA+." },
+    { "id": "bna_mas", "nombre": "BNA+", "url": "https://www.bna.com.ar/Personas/DescuentosYPromociones", "metodo": "navegador", "calidad": "pobre", "nota": "El 09/08/2026 semananacion.com.ar devolvia 'Error interno' (por eso se cambio la URL a la del banco). La web del BNA carga pero solo tiene 9 promos, mezcla vencidas con vigentes y no muestra dias ni topes: la de Supermercados dice solo 'hasta 30%' y manda a un PDF. Los dias y topes de BNA+ salen de iProfesional y CalcularSueldo. OJO: la tabla de CalcularSueldo mezcla promos de MODO y Macro adentro de las de BNA, no confiar en su atribucion por banco." },
     { "id": "brubank", "nombre": "Brubank", "url": "https://brubank.com/descuentos", "metodo": "navegador", "calidad": "sin revisar" }
   ],
   "bancos": [
@@ -39,7 +39,7 @@
     {
       "id": "galicia", "nombre": "Banco Galicia", "url": "https://www.galicia.ar/personas/promociones",
       "metodo": "navegador", "calidad": "buena",
-      "nota": "Da comercio, % y dias en texto plano, pero nunca el tope y los porcentajes son 'hasta'. OJO: /personas/beneficios da 404, la ruta correcta es /personas/promociones."
+      "nota": "Da comercio, % y dias en texto plano, pero nunca el tope y los porcentajes son 'hasta'. OJO: /personas/beneficios da 404, la ruta correcta es /personas/promociones. El listado COMPLETO no esta en galicia.ar: vive en un iframe, https://beneficios.galicia.ar/filtro/8%7Csupermercados (25 comercios). Ese iframe lista las marcas pero NO el porcentaje ni el dia, hay que abrir cada una. La landing /personas/promociones si trae las destacadas con % y dia, y alcanza."
     },
     {
       "id": "santander", "nombre": "Santander", "url": "https://www.santander.com.ar/personas/beneficios",

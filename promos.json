@@ -20,7 +20,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "media"
     },
     {
@@ -43,7 +43,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "media"
     },
     {
@@ -61,13 +61,13 @@
       "descuento_pct": 15,
       "tope_monto": 20000,
       "tope_periodo": "mensual",
-      "requisitos": "Con los medios habilitados por la promo.",
+      "requisitos": "Con los medios habilitados por la promo. OJO: las dos notas de iProfesional del 05/08 se contradicen (una dice sabados y domingos, la otra jueves con minimo $15.000). Se deja el finde, que es la que trae el tope.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
-      "confianza": "alta"
+      "verificado": "2026-08-09",
+      "confianza": "media"
     },
     {
       "id": "mp-changomas-martes",
@@ -88,7 +88,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -105,13 +105,13 @@
       "descuento_pct": 10,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Todos los miercoles del mes. SIN TOPE de reintegro.",
+      "requisitos": "Pagando con QR. Una nota de iProfesional dice todos los miercoles sin tope y la otra solo el 5 y el 12 de agosto. Se deja todos los miercoles.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
-      "confianza": "alta"
+      "verificado": "2026-08-09",
+      "confianza": "media"
     },
     {
       "id": "mp-transporte",
@@ -206,7 +206,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -232,7 +232,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -254,7 +254,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://calcularsueldo.com.ar/finanzas/15562/supermercados-bna-cuales-son-las-promociones-y-como-ahorrar-en-agosto-2026.html",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -276,7 +276,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://calcularsueldo.com.ar/finanzas/15562/supermercados-bna-cuales-son-las-promociones-y-como-ahorrar-en-agosto-2026.html",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -298,7 +298,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://calcularsueldo.com.ar/finanzas/15562/supermercados-bna-cuales-son-las-promociones-y-como-ahorrar-en-agosto-2026.html",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -326,7 +326,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -348,12 +348,12 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Va de 15% a 20% segun la cadena. FALTA desglosar y confirmar topes. No mostrar.",
+      "requisitos": "Va de 15% a 20% segun la cadena. CalcularSueldo publica el desglose (La Anonima 20% viernes, Disco y Vea 20% viernes, Diarco Barrio 20% finde, Diarco Mayorista 15% sabado) pero su tabla se contradice con iProfesional en ChangoMas, asi que la atribucion por banco no es confiable. No mostrar.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://calcularsueldo.com.ar/finanzas/15562/supermercados-bna-cuales-son-las-promociones-y-como-ahorrar-en-agosto-2026.html",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "baja"
     },
     {
@@ -375,7 +375,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -399,7 +399,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -422,7 +422,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -442,7 +442,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.modo.com.ar/promos",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "baja"
     },
     {
@@ -467,7 +467,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -489,7 +489,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -512,7 +512,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -536,7 +536,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -558,7 +558,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -580,7 +580,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -1011,13 +1011,13 @@
       ],
       "descuento_pct": 20,
       "tope_monto": 6000,
-      "tope_periodo": "sin_aclarar",
-      "requisitos": "La tabla oficial dice \"$6.000 por persona\" sin aclarar si es semanal o mensual.",
+      "tope_periodo": "semanal",
+      "requisitos": "Solo en comercios adheridos. El tope se alcanza gastando unos $30.000 en la semana.",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -1034,13 +1034,13 @@
       "descuento_pct": 35,
       "tope_monto": 6000,
       "tope_periodo": "semanal",
-      "requisitos": "Pagando con QR desde la app.",
+      "requisitos": "Pagando con QR desde la app. OJO: la tabla oficial de agosto ya no la lista; sigue mencionada en el epigrafe de la nota de La Nacion del 09/08. A reconfirmar.",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-05",
-      "confianza": "alta"
+      "verificado": "2026-08-09",
+      "confianza": "media"
     },
     {
       "id": "cuenta-dni-petshops",
@@ -1062,13 +1062,13 @@
       "descuento_pct": 40,
       "tope_monto": 4000,
       "tope_periodo": "semanal",
-      "requisitos": "Vale en provincia y tambien en CABA. Es la promo nueva del mes.",
+      "requisitos": "NO aparece en la tabla oficial del 09/08 ni en el detalle de Infobae del 01/08. La unica fuente es iProfesional del 05/08. Sin confirmar, no se muestra.",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-05",
-      "confianza": "alta"
+      "verificado": "2026-08-09",
+      "confianza": "baja"
     },
     {
       "id": "cuenta-dni-garrafas",
@@ -1088,14 +1088,14 @@
         "domingo"
       ],
       "descuento_pct": 40,
-      "tope_monto": 4500,
+      "tope_monto": 18000,
       "tope_periodo": "mensual",
-      "requisitos": "Tope por persona.",
+      "requisitos": "Tope por persona. El tope se alcanza con consumos de unos $45.000 en el mes.",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -1110,15 +1110,15 @@
         "sabado",
         "domingo"
       ],
-      "descuento_pct": 30,
-      "tope_monto": 5000,
+      "descuento_pct": 25,
+      "tope_monto": 8000,
       "tope_periodo": "semanal",
-      "requisitos": "Tope por persona.",
+      "requisitos": "La tabla oficial la llama \"Gustito en una salida\". Tope por persona.",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -1141,12 +1141,12 @@
       "descuento_pct": 40,
       "tope_monto": 6000,
       "tope_periodo": "semanal",
-      "requisitos": "Pagando con QR desde la app.",
+      "requisitos": "Pagando con QR desde la app. El tope se alcanza con compras de unos $15.000.",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -1155,7 +1155,7 @@
       "medio_nombre": "Cuenta DNI",
       "rubro": "educacion",
       "comercios": [
-        "Universidades adheridas"
+        "Universidades, clubes y entidades educativas adheridas"
       ],
       "dias": [
         "lunes",
@@ -1169,13 +1169,13 @@
       "descuento_pct": 40,
       "tope_monto": 4000,
       "tope_periodo": "semanal",
-      "requisitos": "Tope por persona.",
+      "requisitos": "Infobae le pone tope $6.000 semanales e iProfesional $4.000. Se carga el mas bajo por las dudas. La tabla oficial del 09/08 no la lista.",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-05",
-      "confianza": "alta"
+      "fuente": "https://www.infobae.com/economia/2026/08/01/cuenta-dni-uno-por-uno-todos-los-descuentos-y-las-promociones-para-aprovechar-en-agosto-2026/",
+      "verificado": "2026-08-09",
+      "confianza": "media"
     },
     {
       "id": "cuenta-dni-super-12-13",
@@ -1183,22 +1183,22 @@
       "medio_nombre": "Cuenta DNI",
       "rubro": "supermercados",
       "comercios": [
-        "Supermercados adheridos"
+        "Supermercados adheridos del interior bonaerense"
       ],
       "dias": [
-        "miercoles",
-        "jueves"
+        "martes",
+        "miercoles"
       ],
-      "descuento_pct": 25,
-      "tope_monto": 5000,
-      "tope_periodo": "sin_aclarar",
-      "requisitos": "SOLO el 12 y el 13 de agosto. OJO: la fuente los llama \"lunes 12 y martes 13\" pero esos dias caen miercoles y jueves. Reconfirmar antes del 12.",
+      "descuento_pct": 15,
+      "tope_monto": 6000,
+      "tope_periodo": "semanal",
+      "requisitos": "Aplica a partir de un ticket de $30.000. Reemplaza a la vieja promo que valia solo el 12 y 13: la tabla oficial ahora la da todos los martes y miercoles.",
       "zona": "Provincia de Buenos Aires",
-      "vigencia_desde": "2026-08-12",
-      "vigencia_hasta": "2026-08-13",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-05",
-      "confianza": "media"
+      "verificado": "2026-08-09",
+      "confianza": "alta"
     },
     {
       "id": "bna-rappi",
@@ -1217,14 +1217,14 @@
       "descuento_pct": 30,
       "tope_monto": 20000,
       "tope_periodo": "mensual",
-      "requisitos": "Exclusivo con tarjetas de credito Visa emitidas por Banco Nacion.",
+      "requisitos": "Exclusivo con tarjetas de credito Visa del Banco Nacion. OJO: la web del BNA ya no lista esta promo; hoy solo figura un 25% de primera compra en Rappi que vencio el 19/07. Probablemente se cayo. No mostrar hasta reconfirmar.",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.bna.com.ar/Personas/DescuentosYPromociones/4510",
-      "confianza": "media",
+      "fuente": "https://www.bna.com.ar/Personas/DescuentosYPromociones",
+      "confianza": "baja",
       "rubro": "delivery",
       "zona": "Nacional",
-      "verificado": "2026-08-05"
+      "verificado": "2026-08-09"
     },
     {
       "id": "santander-pedidosya",
@@ -1329,7 +1329,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05"
+      "verificado": "2026-08-09"
     },
     {
       "id": "galicia-starbucks",
@@ -1357,7 +1357,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05"
+      "verificado": "2026-08-09"
     },
     {
       "id": "galicia-mimo",
@@ -1379,7 +1379,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "cuotas": 3
     },
     {
@@ -1408,7 +1408,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "cuotas": 3
     },
     {
@@ -1434,7 +1434,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-10",
       "vigencia_hasta": "2026-08-10",
-      "verificado": "2026-08-05"
+      "verificado": "2026-08-09"
     },
     {
       "id": "santander-dia",
@@ -2488,7 +2488,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -2517,7 +2517,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -2546,7 +2546,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -2575,7 +2575,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -2604,7 +2604,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -2633,7 +2633,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -2749,7 +2749,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -2778,7 +2778,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-09",
       "confianza": "alta"
     },
     {
@@ -3088,6 +3088,654 @@
       "fuente": "https://www.naranjax.com/promociones",
       "verificado": "2026-08-09",
       "confianza": "alta"
+    },
+    {
+      "id": "cuenta-dni-dia-lunes",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "Sin tope de reintegro.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuenta-dni-librerias",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "librerias",
+      "comercios": [
+        "Librerias adheridas"
+      ],
+      "dias": [
+        "lunes",
+        "martes"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "Librerias de textos escolares. Sin tope de reintegro.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuenta-dni-nini",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "supermercados",
+      "comercios": [
+        "Mayorista Nini"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": 20000,
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "La Nacion dice $20.000 por semana e Infobae $20.000 por dia. No se pudo desempatar.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "media",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuenta-dni-toledo",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supermercados Toledo"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "Sin tope de reintegro.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuenta-dni-marcas-destacadas",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "marcas",
+      "comercios": [
+        "Marcas destacadas adheridas"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "requisitos": "Tope de $15.000 por comercio, por mes y por persona.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "alta",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuenta-dni-cafe-buffet",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Buffets de comercios adheridos"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 40,
+      "tope_monto": 6000,
+      "tope_periodo": "semanal",
+      "requisitos": "El cafe en el buffet. ACUMULABLE con otras promos del mismo dia.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "media",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuenta-dni-ypf-full",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "gastronomia",
+      "comercios": [
+        "YPF Full"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 25,
+      "tope_monto": 8000,
+      "tope_periodo": "semanal",
+      "requisitos": "En la tienda YPF Full, no en el combustible.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "alta",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuenta-dni-farmacias",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmacias y perfumerias adheridas"
+      ],
+      "dias": [
+        "miercoles",
+        "jueves"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "Sin tope de reintegro.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuenta-dni-sodimac",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "hogar",
+      "comercios": [
+        "Sodimac"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "Todo el mes, sin tope, y acumula con otras promos.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "media",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuenta-dni-carrefour",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "Compra minima $15.000. Vale en Carrefour, Maxi, Market y Express. Sin tope de reintegro.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuenta-dni-la-anonima",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "supermercados",
+      "comercios": [
+        "La Anonima"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 5000,
+      "tope_periodo": "semanal",
+      "requisitos": "Tope de $5.000 por miercoles y por persona.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "media",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuenta-dni-josimar",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "supermercados",
+      "comercios": [
+        "Josimar"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 6000,
+      "tope_periodo": "semanal",
+      "requisitos": "Tope de $6.000 por miercoles y por persona.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "media",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuenta-dni-changomas",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMas"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "Sin tope de reintegro. Solo la lista Infobae; la tabla oficial del 09/08 no la trae.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.infobae.com/economia/2026/08/01/cuenta-dni-uno-por-uno-todos-los-descuentos-y-las-promociones-para-aprovechar-en-agosto-2026/",
+      "confianza": "media",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuotas-cuenta-dni-3",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "comercios adheridos",
+      "comercios": [
+        "Comercios adheridos"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "3 cuotas sin interes todos los dias en comercios adheridos.",
+      "zona": "Provincia de Buenos Aires",
+      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "mp-la-anonima-lunes",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "La Anonima"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "Pagando con QR en la linea de cajas. Sin tope ni minimo declarado.",
+      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "mp-diarco-finde",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "Solo en compras con QR.",
+      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "mp-makro-vie-sab",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Makro"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "Mayorista, abonando con QR.",
+      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "mp-carrefour-maxi-viernes",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour Maxi"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "Se puede combinar con otras promos activas del comercio.",
+      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "mp-maxiconsumo",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Maxiconsumo"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 5,
+      "requisitos": "Descuento permanente, sin restriccion de dia.",
+      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "mp-mercadolibre-super",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Mercado Libre Supermercado"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 35,
+      "requisitos": "ES EL DESCUENTO MAS ALTO DEL MES. Solo en la plataforma online de Mercado Libre Supermercado, no en locales.",
+      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "mp-carrefour-anses",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "requisitos": "Solo para quienes cobran su prestacion de ANSES en Mercado Pago. Es un 15% ADICIONAL y acumulable con las otras promos.",
+      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuotas-mp-dia-3",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "3 cuotas sin interes durante todo el mes.",
+      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuotas-mp-carrefour-6",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "lunes",
+        "miercoles"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 6,
+      "requisitos": "6 cuotas sin interes en todas las sucursales.",
+      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuotas-galicia-jumbo-3",
+      "medio": "galicia",
+      "medio_nombre": "Banco Galicia",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo",
+        "Disco",
+        "Vea"
+      ],
+      "dias": [
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "3 cuotas sin interes con tarjetas Visa Galicia.",
+      "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuotas-galicia-changomas-3",
+      "medio": "galicia",
+      "medio_nombre": "Banco Galicia",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMas"
+      ],
+      "dias": [
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "3 cuotas sin interes con tarjetas Visa Galicia.",
+      "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuotas-naranja_x-jumbo-12",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo",
+        "Disco",
+        "Vea"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 12,
+      "requisitos": "12 cuotas sin interes todos los dias con tarjeta Naranja X.",
+      "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
+      "confianza": "alta",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-09"
     }
   ]
 }
