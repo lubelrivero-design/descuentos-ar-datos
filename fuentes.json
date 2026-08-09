@@ -56,8 +56,8 @@
   "comercios": [
     {
       "id": "coto", "nombre": "Coto", "url": "https://www.coto.com.ar/",
-      "metodo": "navegador", "calidad": "muy buena",
-      "nota": "Seccion 'Descuentos en COTO' con selector de dia, texto legal y topes. Hay que tocar 'Sucursales' y 'Ver mas' para las promos bancarias completas."
+      "metodo": "navegador", "calidad": "excelente",
+      "nota": "La mejor fuente de promos bancarias del proyecto, junto con Banco Ciudad. Cada tarjeta (.promo-card) trae TODO: el banco sale del nombre del archivo del logo (.promo-card__logo img, ej 'logo_credicoop.png'), el dia de los spans .promo-card__days span que tienen clase 'active' (orden L M M J V S D), el porcentaje del h4 y el tope del texto .promo-card__detail. De aca salieron Credicoop, Supervielle, Columbia, Comafi, Patagonia y TCI, que no aparecen en ninguna otra fuente. OJO: solo se lee la pestaña 'Digital'; la de 'Sucursales' es otro link y todavia no se reviso."
     },
     { "id": "dia",       "nombre": "Dia",       "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones", "metodo": "navegador", "calidad": "sin revisar" },
     { "id": "carrefour", "nombre": "Carrefour", "url": "https://www.carrefour.com.ar/promociones-bancarias",                     "metodo": "navegador", "calidad": "sin revisar" }
