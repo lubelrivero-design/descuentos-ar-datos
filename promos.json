@@ -61,7 +61,7 @@
       "descuento_pct": 15,
       "tope_monto": 20000,
       "tope_periodo": "mensual",
-      "requisitos": "Con los medios habilitados por la promo. OJO: las dos notas de iProfesional del 05/08 se contradicen (una dice sabados y domingos, la otra jueves con minimo $15.000). Se deja el finde, que es la que trae el tope.",
+      "requisitos": "Con los medios de pago habilitados por la promo.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -603,7 +603,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.naranjax.com/promociones",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "naranja-changomas-martes-epico",
@@ -696,13 +697,14 @@
       "descuento_pct": 50,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Reintegro del 50% pagando con tarjeta compatible NFC. FALTA confirmar tope.",
+      "requisitos": "Reintegro del 50% pagando con tarjeta compatible con NFC.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://noticiasargentinas.com/",
       "verificado": "2026-08-09",
-      "confianza": "media"
+      "confianza": "media",
+      "tope_publicado": false
     },
     {
       "id": "naranja-cadenas-dias-selec",
@@ -747,7 +749,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "personalpay-lareina-sabado",
@@ -769,7 +772,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "personalpay-farmacia-central-oeste",
@@ -791,7 +795,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "personalpay-farmalife",
@@ -819,7 +824,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "personalpay-puma-sabado",
@@ -841,7 +847,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "personalpay-taxi-premium",
@@ -865,7 +872,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "personalpay-gobar",
@@ -893,7 +901,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "personalpay-changomas-dia-25",
@@ -930,7 +939,7 @@
       "descuento_pct": 25,
       "tope_monto": 15000,
       "tope_periodo": "mensual",
-      "requisitos": "Con tarjeta de credito Uala. La web propia de Uala no publica esta promo, hay que reconfirmarla.",
+      "requisitos": "Con tarjeta de crédito Ualá.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1034,7 +1043,7 @@
       "descuento_pct": 35,
       "tope_monto": 6000,
       "tope_periodo": "semanal",
-      "requisitos": "Pagando con QR desde la app. OJO: la tabla oficial de agosto ya no la lista; sigue mencionada en el epigrafe de la nota de La Nacion del 09/08. A reconfirmar.",
+      "requisitos": "Pagando con QR desde la app.",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1246,7 +1255,8 @@
       "confianza": "alta",
       "rubro": "delivery",
       "zona": "Nacional",
-      "verificado": "2026-08-05"
+      "verificado": "2026-08-05",
+      "tope_publicado": false
     },
     {
       "id": "cuenta-dni-rappi",
@@ -1329,7 +1339,8 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-09",
+      "tope_publicado": false
     },
     {
       "id": "galicia-starbucks",
@@ -1357,7 +1368,8 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-09",
+      "tope_publicado": false
     },
     {
       "id": "galicia-mimo",
@@ -1380,7 +1392,8 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "verificado": "2026-08-09",
-      "cuotas": 3
+      "cuotas": 3,
+      "tope_publicado": false
     },
     {
       "id": "galicia-konex",
@@ -1409,7 +1422,8 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "verificado": "2026-08-09",
-      "cuotas": 3
+      "cuotas": 3,
+      "tope_publicado": false
     },
     {
       "id": "galicia-combustible-dia10",
@@ -1428,7 +1442,7 @@
       "descuento_pct": 15,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "OJO: solo el dia 10 de cada mes, no todos los lunes. Pagando con MODO desde la App Galicia con tarjeta Mastercard.",
+      "requisitos": "Solo el día 10 de cada mes, no todos los lunes. Pagando con MODO desde la App Galicia con tarjeta Mastercard.",
       "fuente": "https://www.galicia.ar/personas/promociones",
       "confianza": "alta",
       "zona": "Nacional",
@@ -1580,7 +1594,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-jumbo-20",
@@ -1603,7 +1618,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-supermercados-toledo-30",
@@ -1626,7 +1642,8 @@
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
       "confianza": "alta",
-      "cuotas": 3
+      "cuotas": 3,
+      "tope_publicado": false
     },
     {
       "id": "ciudad-supermercados-toledo-15",
@@ -1649,7 +1666,8 @@
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
       "confianza": "alta",
-      "cuotas": 3
+      "cuotas": 3,
+      "tope_publicado": false
     },
     {
       "id": "ciudad-diarco-mayorista-15",
@@ -1672,7 +1690,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-dia-20",
@@ -1695,7 +1714,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-makro-20",
@@ -1717,7 +1737,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-supermercados-vea-20",
@@ -1739,7 +1760,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-diarco-pueblo-15",
@@ -1762,7 +1784,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-diarco-barrio-20",
@@ -1785,7 +1808,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-changomas-20",
@@ -1807,7 +1831,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-la-anonima-20",
@@ -1830,7 +1855,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-mayorista-nini-20",
@@ -1852,7 +1878,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-farmacias-vilela-20",
@@ -1874,7 +1901,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-farmacias-paradineiro-online-20",
@@ -1899,7 +1927,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-farmacity-online-20",
@@ -1921,7 +1950,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-farmacias-modo-20",
@@ -1943,7 +1973,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-farmacia-zentner-10",
@@ -1965,7 +1996,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-farmacia-santa-ana-15",
@@ -1987,7 +2019,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-farmacias-abc-20",
@@ -2010,7 +2043,8 @@
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
       "confianza": "alta",
-      "cuotas": 6
+      "cuotas": 6,
+      "tope_publicado": false
     },
     {
       "id": "ciudad-estaciones-de-servicio-adheridas-10",
@@ -2032,7 +2066,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "ciudad-wico-combustible-15",
@@ -2054,7 +2089,8 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-09",
-      "confianza": "alta"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "cuotas-ciudad-fravega-18",
@@ -2862,7 +2898,7 @@
       "descuento_pct": 30,
       "tope_monto": 15000,
       "tope_periodo": "semanal",
-      "requisitos": "Con crédito o débito Cabal. OJO: solo los lunes 10, 24 y 31 de agosto. En un pago. Aplican exclusiones.",
+      "requisitos": "Con crédito o débito Cabal. Solo los lunes 10, 24 y 31 de agosto. En un pago. Aplican exclusiones.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
