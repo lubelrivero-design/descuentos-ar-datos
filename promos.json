@@ -4590,6 +4590,95 @@
       "verificado": "2026-08-10",
       "tope_monto": null,
       "tope_periodo": null
+    },
+    {
+      "id": "buepp-comercios-cercania-30",
+      "rubro": "comercios de cercanía",
+      "comercios": [
+        "RES",
+        "Carnicería y Granja",
+        "Verdulería La Esquina",
+        "Churros El Topo",
+        "La Tablita",
+        "Las Medialunas del Abuelo",
+        "Mis Mascotas",
+        "Punto Sano Dietética"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Exclusivo de la billetera Buepp, en comercios adheridos de la Ciudad de Buenos Aires. El sitio no publica el tope.",
+      "medio": "buepp",
+      "medio_nombre": "Buepp",
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "zona": "CABA",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "buepp-bicicleterias-24",
+      "rubro": "rodados",
+      "comercios": [
+        "Ale Bikes",
+        "ProBikes",
+        "Bicicletas Araoz"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 24,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Exclusivo de la billetera Buepp, en bicicleterías adheridas de la Ciudad de Buenos Aires.",
+      "medio": "buepp",
+      "medio_nombre": "Buepp",
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "zona": "CABA",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "buepp-cuspide-20",
+      "rubro": "librerias",
+      "comercios": [
+        "Cúspide"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 3,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "FALTAN los dias: la tarjeta de Cuspide no marca ninguno. No mostrar hasta confirmarlo.",
+      "medio": "buepp",
+      "medio_nombre": "Buepp",
+      "dias": [],
+      "zona": "CABA",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "verificado": "2026-08-10",
+      "confianza": "baja"
     }
   ]
 }
