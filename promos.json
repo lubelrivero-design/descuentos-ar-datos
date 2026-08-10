@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-09",
+  "actualizado": "2026-08-10",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -375,7 +375,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -602,7 +602,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -674,7 +674,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "baja"
     },
     {
@@ -726,7 +726,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-10",
       "confianza": "baja"
     },
     {
@@ -748,7 +748,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -771,7 +771,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -794,7 +794,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -823,7 +823,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -846,7 +846,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -871,7 +871,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -900,30 +900,9 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
-    },
-    {
-      "id": "personalpay-changomas-dia-25",
-      "medio": "personal_pay",
-      "medio_nombre": "Personal Pay",
-      "rubro": "supermercados",
-      "comercios": [
-        "ChangoMás",
-        "Dia"
-      ],
-      "dias": [],
-      "descuento_pct": 25,
-      "tope_monto": 15000,
-      "tope_periodo": "mensual",
-      "requisitos": "FALTAN los dias. La prensa la menciona pero no aclara cuando. No mostrar.",
-      "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
-      "verificado": "2026-08-05",
-      "confianza": "baja"
     },
     {
       "id": "uala-changomas-jueves",
@@ -1009,7 +988,8 @@
       "medio_nombre": "Cuenta DNI",
       "rubro": "comercios de cercanía",
       "comercios": [
-        "Comercios de cercanía adheridos"
+        "Comercios de cercania adheridos",
+        "Carnicerias"
       ],
       "dias": [
         "lunes",
@@ -1021,35 +1001,13 @@
       "descuento_pct": 20,
       "tope_monto": 6000,
       "tope_periodo": "semanal",
-      "requisitos": "Solo en comercios adheridos. El tope se alcanza gastando unos $30.000 en la semana.",
+      "requisitos": "Incluye a las carnicerias adheridas, que este mes dejaron de tener su promo aparte de los sabados. El tope de $6.000 por semana es unico para todo el rubro: no se acumula.",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-09",
+      "fuente": "https://www.lanacion.com.ar/economia/cuenta-dni-en-agosto-2026-como-y-cuando-son-las-promociones-de-carnicerias-nid09082026/",
+      "verificado": "2026-08-10",
       "confianza": "alta"
-    },
-    {
-      "id": "cuenta-dni-carnicerias",
-      "medio": "cuenta_dni",
-      "medio_nombre": "Cuenta DNI",
-      "rubro": "carnicerias",
-      "comercios": [
-        "Carnicerías, granjas y pescaderías"
-      ],
-      "dias": [
-        "sabado"
-      ],
-      "descuento_pct": 35,
-      "tope_monto": 6000,
-      "tope_periodo": "semanal",
-      "requisitos": "Pagando con QR desde la app.",
-      "zona": "Provincia de Buenos Aires",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-09",
-      "confianza": "media"
     },
     {
       "id": "cuenta-dni-petshops",
@@ -1104,7 +1062,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -1127,7 +1085,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -1155,7 +1113,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -1206,7 +1164,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -1339,7 +1297,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "tope_publicado": false
     },
     {
@@ -1368,7 +1326,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "tope_publicado": false
     },
     {
@@ -1391,7 +1349,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "cuotas": 3,
       "tope_publicado": false
     },
@@ -1421,7 +1379,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "cuotas": 3,
       "tope_publicado": false
     },
@@ -1442,13 +1400,13 @@
       "descuento_pct": 15,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Solo el día 10 de cada mes, no todos los lunes. Pagando con MODO desde la App Galicia con tarjeta Mastercard.",
+      "requisitos": "Vale solo los dias 10 de cada mes (hoy es uno). Pagando con MODO desde la App Galicia, con tarjeta Mastercard.",
       "fuente": "https://www.galicia.ar/personas/promociones",
       "confianza": "alta",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-10",
       "vigencia_hasta": "2026-08-10",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "santander-dia",
@@ -1593,7 +1551,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1617,7 +1575,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1640,7 +1598,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "cuotas": 3,
       "tope_publicado": false
@@ -1664,7 +1622,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "cuotas": 3,
       "tope_publicado": false
@@ -1689,7 +1647,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1713,7 +1671,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1736,7 +1694,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1759,7 +1717,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1783,7 +1741,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1807,7 +1765,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1830,7 +1788,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1854,7 +1812,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1877,7 +1835,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1900,7 +1858,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1926,7 +1884,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1949,7 +1907,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1972,7 +1930,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -1995,7 +1953,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -2018,7 +1976,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -2041,7 +1999,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "cuotas": 6,
       "tope_publicado": false
@@ -2065,7 +2023,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -2088,7 +2046,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta",
       "tope_publicado": false
     },
@@ -2118,7 +2076,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2147,7 +2105,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2176,7 +2134,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2205,7 +2163,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2234,7 +2192,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2263,7 +2221,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2292,7 +2250,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2313,7 +2271,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 12,
+      "cuotas": 14,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -2321,7 +2279,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2342,7 +2300,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 12,
+      "cuotas": 14,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -2350,7 +2308,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2371,7 +2329,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 12,
+      "cuotas": 14,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -2379,36 +2337,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
-      "confianza": "alta"
-    },
-    {
-      "id": "cuotas-naranja_x-whirlpool-12",
-      "medio": "naranja_x",
-      "medio_nombre": "Naranja X",
-      "rubro": "electro",
-      "comercios": [
-        "Whirlpool"
-      ],
-      "dias": [
-        "lunes",
-        "martes",
-        "miercoles",
-        "jueves",
-        "viernes",
-        "sabado",
-        "domingo"
-      ],
-      "descuento_pct": 0,
-      "cuotas": 12,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Solo con tarjeta de credito Naranja X.",
-      "fuente": "https://www.naranjax.com/promociones",
-      "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2429,7 +2358,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 9,
+      "cuotas": 14,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -2437,7 +2366,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2466,7 +2395,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2495,7 +2424,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2524,7 +2453,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2553,7 +2482,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2582,7 +2511,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2611,7 +2540,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2640,7 +2569,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2669,7 +2598,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2698,7 +2627,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2722,18 +2651,18 @@
       "cuotas": 12,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Seleccionados de ferreteria, automotor, jugueteria, deportes, camping, libreria, bazar, muebles, jardineria, blanqueria y colchones.",
+      "requisitos": "3, 6, 9 y 12 cuotas sin interes con tarjetas de credito de Macro, Galicia o BBVA. Seleccionados de ferreteria, automotor, jugueteria, deportes, camping, libreria, bazar, muebles, jardineria, blanqueria y colchones.",
       "fuente": "https://www.coto.com.ar/",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
       "id": "cuotas-cualquiera-coto-20",
-      "medio": "cualquiera",
-      "medio_nombre": "Visa o Mastercard",
+      "medio": "bna_mas",
+      "medio_nombre": "Banco Nacion",
       "rubro": "electro",
       "comercios": [
         "Coto"
@@ -2751,12 +2680,12 @@
       "cuotas": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "15, 18 y 20 cuotas en seleccionados de electro, automotor, ferreteria, deportes, muebles, jardineria y camping.",
+      "requisitos": "15, 18 y 20 cuotas sin interes con tarjetas de credito Visa y Mastercard del Banco Nacion, en seleccionados de electro, automotor, ferreteria, deportes, muebles, jardineria y camping.",
       "fuente": "https://www.coto.com.ar/",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2785,7 +2714,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2814,7 +2743,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2832,13 +2761,13 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con Visa débito o Maestro. En un pago. Aplican exclusiones.",
+      "requisitos": "Con Visa debito o Maestro. En un pago. Aplican exclusiones.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-09",
-      "confianza": "alta"
+      "verificado": "2026-08-10",
+      "confianza": "baja"
     },
     {
       "id": "coto-ciudad-lunes-25",
@@ -2853,13 +2782,13 @@
       ],
       "descuento_pct": 25,
       "tope_monto": 10000,
-      "tope_periodo": "mensual",
-      "requisitos": "Con crédito Visa, Mastercard o Cabal. En un pago. Aplican exclusiones.",
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Con credito Visa, Mastercard o Cabal. Tope de $10.000 por transaccion. En un pago. Aplican exclusiones.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2875,13 +2804,13 @@
       ],
       "descuento_pct": 20,
       "tope_monto": 15000,
-      "tope_periodo": "mensual",
-      "requisitos": "Con crédito Visa o Mastercard, o Visa débito. Si tenés Plan Sueldo es 30% con tope de $20.000. En un pago. Aplican exclusiones.",
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Con credito Visa o Mastercard, o Visa debito. Si tenes Plan Sueldo es 30% con tope de $20.000. En un pago. Aplican exclusiones.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2898,12 +2827,12 @@
       "descuento_pct": 30,
       "tope_monto": 15000,
       "tope_periodo": "semanal",
-      "requisitos": "Con crédito o débito Cabal. Solo los lunes 10, 24 y 31 de agosto. En un pago. Aplican exclusiones.",
+      "requisitos": "Con credito Cabal o debito Cabal. Solo los lunes 3, 10, 24 y 31 de agosto. Tope $15.000 por semana. Aplican exclusiones.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2925,7 +2854,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2942,12 +2871,12 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con crédito Visa o Mastercard, o débito Visa. Los clientes Identité tienen 25%. En un pago. Aplican exclusiones.",
+      "requisitos": "Con credito Visa o Mastercard, o debito Visa. Sin tope de reintegro. Los clientes Identite tienen 25%. En un pago. Aplican exclusiones.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2964,12 +2893,12 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas de crédito TCI. En un pago. Aplican exclusiones.",
+      "requisitos": "Con tarjeta de credito TCI. Sin tope de reintegro. En un pago. Aplican exclusiones.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -2986,12 +2915,12 @@
       "descuento_pct": 30,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con crédito Visa o Mastercard. En un pago. Aplican exclusiones.",
+      "requisitos": "Con credito Visa o Mastercard. Sin tope de reintegro. En un pago. Aplican exclusiones.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -3007,13 +2936,13 @@
       ],
       "descuento_pct": 25,
       "tope_monto": 13000,
-      "tope_periodo": "mensual",
-      "requisitos": "Con débito Visa. En un pago. Aplican exclusiones.",
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Con debito Visa. Tope de $13.000 por transaccion; los clientes Segmento Unico tienen $18.000. En un pago. Aplican exclusiones.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -3029,13 +2958,13 @@
       ],
       "descuento_pct": 20,
       "tope_monto": 25000,
-      "tope_periodo": "mensual",
-      "requisitos": "Con tarjetas del banco. En un pago. Aplican exclusiones.",
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Con credito y debito Visa. Tope de reintegro $25.000. En un pago. Aplican exclusiones.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -3064,36 +2993,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-08-09",
-      "confianza": "alta"
-    },
-    {
-      "id": "cuotas-naranja_x-dormipiero-lab-14",
-      "medio": "naranja_x",
-      "medio_nombre": "Naranja X",
-      "rubro": "hogar",
-      "comercios": [
-        "Dormipiero Lab"
-      ],
-      "dias": [
-        "lunes",
-        "martes",
-        "miercoles",
-        "jueves",
-        "viernes",
-        "sabado",
-        "domingo"
-      ],
-      "descuento_pct": 0,
-      "cuotas": 14,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Solo con tarjeta de credito Naranja X.",
-      "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -3122,7 +3022,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-08-09",
+      "verificado": "2026-08-10",
       "confianza": "alta"
     },
     {
@@ -3145,7 +3045,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuenta-dni-librerias",
@@ -3160,7 +3060,7 @@
         "martes"
       ],
       "descuento_pct": 10,
-      "requisitos": "Librerias de textos escolares. Sin tope de reintegro.",
+      "requisitos": "Lunes y martes, sin tope de reintegro.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
       "confianza": "alta",
@@ -3168,7 +3068,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuenta-dni-nini",
@@ -3183,14 +3083,14 @@
       ],
       "descuento_pct": 15,
       "tope_monto": 20000,
-      "tope_periodo": "sin_aclarar",
-      "requisitos": "La Nacion dice $20.000 por semana e Infobae $20.000 por dia. No se pudo desempatar.",
+      "tope_periodo": "semanal",
+      "requisitos": "Tope de $20.000 por persona y por semana.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuenta-dni-toledo",
@@ -3212,7 +3112,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuenta-dni-marcas-destacadas",
@@ -3240,7 +3140,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuenta-dni-cafe-buffet",
@@ -3262,13 +3162,13 @@
       "descuento_pct": 40,
       "tope_monto": 6000,
       "tope_periodo": "semanal",
-      "requisitos": "El cafe en el buffet. ACUMULABLE con otras promos del mismo dia.",
+      "requisitos": "Acumulable con otras promociones del mismo dia. Tope $6.000 por semana y por persona.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuenta-dni-ypf-full",
@@ -3291,7 +3191,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuenta-dni-farmacias",
@@ -3314,7 +3214,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuenta-dni-sodimac",
@@ -3334,15 +3234,15 @@
         "domingo"
       ],
       "descuento_pct": 10,
-      "requisitos": "Todo el mes, sin tope, y acumula con otras promos.",
+      "requisitos": "Todo el mes, sin tope y acumula con otras promos.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuenta-dni-carrefour",
@@ -3356,7 +3256,7 @@
         "miercoles"
       ],
       "descuento_pct": 10,
-      "requisitos": "Compra minima $15.000. Vale en Carrefour, Maxi, Market y Express. Sin tope de reintegro.",
+      "requisitos": "Compra minima de $15.000.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
       "confianza": "alta",
@@ -3364,7 +3264,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuenta-dni-la-anonima",
@@ -3383,10 +3283,10 @@
       "requisitos": "Tope de $5.000 por miercoles y por persona.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuenta-dni-josimar",
@@ -3405,10 +3305,10 @@
       "requisitos": "Tope de $6.000 por miercoles y por persona.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuenta-dni-changomas",
@@ -3422,15 +3322,15 @@
         "jueves"
       ],
       "descuento_pct": 20,
-      "requisitos": "Sin tope de reintegro. Solo la lista Infobae; la tabla oficial del 09/08 no la trae.",
+      "requisitos": "Con Cuenta DNI en ChangoMas.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.infobae.com/economia/2026/08/01/cuenta-dni-uno-por-uno-todos-los-descuentos-y-las-promociones-para-aprovechar-en-agosto-2026/",
-      "confianza": "media",
+      "confianza": "baja",
       "tope_monto": null,
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "cuotas-cuenta-dni-3",
@@ -3459,7 +3359,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-09"
+      "verificado": "2026-08-10"
     },
     {
       "id": "mp-la-anonima-lunes",
@@ -3772,6 +3672,924 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "verificado": "2026-08-09"
+    },
+    {
+      "id": "cuotas-naranja_x-samsung-14",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "electro",
+      "comercios": [
+        "Samsung"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 14,
+      "requisitos": "Solo con tarjeta de credito Naranja X.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "cuotas-naranja_x-piero-14",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "hogar",
+      "comercios": [
+        "Piero"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 14,
+      "requisitos": "Solo con tarjeta de credito Naranja X.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "cuotas-naranja_x-la-cardeuse-12",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "hogar",
+      "comercios": [
+        "La Cardeuse"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 12,
+      "requisitos": "Solo con tarjeta de credito Naranja X.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "cuotas-naranja_x-la-cardeuse-solar-12",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "hogar",
+      "comercios": [
+        "La Cardeuse Solar"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 12,
+      "requisitos": "Solo con tarjeta de credito Naranja X.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "cuotas-naranja_x-essen-12",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "hogar",
+      "comercios": [
+        "Essen"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 12,
+      "requisitos": "Solo con tarjeta de credito Naranja X.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "cuotas-naranja_x-belmo-12",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "hogar",
+      "comercios": [
+        "Belmo"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 12,
+      "requisitos": "Solo con tarjeta de credito Naranja X.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "cuotas-naranja_x-a-oh-my-bed-14",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "hogar",
+      "comercios": [
+        "A Oh My Bed de Martinez"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 14,
+      "requisitos": "Solo con tarjeta de credito Naranja X.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "naranja-andesmar-10",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "transporte",
+      "comercios": [
+        "Andesmar"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "cuotas": 6,
+      "requisitos": "Con tarjeta de credito Naranja X. La web no publica el tope.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "naranja-chevallier-10",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "transporte",
+      "comercios": [
+        "Chevallier"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "cuotas": 6,
+      "requisitos": "Con tarjeta de credito Naranja X. La web no publica el tope.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "naranja-plusmar-10",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "transporte",
+      "comercios": [
+        "Plusmar"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "cuotas": 6,
+      "requisitos": "Con tarjeta de credito Naranja X. La web no publica el tope.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "naranja-el-practico-10",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "transporte",
+      "comercios": [
+        "El Practico"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "cuotas": 6,
+      "requisitos": "Con tarjeta de credito Naranja X. La web no publica el tope.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "naranja-la-veloz-del-norte-10",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "transporte",
+      "comercios": [
+        "La Veloz del Norte"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "cuotas": 6,
+      "requisitos": "Con tarjeta de credito Naranja X. La web no publica el tope.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "naranja-general-urquiza-10",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "transporte",
+      "comercios": [
+        "General Urquiza"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "cuotas": 6,
+      "requisitos": "Con tarjeta de credito Naranja X. La web no publica el tope.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "naranja-flecha-bus-10",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "transporte",
+      "comercios": [
+        "Flecha Bus"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "cuotas": 6,
+      "requisitos": "Con tarjeta de credito Naranja X. La web no publica el tope.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "naranja-shopgallery-martes-10",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "hogar",
+      "comercios": [
+        "Shopgallery"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 10,
+      "cuotas": 9,
+      "requisitos": "Con tarjeta de credito Naranja X. La web no publica el tope.",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "naranja-indumentaria-14-16-agosto",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "indumentaria",
+      "comercios": [
+        "Comercios adheridos de indumentaria y calzado"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 25,
+      "cuotas": 5,
+      "tope_monto": 20000,
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Solo del 14 al 16 de agosto, con tarjeta de credito Naranja X. Tope de reintegro $20.000.",
+      "vigencia_desde": "2026-08-14",
+      "vigencia_hasta": "2026-08-16",
+      "fuente": "https://www.naranjax.com/promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "verificado": "2026-08-10"
+    },
+    {
+      "id": "ciudad-supermercado-la-ilusion-15",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supermercado La Ilusion"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "ciudad-supermercado-dar-15",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supermercado DAR"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "ciudad-supermercado-el-tunel-25",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supermercado El Tunel"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 25,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "ciudad-supermercado-el-nene-25",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supermercado El Nene"
+      ],
+      "dias": [
+        "lunes",
+        "jueves"
+      ],
+      "descuento_pct": 25,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "ciudad-supercoop-20",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supercoop"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "ciudad-almacor-10",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "supermercados",
+      "comercios": [
+        "Almacor"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "ciudad-josimar-20",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "supermercados",
+      "comercios": [
+        "Josimar"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "ciudad-nutrican-20",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "mascotas",
+      "comercios": [
+        "Nutrican"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "ciudad-farmacias-del-puente-15",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmacias Del Puente"
+      ],
+      "dias": [
+        "sabado"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "ciudad-farmaonline-10",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmaonline"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "ciudad-farmaplus-online-15",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "farmacia",
+      "comercios": [
+        "FarmaPlus Online"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "ciudad-perfumerias-modo-20",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "farmacia",
+      "comercios": [
+        "Perfumerias MODO"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "ciudad-easy-20",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "hogar",
+      "comercios": [
+        "Easy"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "personalpay-coto-30",
+      "medio": "personal_pay",
+      "medio_nombre": "Personal Pay",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 30,
+      "requisitos": "El tope depende del Nivel de Personal Pay del usuario.",
+      "fuente": "https://www.personalpay.com.ar/beneficios",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "personalpay-diarco-jueves-viernes-20",
+      "medio": "personal_pay",
+      "medio_nombre": "Personal Pay",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco"
+      ],
+      "dias": [
+        "jueves",
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "El tope depende del Nivel de Personal Pay del usuario.",
+      "fuente": "https://www.personalpay.com.ar/beneficios",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "personalpay-diarco-finde-15",
+      "medio": "personal_pay",
+      "medio_nombre": "Personal Pay",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "El tope depende del Nivel de Personal Pay del usuario.",
+      "fuente": "https://www.personalpay.com.ar/beneficios",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "personalpay-changomas-15",
+      "medio": "personal_pay",
+      "medio_nombre": "Personal Pay",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMas"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "El tope depende del Nivel de Personal Pay del usuario.",
+      "fuente": "https://www.personalpay.com.ar/beneficios",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "personalpay-biomac-10",
+      "medio": "personal_pay",
+      "medio_nombre": "Personal Pay",
+      "rubro": "supermercados",
+      "comercios": [
+        "BIOMAC"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "El tope depende del Nivel de Personal Pay del usuario.",
+      "fuente": "https://www.personalpay.com.ar/beneficios",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
+    },
+    {
+      "id": "personalpay-chanchito-market-10",
+      "medio": "personal_pay",
+      "medio_nombre": "Personal Pay",
+      "rubro": "supermercados",
+      "comercios": [
+        "Chanchito Market"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "El tope depende del Nivel de Personal Pay del usuario.",
+      "fuente": "https://www.personalpay.com.ar/beneficios",
+      "confianza": "alta",
+      "tope_publicado": false,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "tope_monto": null,
+      "tope_periodo": null
     }
   ]
 }
