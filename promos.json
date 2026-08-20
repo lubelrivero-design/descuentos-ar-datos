@@ -2871,7 +2871,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con credito Visa o Mastercard, o debito Visa. Sin tope de reintegro. Los clientes Identite tienen 25%. En un pago. Aplican exclusiones.",
+      "requisitos": "Con crédito Visa o Mastercard, o débito Visa. Los clientes Identité tienen 25%. En un pago. Aplican exclusiones.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -4679,6 +4679,370 @@
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-08-10",
       "confianza": "baja"
+    },
+    {
+      "id": "supervielle-changomas",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 25000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-jumbo",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo"
+      ],
+      "dias": [
+        "martes",
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 25000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-disco",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Disco"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 25000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-vea",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Vea"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 25000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-dia",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-la-anonima",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "La Anónima"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-libertad",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Libertad"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-modo-market",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Modo Market"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $25.000.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-toledo-miercoles",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supermercados Toledo"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 12000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-toledo-viernes",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supermercados Toledo"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-el-puente",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "El Puente"
+      ],
+      "dias": [
+        "jueves",
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 8000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-josimar",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Josimar"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 8000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-almacor",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Almacor"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-la-ilusion",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "La Ilusión"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": 7500,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-coto-nfc-jueves",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con tarjeta de débito Visa por NFC, desde el celular. No es con MODO.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-jubilados",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás",
+        "Disco",
+        "Jumbo",
+        "Vea",
+        "MásGO"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 25000,
+      "tope_periodo": "mensual",
+      "requisitos": "Solo para jubilados y pensionados que cobran en el banco, pagando con tarjeta de débito.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
     }
   ]
 }

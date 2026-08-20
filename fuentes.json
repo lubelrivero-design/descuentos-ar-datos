@@ -42,6 +42,11 @@
       "nota": "Da comercio, % y dias en texto plano, pero nunca el tope y los porcentajes son 'hasta'. OJO: /personas/beneficios da 404, la ruta correcta es /personas/promociones. El listado COMPLETO no esta en galicia.ar: vive en un iframe, https://beneficios.galicia.ar/filtro/8%7Csupermercados (25 comercios). Ese iframe lista las marcas pero NO el porcentaje ni el dia, hay que abrir cada una. La landing /personas/promociones si trae las destacadas con % y dia, y alcanza."
     },
     {
+      "id": "supervielle", "nombre": "Supervielle", "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "metodo": "navegador", "calidad": "excelente",
+      "nota": "Buscador de beneficios muy completo: comercio, %, dia, tope y tipo de tarjeta. Selector: tarjetas .BeneficioCard; el nombre en .brand span, el % en .detail, y el dia en los .week span con clase 'available' (orden l m m j v s d). El tope esta en el texto del contenedor padre. OJO 1: la URL /beneficios a secas viene vacia, hay que entrar por /personas/beneficios/descuentos/<rubro>. OJO 2: mezcla escalones (Clasico, Plan Sueldo, Identite) y promos de jubilados como tarjetas separadas; hay que cargar el escalon base y aclarar los otros. OJO 3: incluye cadenas regionales de Mendoza y San Luis (Aiello, Atomo, Altue, AG Piazze, La Yunta, SOGO, Mercado Municipal, Europa, Cereales El Diamante) que NO se cargaron por no saber su zona: usar el filtro de provincia del sitio antes de sumarlas. Faltan revisar los otros rubros (combustible, farmacia, indumentaria, transporte)."
+    },
+    {
       "id": "santander", "nombre": "Santander", "url": "https://www.santander.com.ar/personas/beneficios",
       "metodo": "navegador", "calidad": "pobre",
       "nota": "Tiene una seccion util 'Hoy, <dia>' que lista los comercios del dia (sirve para CONFIRMAR dias), pero los porcentajes estan dentro de imagenes y no se pueden leer. Los numeros hay que sacarlos de prensa."
