@@ -24,8 +24,21 @@ Su sitio de beneficios (subdominio propio) trae 158 tarjetas con comercio, día 
 
 Credicoop tampoco publica topes en el listado, así que las 15 van con `tope_publicado: false`.
 
-### Macro quedó afuera y es por diseño
-Tiene 259 beneficios, pero **el listado no muestra el día**: hay que abrir cada uno por su link, y pagina de a 40. Es una fuente cara, necesita una pasada dedicada. Quedó anotada como tal en `fuentes.json` para que la corrida diaria no se cuelgue intentándola.
+### Macro: se revisó a fondo y rinde poco
+Se hizo la pasada dedicada. El resultado, para no repetirla: **en cadenas nacionales Macro solo ofrece cuotas**, no descuentos. Se buscó comercio por comercio en su propio buscador:
+
+| Buscado | Qué tiene Macro |
+|---|---|
+| Coto | 12 cuotas sin interés |
+| ChangoMás | 12 cuotas sin interés |
+| Diarco | 6 y 3 cuotas |
+| **Jumbo, Disco, Vea, Carrefour** | **nada** |
+
+Sus 259 beneficios son casi todos carnicerías y verdulerías del interior, sin provincia declarada, así que no se pueden mostrar sin mentirle a alguien sobre dónde valen. Y los descuentos fuertes que sí tiene (Jumbo 20% martes y jueves, ChangoMás 20% lunes, Día 20% viernes y sábados) **van por MODO** y ya los teníamos por prensa y por la web de Coto.
+
+Se cargaron las 3 de cuotas. La fuente quedó marcada como **calidad baja** con el detalle de por qué, para que no se gaste tiempo ahí de nuevo.
+
+Dato técnico por si alguna vez se vuelve: el sitio tiene filtro `dia-semana`, que es el atajo para sacar los días sin abrir cada detalle (los detalles son cáscaras que llena JavaScript y no sirven para leer).
 
 ### Lo que queda pendiente
 Comafi, Patagonia, Columbia, ICBC, BBVA, Ualá y TCI siguen con una o dos promos cada uno. De Supervielle faltan los otros rubros: combustible, farmacia, indumentaria y transporte.

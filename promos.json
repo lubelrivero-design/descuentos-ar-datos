@@ -5371,6 +5371,93 @@
       "fuente": "https://beneficios.bancocredicoop.coop/",
       "verificado": "2026-08-10",
       "confianza": "media"
+    },
+    {
+      "id": "cuotas-macro-coto-12",
+      "medio": "macro",
+      "medio_nombre": "Banco Macro",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 12,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "En productos seleccionados, con tarjetas de crédito Macro. El listado no publica los días, se asume que aplica todos.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.macro.com.ar/beneficios",
+      "verificado": "2026-08-10",
+      "confianza": "media"
+    },
+    {
+      "id": "cuotas-macro-changomas-12",
+      "medio": "macro",
+      "medio_nombre": "Banco Macro",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 12,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "En productos seleccionados, con tarjetas de crédito Macro. El listado no publica los días, se asume que aplica todos.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.macro.com.ar/beneficios",
+      "verificado": "2026-08-10",
+      "confianza": "media"
+    },
+    {
+      "id": "cuotas-macro-diarco-6",
+      "medio": "macro",
+      "medio_nombre": "Banco Macro",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 6,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "En productos seleccionados, con tarjetas de crédito Macro. El listado no publica los días, se asume que aplica todos.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.macro.com.ar/beneficios",
+      "verificado": "2026-08-10",
+      "confianza": "media"
     }
   ]
 }

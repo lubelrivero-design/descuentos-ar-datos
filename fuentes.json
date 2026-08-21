@@ -49,8 +49,8 @@
     },
     {
       "id": "macro", "nombre": "Banco Macro", "url": "https://www.macro.com.ar/beneficios",
-      "metodo": "navegador", "calidad": "cara",
-      "nota": "259 beneficios y se geolocaliza solo (detecta Buenos Aires). Da comercio y % pero NO el dia en el listado: hay que abrir cada uno por su link /beneficios/beneficio?id=... Ademas pagina de a 40. Necesita una pasada dedicada, no entra en una corrida normal."
+      "metodo": "navegador", "calidad": "baja",
+      "nota": "REVISADA A FONDO el 10/08 y NO conviene volver: rinde poco para lo que cuesta. Tiene 259 beneficios pero en cadenas nacionales solo da CUOTAS (Coto 12, ChangoMas 12, Diarco 6 y 3); Jumbo, Disco, Vea y Carrefour directamente no aparecen. El resto son carnicerias y verdulerias chicas del interior, sin provincia declarada. Sus descuentos fuertes (Jumbo 20% mar/jue, ChangoMas 20% lunes, Dia 20% vie/sab) van por MODO y ya los tenemos por prensa y por la web de Coto. Ademas el listado no muestra el dia (hay filtro 'dia-semana' pero el detalle es una cascara JS) y pagina de a 40. Si algun dia se vuelve: el filtro por dia es el atajo, no abrir los detalles."
     },
     {
       "id": "supervielle", "nombre": "Supervielle", "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
