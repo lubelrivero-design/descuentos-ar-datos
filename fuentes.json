@@ -4,7 +4,7 @@
     {
       "id": "naranja_x", "nombre": "Naranja X", "url": "https://www.naranjax.com/promociones",
       "metodo": "navegador", "calidad": "muy buena",
-      "nota": "LA MEJOR fuente propia. Dice el dia ('Martes', 'De lunes a miercoles', 'Del 5 al 9 de agosto'), el comercio, el porcentaje y si es credito o debito. Lo unico que le falta es el tope."
+      "nota": "LA MEJOR fuente propia, pero CAMBIO el 21/08/2026: el listado ya NO dice el dia, ahora pone 'Dias seleccionados'. Los dias estan en la ficha de cada comercio: https://www.naranjax.com/promociones/SUPERMERCADOS/HIPERMERCADOS/<comercio>_comercio (coto, changomas, vea, disco, jumbo, dia). Ahi si aparece '25% off / Los martes / Hasta el 31/AGO' y si es credito o debito. Las tarjetas del listado no son links: para llegar a la ficha hay que clickear .card-container. Sigue sin mostrar el tope."
     },
     {
       "id": "modo", "nombre": "MODO", "url": "https://www.modo.com.ar/promos",
@@ -34,7 +34,7 @@
     {
       "id": "ciudad", "nombre": "Banco Ciudad", "url": "https://www.bancociudad.com.ar/beneficios/",
       "metodo": "navegador", "calidad": "excelente",
-      "nota": "LA MEJOR fuente propia de todo el proyecto. Mas de 100 beneficios con comercio, % y dias. TRUCO: los dias salen como letras D L M M J V S y el activo tiene la clase 'active'; hay que leerlo del HTML (selector .bene-card, titulo .card-title, porcentaje .card-text-descuento, dias .card-text.ps-2). Sacando solo el texto se pierden los dias. No muestra topes en el listado."
+      "nota": "LA MEJOR fuente propia de todo el proyecto. El 21/08/2026 tenia 231 tarjetas (115 unicas: la pagina renderiza la lista DOS VECES con dos componentes Angular distintos, hay que deduplicar por titulo+descuento). TRUCO de los dias: salen como letras D L M M J V S (ojo, arranca en DOMINGO) y el activo puede venir con la clase 'active' O con 'dia-beneficio fw-bold' segun cual de los dos componentes lo dibujo: hay que aceptar las dos. Si el bloque trae un solo span que dice 'Todos los dias', es toda la semana. Selectores: .bene-card, titulo .card-title, porcentaje .card-text-descuento, dias span.card-text.ps-2, tope .sin-tope (si NO tiene la clase d-none, la promo es sin tope), nueva .nuevo, medios de pago img.medio-pago (alt). Sacando solo el texto se pierden los dias."
     },
     {
       "id": "galicia", "nombre": "Banco Galicia", "url": "https://www.galicia.ar/personas/promociones",

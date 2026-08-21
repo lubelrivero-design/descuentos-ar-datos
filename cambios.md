@@ -1,5 +1,74 @@
 # Cambios
 
+## 2026-08-21 — Corrida diaria (arrancó el 20 a la noche y cruzó la medianoche)
+
+**249 promos, 218 visibles.** Se leyeron enteras Naranja X, Coto, Banco Ciudad, Personal Pay, la tabla oficial de Cuenta DNI en La Nación, Galicia y MODO, más las dos notas de iProfesional. **Ninguna fuente falló.**
+
+Venían 11 días sin corrida (la última fue el 10/08), así que casi todo estaba por vencer.
+
+### 🚨 Para mirar: hubo otro agente tocando estos mismos datos anoche
+
+Mientras esta corrida estaba en la mitad, otra sesión commiteó cinco veces en este repo (20:43, 23:20, 23:26 y 00:06) y agregó 43 promos: Supervielle, Credicoop, Patagonia, Buepp y cuotas de Macro. **No se perdió nada** —esta corrida arrancó desde ese trabajo, no lo pisó—, pero conviene no largar dos agentes juntos sobre la misma carpeta.
+
+Esas 43 promos venían selladas con fecha 10/08 aunque se habían leído anoche. **Les corregí la fecha al 21/08**, porque si no hoy figuraban vencidas y la próxima corrida las bajaba a confianza baja sin motivo.
+
+Y me equivoqué en el camino: borré `supervielle-coto-nfc-jueves` porque no figura en la web de Coto, sin darme cuenta de que el otro agente la había sacado de la web del propio Supervielle. **Está restaurada**, y encima quedó confirmada por MODO (ver abajo).
+
+### 🚨 Para mirar: Coto tiene 30% los jueves sin tope, y es de MODO
+
+La ficha oficial de MODO lo dice completo: **30% de descuento en Coto los jueves, sin tope de reintegro**, pagando sin contacto (NFC) con tarjeta de débito Visa de cualquiera de los bancos adheridos. Vigente hasta el 27/08. Esto explica tres cosas sueltas que veníamos arrastrando: el 30% de los jueves que anuncia Naranja X, el de Supervielle y el que no aparecía en la web de Coto. Es todo la misma campaña.
+
+### Naranja X volvió a publicar los días
+
+Hace un mes había dejado todo en "días seleccionados" y no se podía usar. Ahora la ficha de cada comercio sí los dice: **25% los martes en Coto, ChangoMás, Jumbo, Disco, Vea y Día**, con Plan Turbo (en Coto el tope es $9.500 por semana). Con eso se resolvió `naranja-cadenas-dias-selec`, que estaba oculta hace días esperando justamente ese dato.
+
+Lo mismo con la deportiva: **Dexter, Stock Center, Moov y Adidas son 20% los lunes y martes**, con 6 cuotas. Estaba oculta desde el 09/08.
+
+Cuotas que se movieron: Musimundo 14 → 15, Frávega 12 → 14, On City 14 → 15. Volvió Whirlpool y se sumaron Carrefour (4 cuotas), Suavestar, Cannon, Rosen y Lacoste. Se cayeron Casa del Audio, La Cardeuse Solar, Essen y Piero.
+
+El 25% + 5 cuotas de indumentaria venció el 16/08: **borrada**. Y el 50% en transporte con NFC ya no figura en la web, así que quedó oculta.
+
+### Coto: topes nuevos y volvió Comunidad Coto
+
+Aparecieron tres que no teníamos: **ICBC 30% los lunes** (solo Plan Sueldo, tope $20.000), **Supervielle Identité 25% los martes** sin tope, y el 30% de MODO de los jueves.
+
+**Comunidad Coto volvió**, pero cambiada: era 15% todos los días y ahora es **20% los miércoles**, con cualquier medio de pago y sin límite de reintegro. Estaba oculta desde el 09/08.
+
+Ojo con Credicoop: el 30% de los lunes vale **solo los lunes 3, 10, 24 y 31 de agosto**. El 17 no valía y el 24 sí. Lo dice la letra chica y ahora está en la tarjeta.
+
+### Banco Ciudad pasó de 124 a 231 tarjetas, y cambió cómo marca los días
+
+**Trampa nueva**: el sitio ahora arma la lista con dos componentes distintos y el día activo puede venir con la clase `active` o con `dia-beneficio fw-bold`. Con la receta vieja de `fuentes.json` salían todas sin días. Ya está anotado en las fuentes.
+
+Se sumaron 19 promos, entre ellas **Coto 20% los martes sin tope**, MásGO 20% los domingos, Casa del Audio 20% jueves y viernes, JetSMART 20% de lunes a jueves, Under Armour y Champion 20% los miércoles, y dos paquetes agrupados: deportivas 15% los martes (Dexter, Stock Center, Moov, Montagne, Ruiz y Roca) y **librerías y jugueterías 20% los viernes**, que son más de 30 comercios.
+
+Se cayó **Easy 20% los miércoles**: borrada. Y **Wico Combustible** desapareció de Ciudad pero MODO la sigue listando, así que quedó en confianza media.
+
+### Cuenta DNI: sin un solo cambio
+
+La tabla oficial del Banco Provincia está idéntica a la del 10/08, las 17 filas. Se refrescó la fecha y listo. Universidades 40% pasó a baja: no figura en la tabla y ya son 12 días sin que aparezca en ninguna fuente.
+
+### Galicia: aparecieron los topes
+
+El **50% en colectivo** dejó de ser un dato de prensa: está en la web oficial con la letra chica. Tope **$15.000 por mes por tarjeta**, del 17/08 al 30/09, con crédito Mastercard por NFC desde Apple Pay o Google Pay. Pasó de media a alta.
+
+Nuevas: **Cabify 35% los domingos** y **Uber 35% los miércoles**.
+
+El combustible de los días 10 quedó reprogramado al 10/09, pero **en confianza media**: el aviso dice "todos los días 10 de cada mes" y la letra chica sigue diciendo "válida únicamente para el día 10/08/2026". Hay que volver a mirarla antes del 10/09.
+
+### Santander: el tope de transporte era la mitad
+
+Teníamos $16.000 al mes, de una nota de Canal 26. La ficha oficial de MODO dice **$8.000 por usuario por mes**. Gana la oficial. Se cayó `modo-transporte`, que era esta misma promo cargada dos veces.
+
+### Lo que quedó oculto por no poder confirmarse
+
+31 promos. Las que estaban al borde de los 10 días y no se pudieron releer:
+
+- **Mercado Pago**: transporte 70%, combustible 30% y farmacias 10% (datos del 05/08, y MP no tiene web usable).
+- **Santander**: Día, Carrefour y ChangoMás 25% (nota de Cronista del 05/08). Sobrevive solo transporte.
+- **BBVA Black+ Save**, **Ualá ChangoMás**, **BNA+ Jumbo, Maxiconsumo y Niní**, y cinco de cuotas de MODO que hoy no aparecieron en el listado.
+- **Mercado Pago en Día los miércoles** y **en Carrefour el fin de semana**: las dos notas de iProfesional se contradicen entre sí. Una da el de Día todos los miércoles y la otra solo el 5 y el 12 (o sea, ya vencido); una da el de Carrefour sábado y domingo y la otra los jueves. Mejor ocultas que mandando a alguien un día equivocado.
+
 ## 2026-08-10 — Buepp y Supervielle (a pedido, probando la app)
 
 **201 promos, 188 visibles.**
