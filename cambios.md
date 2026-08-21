@@ -17,8 +17,18 @@ Tres cosas que hubo que resolver:
 - Las promos de **jubilados** se agruparon en una sola entrada.
 - **No se cargaron 9 cadenas regionales** de Mendoza y San Luis (Aiello, Átomo, Altué, AG Piazze, La Yunta, SOGO, Mercado Municipal, Europa, Cereales El Diamante) porque el listado sin filtrar no dice la provincia. Hay que usar el filtro de provincia del sitio antes de sumarlas.
 
+### Credicoop: de 1 promo a 15
+Su sitio de beneficios (subdominio propio) trae 158 tarjetas con comercio, día y porcentaje. Se cargaron las 14 cadenas nacionales: **30% en Coto los lunes** —la más alta del banco—, Coto Digital 30%, Jumbo 20% martes y jueves, Día 20% viernes y sábados, Disco, Vea, Makro, Niní, Toledo y los tres Diarco.
+
+**Una la cargamos a la baja a propósito**: la de Día los miércoles. La tarjeta muestra 25% pero la etiqueta interna del propio sitio dice 20%. Cuando la fuente se contradice consigo misma, va el número menor y confianza media, con el aviso en la letra chica.
+
+Credicoop tampoco publica topes en el listado, así que las 15 van con `tope_publicado: false`.
+
+### Macro quedó afuera y es por diseño
+Tiene 259 beneficios, pero **el listado no muestra el día**: hay que abrir cada uno por su link, y pagina de a 40. Es una fuente cara, necesita una pasada dedicada. Quedó anotada como tal en `fuentes.json` para que la corrida diaria no se cuelgue intentándola.
+
 ### Lo que queda pendiente
-Credicoop, Comafi, Patagonia, Columbia, ICBC, Macro y BBVA siguen con una sola promo cada uno. Sus webs no se revisaron todavía. De Supervielle faltan los otros rubros: combustible, farmacia, indumentaria y transporte.
+Comafi, Patagonia, Columbia, ICBC, BBVA, Ualá y TCI siguen con una o dos promos cada uno. De Supervielle faltan los otros rubros: combustible, farmacia, indumentaria y transporte.
 
 ---
 

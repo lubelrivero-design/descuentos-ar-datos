@@ -5043,6 +5043,334 @@
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
       "verificado": "2026-08-10",
       "confianza": "alta"
+    },
+    {
+      "id": "credicoop-coto-lunes",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app, con tarjetas Cabal o Visa del banco.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-coto-digital-lunes",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto Digital"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Comprando online en Coto Digital.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-changomas-lunes",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app, con tarjetas Cabal o Visa del banco.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-jumbo-mar-jue",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo"
+      ],
+      "dias": [
+        "martes",
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app, con tarjetas Cabal o Visa del banco. Presencial.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-makro-jueves",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Makro"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app, con tarjetas Cabal o Visa del banco. Presencial.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-nini-jueves",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Mayorista Niní"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app, con tarjetas Cabal o Visa del banco.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-toledo-viernes",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supermercados Toledo"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app, con tarjetas Cabal o Visa del banco.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-vea-viernes",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Vea"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app, con tarjetas Cabal o Visa del banco. Presencial y tienda virtual.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-dia-vie-sab",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app, con tarjetas Cabal o Visa del banco. Presencial y tienda virtual.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-disco-vie-sab",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Disco"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app, con tarjetas Cabal o Visa del banco. Presencial y tienda virtual.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-diarco-finde",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app, con tarjetas Cabal o Visa del banco.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-diarco-pueblo-finde",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco Pueblo"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app, con tarjetas Cabal o Visa del banco. Presencial.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-diarco-mayorista-finde",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco Mayorista"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app, con tarjetas Cabal o Visa del banco. Presencial.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "credicoop-dia-miercoles",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO. La web de Credicoop muestra 25% en la tarjeta pero 20% en su etiqueta interna: cargamos el menor. Confirmá en la app del banco.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "verificado": "2026-08-10",
+      "confianza": "media"
     }
   ]
 }
