@@ -2,99 +2,209 @@
   "_comentario": "Lista fija de lugares que el agente revisa todos los dias. 'metodo': fetch = descarga simple. navegador = la pagina arma el contenido con JavaScript. bloqueada = no se puede leer. 'calidad': que tan buena es la fuente para sacar dia + comercio + porcentaje + tope. Verificado el 2026-08-05 abriendo cada sitio.",
   "billeteras": [
     {
-      "id": "naranja_x", "nombre": "Naranja X", "url": "https://www.naranjax.com/promociones",
-      "metodo": "navegador", "calidad": "muy buena",
+      "id": "naranja_x",
+      "nombre": "Naranja X",
+      "url": "https://www.naranjax.com/promociones",
+      "metodo": "navegador",
+      "calidad": "muy buena",
       "nota": "LA MEJOR fuente propia, pero CAMBIO el 21/08/2026: el listado ya NO dice el dia, ahora pone 'Dias seleccionados'. Los dias estan en la ficha de cada comercio: https://www.naranjax.com/promociones/SUPERMERCADOS/HIPERMERCADOS/<comercio>_comercio (coto, changomas, vea, disco, jumbo, dia). Ahi si aparece '25% off / Los martes / Hasta el 31/AGO' y si es credito o debito. Las tarjetas del listado no son links: para llegar a la ficha hay que clickear .card-container. Sigue sin mostrar el tope."
     },
     {
-      "id": "modo", "nombre": "MODO", "url": "https://www.modo.com.ar/promos",
-      "metodo": "navegador", "calidad": "buena",
+      "id": "modo",
+      "nombre": "MODO",
+      "url": "https://www.modo.com.ar/promos",
+      "metodo": "navegador",
+      "calidad": "buena",
       "nota": "Muchisimas promos y de todos los bancos, pero el listado solo muestra el titulo ('20% de reintegro en ChangoMas'). Para saber dia y tope hay que abrir cada promo. Es la fuente mas completa pero la mas cara de leer."
     },
     {
-      "id": "mercado_pago", "nombre": "Mercado Pago", "url": "https://promociones.mercadopago.com.ar",
-      "metodo": "navegador", "calidad": "NO USAR",
+      "id": "mercado_pago",
+      "nombre": "Mercado Pago",
+      "url": "https://promociones.mercadopago.com.ar",
+      "metodo": "navegador",
+      "calidad": "NO USAR",
       "nota": "DESACTUALIZADA. El 05/08/2026 mostraba promos del Hot Sale 'validas del 11 al 17 de mayo' y el pie de pagina decia 2023. Es una landing vieja que quedo colgada. CONFIRMADO entrando con una cuenta real logueada: la web tampoco tiene seccion de promociones (/descuentos, /beneficios, /discounts y /loyalty dan 404, y el menu lateral no la incluye). Mercado Pago es app-only. Se cubre con prensa, o con capturas de la app."
     },
     {
-      "id": "uala", "nombre": "Ualá", "url": "https://www.uala.com.ar/promociones",
-      "metodo": "navegador", "calidad": "pobre",
-      "nota": "Solo beneficios de partners (Rappi, Coderhouse, gimnasios). No hay supermercados ni dias de la semana. Sirve de poco. Ojo: /beneficios da 404, la ruta correcta es /promociones."
+      "id": "uala",
+      "nombre": "Ualá",
+      "url": "https://www.uala.com.ar/promociones",
+      "metodo": "navegador",
+      "calidad": "media",
+      "nota": "El listado /promociones muestra poco (solo % y titulo, sin dia ni tope), PERO cada promo tiene su ficha en /promociones/<slug> y ahi si esta todo: dias, metodos de pago, vigencia, tope y los terminos completos. Los slugs salen de los href del listado (colectivos, rappi, cabify, seekerparking...). Asi se confirmo el 50% en colectivos: tope $15.000 por mes por tarjeta, del 17/08 al 30/09/2026, Mastercard por NFC en Dota, Sistema Independencia y SUBE Viajes. Es la misma campana de Mastercard que la de Galicia. Ojo: /beneficios da 404, la ruta correcta es /promociones."
     },
     {
-      "id": "cuenta_dni", "nombre": "Cuenta DNI", "url": "https://cuentadni.bancoprovincia.com.ar/beneficios",
-      "metodo": "bloqueada", "calidad": "no se puede leer",
+      "id": "cuenta_dni",
+      "nombre": "Cuenta DNI",
+      "url": "https://cuentadni.bancoprovincia.com.ar/beneficios",
+      "metodo": "bloqueada",
+      "calidad": "no se puede leer",
       "nota": "Certificado SSL vencido. Es la billetera mas usada en PBA, asi que se cubre con prensa (iProfesional e Infobae la detallan bien todos los meses). Conviene buscarle una fuente mejor."
     },
-    { "id": "personal_pay", "nombre": "Personal Pay", "url": "https://www.personalpay.com.ar/beneficios", "metodo": "navegador", "calidad": "sin revisar" },
-    { "id": "bna_mas", "nombre": "BNA+", "url": "https://www.bna.com.ar/Personas/DescuentosYPromociones", "metodo": "navegador", "calidad": "pobre", "nota": "El 09/08/2026 semananacion.com.ar devolvia 'Error interno' (por eso se cambio la URL a la del banco). La web del BNA carga pero solo tiene 9 promos, mezcla vencidas con vigentes y no muestra dias ni topes: la de Supermercados dice solo 'hasta 30%' y manda a un PDF. Los dias y topes de BNA+ salen de iProfesional y CalcularSueldo. OJO: la tabla de CalcularSueldo mezcla promos de MODO y Macro adentro de las de BNA, no confiar en su atribucion por banco." },
-    { "id": "brubank", "nombre": "Brubank", "url": "https://brubank.com/descuentos", "metodo": "navegador", "calidad": "sin revisar" }
+    {
+      "id": "personal_pay",
+      "nombre": "Personal Pay",
+      "url": "https://www.personalpay.com.ar/beneficios",
+      "metodo": "navegador",
+      "calidad": "sin revisar"
+    },
+    {
+      "id": "bna_mas",
+      "nombre": "BNA+",
+      "url": "https://www.bna.com.ar/Personas/DescuentosYPromociones",
+      "metodo": "navegador",
+      "calidad": "pobre",
+      "nota": "El 09/08/2026 semananacion.com.ar devolvia 'Error interno' (por eso se cambio la URL a la del banco). La web del BNA carga pero solo tiene 9 promos, mezcla vencidas con vigentes y no muestra dias ni topes: la de Supermercados dice solo 'hasta 30%' y manda a un PDF. Los dias y topes de BNA+ salen de iProfesional y CalcularSueldo. OJO: la tabla de CalcularSueldo mezcla promos de MODO y Macro adentro de las de BNA, no confiar en su atribucion por banco."
+    },
+    {
+      "id": "brubank",
+      "nombre": "Brubank",
+      "url": "https://www.brubank.com/beneficios",
+      "metodo": "navegador",
+      "calidad": "buena",
+      "nota": "REVISADA el 21/08/2026. OJO: /descuentos da 404, la ruta correcta es /beneficios. Tiene 46 reintegros con % y tope, pero estan divididos en tres solapas por plan (One, Plus, Ultra) y el DOM contiene las tres a la vez, asi que hay que separarlas. Como separarlas: buscar en el innerText las lineas Con tu Plan Ultra / Plus / One (son el pie de cada panel); los reintegros que van despues de cada marca pertenecen a ese plan. Orden en el DOM: Ultra, Plus, One. Ultra son todos los dias con tope $6.000, Plus viernes a domingo, One un dia suelto y menos %. No tiene supermercados: es gastronomia, combustible, farmacia y transporte. Se cargaron solo 7, las de rubros utiles."
+    }
   ],
   "bancos": [
     {
-      "id": "ciudad", "nombre": "Banco Ciudad", "url": "https://www.bancociudad.com.ar/beneficios/",
-      "metodo": "navegador", "calidad": "excelente",
+      "id": "ciudad",
+      "nombre": "Banco Ciudad",
+      "url": "https://www.bancociudad.com.ar/beneficios/",
+      "metodo": "navegador",
+      "calidad": "excelente",
       "nota": "LA MEJOR fuente propia de todo el proyecto. El 21/08/2026 tenia 231 tarjetas (115 unicas: la pagina renderiza la lista DOS VECES con dos componentes Angular distintos, hay que deduplicar por titulo+descuento). TRUCO de los dias: salen como letras D L M M J V S (ojo, arranca en DOMINGO) y el activo puede venir con la clase 'active' O con 'dia-beneficio fw-bold' segun cual de los dos componentes lo dibujo: hay que aceptar las dos. Si el bloque trae un solo span que dice 'Todos los dias', es toda la semana. Selectores: .bene-card, titulo .card-title, porcentaje .card-text-descuento, dias span.card-text.ps-2, tope .sin-tope (si NO tiene la clase d-none, la promo es sin tope), nueva .nuevo, medios de pago img.medio-pago (alt). Sacando solo el texto se pierden los dias."
     },
     {
-      "id": "galicia", "nombre": "Banco Galicia", "url": "https://www.galicia.ar/personas/promociones",
-      "metodo": "navegador", "calidad": "buena",
+      "id": "galicia",
+      "nombre": "Banco Galicia",
+      "url": "https://www.galicia.ar/personas/promociones",
+      "metodo": "navegador",
+      "calidad": "buena",
       "nota": "Da comercio, % y dias en texto plano, pero nunca el tope y los porcentajes son 'hasta'. OJO: /personas/beneficios da 404, la ruta correcta es /personas/promociones. El listado COMPLETO no esta en galicia.ar: vive en un iframe, https://beneficios.galicia.ar/filtro/8%7Csupermercados (25 comercios). Ese iframe lista las marcas pero NO el porcentaje ni el dia, hay que abrir cada una. La landing /personas/promociones si trae las destacadas con % y dia, y alcanza."
     },
     {
-      "id": "credicoop", "nombre": "Banco Credicoop", "url": "https://beneficios.bancocredicoop.coop/",
-      "metodo": "navegador", "calidad": "muy buena",
+      "id": "credicoop",
+      "nombre": "Banco Credicoop",
+      "url": "https://beneficios.bancocredicoop.coop/",
+      "metodo": "navegador",
+      "calidad": "muy buena",
       "nota": "158 tarjetas con comercio, % y dia. Selector: contenedores .stared-box; el comercio sale del atributo alt del <a> (formato 'Destacados Tarjetas_Marca_detalle'), los dias de .stared-card-days-container .day con clase 'active' (orden L M M J V S D) y el % del texto '% de ahorro'. NO publica topes. OJO: el alt es un slug de marketing que a veces quedo viejo y contradice el % que se ve en pantalla (paso con DIA: 25% en la tarjeta, 20% en el alt). Gana lo que se ve, pero si no coinciden hay que cargar el MENOR y marcar confianza media. Faltan las cadenas regionales (Mendoza, La Banderita, Coor Obrera, El Nene), que no dicen provincia.",
       "url_alternativa": "https://www.bancocredicoop.coop/beneficios (redirige al subdominio)"
     },
     {
-      "id": "macro", "nombre": "Banco Macro", "url": "https://www.macro.com.ar/beneficios",
-      "metodo": "navegador", "calidad": "baja",
+      "id": "macro",
+      "nombre": "Banco Macro",
+      "url": "https://www.macro.com.ar/beneficios",
+      "metodo": "navegador",
+      "calidad": "baja",
       "nota": "REVISADA A FONDO el 10/08 y NO conviene volver: rinde poco para lo que cuesta. Tiene 259 beneficios pero en cadenas nacionales solo da CUOTAS (Coto 12, ChangoMas 12, Diarco 6 y 3); Jumbo, Disco, Vea y Carrefour directamente no aparecen. El resto son carnicerias y verdulerias chicas del interior, sin provincia declarada. Sus descuentos fuertes (Jumbo 20% mar/jue, ChangoMas 20% lunes, Dia 20% vie/sab) van por MODO y ya los tenemos por prensa y por la web de Coto. Ademas el listado no muestra el dia (hay filtro 'dia-semana' pero el detalle es una cascara JS) y pagina de a 40. Si algun dia se vuelve: el filtro por dia es el atajo, no abrir los detalles."
     },
     {
-      "id": "supervielle", "nombre": "Supervielle", "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "metodo": "navegador", "calidad": "excelente",
+      "id": "supervielle",
+      "nombre": "Supervielle",
+      "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "metodo": "navegador",
+      "calidad": "excelente",
       "nota": "Buscador de beneficios muy completo: comercio, %, dia, tope y tipo de tarjeta. Selector: tarjetas .BeneficioCard; el nombre en .brand span, el % en .detail, y el dia en los .week span con clase 'available' (orden l m m j v s d). El tope esta en el texto del contenedor padre. OJO 1: la URL /beneficios a secas viene vacia, hay que entrar por /personas/beneficios/descuentos/<rubro>. OJO 2: mezcla escalones (Clasico, Plan Sueldo, Identite) y promos de jubilados como tarjetas separadas; hay que cargar el escalon base y aclarar los otros. OJO 3: incluye cadenas regionales de Mendoza y San Luis (Aiello, Atomo, Altue, AG Piazze, La Yunta, SOGO, Mercado Municipal, Europa, Cereales El Diamante) que NO se cargaron por no saber su zona: usar el filtro de provincia del sitio antes de sumarlas. Faltan revisar los otros rubros (combustible, farmacia, indumentaria, transporte)."
     },
     {
-      "id": "santander", "nombre": "Santander", "url": "https://www.santander.com.ar/personas/beneficios",
-      "metodo": "navegador", "calidad": "pobre",
+      "id": "santander",
+      "nombre": "Santander",
+      "url": "https://www.santander.com.ar/personas/beneficios",
+      "metodo": "navegador",
+      "calidad": "pobre",
       "nota": "Tiene una seccion util 'Hoy, <dia>' que lista los comercios del dia (sirve para CONFIRMAR dias), pero los porcentajes estan dentro de imagenes y no se pueden leer. Los numeros hay que sacarlos de prensa."
     },
     {
-      "id": "bbva", "nombre": "BBVA", "url": "https://www.bbva.com.ar/personas/promociones.html",
-      "metodo": "bloqueada", "calidad": "no se puede leer",
+      "id": "bbva",
+      "nombre": "BBVA",
+      "url": "https://www.bbva.com.ar/personas/promociones.html",
+      "metodo": "bloqueada",
+      "calidad": "no se puede leer",
       "nota": "Da 404, igual que /personas/beneficios.html. Sin fuente propia. Lo unico firme que se consiguio es la promo de la tarjeta Black+ Save via prensa."
     },
-    { "id": "macro",     "nombre": "Banco Macro",   "url": "https://www.macro.com.ar/beneficios",              "metodo": "navegador", "calidad": "sin revisar" }
+    {
+      "id": "macro",
+      "nombre": "Banco Macro",
+      "url": "https://www.macro.com.ar/beneficios",
+      "metodo": "navegador",
+      "calidad": "sin revisar"
+    }
   ],
   "comercios": [
     {
-      "id": "coto", "nombre": "Coto", "url": "https://www.coto.com.ar/",
-      "metodo": "navegador", "calidad": "excelente",
-      "nota": "La mejor fuente de promos bancarias del proyecto, junto con Banco Ciudad. Cada tarjeta (.promo-card) trae TODO: el banco sale del nombre del archivo del logo (.promo-card__logo img, ej 'logo_credicoop.png'), el dia de los spans .promo-card__days span que tienen clase 'active' (orden L M M J V S D), el porcentaje del h4 y el tope del texto .promo-card__detail. De aca salieron Credicoop, Supervielle, Columbia, Comafi, Patagonia y TCI, que no aparecen en ninguna otra fuente. OJO: solo se lee la pestaña 'Digital'; la de 'Sucursales' es otro link y todavia no se reviso."
+      "id": "coto",
+      "nombre": "Coto",
+      "url": "https://www.coto.com.ar/descuentos",
+      "metodo": "navegador",
+      "calidad": "excelente",
+      "nota": "La mejor fuente de promos bancarias del proyecto, junto con Banco Ciudad. Cada tarjeta (.promo-card) trae TODO: el banco sale del nombre del archivo del logo (.promo-card__logo img, ej logo_credicoop.png), el dia de los spans .promo-card__days span con clase active (orden L M M J V S D), el porcentaje del h4 y el tope del texto del contenedor padre (no de .promo-card__detail, que viene corto). REVISADA la pestana Sucursales el 21/08/2026 y VALE MUCHO LA PENA: es un <label>Sucursales</label> que hay que clickear (con JS: buscar el label y hacer label.click()). Trae 15 promos presenciales que NO estan en Digital: MODO Visa debito NFC 30% jueves, ICBC 25% y 20% jueves, jubilados 15% jueves, Ciudadania Portena 15% martes y jueves, ANSES 10% lunes a jueves, Comunidad Coto 15% miercoles, tarjetas de credito 15% viernes, Mercado Pago 25% viernes y 20% finde. OJO: Comunidad Coto figura SOLO en Sucursales y da 15%, no 20%. La pagina tambien tiene un selector de dia (botones Viernes 21, Sabado 22...) que todavia no se uso."
     },
-    { "id": "dia",       "nombre": "Dia",       "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones", "metodo": "navegador", "calidad": "sin revisar" },
-    { "id": "carrefour", "nombre": "Carrefour", "url": "https://www.carrefour.com.ar/promociones-bancarias",                     "metodo": "navegador", "calidad": "sin revisar" }
+    {
+      "id": "dia",
+      "nombre": "Dia",
+      "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+      "metodo": "navegador",
+      "calidad": "muy buena",
+      "nota": "REVISADA el 21/08/2026 y es MUY BUENA, pero el truco no es obvio: las tarjetas son imagenes (el % y el dia estan dentro del JPG y no se pueden leer), pero cada una tiene un boton Ver Legales que despliega el texto legal COMPLETO con dia, porcentaje, tope y vigencia. Receta: clickear todos los elementos hoja cuyo texto sea Ver Legales, y despues por cada img[alt^=Promocion] subir hasta 8 padres hasta encontrar un contenedor cuyo innerText tenga VALID o REINTEGRO. El alt de la imagen da la marca. De aca salieron Banco Ciudad 35% lunes (la mas fuerte del dia), Banco del Sol, Columbia, Sidecreer (Entre Rios), Ciudadania Portena y Banco de Corrientes. OJO 1: algunos legales no dicen el porcentaje (Credicoop miercoles, ANSES) porque esta solo en la imagen. OJO 2: hay promos de un solo dia ya vencidas mezcladas con las vigentes (Prex era del lunes 10/08), leer siempre la fecha del legal."
+    },
+    {
+      "id": "carrefour",
+      "nombre": "Carrefour",
+      "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "metodo": "navegador",
+      "calidad": "muy buena",
+      "nota": "REVISADA el 21/08/2026 y es MUY BUENA. OJO con la URL: /promociones-bancarias redirige a /descuentos-bancarios. Todo el contenido es TEXTO PLANO, no imagenes: 31 promos con dia, porcentaje, tope y el legal completo. Receta: partir document.body.innerText por las lineas que dicen Ver legal; las 7 lineas previas son el resumen de la tarjeta (dia, %, condicion, tope) y lo que sigue es el legal. El legal es el que aclara el canal (tiendas vs online vs entrega programada), que el resumen no dice. De aca salio Carrefour Banco entero (5 descuentos + cuotas) y los topes de Banco Patagonia por segmento. QUEDA PENDIENTE: los 15% para empleados publicos (miercoles y jueves) no dicen con que medio de pago se pagan, por eso no se cargaron."
+    }
   ],
   "delivery": [
     {
-      "id": "rappi", "nombre": "Rappi", "url": "https://promos.rappi.com/argentina",
-      "metodo": "navegador", "calidad": "media",
+      "id": "rappi",
+      "nombre": "Rappi",
+      "url": "https://promos.rappi.com/argentina",
+      "metodo": "navegador",
+      "calidad": "media",
       "nota": "Lista las promos con banco y vigencia exacta (Banco Provincia, Uala, Galicia, Comafi) pero NO el porcentaje, los dias ni el tope: hay que abrir los terminos de cada una. La home rappi.com.ar/promociones tira error tecnico sin ubicacion cargada."
     },
     {
-      "id": "pedidosya", "nombre": "PedidosYa", "url": "https://www.pedidosya.com.ar/",
-      "metodo": "bloqueada", "calidad": "no se puede leer",
+      "id": "pedidosya",
+      "nombre": "PedidosYa",
+      "url": "https://www.pedidosya.com.ar/",
+      "metodo": "bloqueada",
+      "calidad": "no se puede leer",
       "nota": "Tiene anti-bot: /promociones/medios-de-pago devuelve 'Acceso denegado'. La home si carga y muestra la seccion 'Medios de pago' (de ahi salio la de Santander). Sin acceso automatico: hay que mirarla a mano o por captura."
     }
   ],
   "prensa": [
-    { "id": "lanacion", "nombre": "La Nación", "url": "https://www.lanacion.com.ar/economia/", "uso": "LA MEJOR fuente de Cuenta DNI: publica la tabla oficial del Banco Provincia entera (rubro, %, dias y tope) al arrancar cada mes. Buscar 'Cuenta DNI <mes> <año>'." },
-    { "id": "iprofesional",   "nombre": "iProfesional",    "url": "https://www.iprofesional.com/finanzas",  "uso": "Tapa el agujero de Mercado Pago, que no tiene fuente propia usable. Su nota mensual trae la tabla por supermercado y por banco." },
-    { "id": "infobae",        "nombre": "Infobae",         "url": "https://www.infobae.com/economia/",      "uso": "Publica el detalle mensual de Cuenta DNI, promo por promo." },
-    { "id": "calcularsueldo", "nombre": "Calcular Sueldo", "url": "https://calcularsueldo.com.ar/finanzas", "uso": "El mejor en topes y compras minimas, sobre todo BNA+." },
-    { "id": "promoarg",       "nombre": "PromoArg",        "url": "https://promoarg.com/promociones",       "uso": "Solo para contrastar. Tiene mucha basura (entradas de 0% OFF), no copiar sin verificar." }
+    {
+      "id": "lanacion",
+      "nombre": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/",
+      "uso": "LA MEJOR fuente de Cuenta DNI: publica la tabla oficial del Banco Provincia entera (rubro, %, dias y tope) al arrancar cada mes. Buscar 'Cuenta DNI <mes> <año>'."
+    },
+    {
+      "id": "iprofesional",
+      "nombre": "iProfesional",
+      "url": "https://www.iprofesional.com/finanzas",
+      "uso": "Tapa el agujero de Mercado Pago, que no tiene fuente propia usable. Su nota mensual trae la tabla por supermercado y por banco."
+    },
+    {
+      "id": "infobae",
+      "nombre": "Infobae",
+      "url": "https://www.infobae.com/economia/",
+      "uso": "Publica el detalle mensual de Cuenta DNI, promo por promo."
+    },
+    {
+      "id": "calcularsueldo",
+      "nombre": "Calcular Sueldo",
+      "url": "https://calcularsueldo.com.ar/finanzas",
+      "uso": "El mejor en topes y compras minimas, sobre todo BNA+."
+    },
+    {
+      "id": "promoarg",
+      "nombre": "PromoArg",
+      "url": "https://promoarg.com/promociones",
+      "uso": "Solo para contrastar. Tiene mucha basura (entradas de 0% OFF), no copiar sin verificar."
+    }
   ]
 }

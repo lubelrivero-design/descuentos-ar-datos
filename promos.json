@@ -15,13 +15,14 @@
       "descuento_pct": 25,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Pagando con QR en la linea de cajas. Sin tope informado.",
+      "requisitos": "Con cualquier medio de pago dentro de la app de Mercado Pago. Solo en sucursales, no vale para Coto Digital.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "fuente": "https://www.coto.com.ar/descuentos",
       "verificado": "2026-08-21",
-      "confianza": "media"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "mp-coto-finde",
@@ -38,36 +39,14 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Pagando con QR en la linea de cajas.",
+      "requisitos": "Con cualquier medio de pago dentro de la app de Mercado Pago. El domingo 23 hay 5% extra pagando con QR con credito Mercado Pago Mastercard. Solo en sucursales.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "fuente": "https://www.coto.com.ar/descuentos",
       "verificado": "2026-08-21",
-      "confianza": "media"
-    },
-    {
-      "id": "mp-carrefour-finde",
-      "medio": "mercado_pago",
-      "medio_nombre": "Mercado Pago",
-      "rubro": "supermercados",
-      "comercios": [
-        "Carrefour"
-      ],
-      "dias": [
-        "sabado",
-        "domingo"
-      ],
-      "descuento_pct": 15,
-      "tope_monto": 20000,
-      "tope_periodo": "mensual",
-      "requisitos": "Pagando con QR en la línea de cajas. Tope de $20.000 por cuenta al mes.",
-      "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-21",
-      "confianza": "baja"
+      "confianza": "alta",
+      "tope_publicado": false
     },
     {
       "id": "mp-changomas-martes",
@@ -227,11 +206,11 @@
       "descuento_pct": 5,
       "tope_monto": 5000,
       "tope_periodo": "semanal",
-      "requisitos": "Con tarjetas Visa o Mastercard del Banco Nacion.",
+      "requisitos": "Pagando con MODO BNA+ escaneando el QR, con credito Visa o Mastercard o debito Mastercard del Banco Nacion. Tope $5.000 por semana.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "verificado": "2026-08-21",
       "confianza": "alta"
     },
@@ -321,11 +300,11 @@
       "descuento_pct": 5,
       "tope_monto": 20000,
       "tope_periodo": "mensual",
-      "requisitos": "Solo jubilados y pensionados que cobran ANSES por Banco Nacion, con Visa. Es un 5% ADICIONAL.",
+      "requisitos": "Solo jubilados y pensionados, pagando con MODO con credito Visa o Mastercard o debito Mastercard. Es 5% adicional, tope $5.000 por semana.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "verificado": "2026-08-21",
       "confianza": "alta"
     },
@@ -417,11 +396,11 @@
       "descuento_pct": 20,
       "tope_monto": 20000,
       "tope_periodo": "mensual",
-      "requisitos": "Pagando directamente con MODO.",
+      "requisitos": "Pagando con MODO. Compra minima de $35.000. Tope $20.000 por banco por mes. Se acumula con otras promos de MODO.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "verificado": "2026-08-21",
       "confianza": "alta"
     },
@@ -580,16 +559,15 @@
         "martes"
       ],
       "descuento_pct": 25,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Hasta 25% con Plan Turbo, con tarjeta de crédito o débito Naranja X. En Coto el tope es de $9.500 por semana.",
+      "tope_monto": 9500,
+      "tope_periodo": "semanal",
+      "requisitos": "25% con Plan Turbo, con credito o debito Naranja X. Plan inicial 20% (tope $3.000) y Plan Epico 30% (tope $12.000). Hay stock limitado de reintegros.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.naranjax.com/promociones",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "verificado": "2026-08-21",
-      "confianza": "alta",
-      "tope_publicado": false
+      "confianza": "alta"
     },
     {
       "id": "naranja-changomas-martes-epico",
@@ -601,28 +579,6 @@
       ],
       "dias": [
         "martes"
-      ],
-      "descuento_pct": 30,
-      "tope_monto": 12000,
-      "tope_periodo": "semanal",
-      "requisitos": "Solo para adheridos al Plan Epico.",
-      "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-21",
-      "confianza": "alta"
-    },
-    {
-      "id": "naranja-dia-lunes-epico",
-      "medio": "naranja_x",
-      "medio_nombre": "Naranja X",
-      "rubro": "supermercados",
-      "comercios": [
-        "Dia"
-      ],
-      "dias": [
-        "lunes"
       ],
       "descuento_pct": 30,
       "tope_monto": 12000,
@@ -705,14 +661,13 @@
       "descuento_pct": 15,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "El tope depende del Nivel de Personal Pay del usuario. La web no lo muestra en el listado.",
+      "requisitos": "Con la prepaga Visa de Personal Pay, QR o NFC. Sin tope y sin minimo de compra, una compra por jueves.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.personalpay.com.ar/beneficios",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "verificado": "2026-08-21",
-      "confianza": "alta",
-      "tope_publicado": false
+      "confianza": "alta"
     },
     {
       "id": "personalpay-lareina-sabado",
@@ -899,14 +854,14 @@
       "dias": [
         "miercoles"
       ],
-      "descuento_pct": 20,
+      "descuento_pct": 15,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "En un pago, siendo miembro de Comunidad Coto. Con todos los medios de pago. Sin límite de reintegro.",
+      "requisitos": "En un pago siendo miembro de Comunidad Coto, con cualquier medio de pago. Sin limite de reintegro. Solo en sucursales.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.coto.com.ar/",
+      "fuente": "https://www.coto.com.ar/descuentos",
       "verificado": "2026-08-21",
       "confianza": "alta"
     },
@@ -1502,7 +1457,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1526,7 +1481,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1549,7 +1504,7 @@
       "descuento_pct": 30,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1573,7 +1528,7 @@
       "descuento_pct": 15,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1598,7 +1553,7 @@
       "descuento_pct": 15,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1622,7 +1577,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1645,7 +1600,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1668,7 +1623,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1692,7 +1647,7 @@
       "descuento_pct": 15,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1716,7 +1671,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1739,7 +1694,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1763,7 +1718,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1786,7 +1741,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1809,7 +1764,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1835,7 +1790,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1858,7 +1813,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1881,7 +1836,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1904,7 +1859,7 @@
       "descuento_pct": 10,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1927,7 +1882,7 @@
       "descuento_pct": 15,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1950,7 +1905,7 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -1974,7 +1929,7 @@
       "descuento_pct": 10,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. La web no muestra el tope en el listado; hay que abrir la promo. Chequear que la sucursal este adherida.",
+      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
@@ -2549,7 +2504,7 @@
       "cuotas": 18,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Productos seleccionados de electro, ferreteria y automotor. Solo con tarjetas de credito Visa. Aplican exclusiones.",
+      "requisitos": "Productos seleccionados de electro, ferreteria y automotor. Con tarjetas de credito Visa o Mastercard. Aplican exclusiones.",
       "fuente": "https://www.coto.com.ar/",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
@@ -2941,9 +2896,9 @@
         "lunes"
       ],
       "descuento_pct": 10,
-      "requisitos": "Sin tope de reintegro.",
+      "requisitos": "Con Pago Clave DNI en la app Cuenta DNI. Sin tope. Si sos jubilado de Banco Provincia sumas 5% mas, con tope de $5.000 por semana.",
       "zona": "Provincia de Buenos Aires",
-      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -3160,9 +3115,9 @@
         "miercoles"
       ],
       "descuento_pct": 10,
-      "requisitos": "Compra minima de $15.000.",
+      "requisitos": "Sin tope en sucursales; comprando online el minimo es $15.000. Si sos jubilado sumas 5% mas, con tope de $5.000.",
       "zona": "Provincia de Buenos Aires",
-      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -3345,8 +3300,8 @@
         "viernes"
       ],
       "descuento_pct": 10,
-      "requisitos": "Se puede combinar con otras promos activas del comercio.",
-      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "requisitos": "Pagando con dinero en cuenta de Mercado Pago. Sin tope. Solo en sucursales y no se acumula con otras promos.",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -3420,19 +3375,14 @@
         "Carrefour"
       ],
       "dias": [
-        "lunes",
-        "martes",
-        "miercoles",
-        "jueves",
-        "viernes",
         "sabado",
         "domingo"
       ],
       "descuento_pct": 15,
       "tope_monto": 20000,
       "tope_periodo": "mensual",
-      "requisitos": "Solo para quienes cobran su prestacion de ANSES en Mercado Pago. Es un 15% ADICIONAL y acumulable con las otras promos.",
-      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "requisitos": "Solo para quienes cobran ANSES en Mercado Pago. Es 15% adicional y se acumula con las otras promos. Tope $20.000 por mes.",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
@@ -3482,8 +3432,8 @@
       ],
       "descuento_pct": 0,
       "cuotas": 6,
-      "requisitos": "6 cuotas sin interes en todas las sucursales.",
-      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
+      "requisitos": "6 cuotas sin interes con la opcion Cuotas sin Tarjeta de Mercado Pago, escaneando el QR. Sujeto a evaluacion crediticia.",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -5107,14 +5057,13 @@
         "miercoles"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "tope_publicado": false,
-      "requisitos": "Pagando con MODO. La web de Credicoop muestra 25% en la tarjeta pero 20% en su etiqueta interna: cargamos el menor. Confirmá en la app del banco.",
+      "tope_monto": 15000,
+      "tope_periodo": "semanal",
+      "requisitos": "Escaneando el QR de MODO y pagando desde la app Banca Credicoop o MODO, con tarjeta Cabal Credicoop. En un pago. Tope $15.000 por miercoles.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://beneficios.bancocredicoop.coop/",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "verificado": "2026-08-21",
       "confianza": "media"
     },
@@ -5312,11 +5261,10 @@
         "miercoles"
       ],
       "descuento_pct": 15,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "tope_publicado": false,
-      "requisitos": "Con tarjeta Clásica. Plus 20% y Singular 30%. Si acreditás el sueldo en el banco: 20%, 25% y 35%. El sitio no publica el tope.",
-      "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/",
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "requisitos": "Con debito o credito clasica: 15%, tope $10.000. Plan Sueldo Plus 20% (tope $15.000) y Singular 30% (tope $20.000). Programando la entrega para un miercoles los topes suben.",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
@@ -5606,8 +5554,8 @@
         "jueves"
       ],
       "descuento_pct": 30,
-      "requisitos": "Con tarjeta de débito Visa de los bancos adheridos a MODO, acercando el celular al lector en la línea de cajas. Sin tope de reintegro.",
-      "fuente": "https://www.modo.com.ar/promos/coto-mar-26"
+      "requisitos": "En sucursal, acercando el celular al lector con tarjeta de debito Visa de un banco adherido a MODO. Sin tope de reintegro. No vale para Coto Digital.",
+      "fuente": "https://www.coto.com.ar/descuentos"
     },
     {
       "zona": "Nacional",
@@ -5651,8 +5599,8 @@
         "domingo"
       ],
       "descuento_pct": 20,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5674,8 +5622,8 @@
         "lunes"
       ],
       "descuento_pct": 15,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5698,8 +5646,8 @@
         "viernes"
       ],
       "descuento_pct": 20,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5727,8 +5675,8 @@
         "domingo"
       ],
       "descuento_pct": 20,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5756,8 +5704,8 @@
         "domingo"
       ],
       "descuento_pct": 10,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5782,8 +5730,8 @@
         "jueves"
       ],
       "descuento_pct": 20,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5805,8 +5753,8 @@
         "miercoles"
       ],
       "descuento_pct": 20,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5828,8 +5776,8 @@
         "miercoles"
       ],
       "descuento_pct": 20,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5852,8 +5800,8 @@
         "jueves"
       ],
       "descuento_pct": 20,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5875,8 +5823,8 @@
         "domingo"
       ],
       "descuento_pct": 25,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5898,8 +5846,8 @@
         "viernes"
       ],
       "descuento_pct": 20,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5922,8 +5870,8 @@
         "sabado"
       ],
       "descuento_pct": 20,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5947,8 +5895,8 @@
         "viernes"
       ],
       "descuento_pct": 20,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5970,8 +5918,8 @@
         "lunes"
       ],
       "descuento_pct": 20,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -5999,8 +5947,8 @@
         "domingo"
       ],
       "descuento_pct": 25,
-      "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. La web no muestra el tope en el listado; hay que abrir la promo.",
+      "tope_publicado": false,
+      "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/"
     },
     {
@@ -6211,16 +6159,15 @@
         "domingo"
       ],
       "descuento_pct": 50,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "tope_publicado": false,
-      "requisitos": "Pagando el colectivo con Contactless, con tarjeta prepaga o de crédito Ualá. La web no publica ni los días ni el tope; se asume que aplica todos los días.",
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando el colectivo con una tarjeta Mastercard de Uala por NFC desde la billetera del celular. Tope $15.000 por mes por tarjeta. Vale en Dota, Sistema Independencia y SUBE Viajes.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.uala.com.ar/promociones",
-      "verificado": "2026-08-10",
-      "confianza": "baja"
+      "vigencia_desde": "2026-08-17",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.uala.com.ar/promociones/colectivos",
+      "verificado": "2026-08-21",
+      "confianza": "alta"
     },
     {
       "id": "supervielle-coto-nfc-jueves",
@@ -6244,6 +6191,707 @@
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
       "verificado": "2026-08-21",
       "confianza": "alta"
+    },
+    {
+      "id": "coto-cualquiera-viernes-15",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "En un pago con cualquier tarjeta de credito. Sin tope de reintegro. Solo en sucursales.",
+      "fuente": "https://www.coto.com.ar/descuentos",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "coto-anses-lun-jue-10",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "Beneficios ANSES: en un pago con tarjeta de debito o credito. Sin tope de reintegro. Solo en sucursales.",
+      "fuente": "https://www.coto.com.ar/descuentos",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "coto-ciudadania-portena-15",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "martes",
+        "jueves"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "Con la tarjeta del programa Ciudadania Portena. Sin tope de reintegro. Solo en sucursales.",
+      "zona": "CABA",
+      "fuente": "https://www.coto.com.ar/descuentos",
+      "confianza": "alta",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "coto-jubilados-jueves-15",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "Para jubilados y pensionados, presentando DNI. En un pago con cualquier medio. Solo en sucursales, no vale online.",
+      "fuente": "https://www.coto.com.ar/descuentos",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "coto-icbc-jueves-25",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 25,
+      "requisitos": "Solo Plan Sueldo ICBC. En un pago con credito Visa o Mastercard, o debito Visa. Sin tope. Si no tenes Plan Sueldo es 20% con debito Visa. Solo en sucursales.",
+      "fuente": "https://www.coto.com.ar/descuentos",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "coto-icbc-jueves-20",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "En un pago con tarjeta de debito Visa. Sin tope de reintegro. Solo en sucursales.",
+      "fuente": "https://www.coto.com.ar/descuentos",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "cuotas-mp-coto-3",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "Pagando con QR con credito Mercado Pago. 3 cuotas desde $150.000 y 2 cuotas de $50.000 a $149.000. Solo en sucursales.",
+      "fuente": "https://www.coto.com.ar/descuentos",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "ciudad-dia-lunes-35",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 35,
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con QR MODO desde la app Ciudad o Buepp, con credito Mastercard del Banco Ciudad. Tope $20.000 por mes.",
+      "vigencia_desde": "2026-07-20",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "columbia-dia-lun-vie-20",
+      "medio": "columbia",
+      "medio_nombre": "Banco Columbia",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "lunes",
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "En un pago con credito Visa o Mastercard de Banco Columbia. Tope $10.000 por transaccion. Solo en sucursales.",
+      "vigencia_desde": "2026-04-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "bancodelsol-dia-martes-25",
+      "medio": "banco_del_sol",
+      "medio_nombre": "Banco del Sol",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 25,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "requisitos": "Con tarjeta de debito Visa de Banco del Sol, estando registrado en la app del banco. Tope $10.000 por mes.",
+      "vigencia_desde": "2026-07-01",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "ciudadania-portena-dia-15",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "lunes",
+        "jueves"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "Con la tarjeta precargada del programa Ciudadania Portena. Sin tope de reintegro. Solo en sucursales de CABA.",
+      "zona": "CABA",
+      "vigencia_desde": "2026-01-01",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+      "confianza": "alta",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "sidecreer-dia-domingo-25",
+      "medio": "sidecreer",
+      "medio_nombre": "Sidecreer",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "domingo"
+      ],
+      "descuento_pct": 25,
+      "tope_monto": 5000,
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Con Sidecreer Black, mas 2 o 3 cuotas sin interes. Platinum es 20% (tope $3.000) y Verde o Clasica 10% (tope $2.000). Solo en tiendas de Entre Rios.",
+      "cuotas": 3,
+      "zona": "Entre Rios",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-11-30",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+      "confianza": "alta",
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "cuotas-cualquiera-dia-3",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "sabado"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "3 cuotas sin interes con credito Visa, Mastercard, American Express o Cabal. Con tarjeta fisica. Excluye Mastercard Cencosud.",
+      "vigencia_desde": "2026-01-01",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "naranja-dia-martes-epico",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 12000,
+      "tope_periodo": "semanal",
+      "requisitos": "Solo para adheridos al Plan Epico, con credito Naranja X o debito Naranja X Visa. Tope $12.000 por semana. Hay stock limitado de reintegros.",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "carrefour-banco-martes-20",
+      "medio": "carrefour_banco",
+      "medio_nombre": "Carrefour Banco",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "En un pago con tarjeta de credito de Carrefour Banco. Sin tope, se descuenta en el acto. No vale en Carrefour Maxi ni pagando por billetera virtual.",
+      "vigencia_desde": "2026-05-01",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "carrefour-banco-jueves-20",
+      "medio": "carrefour_banco",
+      "medio_nombre": "Carrefour Banco",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "semanal",
+      "requisitos": "En un pago con la Cuenta Digital o la credito Mastercard de Carrefour Banco. Tope $10.000 por semana. Solo comprando online o por la app, no en las tiendas.",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "carrefour-banco-viernes-15",
+      "medio": "carrefour_banco",
+      "medio_nombre": "Carrefour Banco",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "Pagando con la Cuenta Digital de Carrefour Banco. Sin tope y se acumula con las otras promos. No incluye carniceria, electro, bazar ni textil.",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "carrefour-banco-lun-mar-15",
+      "medio": "carrefour_banco",
+      "medio_nombre": "Carrefour Banco",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "lunes",
+        "martes"
+      ],
+      "descuento_pct": 15,
+      "requisitos": "Con tarjeta de credito de Carrefour Banco. Sin tope, en el acto. No incluye electro ni carniceria y no se acumula con otras promos.",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "carrefour-banco-finde-10",
+      "medio": "carrefour_banco",
+      "medio_nombre": "Carrefour Banco",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "Pagando con la Cuenta Digital de Carrefour Banco. Sin tope. No incluye carniceria, electro, bazar ni textil.",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "cuotas-carrefour-banco-3",
+      "medio": "carrefour_banco",
+      "medio_nombre": "Carrefour Banco",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "3 cuotas sin interes en toda la compra con tarjeta de credito de Carrefour Banco. Vale en todos los formatos y online.",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "carrefour-anses-mayores-10",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 35000,
+      "tope_periodo": "mensual",
+      "requisitos": "Siendo socio de Mi Carrefour y beneficiario de ANSES o mayor de 60 anios. Tope $35.000. No incluye carniceria, huevos ni electro.",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-21"
+    },
+    {
+      "id": "carrefour-online-10",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 8000,
+      "tope_periodo": "semanal",
+      "requisitos": "Con cualquier medio de pago, exclusivo comprando online. Tope $8.000 por semana.",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-21"
+    },
+    {
+      "medio": "brubank",
+      "medio_nombre": "Brubank",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": 6000,
+      "tope_periodo": "mensual",
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-21",
+      "confianza": "alta",
+      "id": "brubank-axion-30",
+      "rubro": "combustible",
+      "comercios": [
+        "Axion Energy"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "requisitos": "Con Plan Ultra, todos los dias, tope $6.000. Con Plan Plus es 20% viernes, sabados y domingos, y con Plan One 10% los martes."
+    },
+    {
+      "medio": "brubank",
+      "medio_nombre": "Brubank",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": 6000,
+      "tope_periodo": "mensual",
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-21",
+      "confianza": "alta",
+      "id": "brubank-ypf-lunes-10",
+      "rubro": "combustible",
+      "comercios": [
+        "YPF"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 10,
+      "requisitos": "Pagando desde la app YPF. Tope $6.000. Vale para los tres planes."
+    },
+    {
+      "medio": "brubank",
+      "medio_nombre": "Brubank",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": 6000,
+      "tope_periodo": "mensual",
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-21",
+      "confianza": "alta",
+      "id": "brubank-farmacity-30",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmacity"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "requisitos": "Con Plan Ultra, todos los dias, tope $6.000. Con Plan Plus es 30% viernes, sabados y domingos, y con Plan One 20% los viernes."
+    },
+    {
+      "medio": "brubank",
+      "medio_nombre": "Brubank",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": 6000,
+      "tope_periodo": "mensual",
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-21",
+      "confianza": "alta",
+      "id": "brubank-cabify-40",
+      "rubro": "transporte",
+      "comercios": [
+        "Cabify"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 40,
+      "requisitos": "Con Plan Ultra, todos los dias, tope $6.000. Con Plan Plus es 30% viernes, sabados y domingos."
+    },
+    {
+      "medio": "brubank",
+      "medio_nombre": "Brubank",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": 6000,
+      "tope_periodo": "mensual",
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-21",
+      "confianza": "alta",
+      "id": "brubank-taxi-premium-40",
+      "rubro": "transporte",
+      "comercios": [
+        "Taxi Premium"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 40,
+      "requisitos": "Con Plan Ultra, todos los dias, tope $6.000. Con Plan Plus y Plan One es 30%."
+    },
+    {
+      "medio": "brubank",
+      "medio_nombre": "Brubank",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": 6000,
+      "tope_periodo": "mensual",
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-21",
+      "confianza": "alta",
+      "id": "brubank-burger-king-30",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Burger King"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "requisitos": "Con Plan Ultra, todos los dias, tope $6.000. Con Plan Plus es 30% viernes, sabados y domingos, y con Plan One 20% lunes y viernes."
+    },
+    {
+      "medio": "brubank",
+      "medio_nombre": "Brubank",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "tope_monto": 6000,
+      "tope_periodo": "mensual",
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-21",
+      "confianza": "alta",
+      "id": "brubank-freddo-40",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Freddo"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 40,
+      "requisitos": "Con Plan Ultra, todos los dias, tope $6.000. Con Plan Plus es 30% viernes, sabados y domingos, y con Plan One 20% los miercoles."
     }
   ]
 }

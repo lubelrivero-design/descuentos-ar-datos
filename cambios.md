@@ -1,5 +1,80 @@
 # Cambios
 
+## 2026-08-21 (tarde) — Segunda corrida: se abrieron cuatro fuentes nuevas
+
+**276 promos, 247 visibles** (venían 249 y 218). **Ninguna fuente falló.**
+
+Hoy a la mañana ya había corrido el agente, así que en vez de releer lo mismo me fui a las fuentes que figuraban como "sin revisar" desde que arrancó el proyecto. Rindió mucho: **+34 promos nuevas** y un montón de topes que faltaban.
+
+### 🚨 Para mirar: Coto tenía una pestaña entera sin leer
+
+La página de descuentos de Coto tiene dos solapas, **Digital** y **Sucursales**, y hasta hoy solo se leía Digital. Sucursales tiene **15 promos presenciales que no estaban en ningún lado**:
+
+- **ICBC 25% los jueves sin tope** (Plan Sueldo) y 20% con débito Visa.
+- **Jubilados y pensionados 15% los jueves**, con cualquier medio, presentando DNI.
+- **Ciudadanía Porteña 15% martes y jueves** y **ANSES 10% de lunes a jueves**.
+- **15% los viernes con cualquier tarjeta de crédito**, sin tope.
+- Mercado Pago **25% los viernes** y **20% sábados y domingos** (el domingo 23 hay 5% extra pagando con QR con la crédito MP Mastercard).
+
+Y de paso confirmó dos cosas que veníamos arrastrando: el **30% de los jueves con Visa débito NFC** es de Coto y está en su propia web (era el que teníamos por MODO), y las dos promos de Mercado Pago que estaban en confianza media **pasaron a alta**.
+
+**Ojo con Comunidad Coto**: la teníamos en 20% los miércoles y la web oficial dice **15%**. Le bajé el número. Además figura solo en Sucursales, no en Digital.
+
+### 🚨 Para mirar: Banco Ciudad da 35% los lunes en Día
+
+Es la promo más fuerte que apareció hoy. **35% en Día todos los lunes**, pagando con QR MODO desde la app Ciudad o Buepp con crédito Mastercard del Ciudad, **tope $20.000 por mes**. Vale hasta el 31/08.
+
+### Día: la fuente que parecía imposible resultó de las mejores
+
+Las tarjetas de Día son imágenes (el % está dentro del JPG), pero cada una tiene un **"Ver Legales"** que despliega el texto legal completo con día, porcentaje, tope y vigencia. Ya quedó anotada la receta en `fuentes.json`.
+
+Nuevas de ahí: **Banco del Sol 25% los martes** (tope $10.000/mes), **Columbia 20% lunes y viernes** (tope $10.000 por transacción, va hasta el 30/09), **Ciudadanía Porteña 15% lunes y jueves** en CABA, **Sidecreer 25% los domingos** en Entre Ríos y **3 cuotas sin interés los sábados** con cualquier tarjeta.
+
+Correcciones que salieron de los legales oficiales:
+
+- **Naranja X en Día es los MARTES, no los lunes.** Lo teníamos mal (venía de una nota de prensa). Lo dicen tanto el legal de Día como la web de Naranja X. Borré `naranja-dia-lunes-epico` y la cargué de nuevo con el día bueno.
+- El **tope del 25% de Naranja X** en supermercados es **$9.500 por semana** (Plan Turbo). Estaba sin tope.
+- **MODO 20% viernes y sábados en Día pide compra mínima de $35.000.** No lo teníamos y es un dato que cambia la decisión en la caja.
+- **Personal Pay 15% los jueves en Día es sin tope y sin mínimo**, una compra por jueves. Antes figuraba con el tope sin publicar.
+- **Credicoop los miércoles en Día**: ahora sabemos el tope, **$15.000 por miércoles**, y que va hasta el 30/09. **Sigue en confianza media por el porcentaje**: la web del banco muestra 25% en la tarjeta y 20% en su etiqueta interna, y el ejemplo del legal de Día ($60.000 → $15.000) también da 25%. Cargué el menor, 20%, como manda la regla. Vale la pena mirarlo en la app del banco y cerrarlo.
+
+### Carrefour: 31 promos en texto plano y apareció Carrefour Banco
+
+Otra que nunca se había leído. Ojo con la URL: `/promociones-bancarias` redirige a `/descuentos-bancarios`. Está todo en texto, con el legal completo al lado.
+
+Entró **Carrefour Banco** como medio nuevo, con 6 promos: 20% los martes sin tope, 20% los jueves (solo online, tope $10.000/semana), 15% los viernes sin tope, 15% lunes y martes, 10% sábados y domingos, y 3 cuotas sin interés el fin de semana. También **10% para socios de Mi Carrefour que cobran ANSES o son mayores de 60** (lunes a miércoles, tope $35.000) y **10% online con cualquier medio** (tope $8.000/semana).
+
+Correcciones:
+
+- **La promo de Mercado Pago + ANSES es sábados y domingos**, no todos los días como decía la nota de prensa.
+- Estaban **cargadas dos veces**: `mp-carrefour-finde` y `mp-carrefour-anses` eran la misma. Borré la duplicada.
+- **Banco Patagonia ya tiene topes**: 15% clásica tope $10.000, Plus 20% tope $15.000, Singular 30% tope $20.000. Antes figuraba "tope no publicado".
+
+### Brubank y Ualá
+
+**Brubank** (`/descuentos` da 404, es `/beneficios`) tiene 46 reintegros, pero repartidos en tres planes (One, Plus, Ultra) que el sitio muestra todos juntos en el HTML. Cargué **7**, las de rubros que sirven: Axion 30%, YPF 10% los lunes, Farmacity 30%, Cabify 40%, Taxi Premium 40%, Burger King 30% y Freddo 40%, todas con tope $6.000 y aclarando en la tarjeta qué da cada plan. No tiene supermercados.
+
+**Ualá**: el 50% en colectivos dejó de ser un dato flojo. La ficha oficial dice todo: **tope $15.000 por mes por tarjeta, del 17/08 al 30/09**, con Mastercard por NFC desde la billetera, en Dota, Sistema Independencia y SUBE Viajes. Pasó de baja a **alta**. Es la misma campaña de Mastercard que el 50% de Galicia.
+
+### Limpieza: 36 tarjetas mostraban notas internas al usuario
+
+36 promos de Banco Ciudad tenían en `requisitos` la frase *"La web no muestra el tope en el listado; hay que abrir la promo"*. Eso lo lee el usuario en la tarjeta de la app y no le sirve de nada. Lo saqué y le puse `tope_publicado: false`, que es la forma correcta de decir lo mismo.
+
+### Lo que quedó afuera a propósito
+
+- El **10% de ANSES en Día** y el **% de Credicoop**: el legal no los dice, están solo dentro de la imagen, y hoy no se pudieron leer imágenes.
+- Los **15% para empleados públicos de Carrefour** (miércoles y jueves): no aclaran con qué medio de pago se paga, así que no sirven.
+- **Banco de Corrientes** en Día (5% mié/jue y 30% con Más Banco): es regional y quedó para la próxima.
+- El **selector de día de Coto** y las **fichas por comercio de Ualá** todavía no se explotaron.
+
+### Sin cambios
+
+Las 27 promos que siguen con fecha vieja son las mismas de siempre: las que ninguna fuente confirma (Santander por prensa, las de Mercado Pago sin fuente propia, Ualá ChangoMás). **Todas ya estaban en confianza baja, así que la app no las muestra.** No se borró ninguna.
+
+También agregué al código de la app los colores de los cuatro medios nuevos (Carrefour Banco, Brubank, Banco del Sol y Sidecreer), que si no salían todos grises.
+
+---
+
 ## 2026-08-21 — Corrida diaria (arrancó el 20 a la noche y cruzó la medianoche)
 
 **249 promos, 218 visibles.** Se leyeron enteras Naranja X, Coto, Banco Ciudad, Personal Pay, la tabla oficial de Cuenta DNI en La Nación, Galicia y MODO, más las dos notas de iProfesional. **Ninguna fuente falló.**
