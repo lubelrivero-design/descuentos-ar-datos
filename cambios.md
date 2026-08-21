@@ -40,8 +40,21 @@ Se cargaron las 3 de cuotas. La fuente quedó marcada como **calidad baja** con 
 
 Dato técnico por si alguna vez se vuelve: el sitio tiene filtro `dia-semana`, que es el atajo para sacar los días sin abrir cada detalle (los detalles son cáscaras que llena JavaScript y no sirven para leer).
 
+### Supervielle: otros rubros (21 promos en total)
+Se leyeron combustible y farmacia. Lo mejor que apareció es **el descuento más alto de toda la app: 50% en todas las farmacias los martes** para jubilados que cobran en el banco, tope $6.000. También Farmacity online 20% los martes (tope $16.000), Farmaonline 6 cuotas y Shell 10% los domingos.
+
+Su listado de farmacias tiene 134 entradas, pero **87 son farmacias sueltas de Mendoza** con la misma promo (20% martes y miércoles). No se cargaron: sin provincia declarada no se pueden mostrar. Las tres genéricas cubren lo que sirve a nivel nacional.
+
+### Banco Patagonia: de 1 a 4
+Su portal `ahorrosybeneficios` publica día y vigencia, pero **los comercios están en imágenes** (se sacan del texto alternativo) y **el porcentaje cambia según el nivel de tarjeta** (Clásica, Plus, Singular). Se cargó el nivel base y los otros van aclarados.
+
+Entraron Carrefour 15% los miércoles, ChangoMás 15% los sábados y Coto Digital 20% los jueves. **Se dejaron afuera La Anónima y Cooperativa Obrera**: en el listado hay dos bloques del mismo día y vigencia, uno general y otro "EXCLUSIVO RÍO NEGRO", y no hay forma de saber cuál corresponde a cuál sin adivinar.
+
+### ICBC no tiene web usable
+`icbc.com.ar/beneficios` da 404, igual que BBVA. Sus promos siguen viniendo de Coto y de prensa.
+
 ### Lo que queda pendiente
-Comafi, Patagonia, Columbia, ICBC, BBVA, Ualá y TCI siguen con una o dos promos cada uno. De Supervielle faltan los otros rubros: combustible, farmacia, indumentaria y transporte.
+Comafi, Columbia, TCI, Ualá y BBVA siguen con una sola promo cada uno. De Supervielle faltan indumentaria, hogar, mascotas y turismo, que son rubros de menor uso diario.
 
 ---
 

@@ -5458,6 +5458,170 @@
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-08-10",
       "confianza": "media"
+    },
+    {
+      "id": "supervielle-shell-domingo",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "combustible",
+      "comercios": [
+        "Shell"
+      ],
+      "dias": [
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjeta de débito Supervielle.",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/combustible",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-farmacias-jubilados",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "farmacia",
+      "comercios": [
+        "Todas las farmacias adheridas"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 50,
+      "tope_monto": 6000,
+      "tope_periodo": "mensual",
+      "requisitos": "Solo para jubilados y pensionados que cobran en el banco, con tarjeta de débito. Es el descuento más alto de toda la app.",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-farmacity-online",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmacity online"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 16000,
+      "tope_periodo": "mensual",
+      "requisitos": "Comprando online y pagando con MODO, crédito o débito.",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "cuotas-supervielle-farmaonline-6",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmaonline"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 6,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Con tarjeta de crédito Supervielle, comprando online.",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "patagonia-carrefour-miercoles",
+      "medio": "patagonia",
+      "medio_nombre": "Banco Patagonia",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tarjeta Clásica. Plus 20% y Singular 30%. Si acreditás el sueldo en el banco: 20%, 25% y 35%. El sitio no publica el tope.",
+      "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "patagonia-changomas-sabado",
+      "medio": "patagonia",
+      "medio_nombre": "Banco Patagonia",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "dias": [
+        "sabado"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tarjeta Clásica o Plus. Singular 30%. El sitio no publica el tope.",
+      "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-12-31",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
+    },
+    {
+      "id": "patagonia-coto-digital-jueves",
+      "medio": "patagonia",
+      "medio_nombre": "Banco Patagonia",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto Digital"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Comprando online. Vale igual para Clásica, Plus y Singular. El sitio no publica el tope.",
+      "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-08-10",
+      "confianza": "alta"
     }
   ]
 }
