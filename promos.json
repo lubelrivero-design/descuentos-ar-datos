@@ -7528,6 +7528,105 @@
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
       "verificado": "2026-08-22",
       "confianza": "alta"
+    },
+    {
+      "id": "supervielle-carnicerias-mendoza",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "carnicerias",
+      "comercios": [
+        "Carnes Rizzo",
+        "Frigorífico Entre Las Praderas",
+        "Granja Benedetti",
+        "La Pradera",
+        "Graziotín"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, en las carnicerías adheridas de la provincia.",
+      "zona": "Mendoza",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/carnicerias-mendoza",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-carnicerias-san-luis",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "carnicerias",
+      "comercios": [
+        "Carnes El Rey",
+        "El Palomo",
+        "Gusto Campero",
+        "La Boutique de la Carne",
+        "La Cabaña",
+        "La Carnicería",
+        "La Pollería",
+        "Mercadito El Cordobés"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, en las carnicerías adheridas de la provincia.",
+      "zona": "San Luis",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/carnicerias-san-luis",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-atomo",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Átomo"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $25.000.",
+      "zona": "Mendoza",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "supervielle-aiello",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Aiello"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $25.000.",
+      "zona": "San Luis",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
     }
   ]
 }

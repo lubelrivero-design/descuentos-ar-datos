@@ -17,6 +17,25 @@ Ninguno publica topes, así que van con `tope_publicado: false`.
 - **Banco Entre Ríos**: era del mismo grupo, pero sus dominios (`bersa.com.ar` y `bancoentrerios.com.ar`) hoy redirigen a **otra empresa que no es el banco**. No usar.
 - **Bancor (Córdoba)**: 131 páginas, sin días en el listado y con los comercios dentro de imágenes. El filtro por rubro no responde. Córdoba es la provincia grande que sigue faltando y necesita otra estrategia.
 
+### Mendoza y San Luis: poco, pero verificado
+
+**307 promos, 278 visibles.**
+
+El plan era usar el filtro de provincia de Supervielle para rescatar las 9 cadenas regionales que habíamos dejado afuera. **No se pudo: el filtro no filtra.** Mendoza, Corrientes y Tierra del Fuego devuelven exactamente las mismas 48 promos. Quedó anotado en `fuentes.json` para que nadie vuelva a confiar en él.
+
+Lo que sí sirvió: el sitio tiene **rubros que él mismo etiqueta por provincia**, "Carnicerías Mendoza" y "Carnicerías San Luis". De ahí salieron dos promos agrupadas: 20% los martes con tope $10.000, en 5 carnicerías mendocinas y 8 puntanas.
+
+### 🚨 Por qué no alcanza con agrupar por cercanía en la lista
+
+Átomo y Aiello aparecen **pegados** en el listado de supermercados de Supervielle, con la misma promo y el mismo tope. La tentación era cargarlos juntos como Mendoza. Se verificó cada uno en la cadena misma:
+
+- **Átomo**: casa central en Guaymallén, **Mendoza**.
+- **Aiello**: 10 sucursales en la ciudad de **San Luis** y alrededores.
+
+Son de provincias distintas. Agruparlos habría mandado a los puntanos a un supermercado que no existe en su provincia. **Regla: la zona se verifica en la cadena, nunca se deduce de dónde aparece en el listado.**
+
+Las otras 7 regionales (Altué, AG Piazze, Cereales El Diamante, La Yunta, SOGO, Mercado Municipal, Europa) siguen afuera: no hay fuente que diga su provincia.
+
 ### Cambios en la app
 - **El onboarding ahora arranca por la provincia** y recién después muestra los medios de pago que existen ahí. Sin esto, sumar bancos provinciales dejaba una lista de 40 chips con bancos de otras puntas del país.
 - **Cuenta DNI ahora se muestra también en CABA.** La tiene cualquiera y los comercios adheridos están cruzando la General Paz; la tarjeta igual aclara "solo en Provincia de Buenos Aires". Al revés no: las promos de CABA no se muestran en provincia.
