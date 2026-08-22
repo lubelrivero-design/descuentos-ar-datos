@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21",
+  "actualizado": "2026-08-22",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -6892,6 +6892,642 @@
       ],
       "descuento_pct": 40,
       "requisitos": "Con Plan Ultra, todos los dias, tope $6.000. Con Plan Plus es 30% viernes, sabados y domingos, y con Plan One 20% los miercoles."
+    },
+    {
+      "id": "santa_fe-coto-jueves",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-27",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_fe-changomas-lunes",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-30",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_fe-dia-viernes",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-30",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_fe-la-anonima-viernes",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "La Anónima"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_fe-vea-viernes",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Vea"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-30",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_fe-jumbo-martes",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo"
+      ],
+      "dias": [
+        "martes",
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_fe-alvear-viernes",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Alvear"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-28",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_fe-supermercados-la-gallega-viernes",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supermercados La Gallega"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-12-31",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_fe-diarco-sabado",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_fe-makro-jueves",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Makro"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_fe-disco-viernes",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Disco"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-30",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "san_juan-changomas-lunes",
+      "medio": "san_juan",
+      "medio_nombre": "Banco San Juan",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "San Juan",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-30",
+      "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "san_juan-jumbo-jueves",
+      "medio": "san_juan",
+      "medio_nombre": "Banco San Juan",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo"
+      ],
+      "dias": [
+        "jueves",
+        "martes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "San Juan",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "san_juan-avicola-myriam-viernes",
+      "medio": "san_juan",
+      "medio_nombre": "Banco San Juan",
+      "rubro": "supermercados",
+      "comercios": [
+        "Avícola Myriam"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "San Juan",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-28",
+      "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "san_juan-disco-viernes",
+      "medio": "san_juan",
+      "medio_nombre": "Banco San Juan",
+      "rubro": "supermercados",
+      "comercios": [
+        "Disco"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "San Juan",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-30",
+      "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "san_juan-la-anonima-viernes",
+      "medio": "san_juan",
+      "medio_nombre": "Banco San Juan",
+      "rubro": "supermercados",
+      "comercios": [
+        "La Anónima"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "San Juan",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "san_juan-makro-jueves",
+      "medio": "san_juan",
+      "medio_nombre": "Banco San Juan",
+      "rubro": "supermercados",
+      "comercios": [
+        "Makro"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "San Juan",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "san_juan-vea-viernes",
+      "medio": "san_juan",
+      "medio_nombre": "Banco San Juan",
+      "rubro": "supermercados",
+      "comercios": [
+        "Vea"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "San Juan",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_cruz-market-sur-viernes",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "supermercados",
+      "comercios": [
+        "Market Sur"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-28",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_cruz-autoservicio-cerca-viernes",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "supermercados",
+      "comercios": [
+        "Autoservicio Cerca"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-28",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_cruz-coto-lunes",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_cruz-la-anonima-viernes",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "supermercados",
+      "comercios": [
+        "La Anónima"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_cruz-supermercados-dar-martes",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supermercados DAR"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-09-28",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_cruz-diarco-sabado",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-30",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_cruz-disco-viernes",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "supermercados",
+      "comercios": [
+        "Disco"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_cruz-vea-viernes",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "supermercados",
+      "comercios": [
+        "Vea"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
+    },
+    {
+      "id": "santa_cruz-jumbo-martes",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo"
+      ],
+      "dias": [
+        "martes",
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "verificado": "2026-08-22",
+      "confianza": "alta"
     }
   ]
 }

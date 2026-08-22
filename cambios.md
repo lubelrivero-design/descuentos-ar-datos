@@ -1,5 +1,26 @@
 # Cambios
 
+## 2026-08-22 — Primeros bancos provinciales: la app deja de ser porteña
+
+**303 promos, 274 visibles.** Hasta hoy, de 276 promos **una sola** era de una provincia que no fuera Buenos Aires o CABA. Ahora hay 27 más, de tres provincias.
+
+### El hallazgo: tres bancos, una sola receta
+Santa Fe, San Juan y Santa Cruz son del **grupo Petersen** y usan la misma plantilla, la misma ruta (`/beneficios-supermercados`) y el mismo formato de texto. Se leen sin tocar el DOM: el día y la vigencia están en texto plano. Quedó anotada como una sola fuente en `fuentes.json`.
+
+- **Santa Fe (11)**: Coto 30% los jueves, La Gallega 30% los viernes, Alvear 30% los viernes.
+- **San Juan (7)**: Jumbo 20% martes y jueves, Avícola Myriam 30% los viernes.
+- **Santa Cruz (9)**: Coto 30% los lunes, Market Sur y Autoservicio Cerca 30% los viernes.
+
+Ninguno publica topes, así que van con `tope_publicado: false`.
+
+### Dos que no salieron
+- **Banco Entre Ríos**: era del mismo grupo, pero sus dominios (`bersa.com.ar` y `bancoentrerios.com.ar`) hoy redirigen a **otra empresa que no es el banco**. No usar.
+- **Bancor (Córdoba)**: 131 páginas, sin días en el listado y con los comercios dentro de imágenes. El filtro por rubro no responde. Córdoba es la provincia grande que sigue faltando y necesita otra estrategia.
+
+### Cambios en la app
+- **El onboarding ahora arranca por la provincia** y recién después muestra los medios de pago que existen ahí. Sin esto, sumar bancos provinciales dejaba una lista de 40 chips con bancos de otras puntas del país.
+- **Cuenta DNI ahora se muestra también en CABA.** La tiene cualquiera y los comercios adheridos están cruzando la General Paz; la tarjeta igual aclara "solo en Provincia de Buenos Aires". Al revés no: las promos de CABA no se muestran en provincia.
+
 ## 2026-08-21 (tarde) — Segunda corrida: se abrieron cuatro fuentes nuevas
 
 **276 promos, 247 visibles** (venían 249 y 218). **Ninguna fuente falló.**

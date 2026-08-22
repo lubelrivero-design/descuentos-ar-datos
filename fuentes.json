@@ -67,6 +67,17 @@
   ],
   "bancos": [
     {
+      "id": "petersen", "nombre": "Grupo Petersen (Santa Fe, San Juan, Santa Cruz)",
+      "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "metodo": "navegador", "calidad": "excelente",
+      "nota": "TRES BANCOS PROVINCIALES CON UNA SOLA RECETA. Los tres usan la misma plantilla y la misma ruta /beneficios-supermercados: bancosantafe.com.ar, bancosanjuan.com y bancosantacruz.com. Sale todo en TEXTO PLANO, no hace falta tocar el DOM: el patron es '<N>% de descuento en <comercio>' + 'Todos los <dias>.' + 'Desde el <dd/mm/aaaa> hasta el <dd/mm/aaaa>'. NO publican topes. OJO 1: la ruta /beneficios da 404, es /beneficios-supermercados. OJO 2: Banco Entre Rios era del mismo grupo pero su dominio (bersa.com.ar y bancoentrerios.com.ar) hoy redirige a otra empresa que no es el banco: NO usarlo. OJO 3: cada banco tiene su propia zona, no son nacionales."
+    },
+    {
+      "id": "bancor", "nombre": "Bancor (Córdoba)", "url": "https://www.bancor.com.ar/promociones",
+      "metodo": "navegador", "calidad": "cara",
+      "nota": "Revisada el 22/08 sin exito. 131 paginas de promociones, sin dias en el listado y con los comercios metidos en imagenes. El filtro por rubro no responde al click programatico. clubbancor.com.ar no resuelve el dominio desde aca. Cordoba es la provincia grande que falta: necesita otra estrategia (quiza la app Bezza o prensa local). /beneficios da 404, es /promociones."
+    },
+    {
       "id": "ciudad",
       "nombre": "Banco Ciudad",
       "url": "https://www.bancociudad.com.ar/beneficios/",
