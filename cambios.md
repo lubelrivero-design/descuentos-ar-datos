@@ -36,6 +36,20 @@ Son de provincias distintas. Agruparlos habría mandado a los puntanos a un supe
 
 Las otras 7 regionales (Altué, AG Piazze, Cereales El Diamante, La Yunta, SOGO, Mercado Municipal, Europa) siguen afuera: no hay fuente que diga su provincia.
 
+### Córdoba: callejón sin salida, y conviene que quede escrito
+
+Se intentó a fondo y **no se cargó ni una promo**. Los cinco caminos que se probaron:
+
+1. **El listado de Bancor**: 131 páginas. El filtro por rubro sí funciona (`?rubro=super-e-hiper`), pero da 33 páginas de comercios chicos con cuotas, sin porcentajes.
+2. **Los avisos con %**: no dicen el día, y el comercio está dentro de la imagen.
+3. **La página de campaña** `/oferton-4-super-y-farmacias`: tenía 30%, pero **venció el 27 de julio**.
+4. **El buscador por comercio**: no es alcanzable por script, vive dentro del panel de Filtros colapsado.
+5. **clubbancor.com.ar**: el dominio no resuelve.
+
+Y el sexto, que es el que vale la pena contar: la nota que Google pone **primera** cuando buscás descuentos de Bancor es de `prensa.cba.gov.ar` y describe 5% con Cordobesa en Buenos Días, Cordiez y Almacor, con todo el detalle. **Es del 28 de diciembre de 2014.** Doce años. Sin la regla del año habría entrado como si fuera de este mes.
+
+Córdoba solo se va a poder cubrir con **la app Bezza** —que es app-only, igual que Mercado Pago— o con capturas de alguien que viva ahí. Quedó documentado en `fuentes.json` para no repetir el intento.
+
 ### Cambios en la app
 - **El onboarding ahora arranca por la provincia** y recién después muestra los medios de pago que existen ahí. Sin esto, sumar bancos provinciales dejaba una lista de 40 chips con bancos de otras puntas del país.
 - **Cuenta DNI ahora se muestra también en CABA.** La tiene cualquiera y los comercios adheridos están cruzando la General Paz; la tarjeta igual aclara "solo en Provincia de Buenos Aires". Al revés no: las promos de CABA no se muestran en provincia.

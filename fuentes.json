@@ -75,7 +75,7 @@
     {
       "id": "bancor", "nombre": "Bancor (Córdoba)", "url": "https://www.bancor.com.ar/promociones",
       "metodo": "navegador", "calidad": "cara",
-      "nota": "Revisada el 22/08 sin exito. 131 paginas de promociones, sin dias en el listado y con los comercios metidos en imagenes. El filtro por rubro no responde al click programatico. clubbancor.com.ar no resuelve el dominio desde aca. Cordoba es la provincia grande que falta: necesita otra estrategia (quiza la app Bezza o prensa local). /beneficios da 404, es /promociones."
+      "nota": "CALLEJON SIN SALIDA, revisado a fondo el 22/08. NO volver sin una fuente nueva. Lo que se probo y por que fallo: (1) /promociones tiene 131 paginas; el filtro por rubro SI funciona y la URL es ?rubro=super-e-hiper, pero da 33 paginas de comercios chicos con 'cuotas sin interes', sin porcentajes. (2) Los pocos avisos con % no dicen el dia y el comercio esta dentro de la imagen. (3) La pagina de campana /oferton-4-super-y-farmacias tenia 30% pero vencio el 27 de julio. (4) El buscador por comercio no es alcanzable por script (esta dentro del panel de Filtros colapsado). (5) clubbancor.com.ar no resuelve el dominio. (6) La nota del gobierno provincial que aparece primera en Google (prensa.cba.gov.ar, descuentos con Cordobesa y debito) es DE 2014: no usar. Cordoba solo se va a poder cubrir con la app Bezza (app-only, como Mercado Pago) o con capturas de un usuario cordobes."
     },
     {
       "id": "ciudad",
