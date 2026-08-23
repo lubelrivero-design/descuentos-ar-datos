@@ -149,6 +149,11 @@
   ],
   "comercios": [
     {
+      "id": "changomas", "nombre": "ChangoMás", "url": "https://www.masonline.com.ar/promociones-bancarias",
+      "metodo": "navegador", "calidad": "muy buena",
+      "nota": "OJO con el dominio: changomas.com.ar no responde, el sitio es masonline.com.ar. Trae cada promo con su tope y el LEGAL COMPLETO desplegado, que es donde estan los datos finos. TRUCO: solo muestra las promos del dia seleccionado; hay una fila de botones con las letras L M M J V S D (elementos hoja cuyo texto es una sola letra) y hay que clickear los siete de a uno, esperando ~1,8s. El patron del texto es '<N>\\n%\\nde descuento\\n<medio o tope>\\n<letra chica>'. Las promos vienen firmadas con un codigo entre parentesis: (MP) Mercado Pago, (P365) Patagonia 365, (CD) Credicuotas. (BC) y (EM) no se pudieron identificar: NO cargar esas sin saber de quien son. Sirve sobre todo para RESPALDAR promos que solo tenemos por prensa."
+    },
+    {
       "id": "coto",
       "nombre": "Coto",
       "url": "https://www.coto.com.ar/descuentos",

@@ -81,13 +81,19 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-23",
       "confianza": "media",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-23",
+          "nota": "coincide: 15% los martes pagando con QR, sin tope"
         }
       ]
     },
@@ -234,13 +240,19 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-23",
       "confianza": "media",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-23",
+          "nota": "coincide exacto: 35%, miércoles, tope $15.000 semanal, crédito Visa y Mastercard"
         }
       ]
     },
@@ -9776,6 +9788,67 @@
           "fecha": "2026-08-22"
         }
       ]
+    },
+    {
+      "id": "patagonia-changomas-miercoles",
+      "medio": "patagonia",
+      "medio_nombre": "Banco Patagonia",
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "requisitos": "Con tarjeta de crédito Patagonia, programa 365.",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-23"
+        }
+      ],
+      "verificado": "2026-08-23",
+      "confianza": "alta"
+    },
+    {
+      "id": "changomas-qr-finde",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "acumulable": false,
+      "requisitos": "Pagando con QR desde cualquier billetera virtual. Sin tope de reintegro. No acumulable con otras promociones.",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-23"
+        }
+      ],
+      "verificado": "2026-08-23",
+      "confianza": "alta"
     }
   ]
 }
