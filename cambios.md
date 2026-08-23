@@ -50,6 +50,16 @@ Y el sexto, que es el que vale la pena contar: la nota que Google pone **primera
 
 Córdoba solo se va a poder cubrir con **la app Bezza** —que es app-only, igual que Mercado Pago— o con capturas de alguien que viva ahí. Quedó documentado en `fuentes.json` para no repetir el intento.
 
+### Tucumán y el NOA: tampoco, y el patrón ya es claro
+
+Sin promos cargadas. Se probaron tres:
+
+- **Banco del Tucumán**: el dominio **no resuelve** (timeout de DNS). Y es del grupo Macro, cuyas promos ya cubrimos por MODO.
+- **Tarjeta Sucrédito**: es **la mejor candidata de todo el norte** — cubre Jujuy, Salta, Santiago del Estero y Tucumán, y **etiqueta cada promo con su provincia**. Pero el listado solo muestra provincia y rubro: el comercio y el día están dentro de las imágenes, y los `<img>` no tienen texto alternativo. Si algún día se pueden leer imágenes, esta fuente abre cuatro provincias de una sola vez.
+- **La Tarjeta de la Caja** (Caja Popular de Ahorros de Tucumán): las vigencias dicen "01/11 al 18/12". La página está desactualizada.
+
+**El patrón que se repite**: las provincias que faltan no es que no tengan promos, es que sus emisores las publican como imágenes o solo dentro de su app. Córdoba (Bezza), Tucumán (Sucrédito) y Mercado Pago tienen el mismo problema. Por eso el botón de "mandar una promo" que se agregó hoy no es un extra: **es la única vía realista para esas provincias**, y justamente sus usuarios son los más motivados a usarlo.
+
 ### Cambios en la app
 - **El onboarding ahora arranca por la provincia** y recién después muestra los medios de pago que existen ahí. Sin esto, sumar bancos provinciales dejaba una lista de 40 chips con bancos de otras puntas del país.
 - **Cuenta DNI ahora se muestra también en CABA.** La tiene cualquiera y los comercios adheridos están cruzando la General Paz; la tarjeta igual aclara "solo en Provincia de Buenos Aires". Al revés no: las promos de CABA no se muestran en provincia.
