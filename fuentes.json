@@ -36,10 +36,10 @@
     {
       "id": "cuenta_dni",
       "nombre": "Cuenta DNI",
-      "url": "https://cuentadni.bancoprovincia.com.ar/beneficios",
-      "metodo": "bloqueada",
-      "calidad": "no se puede leer",
-      "nota": "Certificado SSL vencido. Es la billetera mas usada en PBA, asi que se cubre con prensa (iProfesional e Infobae la detallan bien todos los meses). Conviene buscarle una fuente mejor."
+      "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+      "metodo": "navegador",
+      "calidad": "muy buena",
+      "nota": "ENCONTRADA el 23/08/2026 despues de semanas usando prensa. La fuente oficial NO esta en el subdominio cuentadni.bancoprovincia.com.ar (ese sigue con el certificado SSL vencido y tira error de red) sino DENTRO del sitio del banco, en /cuentadni/contenidos/cdniBeneficios/. Trae 23 promos con dia y porcentaje. TRUCO: el comercio NO esta en el texto, esta en el nombre del archivo de la imagen de cada tarjeta (ej 'logo_sodimac_200x130.png' -> Sodimac, 'dia_200_122' -> Dia). El porcentaje esta en .BEN_CON_nro y hay que subir ~7 niveles de padres hasta el contenedor que dice 'Conoce mas'. NO publica topes: para eso sigue sirviendo la tabla que reproduce La Nacion. Algunos iconos son genericos (icono_nfc, provincia, 3arroyosespecial) y no se pueden atribuir a un comercio: esos no se cargan."
     },
     {
       "id": "personal_pay",

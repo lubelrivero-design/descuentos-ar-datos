@@ -82,7 +82,7 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
       "verificado": "2026-08-23",
-      "confianza": "media",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
@@ -241,7 +241,7 @@
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
       "verificado": "2026-08-23",
-      "confianza": "media",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
@@ -1188,13 +1188,19 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/cuenta-dni-en-agosto-2026-como-y-cuando-son-las-promociones-de-carnicerias-nid09082026/",
-      "verificado": "2026-08-21",
-      "confianza": "media",
+      "verificado": "2026-08-23",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/cuenta-dni-en-agosto-2026-como-y-cuando-son-las-promociones-de-carnicerias-nid09082026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: Lunes a viernes 20%"
         }
       ]
     },
@@ -1258,13 +1264,19 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-21",
-      "confianza": "media",
+      "verificado": "2026-08-23",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: Todos los días 40%"
         }
       ]
     },
@@ -1288,13 +1300,19 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-21",
-      "confianza": "media",
+      "verificado": "2026-08-23",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: Sábado y domingo 25%"
         }
       ]
     },
@@ -1358,13 +1376,14 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.infobae.com/economia/2026/08/01/cuenta-dni-uno-por-uno-todos-los-descuentos-y-las-promociones-para-aprovechar-en-agosto-2026/",
-      "verificado": "2026-08-09",
-      "confianza": "baja",
+      "verificado": "2026-08-23",
+      "confianza": "alta",
       "fuentes": [
         {
-          "url": "https://www.infobae.com/economia/2026/08/01/cuenta-dni-uno-por-uno-todos-los-descuentos-y-las-promociones-para-aprovechar-en-agosto-2026/",
-          "nivel": 4,
-          "fecha": "2026-08-09"
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web oficial la lista: todos los días, 40%"
         }
       ]
     },
@@ -1388,13 +1407,19 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-21",
-      "confianza": "media",
+      "verificado": "2026-08-23",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: Martes y miércoles 15%"
         }
       ]
     },
@@ -3746,17 +3771,23 @@
       "requisitos": "Lunes y martes, sin tope de reintegro.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-23",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: Lunes y martes 10%"
         }
       ]
     },
@@ -3777,15 +3808,21 @@
       "requisitos": "Tope de $20.000 por persona y por semana.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-23",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: Martes 15%"
         }
       ]
     },
@@ -3804,17 +3841,23 @@
       "requisitos": "Sin tope de reintegro.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-23",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: Martes 15%"
         }
       ]
     },
@@ -3841,15 +3884,21 @@
       "requisitos": "Tope de $15.000 por comercio, por mes y por persona.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-23",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: Todos los días 30%"
         }
       ]
     },
@@ -3906,15 +3955,21 @@
       "requisitos": "En la tienda YPF Full, no en el combustible.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-23",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: Sábado y domingo 25%"
         }
       ]
     },
@@ -3934,17 +3989,23 @@
       "requisitos": "Sin tope de reintegro.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-23",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: Miércoles y jueves 10%"
         }
       ]
     },
@@ -3957,29 +4018,24 @@
         "Sodimac"
       ],
       "dias": [
-        "lunes",
-        "martes",
-        "miercoles",
-        "jueves",
-        "viernes",
-        "sabado",
-        "domingo"
+        "miercoles"
       ],
       "descuento_pct": 10,
       "requisitos": "Todo el mes, sin tope y acumula con otras promos.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-23",
       "fuentes": [
         {
-          "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-          "nivel": 4,
-          "fecha": "2026-08-21"
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web oficial dice miércoles, no todos los días"
         }
       ]
     },
@@ -4029,15 +4085,21 @@
       "requisitos": "Tope de $5.000 por miercoles y por persona.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-23",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: Miércoles 10%"
         }
       ]
     },
@@ -4058,44 +4120,21 @@
       "requisitos": "Tope de $6.000 por miercoles y por persona.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-23",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
-        }
-      ]
-    },
-    {
-      "id": "cuenta-dni-changomas",
-      "medio": "cuenta_dni",
-      "medio_nombre": "Cuenta DNI",
-      "rubro": "supermercados",
-      "comercios": [
-        "ChangoMas"
-      ],
-      "dias": [
-        "jueves"
-      ],
-      "descuento_pct": 20,
-      "requisitos": "Con Cuenta DNI en ChangoMas.",
-      "zona": "Provincia de Buenos Aires",
-      "fuente": "https://www.infobae.com/economia/2026/08/01/cuenta-dni-uno-por-uno-todos-los-descuentos-y-las-promociones-para-aprovechar-en-agosto-2026/",
-      "confianza": "baja",
-      "tope_monto": null,
-      "tope_periodo": null,
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-10",
-      "fuentes": [
+        },
         {
-          "url": "https://www.infobae.com/economia/2026/08/01/cuenta-dni-uno-por-uno-todos-los-descuentos-y-las-promociones-para-aprovechar-en-agosto-2026/",
-          "nivel": 4,
-          "fecha": "2026-08-10"
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: Miércoles 10%"
         }
       ]
     },
@@ -4121,17 +4160,23 @@
       "requisitos": "3 cuotas sin interes todos los dias en comercios adheridos.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-23",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23",
+          "nota": "la web del banco dice: 3 cuotas sin interés"
         }
       ]
     },
@@ -9844,6 +9889,66 @@
         {
           "url": "https://www.masonline.com.ar/promociones-bancarias",
           "nivel": 2,
+          "fecha": "2026-08-23"
+        }
+      ],
+      "verificado": "2026-08-23",
+      "confianza": "alta"
+    },
+    {
+      "id": "cuenta-dni-carrefour-miercoles",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 10,
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con QR desde la app Cuenta DNI. El listado del banco no muestra el tope.",
+      "zona": "Provincia de Buenos Aires",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+      "fuentes": [
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-23"
+        }
+      ],
+      "verificado": "2026-08-23",
+      "confianza": "alta"
+    },
+    {
+      "id": "cuenta-dni-changomas-jueves",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con QR desde la app Cuenta DNI. El listado del banco no muestra el tope.",
+      "zona": "Provincia de Buenos Aires",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+      "fuentes": [
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
           "fecha": "2026-08-23"
         }
       ],
