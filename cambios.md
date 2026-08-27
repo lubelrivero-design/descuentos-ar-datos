@@ -1,5 +1,40 @@
 # Cambios
 
+## 2026-08-27 — Se recupera la corrida después de cuatro días caída
+
+**321 promos, 294 visibles.** Corrida hecha a mano, para tapar el agujero.
+
+### Primero: por qué no había datos desde el 23
+`ultima-corrida.txt` había quedado en `inicio 2026-08-22 09:34` y nunca llegó a `fin OK`. Mirando la corrida del 24 se ve el patrón: arranca, lee el instructivo, hace dos llamadas a la consola y se muere ahí. **La tarea pedía un permiso que no estaba habilitado y, como no hay nadie del otro lado para darlo, se colgaba en silencio.** Es lo mismo que pasó el 6, el 7 y el 9 de agosto: entonces se habilitaron git y el navegador, pero no `node` (que hace falta para el auditor) ni escribir archivos por consola.
+
+Se habilitaron esos permisos y se agregó al `agente-diario.md` una sección **"Con qué herramientas trabajar"**, con la lista corta de lo que se puede usar y la instrucción de no inventar comandos nuevos: si hace falta uno, se anota acá en vez de intentarlo. También, que la corrida lea el `ultima-corrida.txt` **antes** de pisarlo, para dejar rastro cuando la anterior se murió.
+
+### La corrección más cara: el tope del Hipotecario
+Teníamos **25% los martes en ChangoMás con tope $30.000**, sacado de una nota de iProfesional. La página del propio banco dice otra cosa: el tope general es **$10.000**, y los $30.000 son solo para clientes Búho. Además no es "MODO con Visa o Mastercard": es **débito Visa** pagando por QR. Nivel 1 le gana a nivel 4 y listo — pero es exactamente el tipo de error que hace que alguien llene el changuito de más.
+
+### ChangoMás, los siete días
+`masonline.com.ar` publica cada promo con día, tope y legal completo. Se leyó día por día (el listado cambia al tocar cada letra) y salieron **9 altas**: el 15% de MásClub los miércoles y jueves sin tope, el **10% de ANSES todos los días** (tope $12.000 por compra y $50.000 al mes), el 10% de empleados públicos, Credicoop con Cabal 30% los jueves, ICBC 20%, YOY 20%, Tarjeta SOL 20%, y el 30% de Patagonia Singular los sábados.
+
+Cinco correcciones, todas de letra chica que faltaba: el 20% de MODO los lunes **pide compra mínima de $75.000** (no lo teníamos y es la diferencia entre que sirva o no), Patagonia los sábados tiene tope $10.000 mensual, Comafi sube a $15.000 si es Único Black, el 30% de ICBC es solo para cuenta sueldo, y Cuenta DNI en ChangoMás vale en la provincia, CABA y Viedma.
+
+### Día: los legales son la mejor fuente que hay
+En `diaonline` el porcentaje está adentro de una imagen, pero cada tarjeta tiene un **"Ver Legales"** que se abre con el texto entero. Trece promos quedaron respaldadas con el comercio, entre ellas el **35% del Banco Ciudad los lunes** (que se paga con QR MODO desde App Ciudad **o desde Buepp**) y el 25% del Banco del Sol los martes.
+
+Alta nueva: **Banco de Corrientes**, que no teníamos por ningún lado — 30% los miércoles y jueves pagando desde Más Banco, tope $20.000 mensual, hasta fin de año.
+
+### Carrefour: tres altas
+El **15% de Mercado Pago los jueves, sin tope**, pagando con dinero en cuenta y mínimo $15.000 (esta es de las mejores del mes y no la teníamos). El 15% para empleados públicos, que vale en seis provincias y siete ciudades sueltas. Y el 10% de Club LA NACIÓN, solo online.
+
+### Lo que quedó sin cargar
+- **Cuenta DNI tiene 4 promos nuevas que no se pueden leer.** El listado oficial muestra un 30% los jueves y otro 30% jueves y viernes pagando con NFC, un 15% de lunes a jueves en localidades especiales y un 40% todos los días. El "Conocé más" de cada tarjeta no abre desde afuera, así que no hay ni rubro ni tope. Sin eso no se cargan: quedan como el pendiente número uno.
+- **MODO en Día, viernes y sábados**: el legal da el tope ($20.000 por banco por mes, compras de $35.000 o más) pero **no dice el porcentaje**, que está adentro de la imagen. Ya la teníamos con 20% de antes; se le sumó la fuente sin tocar el número.
+- **Carrefour, el 10% online**: la tarjeta dice "válido en el mes de agosto" y el cartel de arriba dice "¡Especial Jueves!". Se dejó como todos los días, que es lo que dice la promo, pero conviene volver a mirarlo.
+
+### Limpieza
+Se sacaron dos duplicados: Cuenta DNI en Carrefour estaba cargada dos veces, y el plan Inicial de Naranja X que había agregado como fila aparte ya vivía adentro de los requisitos de la promo principal.
+
+Auditoría: **0 promos sin fuente, 0 sin verificar hace más de 10 días.** Quedan 15 apoyadas en una sola nota de prensa (venían de 20) y una de riesgo sin cruzar (`santander-transporte`).
+
 ## 2026-08-22 — Primeros bancos provinciales: la app deja de ser porteña
 
 **303 promos, 274 visibles.** Hasta hoy, de 276 promos **una sola** era de una provincia que no fuera Buenos Aires o CABA. Ahora hay 27 más, de tres provincias.

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22",
+  "actualizado": "2026-08-27",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -81,7 +81,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
@@ -240,7 +240,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
@@ -279,7 +279,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
@@ -396,12 +396,12 @@
       "descuento_pct": 5,
       "tope_monto": 20000,
       "tope_periodo": "mensual",
-      "requisitos": "Solo jubilados y pensionados, pagando con MODO con credito Visa o Mastercard o debito Mastercard. Es 5% adicional, tope $5.000 por semana.",
+      "requisitos": "Para jubilados y pensionados que cobran por el Banco Nación, en un pago con crédito Visa/Mastercard o débito Mastercard del BNA, pagando por MODO o BNA+. Tope $5.000 por semana y $20.000 por mes. No vale en las tiendas online.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
@@ -459,20 +459,28 @@
       "descuento_pct": 20,
       "tope_monto": 25000,
       "tope_periodo": "mensual",
-      "requisitos": "Compra minima $75.000, pagando con MODO.",
+      "requisitos": "Pagando desde MODO o desde la app de un banco adherido. La compra tiene que ser de $75.000 o más. El tope de $25.000 por mes corre por banco, así que se puede repetir con otro. Acumulable con las demás promociones.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-21",
-      "confianza": "media",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "20% los lunes desde MODO o apps de bancos adheridos, tope $25.000 mensual por banco, compra mínima $75.000"
         }
-      ]
+      ],
+      "compra_minima": 75000,
+      "acumulable": true
     },
     {
       "id": "modo-jumbo-lunes",
@@ -525,7 +533,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
@@ -669,22 +677,35 @@
         "martes"
       ],
       "descuento_pct": 25,
-      "tope_monto": 30000,
+      "tope_monto": 10000,
       "tope_periodo": "mensual",
-      "requisitos": "Pagando por MODO con Visa o Mastercard.",
+      "requisitos": "Con tarjeta de débito Visa del Hipotecario, pagando con QR desde la app BH o desde MODO. El tope es de $10.000 por mes; para clientes Búho, $30.000.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
+      "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-21",
-      "confianza": "media",
+      "fuente": "https://www.hipotecario.com.ar/alianzas-bh/changomas/",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.hipotecario.com.ar/alianzas-bh/changomas/",
+          "nivel": 1,
+          "fecha": "2026-08-26",
+          "nota": "la web del banco: 25% martes, tope $10.000 mensual ($30.000 Búho), débito Visa por QR MODO, 01/07 al 31/08"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "25% los martes, débito Visa, tope $10.000 mensual ($30.000 Búho)"
         }
-      ]
+      ],
+      "tope_publicado": true
     },
     {
       "id": "icbc-changomas-jueves",
@@ -700,18 +721,24 @@
       "descuento_pct": 30,
       "tope_monto": 15000,
       "tope_periodo": "semanal",
-      "requisitos": "Solo clientes con Cuenta Sueldo, pagando por MODO con Visa o Mastercard.",
+      "requisitos": "Solo para quienes cobran el sueldo en ICBC. Pagando por MODO o desde ICBC Mobile Banking, con crédito Visa/Mastercard en un pago o débito Visa.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-21",
-      "confianza": "media",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "30% los jueves para cuenta sueldo, tope $15.000 semanal"
         }
       ]
     },
@@ -739,13 +766,19 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "Plan Turbo: 25% los martes, tope $9.500 semanal"
         }
       ]
     },
@@ -768,13 +801,19 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-21",
-      "confianza": "media",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "Plan Épico: 30% los martes, tope $12.000 semanal"
         }
       ]
     },
@@ -867,7 +906,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1188,7 +1227,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/cuenta-dni-en-agosto-2026-como-y-cuando-son-las-promociones-de-carnicerias-nid09082026/",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1199,7 +1238,7 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
+          "fecha": "2026-08-27",
           "nota": "la web del banco dice: Lunes a viernes 20%"
         }
       ]
@@ -1264,7 +1303,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1275,7 +1314,7 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
+          "fecha": "2026-08-27",
           "nota": "la web del banco dice: Todos los días 40%"
         }
       ]
@@ -1300,7 +1339,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1311,7 +1350,7 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
+          "fecha": "2026-08-27",
           "nota": "la web del banco dice: Sábado y domingo 25%"
         }
       ]
@@ -1376,14 +1415,14 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.infobae.com/economia/2026/08/01/cuenta-dni-uno-por-uno-todos-los-descuentos-y-las-promociones-para-aprovechar-en-agosto-2026/",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
-          "nota": "la web oficial la lista: todos los días, 40%"
+          "fecha": "2026-08-27",
+          "nota": "la web del banco dice: Todos los días 40%"
         }
       ]
     },
@@ -1407,7 +1446,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1418,7 +1457,7 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
+          "fecha": "2026-08-27",
           "nota": "la web del banco dice: Martes y miércoles 15%"
         }
       ]
@@ -3746,12 +3785,18 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-27",
+          "nota": "la web del banco dice: Lunes 10%"
         }
       ]
     },
@@ -3776,7 +3821,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -3786,7 +3831,7 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
+          "fecha": "2026-08-27",
           "nota": "la web del banco dice: Lunes y martes 10%"
         }
       ]
@@ -3846,7 +3891,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -3856,7 +3901,7 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
+          "fecha": "2026-08-27",
           "nota": "la web del banco dice: Martes 15%"
         }
       ]
@@ -3887,7 +3932,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -3897,7 +3942,7 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
+          "fecha": "2026-08-27",
           "nota": "la web del banco dice: Todos los días 30%"
         }
       ]
@@ -3958,7 +4003,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -3968,7 +4013,7 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
+          "fecha": "2026-08-27",
           "nota": "la web del banco dice: Sábado y domingo 25%"
         }
       ]
@@ -3994,7 +4039,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4004,7 +4049,7 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
+          "fecha": "2026-08-27",
           "nota": "la web del banco dice: Miércoles y jueves 10%"
         }
       ]
@@ -4029,42 +4074,13 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
-          "nota": "la web oficial dice miércoles, no todos los días"
-        }
-      ]
-    },
-    {
-      "id": "cuenta-dni-carrefour",
-      "medio": "cuenta_dni",
-      "medio_nombre": "Cuenta DNI",
-      "rubro": "supermercados",
-      "comercios": [
-        "Carrefour"
-      ],
-      "dias": [
-        "miercoles"
-      ],
-      "descuento_pct": 10,
-      "requisitos": "Sin tope en sucursales; comprando online el minimo es $15.000. Si sos jubilado sumas 5% mas, con tope de $5.000.",
-      "zona": "Provincia de Buenos Aires",
-      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "confianza": "alta",
-      "tope_monto": null,
-      "tope_periodo": null,
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
-      "fuentes": [
-        {
-          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
-          "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27",
+          "nota": "la web del banco dice: Miércoles 10%"
         }
       ]
     },
@@ -4088,7 +4104,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4098,7 +4114,7 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
+          "fecha": "2026-08-27",
           "nota": "la web del banco dice: Miércoles 10%"
         }
       ]
@@ -4123,7 +4139,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4133,7 +4149,7 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
+          "fecha": "2026-08-27",
           "nota": "la web del banco dice: Miércoles 10%"
         }
       ]
@@ -4165,7 +4181,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4175,8 +4191,8 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23",
-          "nota": "la web del banco dice: 3 cuotas sin interés"
+          "fecha": "2026-08-27",
+          "nota": "la web del banco dice: 3 cuotas sin interés todos los días"
         }
       ]
     },
@@ -4518,18 +4534,24 @@
       "cuotas": 3,
       "requisitos": "3 cuotas sin interes con tarjetas Visa Galicia.",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "confianza": "media",
+      "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "3 cuotas sin interés de jueves a domingo de agosto, presencial"
         }
       ]
     },
@@ -6535,7 +6557,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6817,21 +6839,27 @@
         "sabado"
       ],
       "descuento_pct": 15,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "tope_publicado": false,
-      "requisitos": "Con tarjeta Clásica o Plus. Singular 30%. El sitio no publica el tope.",
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de crédito Patagonia Clásica o Plus, Visa o Mastercard.",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "Clásica y Plus: 15% los sábados, tope $10.000 mensual"
         }
       ]
     },
@@ -7861,18 +7889,24 @@
       "tope_monto": 12000,
       "tope_periodo": "semanal",
       "tope_publicado": false,
-      "requisitos": "Pagando con QR por MODO, con tarjeta de crédito o débito Comafi. Vale presencial y online. Tope de $12.000 por usuario por semana.",
+      "requisitos": "Con débito Visa o crédito Visa y Mastercard del Comafi. Tope $12.000 por semana; si tenés Comafi Único Black, $15.000.",
       "zona": "Nacional",
       "vigencia_desde": "2026-02-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.modo.com.ar/promos/20-comafi-changomas-feb26",
-      "verificado": "2026-08-21",
-      "confianza": "media",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.modo.com.ar/promos/20-comafi-changomas-feb26",
           "nivel": 3,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "20% los martes, tope $12.000 semanal ($15.000 para Único Black)"
         }
       ]
     },
@@ -8212,7 +8246,7 @@
       "confianza": "alta",
       "zona": "Nacional",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -8235,14 +8269,14 @@
       ],
       "descuento_pct": 20,
       "tope_monto": 10000,
-      "tope_periodo": "sin_aclarar",
+      "tope_periodo": "por compra",
       "requisitos": "En un pago con credito Visa o Mastercard de Banco Columbia. Tope $10.000 por transaccion. Solo en sucursales.",
       "vigencia_desde": "2026-04-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "confianza": "alta",
       "zona": "Nacional",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -8271,7 +8305,7 @@
       "confianza": "alta",
       "zona": "Nacional",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -8301,7 +8335,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -8331,7 +8365,7 @@
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "confianza": "alta",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -8361,7 +8395,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -8390,7 +8424,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -8442,13 +8476,13 @@
       "descuento_pct": 20,
       "tope_monto": 10000,
       "tope_periodo": "semanal",
-      "requisitos": "En un pago con la Cuenta Digital o la credito Mastercard de Carrefour Banco. Tope $10.000 por semana. Solo comprando online o por la app, no en las tiendas.",
+      "requisitos": "Con la Cuenta Digital o la tarjeta de crédito Mastercard de Carrefour Banco, en un pago. Solo para compras online en carrefour.com.ar o la app: en las sucursales no vale. Acumulable con las demás promociones.",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -8634,7 +8668,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -9860,7 +9894,7 @@
           "fecha": "2026-08-23"
         }
       ],
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "confianza": "alta"
     },
     {
@@ -9892,7 +9926,7 @@
           "fecha": "2026-08-23"
         }
       ],
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "confianza": "alta"
     },
     {
@@ -9919,10 +9953,11 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23"
+          "fecha": "2026-08-27",
+          "nota": "la web del banco dice: Miércoles 10%"
         }
       ],
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
       "confianza": "alta"
     },
     {
@@ -9939,9 +9974,9 @@
       "medio_nombre": "Cuenta DNI",
       "tope_monto": null,
       "tope_periodo": null,
-      "tope_publicado": false,
-      "requisitos": "Pagando con QR desde la app Cuenta DNI. El listado del banco no muestra el tope.",
-      "zona": "Provincia de Buenos Aires",
+      "tope_publicado": true,
+      "requisitos": "Pagando en la caja con Cuenta DNI (no sirve el autocobro). Sin tope. Vale en las sucursales de la provincia de Buenos Aires, CABA y Viedma. No acumulable con otras promociones bancarias.",
+      "zona": "AMBA",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
@@ -9949,11 +9984,416 @@
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
-          "fecha": "2026-08-23"
+          "fecha": "2026-08-27",
+          "nota": "la web del banco dice: Jueves 20%"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "20% los jueves sin tope, en sucursales de Buenos Aires, CABA y Viedma"
         }
       ],
-      "verificado": "2026-08-23",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "acumulable": false
+    },
+    {
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-04-01",
+      "vigencia_hasta": "2026-12-31",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "masclub-changomas",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "dias": [
+        "miercoles",
+        "jueves"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "acumulable": false,
+      "requisitos": "Hay que ser socio de MásClub, que es gratis. Sin tope. Vale presencial y online. No acumulable con otras promociones.",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "15% miércoles y jueves para socios de MásClub, sin tope, 01/04 al 31/12"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "changomas-anses",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 50000,
+      "tope_periodo": "mensual",
+      "acumulable": false,
+      "requisitos": "Para quienes cobran de ANSES, mostrando el DNI. Vale con cualquier medio de pago, en un pago, sobre una lista larga de almacén, lácteos, bebidas y perfumería. Tope $12.000 por compra y $50.000 por mes.",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "10% todos los días para beneficiarios de ANSES, tope $12.000 por transacción y $50.000 mensual"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "changomas-empleados-publicos",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 12000,
+      "tope_periodo": "por compra",
+      "acumulable": false,
+      "requisitos": "Para empleados municipales y provinciales, mostrando DNI y recibo de sueldo. Una compra por día, en un pago. No vale en la sucursal de Luján.",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "10% todos los días para empleados municipales y provinciales, tope $12.000 por transacción"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "credicoop-changomas-jueves-cabal",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 9000,
+      "tope_periodo": "semanal",
+      "requisitos": "Con crédito o débito Cabal Credicoop, pagando con QR desde Credicoop Móvil o MODO, en un pago.",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "30% los jueves con Cabal Credicoop por QR MODO, tope $9.000 semanal, 01/07 al 30/09"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-12-31",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "icbc-changomas-jueves-general",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "semanal",
+      "requisitos": "Con crédito Visa o Mastercard ICBC en un pago, o débito Visa, pagando por MODO o desde ICBC Mobile Banking.",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "20% los jueves con tarjetas ICBC, tope $10.000 semanal, 01/07 al 31/12"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "patagonia-changomas-sabado-singular",
+      "medio": "patagonia",
+      "medio_nombre": "Banco Patagonia",
+      "dias": [
+        "sabado"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "requisitos": "Con tarjeta Singular de crédito, Visa o Mastercard.",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "Singular: 30% los sábados, tope $15.000 mensual"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-12-31",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "yoy-changomas-jueves",
+      "medio": "yoy",
+      "medio_nombre": "YOY",
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "semanal",
+      "requisitos": "Con crédito Mastercard YOY o débito Visa YOY, pagando por MODO o desde la app YOY.",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "20% los jueves con tarjetas YOY, tope $10.000 semanal, 01/07 al 31/12"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "sol-changomas-jueves",
+      "medio": "sol",
+      "medio_nombre": "Tarjeta SOL",
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "semanal",
+      "requisitos": "Con tarjeta de crédito SOL. En vez del 20% podés elegir 4 cuotas sin interés.",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "20% los jueves con crédito SOL, tope $10.000 semanal (o 4 cuotas sin interés)"
+        }
+      ]
+    },
+    {
+      "id": "corrientes-dia-mie-jue",
+      "medio": "corrientes",
+      "medio_nombre": "Banco de Corrientes",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "miercoles",
+        "jueves"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "El 30% es pagando desde la app Más Banco, con tope de $20.000 por mes. Si pagás derecho con crédito Visa/Mastercard o débito Visa del Banco de Corrientes es 5% en hasta 3 cuotas sin interés, ahí sin tope.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-01-01",
+      "vigencia_hasta": "2026-12-31",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+      "fuentes": [
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "miércoles y jueves: 5% en 3 cuotas sin tope, o 30% desde Más Banco con tope $20.000 mensual, 01/01 al 31/12"
+        }
+      ],
+      "verificado": "2026-08-27",
       "confianza": "alta"
+    },
+    {
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "mp-carrefour-jueves-15",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "acumulable": true,
+      "requisitos": "Escaneando el QR con la app de Mercado Pago y eligiendo \"dinero en cuenta\" (no sirve con tarjeta). Sin tope, compra mínima $15.000. Vale en Hiper, Market y Express; no en Maxi ni online.",
+      "fuentes": [
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "15% los jueves con dinero en cuenta de Mercado Pago, sin tope, mínimo $15.000, hasta el 31/08"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "carrefour-empleados-publicos-15",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "acumulable": false,
+      "requisitos": "Para empleados públicos (nacionales, provinciales o municipales). En alimentos secos, congelados, lácteos, fiambres, bebidas, limpieza y perfumería. Solo en Santa Fe, Formosa, Neuquén, Salta, Río Negro, Tierra del Fuego y en Mar del Plata, Tandil, Balcarce, Pergamino, Bahía Blanca, Olavarría y San Nicolás. En Hiper y Market, no en Express ni Maxi.",
+      "fuentes": [
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "15% los jueves para empleados públicos, tope $20.000 mensual, en seis provincias y siete ciudades, hasta el 31/08"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "club-lanacion-carrefour-10",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "dias": [
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "acumulable": false,
+      "requisitos": "Con el cupón de Club LA NACIÓN, hay que estar registrado 24 horas antes. Sin tope, un uso por día. Solo online con \"entrega inmediata\"; en las sucursales no vale.",
+      "fuentes": [
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "10% de martes a domingo con Club LA NACIÓN, sin tope, solo online con entrega inmediata"
+        }
+      ]
     }
   ]
 }
