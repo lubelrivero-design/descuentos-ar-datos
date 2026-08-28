@@ -1,5 +1,30 @@
 # Cambios
 
+## 2026-08-27 (noche) — Primera corrida con el texto de GitHub Actions, y confirma que la corrida de la mañana ya había dejado casi todo al día
+
+**323 promos, 2 altas, 4 correcciones.** Esta es la primera vez que corre el workflow nuevo (`.github/workflows/recolectar.yml`): abre las ocho fuentes principales con un navegador de verdad media hora antes y deja el texto en `crudo/`, porque desde acá la red de la nube sigue bloqueando salida a bancos y comercios (lo mismo que ayer). Las ocho fuentes se leyeron bien (`leido: 2026-08-27` en las ocho, ninguna con `ERROR:`).
+
+Al comparar contra `promos.json` se vio que la corrida manual de esta mañana (la que recuperó cuatro días caídos) ya había usado Carrefour, ChangoMás, Día y Cuenta DNI a fondo, así que la mayoría de lo que trajo el `crudo/` de esta noche fue **confirmar** esos mismos datos con una lectura fresca (mismo día, mejor: cruce en el tiempo). Igual aparecieron cosas nuevas:
+
+### Altas
+- **Banco Columbia en ChangoMás, 20% los martes y sábados, tope $10.000.** Es el código `(BC)` del legal de ChangoMás que `fuentes.json` tenía anotado como "no identificado" desde hace rato — hoy el legal completo lo confirmó: es Banco Columbia, con tarjeta de crédito Visa o Mastercard.
+- **Carrefour, 15% los lunes con Club LA NACIÓN en tienda** (no en Carrefour Maxi, no online, sin tope). Ya teníamos el 10% de Club LA NACIÓN de martes a domingo (ese es solo online); este es un cupón distinto que se presenta en caja y no estaba cargado.
+
+### Correcciones
+- **Credicoop en Día, miércoles: era 20%, es 25%.** El legal de Día no dice el porcentaje en texto plano, pero da el ejemplo "compra de $60.000 → reintegro de $15.000 (tope máximo)": eso es 25%, no 20%. El tope semanal de $15.000 ya estaba bien.
+- **Carrefour, el 10% online: era todos los días, es solo los jueves.** Esto ya había quedado anotado como pendiente ayer ("la tarjeta dice 'válido en el mes de agosto' pero el cartel de arriba dice 'Especial Jueves'"). Hoy el legal completo lo resolvió: "VÁLIDO TODOS LOS JUEVES DE AGOSTO 2026, EXCLUSIVO ONLINE". Se corrigió a jueves solamente.
+- **Cuatro cuotas de Naranja X que no coincidían con su propio id.** `cuotas-naranja_x-on-city-12`, `-cetrogar-12`, `-fr-vega-12` y `-musimundo-12` tenían guardado 14 o 15 cuotas en vez de las 12 que dice su propio id (y que confirma el listado de hoy). Se corrigieron a 12.
+- Se sacó un `tope_publicado: true` que había quedado mal puesto en `club-lanacion-carrefour-10`: la promo es "sin tope" y ese campo se usa solo cuando SÍ hay tope pero no se sabe el monto. Contradecía el propio texto de `requisitos`.
+
+### Fuentes que no sirvieron esta vez (no se tocaron sus promos)
+- **Coto**: el `crudo/coto.txt` de hoy solo trajo el carrusel de "cuotas sin interés" genéricas (American Express, Visa/Mastercard), no las tarjetas de descuento bancario por día que describe `fuentes.json` (`.promo-card` con banco, día y %). Puede ser que el receta de recolección no haya alcanzado a clickear los días de la semana. Las ~35 promos de Coto (Banco Ciudad, ICBC, Credicoop, Supervielle, etc.) quedaron sin verificar hoy — llevan 6 días, todavía lejos del límite de 10.
+- **Credicoop** (su propio sitio, `bancocredicoop.coop/beneficios`): el texto que trajo el navegador perdió justo lo que hace falta — qué día está "activo" (la clase CSS `active` no sobrevive a una lectura de solo texto) y el nombre del comercio (que sale del `alt` de la imagen, no del texto visible). Quedó una lista de "Supermercados 20% de ahorro" repetida 15 veces sin poder saber cuál es cuál. No se tocaron las 16 promos de Credicoop.
+- **MODO**: el listado sigue mostrando solo el título de cada promo ("30% de reintegro en ChangoMás", "25% de reintegro en Jumbo, Disco y Vea", etc.), sin abrir cada una. Todas las que se alcanzan a identificar por nombre ya están cargadas por otro lado. Sigue pendiente automatizar la apertura de cada promo si se quiere aprovechar esta fuente a fondo.
+- **Naranja X**: el listado que trajo hoy el navegador estaba en la pestaña de "viajes / electro / hogar", no en "supermercados" — no sirvió para reverificar los días de Coto/ChangoMás/Dia/Jumbo con Naranja X (que siguen dependiendo de que alguien entre a la ficha de cada comercio, como ya está anotado en `fuentes.json`). Sí sirvió para las cuotas de electro (arriba).
+
+### Auditoría
+`node tools/validar.js --arreglar`: 0 sin fuente, 0 sin verificar hace más de 10 días, confianzas alineadas con sus fuentes. Sigue el mismo pendiente de ayer: 15 promos visibles con una sola nota de prensa y 1 de riesgo sin cruzar (`santander-transporte`) — ninguna se pudo respaldar hoy porque son de bancos que no están entre las ocho fuentes que trae el workflow (Macro, Hipotecario, Mercado Pago, Santander, Cuenta DNI ferias/buffet).
+
 ## 2026-08-28 — Corrida sin datos: la red de la nube bloquea las ocho fuentes
 
 **321 promos, sin cambios.** No se pudo leer ninguna fuente. No es el problema de siempre (una herramienta sin habilitar que cuelga la corrida en silencio) — esta vez `npm run recolectar` corrió entera, sin colgarse, y las ocho páginas dieron el mismo error: `net::ERR_TUNNEL_CONNECTION_FAILED`.

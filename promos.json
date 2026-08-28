@@ -2810,13 +2810,13 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.naranjax.com/promociones",
           "nivel": 1,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -2846,13 +2846,13 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.naranjax.com/promociones",
           "nivel": 1,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -2874,7 +2874,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 15,
+      "cuotas": 12,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -2882,13 +2882,13 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.naranjax.com/promociones",
           "nivel": 1,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -2910,7 +2910,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 14,
+      "cuotas": 12,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -2918,13 +2918,13 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.naranjax.com/promociones",
           "nivel": 1,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -2946,7 +2946,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 15,
+      "cuotas": 12,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -2954,13 +2954,13 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.naranjax.com/promociones",
           "nivel": 1,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -3711,7 +3711,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 14,
+      "cuotas": 12,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -3719,13 +3719,13 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.naranjax.com/promociones",
           "nivel": 1,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -4305,12 +4305,12 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -4405,12 +4405,12 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -4472,12 +4472,12 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -4618,14 +4618,14 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
         {
           "url": "https://www.naranjax.com/promociones",
           "nivel": 1,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -6549,10 +6549,10 @@
       "dias": [
         "miercoles"
       ],
-      "descuento_pct": 20,
+      "descuento_pct": 25,
       "tope_monto": 15000,
       "tope_periodo": "semanal",
-      "requisitos": "Escaneando el QR de MODO y pagando desde la app Banca Credicoop o MODO, con tarjeta Cabal Credicoop. En un pago. Tope $15.000 por miercoles.",
+      "requisitos": "Escaneando el QR de MODO y pagando desde la app Banca Credicoop o MODO, con tarjeta Cabal Credicoop. En un pago. Tope $15.000 por miercoles (una compra de $60.000 ya llega al tope).",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
@@ -6563,7 +6563,8 @@
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27",
+          "nota": "el legal da el ejemplo $60.000 de compra -> $15.000 de reintegro, eso da 25% no 20%"
         }
       ]
     },
@@ -6817,13 +6818,13 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -6899,7 +6900,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "confianza": "alta",
       "id": "cuotas-naranja_x-whirlpool-12",
       "medio": "naranja_x",
@@ -6925,7 +6926,7 @@
         {
           "url": "https://www.naranjax.com/promociones",
           "nivel": 1,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -8453,12 +8454,12 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -8487,7 +8488,7 @@
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -8511,12 +8512,12 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -8541,12 +8542,12 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -8571,12 +8572,12 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -8602,12 +8603,12 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -8633,12 +8634,12 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-27",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27"
         }
       ]
     },
@@ -8651,18 +8652,12 @@
         "Carrefour"
       ],
       "dias": [
-        "lunes",
-        "martes",
-        "miercoles",
-        "jueves",
-        "viernes",
-        "sabado",
-        "domingo"
+        "jueves"
       ],
       "descuento_pct": 10,
       "tope_monto": 8000,
       "tope_periodo": "semanal",
-      "requisitos": "Con cualquier medio de pago, exclusivo comprando online. Tope $8.000 por semana.",
+      "requisitos": "Con cualquier medio de pago, exclusivo comprando online (no vale en sucursales). Solo los jueves. Tope $8.000 por semana.",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "zona": "Nacional",
@@ -8673,7 +8668,8 @@
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
-          "fecha": "2026-08-21"
+          "fecha": "2026-08-27",
+          "nota": "el legal completo dice \"VÁLIDO TODOS LOS JUEVES DE AGOSTO 2026\", no todos los dias como decia el resumen"
         }
       ]
     },
@@ -10369,7 +10365,6 @@
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "verificado": "2026-08-27",
       "confianza": "alta",
-      "tope_publicado": true,
       "id": "club-lanacion-carrefour-10",
       "medio": "cualquiera",
       "medio_nombre": "Cualquier medio de pago",
@@ -10392,6 +10387,67 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "10% de martes a domingo con Club LA NACIÓN, sin tope, solo online con entrega inmediata"
+        }
+      ]
+    },
+    {
+      "id": "club-lanacion-carrefour-lunes-15",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Con el cupón de Club LA NACIÓN presentado en caja, hay que estar registrado 24 horas antes. Sin tope. En tiendas Hipermercados Carrefour, Market y Express (no vale en Carrefour Maxi ni online).",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "15% los lunes con Club LA NACION en tienda, sin tope"
+        }
+      ]
+    },
+    {
+      "id": "columbia-changomas-mar-sab-20",
+      "medio": "columbia",
+      "medio_nombre": "Banco Columbia",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "dias": [
+        "martes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "por compra",
+      "requisitos": "En un pago con tarjeta de credito Visa o Mastercard de Banco Columbia. Tope $10.000 por cuenta. Vale en sucursales y en la tienda online.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-04-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "verificado": "2026-08-27",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-27",
+          "nota": "codigo (BC) en el legal, identificado como Banco Columbia"
         }
       ]
     }
