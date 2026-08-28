@@ -1,5 +1,21 @@
 # Cambios
 
+## 2026-08-28 — Corrida sin datos: la red de la nube bloquea las ocho fuentes
+
+**321 promos, sin cambios.** No se pudo leer ninguna fuente. No es el problema de siempre (una herramienta sin habilitar que cuelga la corrida en silencio) — esta vez `npm run recolectar` corrió entera, sin colgarse, y las ocho páginas dieron el mismo error: `net::ERR_TUNNEL_CONNECTION_FAILED`.
+
+Antes de tocar nada se investigó la causa. El proxy de salida de este entorno en la nube (`http://127.0.0.1:37877`) contesta **403 "policy denial"** para cualquier sitio que no sea GitHub, el registro de npm o algún otro dominio de la lista blanca — se confirmó con `curl` directo a `coto.com.ar` (403) y también probando `WebFetch` contra la misma URL, que devolvió `EGRESS_BLOCKED`. O sea: no es Playwright, no es Chromium, no es una receta rota — **la política de red de este entorno no deja salir a ningún sitio de banco, billetera o super.** Ni ChangoMás, ni Día, ni Carrefour, ni Cuenta DNI, ni Naranja X, ni Credicoop, ni MODO, ni Coto.
+
+Esto es distinto de lo que rompió las corridas del 6, 7, 9 y 24 al 26 de agosto (permisos de herramienta sin habilitar) y hace falta un arreglo distinto: **Lucía tiene que revisar la política de red saliente (network egress policy) del entorno en la nube donde corre esta tarea programada**, en la configuración del entorno en claude.ai/code, y permitir salida HTTPS a los ocho dominios de `tools/recolectar.js` (o abrir la red entera si no hay forma de listarlos uno por uno). Mientras tanto, cada corrida programada va a repetir este mismo bloqueo.
+
+Se hizo el resto de lo que no depende de la red:
+- Se movió el checkout de `descuentos-ar-datos` a `www/datos` (había quedado como carpeta hermana).
+- `npm ci` — sin problemas.
+- Se ajustó `tools/recolectar.js` para que use el Chromium que ya viene instalado en este entorno (`/opt/pw-browsers/chromium`) en vez de bajar uno nuevo, porque la versión que pide Playwright por default no está y bajarla también está bloqueado por la misma política de red. Sin este cambio, cada receta se hubiera colgado en la etapa de descarga del navegador en lugar de fallar rápido y con el error de red — así que el diagnóstico de arriba no hubiera sido tan claro.
+- `node tools/validar.js --arreglar`: no encontró nada para corregir (0 sin fuente, 0 fuera de fecha por más de 10 días, confianzas ya alineadas). Sigue habiendo 15 promos visibles con una sola nota de prensa y 1 de riesgo sin cruzar (`santander-transporte`), igual que ayer — no se les pudo salir a buscar respaldo porque justamente eso requiere red.
+- No se tocó `promos.json`: sin poder leer ninguna fuente, no hay con qué comparar, y una fuente no legible nunca borra sus promos.
+- `git push` en `www/datos`: no hizo falta, no hay commit porque no hay cambios de datos que publicar.
+
 ## 2026-08-27 — Se recupera la corrida después de cuatro días caída
 
 **321 promos, 294 visibles.** Corrida hecha a mano, para tapar el agujero.
