@@ -1,5 +1,45 @@
 # Cambios
 
+## 2026-08-28 — El workflow creció a 41 fuentes, tres de las "muy buenas" se cayeron justo hoy, y aparece Cencopay como medio nuevo
+
+**364 promos (era 323): 41 altas, 1 corrección de tope, 37 confirmaciones con fuente fresca.**
+
+### El cron de las 7 no disparó, lo tuve que activar a mano
+`www/js` — el workflow `.github/workflows/recolectar.yml` tiene el cron en `0 10 * * *` UTC (07:00 ARG) para dejar el `crudo/` listo media hora antes de esta corrida. Hoy no disparó solo (a las 10:38 UTC seguía sin correr desde ayer a la noche). Lo activé a mano desde la API de GitHub Actions (`workflow_dispatch`, que es un disparador legítimo del propio workflow, no el recolector local prohibido). Tardó ~4 minutos en vez de los ~2 de siempre porque el workflow creció: ya no son las 8 fuentes originales, son **41** (`tools/fuentes-recetas.js`, commit de ayer "Recolector con dos ejes: 23 comercios + 18 bancos, 40 andan"). **`www/datos/fuentes.json` quedó desactualizado**: sigue listando solo las 25 fuentes viejas y no menciona ninguna de las nuevas (Jumbo, Disco, Vea, Diarco, Maxiconsumo, Sodimac, Farmacity, Farmarket, La Anónima, Axion, Shell, YPF, ICBC, BNA, Comafi, Hipotecario, Burger King, Patagonia, McDonald's, Musimundo, Dr. Ahorro, Easy, Yaguar, Vital). Vale la pena que alguien lo ponga al día.
+
+### Fuentes que se cayeron justo hoy (no se tocaron sus promos)
+Tres fuentes "muy buena" que ayer funcionaban perfecto hoy devolvieron `(no se pudo leer nada)`: **Carrefour, ChangoMás y Día**. También cayeron **La Anónima** (403 Forbidden), **Santander** (timeout, como ya viene pasando), **YPF** ("página no disponible"), **Comafi** (verificación anti-bot de Cloudflare) y **Frávega** (403 de CloudFront). Puede ser goteo de la reescritura grande del recolector de ayer, o bloqueo temporal — no se pudo determinar la causa desde acá. Sus promos existentes quedaron sin tocar.
+
+### Tres fuentes perdieron el día activo de cada tarjeta (dato degradado, no se cargó)
+**Banco Ciudad, Supervielle y Credicoop** — las tres más grandes del proyecto — hoy trajeron el texto correcto pero **sin la marca de qué día está resaltado** en cada tarjeta (la clase CSS `active` no sobrevive a esta lectura). Las 107 tarjetas de Ciudad, las 49 de Supervielle y las 68 de Credicoop vinieron con los 7 días idénticos en cada una, así que sería inventar el día real. **No se cargó ninguna promo nueva de estas tres fuentes** ni se tocaron los días que ya teníamos (que sí vienen de una lectura anterior con el DOM real). Habría que volver a la receta de recolección y revisar por qué se perdió esa marca — antes andaba bien.
+
+**Coto** tampoco sirvió de nuevo: el `crudo/coto.txt` de hoy solo trae cuotas sin interés por marca de tarjeta (Visa/Mastercard/Amex/Cabal), sin ningún % de descuento bancario y sin poder saber el día activo. Mismo problema que la corrida anterior.
+
+### Altas (41)
+- **Cencopay** (la cuenta/tarjeta propia de Cencosud) aparece como medio nuevo, confirmado igual en Jumbo, Disco y Vea: 25% los lunes con Cencopay Cuenta (tope $15.000) y 20% + 3 cuotas los miércoles online con la tarjeta.
+- **Tarjeta Clarín 365 + Cencopay** en Jumbo y Disco: 20% lunes y jueves (15% por la tarjeta + 5% por Cencopay).
+- **Banco Patagonia** en Jumbo/Disco/Vea: 30% los sábados, tope $20.000 mensual (con Visa crédito).
+- **Cuenta DNI en Mostaza**: 25% pagando con dinero en cuenta (tope $8.000 semanal) y 30% pagando con NFC (tope $15.000 semanal), jueves y viernes, hasta el 11/12.
+- **Banco Hipotecario en Optilook SB**: 25% los lunes, tope $10.000 — confirma que el tope real es $10.000 y no los $30.000 que fueron un error histórico del proyecto.
+- **Naranja X**: 20%+14 cuotas en Viajes Naranja X y 20%+9 cuotas en Aerolíneas Argentinas, ambas del 24 al 30/08.
+- **Banco Macro**: 20% en McDonald's pagando sin contacto (NFC/Google Pay/Apple Pay), 50% en pases mensuales de transporte, 30% los sábados en "movilidad urbana" (la fuente no dice con qué app, confianza media hasta confirmar), y hasta 35% en PedidosYa Plus (lunes/martes/viernes).
+- **Diarco**: 20% con MODO los viernes (tope $20.000 semanal, solo sucursales seleccionadas), 20% con Banco Comafi de lunes a viernes (tope $15.000 semanal, exclusivo clientes con cuenta), y 20% con Credicuotas en la primera compra (tope $8.000).
+- **Brubank**: se agregaron los planes **Plus y One** que faltaban (22 reintegros nuevos) más 4 reintegros del plan Ultra que no estaban (Rapanui, Cerini, Le Pain Quotidien, Simplicity). Antes solo teníamos 7 del plan Ultra.
+
+### Correcciones
+- **Personal Pay en Diarco (jueves/viernes, 20%)**: no tenía tope cargado, hoy el legal de Diarco lo confirmó en $7.000 semanal.
+
+### Confirmadas con fuente de hoy (sin cambios de datos)
+Cuenta DNI (11 promos: cercanía, librerías, farmacias, YPF Full, gastronomía, garrafas, marcas destacadas, ferias, Sodimac, cuotas), Banco Santa Fe (10 de las 11 que ya teníamos — el archivo de Petersen solo trajo la página 1 de 21 resultados, faltó Coto), Galicia (7: Starbucks, Mimo & Co, Jumbo, Bridgestone, Rex, CCKonex, combustible), Brubank (los 7 del plan Ultra que ya estaban), Hipotecario en Jumbo/Disco/Vea.
+
+**Ojo con `cuenta-dni-universidades`**: la fuente de hoy dice tope $6.000 y nosotros tenemos $4.000 cargado desde antes. Mismo nivel de fuente (Cuenta DNI oficial contra sí misma en otro día) → gana el menor, así que se dejó $4.000 y quedó marcada para reconfirmar.
+
+### Auditoría
+`node tools/validar.js --arreglar`: 0 sin fuente, 0 sin verificar hace más de 10 días. Quedan 13 promos visibles con una sola fuente de prensa (la mayoría ya venían de antes: varias de Macro, Mercado Pago y MODO) y 1 de riesgo sin cruzar (`santander-transporte`, 30%+). Cola de trabajo para los próximos días.
+
+### Nota aparte
+El symlink `www/datos` (paso 0 del instructivo) queda sin trackear en `descuentos-ar` porque el `.gitignore` tiene `www/datos/` con barra final, que solo matchea directorios y no symlinks — no se commiteó, es solo un artefacto de este entorno. Se lo dejo anotado por si alguna vez conviene arreglar el patrón del `.gitignore`.
+
 ## 2026-08-27 (noche) — Primera corrida con el texto de GitHub Actions, y confirma que la corrida de la mañana ya había dejado casi todo al día
 
 **323 promos, 2 altas, 4 correcciones.** Esta es la primera vez que corre el workflow nuevo (`.github/workflows/recolectar.yml`): abre las ocho fuentes principales con un navegador de verdad media hora antes y deja el texto en `crudo/`, porque desde acá la red de la nube sigue bloqueando salida a bancos y comercios (lo mismo que ayer). Las ocho fuentes se leyeron bien (`leido: 2026-08-27` en las ocho, ninguna con `ERROR:`).

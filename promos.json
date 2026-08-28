@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27",
+  "actualizado": "2026-08-28",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -655,13 +655,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-21",
-      "confianza": "media",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -1227,7 +1232,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/cuenta-dni-en-agosto-2026-como-y-cuando-son-las-promociones-de-carnicerias-nid09082026/",
-      "verificado": "2026-08-27",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1240,6 +1245,11 @@
           "nivel": 1,
           "fecha": "2026-08-27",
           "nota": "la web del banco dice: Lunes a viernes 20%"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -1303,7 +1313,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-27",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1316,6 +1326,11 @@
           "nivel": 1,
           "fecha": "2026-08-27",
           "nota": "la web del banco dice: Todos los días 40%"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -1339,7 +1354,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-27",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1352,6 +1367,11 @@
           "nivel": 1,
           "fecha": "2026-08-27",
           "nota": "la web del banco dice: Sábado y domingo 25%"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -1380,13 +1400,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-21",
-      "confianza": "media",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -1415,7 +1440,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.infobae.com/economia/2026/08/01/cuenta-dni-uno-por-uno-todos-los-descuentos-y-las-promociones-para-aprovechar-en-agosto-2026/",
-      "verificado": "2026-08-27",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1423,6 +1448,11 @@
           "nivel": 1,
           "fecha": "2026-08-27",
           "nota": "la web del banco dice: Todos los días 40%"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -1627,13 +1657,18 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "tope_publicado": false,
       "fuentes": [
         {
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -1663,13 +1698,18 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "tope_publicado": false,
       "fuentes": [
         {
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -1693,7 +1733,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "cuotas": 3,
       "tope_publicado": false,
       "fuentes": [
@@ -1701,6 +1741,11 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -1730,7 +1775,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "cuotas": 3,
       "tope_publicado": false,
       "fuentes": [
@@ -1738,6 +1783,11 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -1764,12 +1814,17 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-10",
       "vigencia_hasta": "2026-09-10",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "fuentes": [
         {
           "url": "https://www.galicia.ar/personas/promociones/promocion-combustible",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -3386,13 +3441,18 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -3422,13 +3482,18 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -3821,7 +3886,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-27",
+      "verificado": "2026-08-28",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -3833,6 +3898,11 @@
           "nivel": 1,
           "fecha": "2026-08-27",
           "nota": "la web del banco dice: Lunes y martes 10%"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -3932,7 +4002,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-27",
+      "verificado": "2026-08-28",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -3944,6 +4014,11 @@
           "nivel": 1,
           "fecha": "2026-08-27",
           "nota": "la web del banco dice: Todos los días 30%"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -4003,7 +4078,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-27",
+      "verificado": "2026-08-28",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4015,6 +4090,11 @@
           "nivel": 1,
           "fecha": "2026-08-27",
           "nota": "la web del banco dice: Sábado y domingo 25%"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -4039,7 +4119,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-27",
+      "verificado": "2026-08-28",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4051,6 +4131,11 @@
           "nivel": 1,
           "fecha": "2026-08-27",
           "nota": "la web del banco dice: Miércoles y jueves 10%"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -4074,13 +4159,18 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-27",
+      "verificado": "2026-08-28",
       "fuentes": [
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-27",
           "nota": "la web del banco dice: Miércoles 10%"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -4181,7 +4271,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-27",
+      "verificado": "2026-08-28",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4193,6 +4283,11 @@
           "nivel": 1,
           "fecha": "2026-08-27",
           "nota": "la web del banco dice: 3 cuotas sin interés todos los días"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -5440,14 +5535,19 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
-      "tope_monto": null,
-      "tope_periodo": null,
+      "verificado": "2026-08-28",
+      "tope_monto": 7000,
+      "tope_periodo": "semanal",
       "fuentes": [
         {
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -8682,7 +8782,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "id": "brubank-axion-30",
       "rubro": "combustible",
@@ -8705,6 +8805,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -8717,7 +8822,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "id": "brubank-ypf-lunes-10",
       "rubro": "combustible",
@@ -8734,6 +8839,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -8746,7 +8856,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "id": "brubank-farmacity-30",
       "rubro": "farmacia",
@@ -8769,6 +8879,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -8781,7 +8896,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "id": "brubank-cabify-40",
       "rubro": "transporte",
@@ -8804,6 +8919,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -8816,7 +8936,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "id": "brubank-taxi-premium-40",
       "rubro": "transporte",
@@ -8839,6 +8959,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -8851,7 +8976,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "id": "brubank-burger-king-30",
       "rubro": "gastronomia",
@@ -8874,6 +8999,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -8886,7 +9016,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "id": "brubank-freddo-40",
       "rubro": "gastronomia",
@@ -8909,6 +9039,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -8962,13 +9097,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-30",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -8993,13 +9133,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-30",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -9024,13 +9169,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -9056,13 +9206,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-30",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -9087,13 +9242,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -9117,13 +9277,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-28",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -9147,13 +9312,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -9178,13 +9348,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -9208,13 +9383,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -9239,13 +9419,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-30",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-08-28",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     },
@@ -10448,6 +10633,1342 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "codigo (BC) en el legal, identificado como Banco Columbia"
+        }
+      ]
+    },
+    {
+      "id": "cuenta-dni-mostaza-jue-vie-25",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Mostaza"
+      ],
+      "dias": [
+        "jueves",
+        "viernes"
+      ],
+      "descuento_pct": 25,
+      "tope_monto": 8000,
+      "tope_periodo": "semanal",
+      "requisitos": "Pagando presencial en Mostaza con dinero en cuenta de Cuenta DNI. No acumulable con otras promociones vigentes sobre la misma compra.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-13",
+      "vigencia_hasta": "2026-12-11",
+      "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "cuenta-dni-mostaza-nfc-jue-vie-30",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Mostaza"
+      ],
+      "dias": [
+        "jueves",
+        "viernes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 15000,
+      "tope_periodo": "semanal",
+      "requisitos": "Pagando presencial en Mostaza con Cuenta DNI usando NFC (sin contacto), con tarjeta Visa crédito o débito habilitada en Cuenta DNI, desde celular Android (no disponible en iOS). No acumulable con otras promociones vigentes sobre la misma compra.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-13",
+      "vigencia_hasta": "2026-12-11",
+      "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "hipotecario-optilook-lunes-25",
+      "medio": "hipotecario",
+      "medio_nombre": "Banco Hipotecario",
+      "rubro": "opticas",
+      "comercios": [
+        "Optilook SB"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 25,
+      "tope_monto": 10000,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "requisitos": "Pagando con tarjeta de débito Banco Hipotecario, los lunes, en Optilook SB.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.hipotecario.com.ar/alianzas-bh/",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.hipotecario.com.ar/alianzas-bh/",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "naranja_x-viajes-24-30ago-20",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "viajes",
+      "comercios": [
+        "Viajes Naranja X"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 14,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "20% de descuento más 14 cuotas sin interés pagando con tarjeta de crédito Naranja X en Viajes Naranja X.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-24",
+      "vigencia_hasta": "2026-08-30",
+      "fuente": "https://www.naranjax.com/promociones",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "naranja_x-aerolineas-24-30ago-20",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "viajes",
+      "comercios": [
+        "Aerolíneas Argentinas"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 9,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "20% de descuento más 9 cuotas sin interés pagando con tarjeta de crédito Naranja X en Aerolíneas Argentinas.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-24",
+      "vigencia_hasta": "2026-08-30",
+      "fuente": "https://www.naranjax.com/promociones",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "cencopay-cuenta-jumbo-disco-vea-lunes-25",
+      "medio": "cencopay",
+      "medio_nombre": "Cencopay Cuenta",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo",
+        "Disco",
+        "Vea"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 25,
+      "tope_monto": 15000,
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "25% de reintegro pagando con Cencopay Cuenta, exclusivo presencial (no vale online), los días lunes.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-28"
+        },
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "cencopay-jumbo-disco-vea-miercoles-online-20",
+      "medio": "cencopay",
+      "medio_nombre": "Cencopay (tarjeta de crédito Cencosud)",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo",
+        "Disco",
+        "Vea"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 3,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "20% de descuento + 3 cuotas sin interés, exclusivo compra online, pagando con Cencopay, los miércoles con entrega a elección. Excluye electro, rodados, librería, carnes, lácteos, marcas propias y bodegas seleccionadas.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-01-01",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-28"
+        },
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "clarin365-cencopay-jumbo-disco-20",
+      "medio": "clarin365_cencopay",
+      "medio_nombre": "Tarjeta Clarín 365 + Cencopay",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo",
+        "Disco"
+      ],
+      "dias": [
+        "lunes",
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "15% mostrando la tarjeta Clarín 365 (socio Jumbo Más) + 5% adicional pagando con Cencopay = 20% combinado. Presencial y online, solo lunes y jueves, únicamente consumo familiar.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "patagonia-jumbo-disco-vea-sabado-30",
+      "medio": "patagonia",
+      "medio_nombre": "Banco Patagonia",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo",
+        "Disco",
+        "Vea"
+      ],
+      "dias": [
+        "sabado"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "requisitos": "30% de descuento con tarjetas de crédito Visa de Banco Patagonia, los días sábado.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-04-04",
+      "vigencia_hasta": "2026-08-31",
+      "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "macro-mcdonalds-nfc-20",
+      "medio": "macro",
+      "medio_nombre": "Banco Macro",
+      "rubro": "gastronomia",
+      "comercios": [
+        "McDonald's"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Pagando sin contacto desde el celular con MODO NFC, Google Pay o Apple Pay con tarjeta Macro asociada, todos los días.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.macro.com.ar/macrobeneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.macro.com.ar/macrobeneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "macro-transporte-pases-50",
+      "medio": "macro",
+      "medio_nombre": "Banco Macro",
+      "rubro": "transporte",
+      "comercios": [
+        "Pases mensuales de transporte"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 50,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Pagando tu pase mensual de transporte con tarjeta de Crédito o Débito Visa Macro.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.macro.com.ar/macrobeneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.macro.com.ar/macrobeneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "macro-movilidad-sabado-30",
+      "medio": "macro",
+      "medio_nombre": "Banco Macro",
+      "rubro": "transporte",
+      "comercios": [
+        "Movilidad urbana (sin especificar app/comercio)"
+      ],
+      "dias": [
+        "sabado"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "30% de ahorro moviéndote por la ciudad, pagando con tarjetas de Crédito Macro, los sábados. La fuente no especifica con qué app o comercio de transporte.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.macro.com.ar/macrobeneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.macro.com.ar/macrobeneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "macro-pedidosya-plus-35",
+      "medio": "macro",
+      "medio_nombre": "Banco Macro",
+      "rubro": "delivery",
+      "comercios": [
+        "PedidosYa Plus"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "viernes"
+      ],
+      "descuento_pct": 35,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Hasta 35% de ahorro exclusivo para usuarios Plus de PedidosYa, pagando con Banco Macro, lunes, martes y viernes.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.macro.com.ar/macrobeneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.macro.com.ar/macrobeneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "modo-diarco-viernes-20",
+      "medio": "modo",
+      "medio_nombre": "MODO",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco (sucursales seleccionadas)"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 20000,
+      "tope_periodo": "semanal",
+      "requisitos": "20% OFF los viernes pagando con MODO, solo en sucursales seleccionadas. Acumulable con otras ofertas.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "comafi-diarco-20",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco Barrio",
+        "Diarco Mayorista"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 15000,
+      "tope_periodo": "semanal",
+      "requisitos": "Pagando con tarjetas Visa débito o Visa/Mastercard crédito, en un pago, a través de la app MODO. Exclusivo para clientes titulares de cuenta Comafi (Ahorro, Global, Classic, Premium, Platinum o Único).",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "credicuotas-diarco-20",
+      "medio": "credicuotas",
+      "medio_nombre": "Credicuotas",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco Barrio",
+        "Diarco Mayorista"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 8000,
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Solo en la primera compra pagando con la línea de crédito de Credicuotas desde la app. No es un beneficio recurrente.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-rapanui-ultra-40",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Ultra",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Rapanui"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 40,
+      "tope_monto": 6000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "Con tu Plan Ultra, pagando con tarjeta de crédito Brubank, todos los días. Tope de reintegro: $6000.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-cerini-ultra-50",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Ultra",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Cerini"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 50,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "Con tu Plan Ultra, pagando con tarjeta de crédito Brubank, todos los días. Tope de reintegro: $10000.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-lpq-ultra-40",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Ultra",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Le Pain Quotidien"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 40,
+      "tope_monto": 6000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "Con tu Plan Ultra, pagando con tarjeta de crédito Brubank, todos los días. Tope de reintegro: $6000.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-simplicity-ultra-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Ultra",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Simplicity"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 6000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "Con tu Plan Ultra, pagando con tarjeta de crédito Brubank, todos los días. Tope de reintegro: $6000.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-axion-plus-20",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "combustible",
+      "comercios": [
+        "Axion Energy"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, viernes y sabado y domingo.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-burgerking-plus-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Burger King"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, viernes y sabado y domingo.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-cabify-plus-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "transporte",
+      "comercios": [
+        "Cabify"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, viernes y sabado y domingo.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-cervelar-plus-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Cervelar"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, viernes y sabado y domingo.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-cerini-plus-50",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Cerini"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 50,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, todos los días.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-farmacity-plus-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmacity"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, viernes y sabado y domingo.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-lpq-plus-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Le Pain Quotidien"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, viernes y sabado y domingo.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-simplicity-plus-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Simplicity"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, viernes y sabado y domingo.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-ypf-plus-lunes-10",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "combustible",
+      "comercios": [
+        "App YPF"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, lunes.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-rapanui-plus-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Rapanui"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, viernes y sabado y domingo.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-taxipremium-plus-40",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "transporte",
+      "comercios": [
+        "Taxi Premium"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 40,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, todos los días.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-axion-one-martes-10",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "combustible",
+      "comercios": [
+        "Axion Energy"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, martes.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-burgerking-one-20",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Burger King"
+      ],
+      "dias": [
+        "lunes",
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, lunes y viernes.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-cervelar-one-miercoles-20",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Cervelar"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, miercoles.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-taxipremium-one-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "transporte",
+      "comercios": [
+        "Taxi Premium"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, todos los días.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-farmacity-one-viernes-20",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmacity"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, viernes.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-lpq-one-miercoles-20",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Le Pain Quotidien"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, miercoles.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-simplicity-one-viernes-20",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Simplicity"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, viernes.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-ypf-one-lunes-10",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "combustible",
+      "comercios": [
+        "App YPF"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, lunes.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-freddo-one-miercoles-20",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Freddo"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, miercoles.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
+        }
+      ]
+    },
+    {
+      "id": "brubank-rapanui-one-miercoles-20",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Rapanui"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, miercoles.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-28",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-28"
         }
       ]
     }
