@@ -1,5 +1,46 @@
 # Cambios
 
+## 2026-08-29 — El cron de las 7 volvió a no disparar; Brubank se llenó de promos del Plan One que faltaban
+
+**387 promos (era 364): 25 altas, 4 correcciones, 2 bajas, ~70 confirmaciones con fuente fresca.**
+
+### El cron de las 7 de la mañana otra vez no disparó
+Igual que ayer: el workflow `.github/workflows/recolectar.yml` tiene el cron en `0 10 * * *` UTC (07:00 ARG), pensado para dejar `crudo/` listo media hora antes de esta corrida (07:30 ARG). Hoy, a las 07:35 ARG (10:35 UTC), todavía no había corrido — el único run con `event: schedule` en todo el historial del workflow es el de ayer a las 18:03 ARG, once horas tarde. Lo disparé a mano con `workflow_dispatch` (vía la API de GitHub Actions, que es un disparador legítimo del propio workflow, no el recolector local prohibido), esperé los ~4 minutos que tarda y seguí con el texto fresco de hoy (`leido: 2026-08-29` en 41 de 43 archivos). **Esto ya pasó dos días seguidos: vale la pena que alguien revise por qué el cron de GitHub Actions no está disparando solo en este repo** — puede ser el retraso conocido de GitHub en repos de poca actividad, pero si se repite un tercer día ya no es casualidad.
+
+### Altas (25)
+- **Cuenta DNI en Toledo y Mini Toledo, especial de fin de semana**: 15% sábado 29 y domingo 30 de agosto sin tope, distinto del 15% de los martes que ya teníamos para Supermercados Toledo (son promos separadas, con días distintos).
+- **Brubank, 22 promos nuevas** que estaban en el sitio pero no se habían cargado: 1 del Plan Ultra (The Food Market, 30%, tope $6.000), 6 del Plan Plus (Get The Look, The Food Market, Vuena, Kusta Barber, Deniro, Molina) y 15 del Plan One —el plan gratuito, el más accesible— (Eyelit, Get The Look, Mala Peluquería, The Food Market, Vuena, Natura, Avon, Nic, Deniro, Molina, Educación IT, Baires IT, Los Silos Hotel, Melincue Resort, Biomac). Quedaron **12 comercios del Plan One sin cargar** por no poder identificar con confianza su rubro o de qué se trata el comercio (Selma, Celeste, Celeste Digital, ACF, Alto Parque, Multipoint, CUI, Enter The Exit, Open Park, Mundo Bienestar, Club Newman, Playmobil): mejor dejarlos afuera que adivinar.
+- **Banco Patagonia en Jumbo/Disco/Vea, dos escalones que no teníamos**: 35% los sábados en compras de supermercado con Visa (tope $25.000 mensual, distinto del 30% general que ya teníamos) y 30% los viernes con American Express (tope $40.000 por toda la vigencia, no mensual).
+
+### Correcciones (4)
+- **Banco Santa Fe, ChangoMás y Día**: la vigencia que teníamos cargada terminaba el 30/08, pero la página de hoy dice 31/08 para las dos. Se corrigió.
+- **Banco Santa Fe, Supermercados La Gallega**: el sitio dice que arrancó el 01/04, no el 01/08 como teníamos. Corregido el `vigencia_desde`.
+- **Banco Santa Fe en La Anónima**: le faltaba el dato del +10% adicional para clientes con cuenta en el banco (además del 20% de MODO), que hoy apareció en la página.
+
+### Bajas (2)
+- **Banco Santa Fe en Coto (30% jueves)**: la vigencia que teníamos vencía el 27/08 y ya no aparece en la página. Se sacó.
+- **Banco Santa Fe en Alvear (30% viernes)**: mismo caso, vencía el 28/08. Se sacó.
+
+### Contradicción anotada, sin cambiar el dato
+- **Supervielle en Jumbo/Disco/Vea, martes jubilados**: la propia web de Jumbo dice 25%, pero la web oficial de Supervielle (nivel 1, que le gana a la de un comercio) dice 20% con el mismo tope $25.000 mensual. Se dejó el 20% y se anotó la fuente nueva con la nota de la diferencia.
+
+### Fuentes "muy buena" que van dos días seguidas sin poder usarse
+**Banco Ciudad, Supervielle y Credicoop** trajeron el texto correcto de nuevo pero **sin la marca de qué día está activo** en cada tarjeta (mismo problema que ayer: la clase CSS que marca el día no sobrevive a esta lectura). **Coto** también repitió: solo trae cuotas sin interés genéricas, sin el detalle bancario por día. No se tocó ninguna promo de estas cuatro fuentes. **Carrefour, ChangoMás y Día** volvieron a traer `(no se pudo leer nada)`, igual que ayer. Sigue pendiente revisar la receta de recolección de estas seis fuentes — ya son dos corridas seguidas sin servir.
+
+### Otras fuentes caídas o sin datos útiles hoy
+Santander (timeout, viene así hace semanas), La Anónima (403 Forbidden), Banco Comafi propio (verificación anti-bot de Cloudflare), Farmacias Dr. Ahorro (certificado SSL inválido, error de Cloudflare), YPF (la página de promociones da 404), ICBC (`/beneficios` da 404), Burger King propio (404), Farmacity (la búsqueda no encontró la página de promociones bancarias), Axion (la página no tiene descuentos bancarios, solo campañas de marca), Maxiconsumo (el menú de categorías cargó pero no el contenido de la pestaña Promociones), Yaguar y Vital (mayoristas: la página no llegó a cargar las promos, solo el menú), Easy (solo tiene el 10% de bienvenida al Club Easy, que no es bancario), MODO (el listado vino vacío hoy) y Rappi (solo trae el calendario de vigencias de cada campaña, sin el detalle de %, día ni tope). **`crudo/mcdonalds.txt` y `crudo/musimundo.txt` quedaron con `leido: 2026-08-27`** (dos días viejo): no se cargó nada de esas dos como si fuera de hoy.
+
+### Fuentes con datos que no se pudieron aprovechar por falta de un dato clave
+- **Banco Patagonia (ahorrosybeneficios.bancopatagonia.com.ar)**: trae escalones Clásica/Plus/Singular con % y vigencia bien claros, pero el comercio de cada promo no está en el texto (está en una imagen del carrusel que la lectura de texto plano no alcanza). Ninguna se cargó por no poder saber a qué comercio corresponde cada %.
+- **Shell (promoshellbox.shell.com.ar)**: tiene una tabla completa de reintegros por día con tope, pero casi todos exigen ser socio de un nivel del programa propio "365" de Shell (no es una tarjeta de banco), salvo un par que mencionan Cencopay o clientes de Galicia puntualmente para un solo día del mes ya pasado. Queda pendiente decidir si el programa 365 cuenta como medio de pago para esta app.
+- **BNA+ (bna.com.ar)**: confirma que tiene descuentos en Supermercados (hasta 30%), Shell (20%) y KFC (20%), pero sigue sin publicar los días — sin eso la app no las puede mostrar igual, así que no se cargaron.
+
+### Confirmadas con fuente de hoy (sin cambios de datos)
+Cuenta DNI (12: cercanía, librerías, sodimac, farmacias, mostaza x2, YPF Full, gastronomía, garrafas, marcas destacadas, ferias, universidades), Personal Pay (7), Banco Galicia (7), Banco Santa Fe (9, además de las corregidas), Brubank (los 31 que ya estaban, releídos hoy), Naranja X (super-martes), Banco Hipotecario (Jumbo y Optilook), Diarco (Comafi, Credicuotas, Naranja X y Macro en cuotas), Ualá (transporte).
+
+### Auditoría
+`node tools/validar.js --arreglar`: 0 sin fuente, 0 sin verificar hace más de 10 días — igual que ayer. Siguen las mismas 13 promos visibles con una sola fuente de prensa y la misma 1 de riesgo sin cruzar (`santander-transporte`); no se les pudo salir a buscar respaldo hoy porque son de fuentes que no están entre las que trae el workflow.
+
 ## 2026-08-28 — El workflow creció a 41 fuentes, tres de las "muy buenas" se cayeron justo hoy, y aparece Cencopay como medio nuevo
 
 **364 promos (era 323): 41 altas, 1 corrección de tope, 37 confirmaciones con fuente fresca.**
