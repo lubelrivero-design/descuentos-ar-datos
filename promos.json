@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29",
+  "actualizado": "2026-08-30",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -483,37 +483,6 @@
       "acumulable": true
     },
     {
-      "id": "modo-jumbo-lunes",
-      "medio": "modo",
-      "medio_nombre": "MODO",
-      "rubro": "supermercados",
-      "comercios": [
-        "Jumbo",
-        "Disco",
-        "Vea"
-      ],
-      "dias": [
-        "lunes"
-      ],
-      "descuento_pct": 20,
-      "tope_monto": 25000,
-      "tope_periodo": "mensual",
-      "requisitos": "Consumo minimo $100.000, pagando con MODO.",
-      "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-21",
-      "confianza": "media",
-      "fuentes": [
-        {
-          "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-          "nivel": 4,
-          "fecha": "2026-08-21"
-        }
-      ]
-    },
-    {
       "id": "modo-dia-vie-sab",
       "medio": "modo",
       "medio_nombre": "MODO",
@@ -641,8 +610,7 @@
       "rubro": "supermercados",
       "comercios": [
         "Jumbo",
-        "Disco",
-        "Vea"
+        "Disco"
       ],
       "dias": [
         "martes"
@@ -655,7 +623,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -672,6 +640,11 @@
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -776,7 +749,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -795,6 +768,11 @@
           "nivel": 2,
           "fecha": "2026-08-29",
           "nota": "Plan Turbo 25% confirmado, tope $9.500 semanal"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -922,7 +900,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -934,6 +912,11 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -956,7 +939,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -969,6 +952,11 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -991,7 +979,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1004,6 +992,11 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1032,7 +1025,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1045,6 +1038,11 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1067,7 +1065,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1080,6 +1078,11 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1104,7 +1107,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1117,6 +1120,11 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1145,7 +1153,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1158,6 +1166,11 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1278,7 +1291,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/cuenta-dni-en-agosto-2026-como-y-cuando-son-las-promociones-de-carnicerias-nid09082026/",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1301,41 +1314,11 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-29"
-        }
-      ]
-    },
-    {
-      "id": "cuenta-dni-petshops",
-      "medio": "cuenta_dni",
-      "medio_nombre": "Cuenta DNI",
-      "rubro": "mascotas",
-      "comercios": [
-        "Pet shops y veterinarias adheridas"
-      ],
-      "dias": [
-        "lunes",
-        "martes",
-        "miercoles",
-        "jueves",
-        "viernes",
-        "sabado",
-        "domingo"
-      ],
-      "descuento_pct": 40,
-      "tope_monto": 4000,
-      "tope_periodo": "semanal",
-      "requisitos": "En veterinarias y pet shops adheridas de la provincia. Tope de $4.000 por semana.",
-      "zona": "Provincia de Buenos Aires",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-09",
-      "confianza": "baja",
-      "fuentes": [
+        },
         {
-          "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-          "nivel": 4,
-          "fecha": "2026-08-09"
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1364,7 +1347,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1387,6 +1370,11 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1410,7 +1398,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1433,6 +1421,11 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1461,7 +1454,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1478,6 +1471,11 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1645,12 +1643,17 @@
       "confianza": "baja",
       "rubro": "delivery",
       "zona": "Nacional",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://promos.rappi.com/argentina",
           "nivel": 3,
           "fecha": "2026-08-05"
+        },
+        {
+          "url": "https://promos.rappi.com/argentina",
+          "nivel": 3,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1672,12 +1675,17 @@
       "confianza": "baja",
       "rubro": "delivery",
       "zona": "Nacional",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://promos.rappi.com/argentina",
           "nivel": 3,
           "fecha": "2026-08-05"
+        },
+        {
+          "url": "https://promos.rappi.com/argentina",
+          "nivel": 3,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1699,12 +1707,17 @@
       "confianza": "baja",
       "rubro": "delivery",
       "zona": "Nacional",
-      "verificado": "2026-08-05",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://promos.rappi.com/argentina",
           "nivel": 3,
           "fecha": "2026-08-05"
+        },
+        {
+          "url": "https://promos.rappi.com/argentina",
+          "nivel": 3,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1729,7 +1742,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "tope_publicado": false,
       "fuentes": [
         {
@@ -1746,6 +1759,11 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1775,7 +1793,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "tope_publicado": false,
       "fuentes": [
         {
@@ -1792,6 +1810,11 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1815,7 +1838,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "cuotas": 3,
       "tope_publicado": false,
       "fuentes": [
@@ -1833,6 +1856,11 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1862,7 +1890,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "cuotas": 3,
       "tope_publicado": false,
       "fuentes": [
@@ -1880,6 +1908,11 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -1906,7 +1939,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-10",
       "vigencia_hasta": "2026-09-10",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://www.galicia.ar/personas/promociones/promocion-combustible",
@@ -1922,6 +1955,11 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2103,7 +2141,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2111,6 +2149,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2134,7 +2177,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2142,6 +2185,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2227,7 +2275,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2235,6 +2283,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2258,7 +2311,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2266,6 +2319,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2288,7 +2346,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2296,6 +2354,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2318,7 +2381,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2326,6 +2389,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2349,7 +2417,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2357,6 +2425,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2380,14 +2453,19 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2410,7 +2488,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2418,6 +2496,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2441,7 +2524,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2449,6 +2532,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2471,7 +2559,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2479,6 +2567,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2534,7 +2627,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2542,6 +2635,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2564,7 +2662,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2572,6 +2670,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2594,7 +2697,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2602,6 +2705,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2654,7 +2762,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2662,6 +2770,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2684,7 +2797,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "cuotas": 6,
       "tope_publicado": false,
@@ -2693,6 +2806,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2782,13 +2900,18 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2818,13 +2941,18 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2854,13 +2982,18 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2890,13 +3023,18 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -2926,13 +3064,18 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -3543,7 +3686,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3560,6 +3703,11 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -3589,7 +3737,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3606,6 +3754,11 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -3962,7 +4115,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -3979,6 +4132,11 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -4003,7 +4161,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4025,6 +4183,11 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -4124,7 +4287,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4146,6 +4309,11 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -4172,15 +4340,20 @@
       "requisitos": "Acumulable con otras promociones del mismo dia. Tope $6.000 por semana y por persona.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "confianza": "media",
+      "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -4205,7 +4378,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4227,6 +4400,11 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -4251,7 +4429,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4273,6 +4451,11 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -4296,7 +4479,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
@@ -4318,6 +4501,11 @@
           "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
           "nivel": 2,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -4418,7 +4606,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-28",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4435,6 +4623,11 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-28"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -4804,34 +4997,36 @@
       "rubro": "supermercados",
       "comercios": [
         "Jumbo",
-        "Disco",
-        "Vea"
+        "Disco"
       ],
       "dias": [
-        "lunes",
         "martes",
         "miercoles",
         "jueves",
         "viernes",
-        "sabado",
-        "domingo"
+        "sabado"
       ],
       "descuento_pct": 0,
-      "cuotas": 12,
+      "cuotas": 3,
       "requisitos": "12 cuotas sin interes todos los dias con tarjeta Naranja X.",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "confianza": "media",
+      "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -5288,7 +5483,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5296,6 +5491,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -5318,7 +5518,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5326,6 +5526,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -5348,7 +5553,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5356,6 +5561,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -5379,7 +5589,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5387,6 +5597,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -5411,7 +5626,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5419,6 +5634,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -5501,7 +5721,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5509,6 +5729,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -5554,23 +5779,34 @@
         "viernes"
       ],
       "descuento_pct": 10,
-      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "requisitos": "Con tarjetas de crédito Visa o Mastercard del Banco Ciudad, escaneando el QR de MODO desde Buepp o App Ciudad. Tope de reintegro $10.000 por transacción.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
-      "tope_monto": null,
-      "tope_periodo": null,
+      "verificado": "2026-08-30",
+      "tope_monto": 10000,
+      "tope_periodo": "sin_aclarar",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "cuotas": 6
     },
     {
       "id": "ciudad-farmaplus-online-15",
@@ -5591,7 +5827,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5599,6 +5835,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -5621,7 +5862,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5629,6 +5870,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -5962,13 +6208,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -5992,13 +6243,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -6022,13 +6278,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -6051,13 +6312,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -6081,13 +6347,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -6111,13 +6382,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -6140,13 +6416,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -6169,13 +6450,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -6259,13 +6545,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -6346,13 +6637,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -6379,7 +6675,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6392,6 +6688,16 @@
           "nivel": 2,
           "fecha": "2026-08-29",
           "nota": "Jumbo dice 25%; gana la web oficial de Supervielle (nivel 1): se mantiene 20%"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -6704,7 +7010,7 @@
       "medio_nombre": "Banco Credicoop",
       "rubro": "supermercados",
       "comercios": [
-        "Diarco"
+        "Diarco Barrio"
       ],
       "dias": [
         "sabado",
@@ -6719,13 +7025,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://beneficios.bancocredicoop.coop/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://beneficios.bancocredicoop.coop/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancocredicoop.coop/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -6750,13 +7061,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://beneficios.bancocredicoop.coop/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://beneficios.bancocredicoop.coop/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancocredicoop.coop/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -6781,13 +7097,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://beneficios.bancocredicoop.coop/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://beneficios.bancocredicoop.coop/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancocredicoop.coop/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -7047,13 +7368,18 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -7461,7 +7787,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "ciudad-coto-20",
       "medio": "ciudad",
@@ -7482,6 +7808,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -7491,7 +7822,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "ciudad-masgo-20",
       "medio": "ciudad",
@@ -7512,6 +7843,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -7582,7 +7918,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "ciudad-rex-20",
       "medio": "ciudad",
@@ -7609,6 +7945,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -7618,7 +7959,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "ciudad-despegar-10",
       "medio": "ciudad",
@@ -7645,6 +7986,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -7778,7 +8124,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "ciudad-showsport-online-25",
       "medio": "ciudad",
@@ -7799,6 +8145,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -7808,7 +8159,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "ciudad-showsport-20",
       "medio": "ciudad",
@@ -7821,7 +8172,7 @@
         "viernes"
       ],
       "descuento_pct": 20,
-      "tope_publicado": false,
+      "tope_publicado": true,
       "requisitos": "Pagando con la App Ciudad o BUEPP.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "fuentes": [
@@ -7829,6 +8180,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -7838,7 +8194,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "ciudad-sandra-selma-20",
       "medio": "ciudad",
@@ -7860,6 +8216,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -7869,7 +8230,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "ciudad-vacalin-online-20",
       "medio": "ciudad",
@@ -7892,6 +8253,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -7901,7 +8267,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "ciudad-get-the-look-20",
       "medio": "ciudad",
@@ -7922,6 +8288,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -7967,7 +8338,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "ciudad-deportivas-martes-15",
       "medio": "ciudad",
@@ -7978,7 +8349,11 @@
         "Stock Center",
         "Moov",
         "Montagne",
-        "Ruiz y Roca"
+        "Ruiz y Roca",
+        "Ver",
+        "MACOWENS",
+        "Lazaro",
+        "Bowen"
       ],
       "dias": [
         "martes"
@@ -7992,6 +8367,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -8001,7 +8381,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "ciudad-calzado-martes-10",
       "medio": "ciudad",
@@ -8011,11 +8391,7 @@
         "Hush Puppies",
         "Grimoldi",
         "Vans",
-        "CAT",
-        "Ver",
-        "MACOWENS",
-        "Lazaro",
-        "Bowen"
+        "CAT"
       ],
       "dias": [
         "martes"
@@ -8029,6 +8405,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -8038,7 +8419,7 @@
       "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "ciudad-librerias-jugueterias-viernes-20",
       "medio": "ciudad",
@@ -8070,6 +8451,11 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -8231,13 +8617,18 @@
       "vigencia_desde": "2026-08-17",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.uala.com.ar/promociones/colectivos",
-      "verificado": "2026-08-21",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.uala.com.ar/promociones/colectivos",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.uala.com.ar/promociones",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -8940,7 +9331,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "brubank-axion-30",
       "rubro": "combustible",
@@ -8973,6 +9364,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -8985,7 +9381,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "brubank-ypf-lunes-10",
       "rubro": "combustible",
@@ -9012,6 +9408,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9024,7 +9425,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "brubank-farmacity-30",
       "rubro": "farmacia",
@@ -9057,6 +9458,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9069,7 +9475,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "brubank-cabify-40",
       "rubro": "transporte",
@@ -9102,6 +9508,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9114,7 +9525,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "brubank-taxi-premium-40",
       "rubro": "transporte",
@@ -9147,6 +9558,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9159,7 +9575,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "brubank-burger-king-30",
       "rubro": "gastronomia",
@@ -9192,6 +9608,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9204,7 +9625,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "id": "brubank-freddo-40",
       "rubro": "gastronomia",
@@ -9237,6 +9658,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9260,7 +9686,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9277,6 +9703,11 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9301,7 +9732,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9318,6 +9749,11 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9342,7 +9778,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9359,6 +9795,11 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9384,7 +9825,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-30",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9401,6 +9842,11 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9425,7 +9871,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9442,6 +9888,11 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9465,7 +9916,7 @@
       "vigencia_desde": "2026-04-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9482,6 +9933,11 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9506,7 +9962,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9523,6 +9979,11 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9546,7 +10007,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9563,6 +10024,11 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -9587,7 +10053,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-30",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9604,6 +10070,11 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -10183,13 +10654,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -10212,13 +10688,18 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -10829,7 +11310,7 @@
       "vigencia_desde": "2026-08-13",
       "vigencia_hasta": "2026-12-11",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10841,6 +11322,11 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -10864,7 +11350,7 @@
       "vigencia_desde": "2026-08-13",
       "vigencia_hasta": "2026-12-11",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10876,6 +11362,11 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -10899,7 +11390,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.hipotecario.com.ar/alianzas-bh/",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10912,6 +11403,11 @@
           "nivel": 1,
           "fecha": "2026-08-29",
           "nota": "confirma tope $10.000, no $30.000"
+        },
+        {
+          "url": "https://www.hipotecario.com.ar/alianzas-bh/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -10993,9 +11489,7 @@
       "medio_nombre": "Cencopay Cuenta",
       "rubro": "supermercados",
       "comercios": [
-        "Jumbo",
-        "Disco",
-        "Vea"
+        "Jumbo"
       ],
       "dias": [
         "lunes"
@@ -11008,7 +11502,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-08-28",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11020,6 +11514,11 @@
           "url": "https://www.vea.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-28"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11045,7 +11544,7 @@
       "vigencia_desde": "2026-01-01",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-08-28",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11057,6 +11556,11 @@
           "url": "https://www.vea.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-28"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11070,7 +11574,6 @@
         "Disco"
       ],
       "dias": [
-        "lunes",
         "jueves"
       ],
       "descuento_pct": 20,
@@ -11081,13 +11584,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-08-28",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-28"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11112,7 +11620,7 @@
       "vigencia_desde": "2026-04-04",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11124,6 +11632,11 @@
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11152,13 +11665,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.macro.com.ar/macrobeneficios",
-      "verificado": "2026-08-28",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/macrobeneficios",
           "nivel": 1,
           "fecha": "2026-08-28"
+        },
+        {
+          "url": "https://www.macro.com.ar/macrobeneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11187,13 +11705,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.macro.com.ar/macrobeneficios",
-      "verificado": "2026-08-28",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/macrobeneficios",
           "nivel": 1,
           "fecha": "2026-08-28"
+        },
+        {
+          "url": "https://www.macro.com.ar/macrobeneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11216,13 +11739,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.macro.com.ar/macrobeneficios",
-      "verificado": "2026-08-28",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/macrobeneficios",
           "nivel": 1,
           "fecha": "2026-08-28"
+        },
+        {
+          "url": "https://www.macro.com.ar/macrobeneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11248,13 +11776,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.macro.com.ar/macrobeneficios",
-      "verificado": "2026-08-28",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/macrobeneficios",
           "nivel": 1,
           "fecha": "2026-08-28"
+        },
+        {
+          "url": "https://www.macro.com.ar/macrobeneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11311,7 +11844,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11323,6 +11856,11 @@
           "url": "https://www.diarco.com.ar/promociones/",
           "nivel": 2,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11352,7 +11890,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11364,6 +11902,11 @@
           "url": "https://www.diarco.com.ar/promociones/",
           "nivel": 2,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11393,7 +11936,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11405,6 +11948,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11434,7 +11982,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11446,6 +11994,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11475,7 +12028,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11487,6 +12040,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11516,7 +12074,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11528,6 +12086,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11553,7 +12116,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11565,6 +12128,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11590,7 +12158,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11602,6 +12170,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11627,7 +12200,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11639,6 +12212,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11664,7 +12242,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11676,6 +12254,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11705,7 +12288,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11717,6 +12300,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11742,7 +12330,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11754,6 +12342,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11779,7 +12372,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11791,6 +12384,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11816,7 +12414,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11828,6 +12426,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11851,7 +12454,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11863,6 +12466,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11888,7 +12496,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11900,6 +12508,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11929,7 +12542,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11941,6 +12554,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -11964,7 +12582,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11976,6 +12594,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12000,7 +12623,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12012,6 +12635,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12035,7 +12663,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12047,6 +12675,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12076,7 +12709,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12088,6 +12721,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12111,7 +12749,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12123,6 +12761,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12146,7 +12789,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12158,6 +12801,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12181,7 +12829,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12193,6 +12841,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12216,7 +12869,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12228,6 +12881,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12251,7 +12909,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12263,6 +12921,11 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12322,13 +12985,18 @@
       "vigencia_desde": "2026-08-29",
       "vigencia_hasta": "2026-08-30",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12357,13 +13025,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12389,13 +13062,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12421,13 +13099,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12453,13 +13136,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12489,13 +13177,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12521,13 +13214,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12553,13 +13251,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12586,13 +13289,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12616,13 +13324,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12647,13 +13360,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12707,13 +13425,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12743,13 +13466,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12779,13 +13507,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12815,13 +13548,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12845,13 +13583,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12875,13 +13618,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12911,13 +13659,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12947,13 +13700,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -12983,13 +13741,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -13019,13 +13782,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -13055,13 +13823,18 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -13086,13 +13859,18 @@
       "vigencia_desde": "2026-04-04",
       "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
     },
@@ -13117,15 +13895,583 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-08-29",
+      "verificado": "2026-08-30",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
         }
       ]
+    },
+    {
+      "id": "brubank-freddo-plus-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Freddo"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, viernes y sabado y domingo.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-08-30",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "id": "credicoop-farmaonline-martes-30",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmaonline"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 9000,
+      "tope_periodo": "semanal",
+      "tope_publicado": true,
+      "requisitos": "Pagando con QR de MODO con tarjetas Cabal del Credicoop, en un pago.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "confianza": "alta",
+      "fuente": "https://www.farmaonline.com/promociones-bancarias",
+      "verificado": "2026-08-30",
+      "fuentes": [
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "id": "bbva-farmaonline-lunes-10",
+      "medio": "bbva",
+      "medio_nombre": "BBVA",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmaonline"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "Pagando en hasta 3 cuotas con tarjeta de crédito BBVA, escaneando QR de MODO desde la app BBVA.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-08-31",
+      "confianza": "alta",
+      "fuente": "https://www.farmaonline.com/promociones-bancarias",
+      "verificado": "2026-08-30",
+      "fuentes": [
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "id": "yoy-farmaonline-jueves-20",
+      "medio": "yoy",
+      "medio_nombre": "YOY",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmaonline"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 5000,
+      "tope_periodo": "semanal",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta YOY Mastercard crédito o YOY Visa débito, pagando a través de MODO o la app YOY.",
+      "zona": "Nacional",
+      "vigencia_desde": "2025-12-01",
+      "vigencia_hasta": "2026-09-30",
+      "confianza": "alta",
+      "fuente": "https://www.farmaonline.com/promociones-bancarias",
+      "verificado": "2026-08-30",
+      "fuentes": [
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "id": "mp-farmaonline-mar-jue-20",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmaonline"
+      ],
+      "dias": [
+        "martes",
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 16000,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Exclusivo primera compra en Farmaonline con Tarjeta de Crédito Mercado Pago Mastercard, en compras desde $80.000. Se renueva cada mes.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-09-30",
+      "confianza": "alta",
+      "fuente": "https://www.farmaonline.com/promociones-bancarias",
+      "verificado": "2026-08-30",
+      "fuentes": [
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "id": "mp-farmaonline-finde-15",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmaonline"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": 12000,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Pagando con dinero en cuenta de Mercado Pago, en compras desde $70.000.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-08-31",
+      "confianza": "alta",
+      "fuente": "https://www.farmaonline.com/promociones-bancarias",
+      "verificado": "2026-08-30",
+      "fuentes": [
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "id": "supervielle-farmaonline-jubilados-martes",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmaonline"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 50,
+      "tope_monto": 6000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "Exclusivo jubilados que cobran en Supervielle con Visa Débito de los paquetes Previsional. 50% pagando con Visa Débito (tope $6.000/mes) + otro 50% adicional pagando por MODO (tope $6.000/mes más).",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-11-30",
+      "confianza": "alta",
+      "fuente": "https://www.farmaonline.com/promociones-bancarias",
+      "verificado": "2026-08-30",
+      "fuentes": [
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "id": "santa_fe-farmaonline-10",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmaonline"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de crédito Visa o Mastercard del Banco Santa Fe, pagando en hasta 3 cuotas vía MODO desde la app del banco o la app MODO.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-09-30",
+      "confianza": "alta",
+      "fuente": "https://www.farmaonline.com/promociones-bancarias",
+      "verificado": "2026-08-30",
+      "fuentes": [
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "id": "san_juan-farmaonline-10",
+      "medio": "san_juan",
+      "medio_nombre": "Banco San Juan",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmaonline"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de crédito Visa o Mastercard del Banco San Juan, pagando en hasta 3 cuotas vía MODO desde la app del banco o la app MODO.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-09-30",
+      "confianza": "alta",
+      "fuente": "https://www.farmaonline.com/promociones-bancarias",
+      "verificado": "2026-08-30",
+      "fuentes": [
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "id": "santa_cruz-farmaonline-10",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmaonline"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de crédito Visa o Mastercard del Banco Santa Cruz, pagando en hasta 3 cuotas vía MODO desde la app del banco o la app MODO.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-09-30",
+      "confianza": "alta",
+      "fuente": "https://www.farmaonline.com/promociones-bancarias",
+      "verificado": "2026-08-30",
+      "fuentes": [
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "id": "modo-jumbo-martes-jueves-19",
+      "medio": "modo",
+      "medio_nombre": "MODO",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo"
+      ],
+      "dias": [
+        "martes",
+        "jueves"
+      ],
+      "descuento_pct": 19,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "19% de reintegro en compras iguales o superiores a $100.000, pagando con la billetera MODO con tarjeta de débito o de crédito adherida en 1 cuota. No vale en compras hechas en la localidad de Pilar.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-06-01",
+      "vigencia_hasta": "2026-08-31",
+      "confianza": "alta",
+      "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
+      "fuentes": [
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ],
+      "verificado": "2026-08-30"
+    },
+    {
+      "id": "modo-disco-viernes-sabado-20",
+      "medio": "modo",
+      "medio_nombre": "MODO",
+      "rubro": "supermercados",
+      "comercios": [
+        "Disco"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "20% de reintegro en compras iguales o superiores a $100.000, pagando con la billetera MODO con tarjeta de débito o de crédito adherida en 1 cuota. No vale en compras hechas en la localidad de Pilar.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-06-01",
+      "vigencia_hasta": "2026-08-31",
+      "confianza": "alta",
+      "fuente": "https://www.disco.com.ar/descuentos-del-dia",
+      "fuentes": [
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ],
+      "verificado": "2026-08-30"
+    },
+    {
+      "id": "modo-vea-viernes-20",
+      "medio": "modo",
+      "medio_nombre": "MODO",
+      "rubro": "supermercados",
+      "comercios": [
+        "Vea"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 25000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "20% de reintegro en compras iguales o superiores a $100.000, pagando con la billetera MODO con tarjeta de débito o de crédito adherida en 1 cuota. Tope $25.000 por banco, por usuario y por mes. No vale en compras hechas en la localidad de Pilar.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "confianza": "alta",
+      "fuente": "https://www.vea.com.ar/descuentos-del-dia",
+      "fuentes": [
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ],
+      "verificado": "2026-08-30"
+    },
+    {
+      "id": "modo-jumbo-disco-vea-jue-dom-3cuotas",
+      "medio": "modo",
+      "medio_nombre": "MODO",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo",
+        "Disco",
+        "Vea"
+      ],
+      "dias": [
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "3 cuotas sin interés en toda la compra, exclusivo online, pagando con la billetera MODO con tarjetas de crédito Visa, Mastercard o American Express.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-01-02",
+      "vigencia_hasta": "2026-08-31",
+      "confianza": "alta",
+      "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
+      "fuentes": [
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ],
+      "verificado": "2026-08-30"
+    },
+    {
+      "id": "macro-jumbo-disco-vea-jue-dom-3cuotas",
+      "medio": "macro",
+      "medio_nombre": "Banco Macro",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo",
+        "Disco",
+        "Vea"
+      ],
+      "dias": [
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "3 cuotas sin interés en toda la compra online (excluye electro), con tarjetas de crédito Visa, Mastercard o American Express de Banco Macro.",
+      "zona": "Nacional",
+      "vigencia_desde": "2025-12-01",
+      "vigencia_hasta": "2026-08-31",
+      "confianza": "alta",
+      "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
+      "fuentes": [
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ],
+      "verificado": "2026-08-30"
+    },
+    {
+      "id": "clarin365-cencopay-jumbo-lunes-20",
+      "medio": "clarin365_cencopay",
+      "medio_nombre": "Tarjeta Clarín 365 + Cencopay",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "15% mostrando la tarjeta Clarín 365 (socio Jumbo Más) + 5% adicional pagando con Cencopay. Presencial y online, solo lunes, únicamente consumo familiar.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "confianza": "alta",
+      "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
+      "fuentes": [
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ],
+      "verificado": "2026-08-30"
+    },
+    {
+      "id": "cencopay-vea-jueves-galletitas-25",
+      "medio": "cencopay",
+      "medio_nombre": "Cencopay (tarjeta de crédito Cencosud)",
+      "rubro": "supermercados",
+      "comercios": [
+        "Vea"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 25,
+      "cuotas": 3,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "25% de descuento + 3 cuotas sin interés en galletitas, chocolates, golosinas, conservas de frutas y verduras y cervezas, pagando con Tarjeta de Crédito Cencopay.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-08-31",
+      "confianza": "alta",
+      "fuente": "https://www.vea.com.ar/descuentos-del-dia",
+      "fuentes": [
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-08-30"
+        }
+      ],
+      "verificado": "2026-08-30"
     }
   ]
 }

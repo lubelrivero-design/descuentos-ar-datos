@@ -1,5 +1,64 @@
 # Cambios
 
+## 2026-08-30 — El push del recolector chocó con un commit humano y hubo que repetirlo; Cencosud contradice tres promos de prensa (una de ellas se cae)
+
+**402 promos (era 387): 17 altas, ~9 correcciones (una destacada), 2 bajas (una destacada), 186 confirmaciones con fuente fresca.**
+
+### El cron de las 10:00 UTC otra vez no disparó, y el primer intento manual perdió su trabajo
+A las 07:33 ARG no había ninguna corrida de hoy (el último `event:schedule` fue ayer 14:52 UTC — van cuatro días seguidos que el cron de GitHub Actions no dispara solo). Lo activé a mano con `workflow_dispatch`. El primer intento (run 33306729363) sí leyó 35 de 41 fuentes, pero el `git push` final fue rechazado (`fetch first`): un commit humano de arreglo del `.gitignore` entró justo en el medio y todo el texto leído quedó solo en el runner efímero, sin publicarse. Hice `git pull` y disparé el workflow una segunda vez; esa corrida sí terminó OK, con `leido: 2026-08-30` en 41 de 43 archivos de `crudo/`. **Van cuatro días seguidos con el cron sin disparar solo** — vale la pena que alguien revise por qué en este repo puntual.
+
+### DESTACADO — Naranja X en Jumbo, 12 cuotas era un dato de prensa equivocado: son 3
+Teníamos cargado "Naranja X, 12 cuotas sin interés, todos los días" en Jumbo, sacado de una nota de iProfesional. La fuente propia de Jumbo y Disco de hoy dice clarísimo que es el "Plan Z" de **3 cuotas**, de martes a sábado (no lunes ni domingo), y que **Vea no lo tiene en absoluto**. Se corrigió: 3 cuotas, martes a sábado, solo Jumbo y Disco. La confianza subió sola de media a alta al auditar (ahora tiene fuente nivel 2, no solo prensa).
+
+### DESTACADO — se cae "MODO 20% los lunes en Jumbo" (Mercado desmentido por los tres supermercados el mismo día)
+Esta promo (tope $25.000, compra mínima $100.000) siempre vino de una sola nota de iProfesional. Hoy los tres sitios de Cencosud la contradicen a la vez: Jumbo no tiene ninguna línea de MODO el lunes (solo Cencopay propio), Disco dice explícitamente "No hay promociones bancarias establecidas en esta tienda para este día", y la página de lunes de Vea vino vacía. Se sacó. Si existe, no es así.
+
+### Corrección chica, mismo hallazgo: los lunes Disco y Vea no tienen nada
+Por la misma razón de arriba, se le sacó Disco y Vea a "Cencopay Cuenta 25% los lunes" (queda solo Jumbo) y se separó "Clarín 365 + Cencopay" en dos entradas: una para Jumbo solo los lunes (20%) y la que ya estaba, ahora solo para el jueves en Jumbo y Disco.
+
+### Un error mío, corregido en el momento
+Confirmé por error `cuenta-dni-universidades` con una tarjeta de Cuenta DNI cuyo slug de URL decía "beneficiouniversidades" pero cuyo contenido real era otra cosa (café en el buffet, tope $6.000/semana — no $4.000 como universidades). Lo noté al correr `validar.js` porque `cuenta-dni-cafe-buffet` seguía figurando sin respaldo pese a existir la tarjeta de hoy. Revertí la confirmación de `universidades` (sigue con su fecha real, 29/08) y confirmé `cafe-buffet` como correspondía.
+
+### Altas (17)
+- **Brubank Plan Plus**: Freddo 30% viernes/sábado/domingo — el comercio ya estaba en Ultra y One, faltaba en Plus.
+- **Jumbo/Disco/Vea, siete promos de MODO y Banco Macro que no teníamos**: MODO 19% Jumbo (martes y jueves), MODO 20% Disco (viernes y sábado), MODO 20% Vea (viernes, tope $25.000/mes — el único de los tres que publica el tope), MODO 3 cuotas sin interés online en los tres (jueves a domingo), Banco Macro 3 cuotas sin interés online en los tres (jueves a domingo), Clarín 365 + Cencopay 20% en Jumbo los lunes, Cencopay 25%+3 cuotas en golosinas/conservas/cervezas en Vea los jueves.
+- **Farmaonline, ocho medios nuevos para ese comercio** (respaldados por su propia página de promociones, nivel 2): Banco Credicoop 30% martes (tope $9.000/semana), BBVA 10% lunes + 3 cuotas (tope $10.000/mes, vence 31/08), YOY 20% jueves (tope $5.000/semana), Mercado Pago 20% martes y jueves en compras ≥$80.000 (tope $16.000, primera compra), Mercado Pago 15% sábado y domingo en compras ≥$70.000 con dinero en cuenta (tope $12.000, vence 31/08), Supervielle Jubilados 50%+50% los martes (débito + MODO), Banco Santa Fe / Banco San Juan / Banco Santa Cruz 10% todos los días + 3 cuotas (tope $10.000/mes).
+
+### Correcciones
+- Naranja X en Jumbo: ver destacado arriba.
+- Banco Ciudad en Farmaonline: hoy la fuente publicó el tope que antes no tenía ($10.000 por transacción) y las cuotas (6) — se completó.
+- Banco Ciudad, calzado deportivo: Ver, MACOWENS, Lazaro y Bowen pasaron del grupo de 10% al de 15% (la web los muestra ahí hoy).
+- Banco Ciudad: Diarco Barrio y Showsport ahora publican "sin tope" (antes no publicaban el monto).
+- Banco Credicoop en Diarco: el comercio pasó de "Diarco" genérico a "Diarco Barrio", como lo nombra la fuente hoy.
+- Banco Hipotecario en Jumbo/Disco: se le sacó Vea (no aparece en la fuente propia de Vea ni la tuvo nunca).
+- Cencopay Cuenta 25% lunes y Clarín 365 + Cencopay: ver arriba.
+- `cuenta-dni-universidades` / `cuenta-dni-cafe-buffet`: ver el error corregido arriba.
+
+### Baja
+- `modo-jumbo-lunes`: ver destacado arriba.
+- `cuenta-dni-petshops` (pet shops y veterinarias): no apareció en el listado oficial de Cuenta DNI por tercer día seguido y ya estaba en confianza baja hace 3 semanas.
+
+### Confirmadas con fuente de hoy (186 en total, resumen)
+Cuenta DNI (14 tarjetas + cafe-buffet corregido), Personal Pay (7), Ualá (transporte), Galicia (7, incluye Jumbo/Rappi), Banco Santa Fe (9), Macro (4 destacadas + 2 nuevas de cuotas), Brubank (53 de 54), Banco Hipotecario (Optilook), Rappi confirma vigencia de Cuenta DNI/Galicia/Ualá, Diarco (Comafi y Credicuotas), Banco Ciudad (37 promos propias + Farmaonline), Supervielle (13 promos propias + Farmaonline), Banco Credicoop (2 promos de fin de semana en Diarco).
+
+### Fuentes muertas hoy (no se tocaron sus promos)
+ChangoMás, Día, Carrefour, La Anónima (403), Comafi propio (verificación Cloudflare), Santander (timeout, viene así hace semanas), Burger King (404), Frávega (403 CloudFront), Farmacity (búsqueda vacía), ICBC (404), YPF (página no disponible), Axion (solo campañas de marca, sin descuentos bancarios), Dr. Ahorro (SSL inválido), Maxiconsumo, Vital y Yaguar (cargó el menú pero no el contenido de promociones), Easy (solo 10% de bienvenida a Club Easy, no bancario), Coto (solo cuotas sin interés genéricas, sin detalle bancario por día — mismo problema que las corridas anteriores). `crudo/mcdonalds.txt` y `crudo/musimundo.txt` quedaron con `leido: 2026-08-27` (tres días viejo): no se cargó nada de ahí como si fuera de hoy.
+
+### Pendiente / no confirmado hoy (sin tocar, para revisar)
+- **Cuenta DNI**: 9 promos que estaban cargadas no aparecieron en el listado oficial de hoy (rappi, super interior bonaerense, mayorista Nini, Toledo martes, La Anónima, Josimar, Carrefour miércoles, ChangoMás jueves). Puede ser que la receta de hoy haya traído menos tarjetas que de costumbre, no necesariamente que hayan terminado — vale la pena revisar la receta. Además, `especiallocalidades-532` (15%, lunes a jueves) apareció con el legal cortado ("PROMOCIÓN VÁLIDA DEL" nada más): no se cargó por falta de dato.
+- **Naranja X**: el listado de hoy solo mostró 3 destacadas (viajes, aerolíneas, electro en cuotas), ninguna de las tarjetas de supermercado que ya tenemos. Sigue el problema conocido desde el 21/08 (ya no muestra el día). No se tocó ninguna de las 36 promos existentes.
+- **MODO**: el listado de hoy solo trae títulos sin día ni tope (limitación conocida), no sirvió para confirmar ni agregar nada.
+- **Banco Patagonia**: trae los tres escalones (Clásica/Plus/Singular) con % y vigencia pero sigue sin decir el comercio (está en una imagen). No se cargó ni confirmó nada.
+- **BNA+**: sigue sin publicar días, no se pudo mejorar ninguna de sus 9 promos (ya en confianza baja).
+- **Shell** (promoshellbox.shell.com.ar): trae una tabla completa de descuentos por día pero casi todo depende de ser socio de un nivel del programa propio "365" (no es una tarjeta de banco). Sigue pendiente decidir si ese programa cuenta como medio de pago para la app; aparecen menciones cruzadas a Galicia, Cencopay y ClubEasy que podrían servir de pista el día que se resuelva.
+- **Banco Hipotecario**: hoy solo trajo la alianza de Optilook; no se pudo re-confirmar ChangoMás (la receta no bajó a esa subpágina hoy).
+- **Banco Ciudad**: 15 promos propias no aparecieron en el listado de hoy pese a que la página se leyó bien — puede ser rotación de fin de mes (varias vencen el 31/08) o que el listado no terminó de cargar del todo. Ojo particular: "Casa del Audio" apareció hoy con una tarjeta nueva al 25% en vez del 20% cargado — podría ser un reemplazo, conviene revisarlo con más cuidado.
+- **Banco Credicoop**: perdió el atributo `alt` con el nombre del comercio; 10 de 13 promos de supermercados no se pudieron confirmar por no saber a qué comercio corresponde cada tarjeta (los porcentajes generales sí son compatibles con lo cargado). El subdominio `beneficios.bancocredicoop.coop` sigue muerto.
+- **Todas las fuentes de Banco Ciudad, Supervielle y Credicoop de hoy perdieron la marca de qué día está activo** en cada tarjeta (se lee como texto plano y las 7 letras vienen siempre iguales). Por eso ninguna confirmación de hoy tocó el campo `dias` de esas tres fuentes — solo se verificó comercio + % + tope. Vale la pena que se revise la receta de recolección para que vuelva a capturar la clase CSS activa.
+
+### Auditoría
+`node tools/validar.js --arreglar`: 0 sin fuente, 0 sin verificar hace más de 10 días. Quedan **10 promos visibles con una sola fuente de prensa** (Banco Macro en Jumbo/ChangoMás/Día, varias de Mercado Pago, `cuotas-galicia-jumbo-3`) y la misma **1 de riesgo sin cruzar** (`santander-transporte`) — cola de trabajo para las próximas corridas.
+
 ## 2026-08-29 — El cron de las 7 volvió a no disparar; Brubank se llenó de promos del Plan One que faltaban
 
 **387 promos (era 364): 25 altas, 4 correcciones, 2 bajas, ~70 confirmaciones con fuente fresca.**
