@@ -1,5 +1,54 @@
 # Cambios
 
+## 2026-08-31 — El cron de las 7 otra vez no disparó solo; rotación de fin de mes en el grupo Petersen; me comí varias confirmaciones falsas por lecturas parciales y las revertí antes de publicar
+
+**394 promos (era 402): 5 altas, 2 correcciones de datos, 1 baja de confianza, 13 bajas, 182 confirmaciones con fuente fresca.**
+
+### El cron de las 10:00 UTC no disparó (van cinco días seguidos)
+A las 07:32 ARG no había ninguna corrida de hoy — el último `crudo/` commiteado era de ayer 11:40 ARG. Lo disparé a mano con `workflow_dispatch` vía la API de GitHub Actions, esperé los ~4 minutos que tardó y seguí con texto fresco (`leido: 2026-08-31` en 41 de 43 archivos). Van cinco días seguidos (27-31/08, con el 30 y 31 confirmados en este log y el anterior) que el cron no dispara solo: ya no parece casualidad, vale la pena que alguien revise la configuración del workflow o los límites de GitHub Actions para repos de poca actividad.
+
+### DESTACADO — Autocrítica: varias fuentes de hoy venían con lecturas parciales, y casi confirmo promos que no estaban
+Antes de guardar nada, cada vez que iba a marcar una promo como "confirmada hoy" crucé el nombre del comercio contra el texto crudo de su fuente. Encontré y revertí a tiempo:
+- **Banco Ciudad**: el conteo de categorías bajó (22→18, 8→7) y faltaban 15 comercios de rubros totalmente distintos (Diarco, estaciones de servicio, indumentaria deportiva, viajes) — no es que hayan terminado todas el mismo día, es que la página cargó incompleta. No se tocó ninguna.
+- **Banco Macro**: la URL que se leyó hoy cambió sola de `/beneficios` a `/macrobeneficios` — una página distinta, que no menciona ninguno de los comercios que respalda. Ninguna confirmación de Macro de hoy es válida; **vale la pena que alguien revise la receta de Macro en `tools/fuentes-recetas.js`**, puede estar apuntando a la URL vieja.
+- **Personal Pay**: la pestaña Supermercados de hoy es la página 1 de 9 (pagina por scroll); confirmó Dia, La Reina, Farmacia Central Oeste, Farmalife, Puma, Taxi Premium y Go Bar, pero no llegó a Coto, Diarco, ChangoMás, Biomac ni Chanchito Market.
+- **Banco Galicia**: Transporte, Cabify y Uber viven en una sección aparte que la lectura de hoy no capturó.
+- **Supervielle y MODO**: mismo patrón, un puñado de comercios sueltos (Josimar, Almacor, Shell domingo, farmacias jubilados, cuotas de Megatone/Naldo/On City/Cetrogar) sin corroborar.
+Ninguna de estas promos se tocó — quedan con su fecha de verificación anterior, ni mejor ni peor que ayer.
+
+### DESTACADO — Diarco desapareció a la vez de Credicoop, Supervielle y Banco Ciudad, y su propio sitio no cargó nada
+El sitio directo de Diarco (diarco.com.ar) hoy no mostró ninguna promoción bancaria: quedó trabado en la pantalla de "Seleccioná tu sucursal". Al mismo tiempo, Diarco Barrio/Pueblo/Mayorista desaparecieron del listado de Credicoop, de Supervielle y de Banco Ciudad. Podría ser que la promo terminó, pero que las CUATRO fuentes fallen de la misma forma el mismo día apunta más a un problema del lado de Diarco (su feed de promociones, que varios bancos consumen) que a un fin de campaña real. No se tocó ninguna promo de Diarco por este motivo — si mañana sigue igual, ahí sí se cae.
+
+### Rotación de fin de mes — grupo Petersen (Santa Fe, San Juan, Santa Cruz)
+El listado de Banco Santa Fe pasó de 20 a 15 resultados: se cayeron ChangoMás, Día, Vea y Disco (los cuatro con vigencia hasta el 31/08 o antes) y aparecieron cinco comercios nuevos con vigencias que llegan hasta octubre — la rotación mensual típica de este grupo. San Juan y Santa Cruz siguen sin poder leerse (la receta de `petersen` solo trae el dominio de Santa Fe desde hace más de una semana; van 9 días sin verificar, mañana cumplen 10). Se dieron de baja las promos de esos dos bancos que ya tenían vigencia vencida (no hay forma de re-confirmarlas y ya pasó su fecha de fin, que salió del propio sitio del banco).
+
+### Altas (5)
+Todos en Banco Santa Fe, nuevos en el listado de hoy, sin tope publicado: **La Reina** 25% lunes (hasta 02/10), **Supermercados DAR** 15% martes +10% adicional clientes (hasta 29/09), **Super Kilbel** 20% miércoles y jueves (hasta 30/09), **Super El Túnel** 25% jueves (hasta 31/08), **Alvear** 25% lunes y jueves (hasta 28/09).
+
+### Correcciones (2)
+- **Cuenta DNI, 3 cuotas sin interés** (`cuotas-cuenta-dni-3`): el legal de hoy dice vigencia hasta el **31 de octubre**, no el 31/08 que teníamos.
+- **Cencopay Cuenta 25% lunes** (`cencopay-cuenta-jumbo-disco-vea-lunes-25`): solo tenía "Jumbo" en comercios pese a que `fuentes[]` ya incluía a Vea desde el 28/08 — un arrastre de un error viejo. El legal de hoy confirma el mismo bloque (25%, tope $15.000) en Jumbo, Disco y Vea; se agregaron los tres.
+
+### Baja de confianza (1)
+- `coto-modo-nfc-jueves-30`: 10 días sin verificar (última vez 21/08) porque la pestaña Sucursales de Coto no se pudo leer hoy tampoco (la receta solo trae Digital). Pasa a confianza baja; la app deja de mostrarla hasta que se pueda confirmar.
+
+### Bajas (13)
+- **Grupo Petersen** (10): ver el destacado de arriba — `santa_fe-changomas-lunes`, `santa_fe-dia-viernes`, `santa_fe-vea-viernes`, `santa_fe-disco-viernes`, `san_juan-changomas-lunes`, `san_juan-avicola-myriam-viernes`, `san_juan-disco-viernes`, `santa_cruz-market-sur-viernes`, `santa_cruz-autoservicio-cerca-viernes`, `santa_cruz-diarco-sabado`.
+- **Naranja X** (2): `naranja_x-viajes-24-30ago-20` y `naranja_x-aerolineas-24-30ago-20`, campañas con fecha fija (24 al 30/08) ya vencidas.
+- **Cuenta DNI** (1): `cuenta-dni-toledo-finde-29-30ago`, especial de un solo fin de semana (29 y 30/08), ya vencida y ausente del listado de hoy.
+
+### Confirmadas con fuente de hoy (182 en total)
+Cuenta DNI (14, incluida la corrección de `cafe-buffet` de ayer que hoy volvió a aparecer bajo el mismo slug `beneficiouniversidades`), Personal Pay (7 de 13), Ualá, Galicia (7 de 10), Banco Santa Fe (6), Banco Hipotecario, Banco Patagonia (parcial), Rappi, Sodimac, Brubank (55), Jumbo/Disco/Vea/Banco Ciudad/MODO/Shell/Supervielle (el grueso, sin tocar `dias` porque las tres primeras siguen sin marcar qué día está activo — mismo problema que el 30/08), Farmaonline (por Credicoop, BBVA, YOY, Mercado Pago, Supervielle Jubilados y el grupo Petersen), BNA (Rappi).
+
+### Fuentes muertas hoy (no se tocaron sus promos)
+Carrefour, ChangoMás, Comafi (Cloudflare), Dia, Fravega (403 CloudFront), La Anónima (403), Santander (timeout, viene así hace semanas), Dr. Ahorro (SSL inválido). `crudo/mcdonalds.txt` y `crudo/musimundo.txt` siguen con `leido: 2026-08-27` (cuatro días viejo): no se cargó nada de ahí.
+
+### Pendiente / para la próxima corrida
+- **Banco Macro**: revisar por qué la receta hoy trajo `/macrobeneficios` en vez de `/beneficios` — son páginas distintas.
+- **MODO**: hoy por primera vez el listado mostró comercio + porcentaje en la sección "Supermercados" (ChangoMás 20%, La Anónima 20%, El Nene 25%, Vea 25%, El Túnel 25%, Cordiez 25%, La Ilusión 15%), aunque sigue sin decir el día. Ojo: dice **Vea 25%**, pero tenemos cargado `modo-vea-viernes-20` (Vea, viernes, 20%) — puede ser una promo distinta o un dato que cambió; no se tocó nada hasta poder abrir la ficha individual y confirmar día + porcentaje.
+- **San Juan y Santa Cruz** (grupo Petersen): 9 días sin verificar, mañana cumplen 10. Revisar si la receta puede volver a cubrir esos dos dominios.
+- Sigue la cola de `validar.js`: 10 promos visibles con una sola fuente de prensa (Banco Macro en Jumbo/ChangoMás/Día, varias de Mercado Pago) y 1 de riesgo sin cruzar (`santander-transporte`).
+
 ## 2026-08-30 — El push del recolector chocó con un commit humano y hubo que repetirlo; Cencosud contradice tres promos de prensa (una de ellas se cae)
 
 **402 promos (era 387): 17 altas, ~9 correcciones (una destacada), 2 bajas (una destacada), 186 confirmaciones con fuente fresca.**
