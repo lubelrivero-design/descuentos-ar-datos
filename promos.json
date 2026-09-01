@@ -95,7 +95,8 @@
           "fecha": "2026-08-23",
           "nota": "coincide: 15% los martes pagando con QR, sin tope"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "mp-dia-miercoles",
@@ -254,7 +255,8 @@
           "fecha": "2026-08-23",
           "nota": "coincide exacto: 35%, miércoles, tope $15.000 semanal, crédito Visa y Mastercard"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "bna-dia-lun-vie",
@@ -409,7 +411,8 @@
           "nivel": 2,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "bna-finde-cadenas",
@@ -480,7 +483,8 @@
         }
       ],
       "compra_minima": 75000,
-      "acumulable": true
+      "acumulable": true,
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "modo-dia-vie-sab",
@@ -510,7 +514,8 @@
           "nivel": 2,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "macro-jumbo-mar-jue",
@@ -646,7 +651,8 @@
           "nivel": 2,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "hipotecario-changomas-martes",
@@ -688,7 +694,8 @@
           "nota": "25% los martes, débito Visa, tope $10.000 mensual ($30.000 Búho)"
         }
       ],
-      "tope_publicado": true
+      "tope_publicado": true,
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "icbc-changomas-jueves",
@@ -723,7 +730,8 @@
           "fecha": "2026-08-27",
           "nota": "30% los jueves para cuenta sueldo, tope $15.000 semanal"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "naranja-super-martes",
@@ -821,7 +829,8 @@
           "fecha": "2026-08-27",
           "nota": "Plan Épico: 30% los martes, tope $12.000 semanal"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "naranja-deportiva",
@@ -2278,7 +2287,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-jumbo-20",
@@ -2314,7 +2324,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-supermercados-toledo-30",
@@ -2345,7 +2356,8 @@
           "nivel": 1,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-supermercados-toledo-15",
@@ -2376,7 +2388,8 @@
           "nivel": 1,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-diarco-mayorista-15",
@@ -2412,7 +2425,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-dia-20",
@@ -2448,7 +2462,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-makro-20",
@@ -2483,7 +2498,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-supermercados-vea-20",
@@ -2518,7 +2534,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-diarco-pueblo-15",
@@ -2554,7 +2571,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-diarco-barrio-20",
@@ -2590,7 +2608,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-changomas-20",
@@ -2625,7 +2644,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-la-anonima-20",
@@ -2661,7 +2681,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-mayorista-nini-20",
@@ -2696,7 +2717,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-farmacias-vilela-20",
@@ -2726,7 +2748,8 @@
           "nivel": 1,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-farmacias-paradineiro-online-20",
@@ -2764,7 +2787,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-farmacity-online-20",
@@ -2799,7 +2823,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-farmacias-modo-20",
@@ -2834,7 +2859,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-farmacia-zentner-10",
@@ -2864,7 +2890,8 @@
           "nivel": 1,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-farmacia-santa-ana-15",
@@ -2899,7 +2926,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-farmacias-abc-20",
@@ -2935,7 +2963,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-estaciones-de-servicio-adheridas-10",
@@ -3036,7 +3065,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-ciudad-casa-del-audio-18",
@@ -3123,7 +3153,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-ciudad-almundo-6",
@@ -3164,7 +3195,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-ciudad-plataforma-10-3",
@@ -3205,7 +3237,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-naranja_x-megatone-14",
@@ -3241,7 +3274,8 @@
           "nivel": 1,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-naranja_x-naldo-14",
@@ -3277,7 +3311,8 @@
           "nivel": 1,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-naranja_x-on-city-12",
@@ -3313,7 +3348,8 @@
           "nivel": 1,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-naranja_x-cetrogar-12",
@@ -3349,7 +3385,8 @@
           "nivel": 1,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-naranja_x-musimundo-12",
@@ -3385,7 +3422,8 @@
           "nivel": 1,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-naranja_x-la-anonima-12",
@@ -3462,7 +3500,8 @@
           "nivel": 2,
           "fecha": "2026-08-29"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-modo-tiendamacro-24",
@@ -3678,7 +3717,8 @@
           "nivel": 3,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-cualquiera-coto-18",
@@ -4201,7 +4241,8 @@
           "nivel": 1,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-naranja_x-simmons-12",
@@ -4943,7 +4984,8 @@
           "nivel": 2,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "mp-maxiconsumo",
@@ -5043,7 +5085,8 @@
           "nivel": 2,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-mp-dia-3",
@@ -5110,7 +5153,8 @@
           "nivel": 2,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-galicia-jumbo-3",
@@ -5184,7 +5228,8 @@
           "fecha": "2026-08-27",
           "nota": "3 cuotas sin interés de jueves a domingo de agosto, presencial"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-naranja_x-jumbo-12",
@@ -5224,7 +5269,8 @@
           "nivel": 2,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-naranja_x-samsung-14",
@@ -5260,7 +5306,8 @@
           "nivel": 1,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-naranja_x-la-cardeuse-12",
@@ -5693,7 +5740,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-supermercado-dar-15",
@@ -5728,7 +5776,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-supermercado-el-tunel-25",
@@ -5763,7 +5812,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-supermercado-el-nene-25",
@@ -5799,7 +5849,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-supercoop-20",
@@ -5836,7 +5887,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-almacor-10",
@@ -5931,7 +5983,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-farmacias-del-puente-15",
@@ -5961,7 +6014,8 @@
           "nivel": 1,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-farmaonline-10",
@@ -6002,7 +6056,8 @@
           "fecha": "2026-08-30"
         }
       ],
-      "cuotas": 6
+      "cuotas": 6,
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-farmaplus-online-15",
@@ -6037,7 +6092,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudad-perfumerias-modo-20",
@@ -6072,7 +6128,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "personalpay-coto-30",
@@ -6138,7 +6195,8 @@
           "nivel": 2,
           "fecha": "2026-08-28"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "personalpay-diarco-finde-15",
@@ -6316,7 +6374,8 @@
           "nivel": 1,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "buepp-bicicleterias-24",
@@ -6417,7 +6476,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-jumbo",
@@ -6452,7 +6512,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-disco",
@@ -6487,7 +6548,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-vea",
@@ -6521,7 +6583,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-dia",
@@ -6556,7 +6619,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-la-anonima",
@@ -6591,7 +6655,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-libertad",
@@ -6625,7 +6690,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-modo-market",
@@ -6659,7 +6725,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-toledo-miercoles",
@@ -6688,7 +6755,8 @@
           "nivel": 1,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-toledo-viernes",
@@ -6718,7 +6786,8 @@
           "nivel": 1,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-el-puente",
@@ -6754,7 +6823,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-josimar",
@@ -6846,7 +6916,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-jubilados",
@@ -7347,7 +7418,8 @@
           "nivel": 2,
           "fecha": "2026-08-29"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-shell-domingo",
@@ -7434,7 +7506,8 @@
           "nivel": 1,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-supervielle-farmaonline-6",
@@ -7475,7 +7548,8 @@
           "nivel": 2,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "patagonia-carrefour-miercoles",
@@ -7606,7 +7680,8 @@
           "nivel": 1,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -7914,7 +7989,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -7949,7 +8025,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -7979,7 +8056,8 @@
           "nivel": 1,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -8056,7 +8134,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -8097,7 +8176,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -8256,7 +8336,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -8291,7 +8372,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -8327,7 +8409,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -8364,7 +8447,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -8399,7 +8483,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -8478,7 +8563,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -8516,7 +8602,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -8562,7 +8649,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "zona": "Nacional",
@@ -8765,7 +8853,8 @@
           "nivel": 1,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "coto-cualquiera-viernes-15",
@@ -9008,7 +9097,8 @@
           "nivel": 2,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "columbia-dia-lun-vie-20",
@@ -9067,7 +9157,8 @@
           "nivel": 2,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "ciudadania-portena-dia-15",
@@ -9097,7 +9188,8 @@
           "nivel": 2,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "sidecreer-dia-domingo-25",
@@ -9157,7 +9249,8 @@
           "nivel": 2,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "naranja-dia-martes-epico",
@@ -9186,7 +9279,8 @@
           "nivel": 2,
           "fecha": "2026-08-21"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "carrefour-banco-martes-20",
@@ -9215,7 +9309,8 @@
           "nivel": 2,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "carrefour-banco-jueves-20",
@@ -9244,7 +9339,8 @@
           "nivel": 2,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "carrefour-banco-viernes-15",
@@ -9273,7 +9369,8 @@
           "nivel": 2,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "carrefour-banco-lun-mar-15",
@@ -9303,7 +9400,8 @@
           "nivel": 2,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "carrefour-banco-finde-10",
@@ -9333,7 +9431,8 @@
           "nivel": 2,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuotas-carrefour-banco-3",
@@ -9364,7 +9463,8 @@
           "nivel": 2,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "carrefour-anses-mayores-10",
@@ -9395,7 +9495,8 @@
           "nivel": 2,
           "fecha": "2026-08-27"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "carrefour-online-10",
@@ -9425,7 +9526,8 @@
           "fecha": "2026-08-27",
           "nota": "el legal completo dice \"VÁLIDO TODOS LOS JUEVES DE AGOSTO 2026\", no todos los dias como decia el resumen"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "medio": "brubank",
@@ -9475,7 +9577,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "medio": "brubank",
@@ -9519,7 +9622,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "medio": "brubank",
@@ -9569,7 +9673,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "medio": "brubank",
@@ -9619,7 +9724,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "medio": "brubank",
@@ -9669,7 +9775,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "medio": "brubank",
@@ -9719,7 +9826,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "medio": "brubank",
@@ -9769,7 +9877,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "santa_fe-supermercados-la-gallega-viernes",
@@ -9855,7 +9964,8 @@
           "nivel": 1,
           "fecha": "2026-08-22"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "san_juan-la-anonima-viernes",
@@ -9886,7 +9996,8 @@
           "nivel": 1,
           "fecha": "2026-08-22"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "san_juan-makro-jueves",
@@ -9916,7 +10027,8 @@
           "nivel": 1,
           "fecha": "2026-08-22"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "san_juan-vea-viernes",
@@ -9946,7 +10058,8 @@
           "nivel": 1,
           "fecha": "2026-08-22"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "santa_cruz-coto-lunes",
@@ -9976,7 +10089,8 @@
           "nivel": 1,
           "fecha": "2026-08-22"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "santa_cruz-la-anonima-viernes",
@@ -10007,7 +10121,8 @@
           "nivel": 1,
           "fecha": "2026-08-22"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "santa_cruz-supermercados-dar-martes",
@@ -10068,7 +10183,8 @@
           "nivel": 1,
           "fecha": "2026-08-22"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "santa_cruz-vea-viernes",
@@ -10099,7 +10215,8 @@
           "nivel": 1,
           "fecha": "2026-08-22"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "santa_cruz-jumbo-martes",
@@ -10130,7 +10247,8 @@
           "nivel": 1,
           "fecha": "2026-08-22"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-carnicerias-mendoza",
@@ -10163,7 +10281,8 @@
           "nivel": 1,
           "fecha": "2026-08-22"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-carnicerias-san-luis",
@@ -10199,7 +10318,8 @@
           "nivel": 1,
           "fecha": "2026-08-22"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-atomo",
@@ -10233,7 +10353,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-aiello",
@@ -10267,7 +10388,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "patagonia-changomas-miercoles",
@@ -10296,7 +10418,8 @@
         }
       ],
       "verificado": "2026-08-27",
-      "confianza": "alta"
+      "confianza": "alta",
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "changomas-qr-finde",
@@ -10328,7 +10451,8 @@
         }
       ],
       "verificado": "2026-08-27",
-      "confianza": "alta"
+      "confianza": "alta",
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuenta-dni-carrefour-miercoles",
@@ -10484,7 +10608,8 @@
           "fecha": "2026-08-27",
           "nota": "10% todos los días para beneficiarios de ANSES, tope $12.000 por transacción y $50.000 mensual"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "rubro": "supermercados",
@@ -10522,7 +10647,8 @@
           "fecha": "2026-08-27",
           "nota": "10% todos los días para empleados municipales y provinciales, tope $12.000 por transacción"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "rubro": "supermercados",
@@ -10615,7 +10741,8 @@
           "fecha": "2026-08-27",
           "nota": "Singular: 30% los sábados, tope $15.000 mensual"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "rubro": "supermercados",
@@ -10677,7 +10804,8 @@
           "fecha": "2026-08-27",
           "nota": "20% los jueves con crédito SOL, tope $10.000 semanal (o 4 cuotas sin interés)"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "corrientes-dia-mie-jue",
@@ -10741,7 +10869,8 @@
           "fecha": "2026-08-27",
           "nota": "15% los jueves con dinero en cuenta de Mercado Pago, sin tope, mínimo $15.000, hasta el 31/08"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "rubro": "supermercados",
@@ -10773,7 +10902,8 @@
           "fecha": "2026-08-27",
           "nota": "15% los jueves para empleados públicos, tope $20.000 mensual, en seis provincias y siete ciudades, hasta el 31/08"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "rubro": "supermercados",
@@ -10809,7 +10939,8 @@
           "fecha": "2026-08-27",
           "nota": "10% de martes a domingo con Club LA NACIÓN, sin tope, solo online con entrega inmediata"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "club-lanacion-carrefour-lunes-15",
@@ -10839,7 +10970,8 @@
           "fecha": "2026-08-27",
           "nota": "15% los lunes con Club LA NACION en tienda, sin tope"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "columbia-changomas-mar-sab-20",
@@ -11057,7 +11189,8 @@
           "nivel": 2,
           "fecha": "2026-08-31"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cencopay-jumbo-disco-vea-miercoles-online-20",
@@ -11099,7 +11232,8 @@
           "nivel": 2,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "clarin365-cencopay-jumbo-disco-20",
@@ -11175,7 +11309,8 @@
           "nivel": 2,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "macro-mcdonalds-nfc-20",
@@ -13373,7 +13508,8 @@
           "nivel": 2,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "patagonia-jumbo-disco-vea-viernes-amex-30",
@@ -13501,7 +13637,8 @@
           "nivel": 2,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "yoy-farmaonline-jueves-20",
@@ -13593,7 +13730,8 @@
           "nivel": 2,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "supervielle-farmaonline-jubilados-martes",
@@ -13762,7 +13900,8 @@
           "fecha": "2026-08-30"
         }
       ],
-      "verificado": "2026-08-31"
+      "verificado": "2026-08-31",
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "modo-disco-viernes-sabado-20",
@@ -13793,7 +13932,8 @@
           "fecha": "2026-08-30"
         }
       ],
-      "verificado": "2026-08-31"
+      "verificado": "2026-08-31",
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "modo-vea-viernes-20",
@@ -13868,7 +14008,8 @@
           "fecha": "2026-08-30"
         }
       ],
-      "verificado": "2026-08-31"
+      "verificado": "2026-08-31",
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "macro-jumbo-disco-vea-jue-dom-3cuotas",
@@ -13913,7 +14054,8 @@
           "fecha": "2026-08-30"
         }
       ],
-      "verificado": "2026-08-31"
+      "verificado": "2026-08-31",
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "clarin365-cencopay-jumbo-lunes-20",
@@ -13972,7 +14114,8 @@
           "fecha": "2026-08-30"
         }
       ],
-      "verificado": "2026-08-31"
+      "verificado": "2026-08-31",
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "santa_fe-la-reina-lunes",
@@ -14150,7 +14293,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "credicoop-diarco-pueblo-finde",
@@ -14186,7 +14330,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "credicoop-diarco-mayorista-finde",
@@ -14222,7 +14367,8 @@
           "nivel": 1,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "vigencia_asumida": "2026-09-01"
     },
     {
       "id": "cuenta-dni-petshop-sabado",
