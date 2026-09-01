@@ -1,5 +1,57 @@
 # Cambios
 
+## 2026-09-01 — DESTACADO: el 1° de septiembre apagó las 3/4 partes de la app sin que nadie lo tocara; se recuperaron con un rollover de mes
+
+**394 promos: 3 altas de Cuenta DNI + 3 de Santa Fe, 1 baja de Cuenta DNI + 5 de Santa Fe por rotación, 64+24 bajas de confianza por más de 10 días sin verificar, ~170 promos con `vigencia_hasta` extendida a septiembre. La app pasó de mostrar 67 promos hoy a mostrar 280.**
+
+### DESTACADO — Por qué la app se habría quedado casi vacía hoy si no se tocaba nada
+`www/js/app.js` filtra por `vigencia_hasta < hoy` en cada pantalla. La mayoría de las promos recurrentes (las que se renuevan solas mes a mes, sin fecha de fin propia) tenían `vigencia_hasta: "2026-08-31"` — válido hasta anoche. Al entrar a septiembre, 269 de las 396 promos que había (el 68%) iban a desaparecer de golpe de la app aunque casi ninguna haya terminado de verdad: simplemente nadie había extendido la fecha. Es la primera vez que esta corrida cruza un 1° de mes, así que es la primera vez que se ve este problema.
+Se resolvió con un rollover: todas las promos con `confianza` distinta de "baja" y `vigencia_hasta` en el viejo default de agosto se extendieron a **2026-09-30**, salvo las que llevaban más de 10 días sin verificarse (esas bajaron a `confianza: "baja"` en cambio, que ya las oculta la app igual — ver más abajo). Las que tenían fecha propia publicada por la fuente (Cuenta DNI, grupo Petersen) se dejaron con esa fecha real, no con el default. **Vale la pena que alguien revise si conviene que las promos recurrentes nazcan con `vigencia_hasta` más largo (por ej. fin del mes siguiente) para no depender de que la corrida caiga justo el día 1.**
+
+### DESTACADO — Hallazgo de herramienta: varias recetas de `crudo/` no pueden sacar el día ni el comercio desde texto plano
+Revisando fuente por fuente para el rollover, encontré que **Coto, Banco Ciudad, Credicoop, Supervielle y Naranja X** (entre otras) usan `saca: TEXTO` en `tools/fuentes-recetas.js`, que solo lee `innerText`. El problema: la nota de cada una en `fuentes.json` dice que el día activo se distingue por una clase CSS (`.active`, `dia-beneficio fw-bold`) y que en Credicoop el comercio sale del `alt` de una imagen — ninguna de esas dos cosas viaja en el texto plano. Resultado: el `crudo/` de estas fuentes trae los mismos "L M M J V S D" para todas las tarjetas sin poder decir cuál está activa, y Credicoop directamente no trae nombres de comercio. No es algo de hoy: probablemente viene pasando desde que existe el recolector, y explica por qué tantas promos de estas fuentes llevan días sin poder re-verificarse. **Vale la pena que alguien le escriba una receta especializada a estas fuentes** (como ya tiene Cuenta DNI con su API, o cuenta-dni/jumbo/disco/vea con su texto plano completo) en vez de la genérica.
+
+### Altas (6)
+- **Cuenta DNI** (3, todas nivel 1 nuevas en el listado de hoy): `cuenta-dni-petshop-sabado` (30%, veterinarias y pet shops, sábado, tope $8.000/sábado); `cuenta-dni-cooperativa-obrera-lobos` (15%, viernes y sábado, solo sucursales de Lobos); `coto-cuenta-dni-nfc-jueves-30` (30% Coto NFC jueves, la misma campaña Visa que ya teníamos por MODO, ahora también confirmada por Cuenta DNI con fechas exactas 19/03 al 24/09/2026).
+- **Banco Santa Fe** (3, nuevas en el listado de 9 de hoy): `santa_fe-supermercados-modo-viernes-20` (20%, viernes, jun-oct); `santa_fe-kilbel-viernes-20` (20%, viernes, sep-oct, además de la de miércoles/jueves que ya teníamos); `santa_fe-alvear-especial-9sept-50` (50%, especial de un solo día, 9/9, exclusivo Cuentas Paquete).
+
+### Bajas por vencimiento o rotación (6)
+- **Cuenta DNI**: `cuenta-dni-cafe-buffet` — ya no está en el listado de hoy (23 tarjetas activas, ninguna es esta); el sitio rota estos cupos mes a mes.
+- **Banco Santa Fe** (5): `santa_fe-la-anonima-viernes`, `santa_fe-jumbo-martes`, `santa_fe-diarco-sabado`, `santa_fe-makro-jueves`, `santa_fe-el-tunel-jueves` — el listado de hoy trajo 9 de 9 resultados completos (no cortado) y ninguno de estos cinco comercios está; es la rotación mensual típica de este banco, ya vista fin de agosto.
+
+### Correcciones de datos (4)
+- **`coto-modo-nfc-jueves-30`**: tenía `vigencia_hasta: 2026-08-27` (una fecha adivinada) y estaba en confianza baja por 11 días sin verificar. El legal de Cuenta DNI de hoy da la fecha real de esta campaña Visa (19/03 al 24/09/2026) y confirma que es la misma promo; se corrigió la vigencia y volvió a confianza alta con dos fuentes.
+- **`cuenta-dni-carrefour-miercoles`**: tenía `tope_publicado: false` (no sabíamos si había tope). El legal de hoy confirma "sin tope de reintegro" explícito.
+- **`cuotas-cuenta-dni-3`**: `vigencia_desde` estaba en 2026-08-01; el legal dice que la promo arranca el 1° de junio.
+- **`cuenta-dni-changomas-jueves`**: tenía `zona: "AMBA"`, pero el legal de hoy lista sucursales de Bahía Blanca, La Plata, Pergamino, Junín, Olavarría y Viedma (Río Negro) — mucho más ancho que AMBA. Se corrigió a "Provincia de Buenos Aires" con la salvedad de Viedma en la letra chica.
+- **`ciudad-casa-del-audio-20`**: la tarjeta de hoy en Banco Ciudad muestra 25% y "Sin tope" explícito (antes 20% con tope sin publicar).
+- **`cuenta-dni-nini`**: el legal de hoy aclara que este mes solo vale los martes 1 y 8 de septiembre, no todos los martes; se acotó la vigencia a esas fechas.
+
+### Baja de confianza por vencimiento (88)
+- **24 promos de Coto** (las que dependen de la pestaña "Sucursales": ICBC, Credicoop, Supervielle, TCI, Columbia, Comafi, Patagonia, jubilados, ANSES, Ciudadanía Porteña, Mercado Pago presencial, cuotas varias) — la receta de Coto sigue sin poder abrir esa pestaña, van 11 días sin poder releerla.
+- **64 promos más** de Mercado Pago, Banco Macro, Naranja X (varias cuotas), Galicia (transporte, Cabify, Uber, cuotas Jumbo/ChangoMás), Ciudad (combustible, cuotas varias), Santander transporte, y otras sueltas — todas llevaban 11 días sin verificarse (última vez el 21/08) y sus fuentes no se pudieron releer a tiempo hoy. Quedan con `confianza: "baja"`, que ya las oculta en la app; no se borraron los datos, solo se apagó la visibilidad hasta poder confirmarlas de nuevo.
+
+### Confirmadas con fuente fresca de hoy (destacadas)
+- **Cuenta DNI** (18 de 23, la fuente más completa del día — API con legal completo): dia-lunes, cercanía, toledo, marcas destacadas, ypf-full, sodimac, changomas-jueves, universidades, super-12-13, gastronomía, garrafas, ferias, la anónima, carrefour-miércoles, librerías (extendida hasta 29/12), farmacias (extendida hasta 31/12), josimar (extendida hasta 31/10), mostaza x2 (sin cambios, ya tenían fecha correcta).
+- **Personal Pay** (7 de 13, página 1 de 9 — el resto sigue sin alcanzarse): Dia, La Reina, Farmacia Central Oeste, Farmalife, Puma Energy, Taxi Premium, Go Bar.
+- **Banco Santa Fe** (5 de 9): La Gallega, La Reina, DAR, Kilbel miércoles/jueves, Alvear lunes/jueves.
+- **Banco Galicia** (6): Jumbo, Starbucks, Mimo & Co, CCKonex, cuotas Bridgestone, cuotas Rex; se aprovechó también para aclarar que el descuento de combustible es "el día 10 de cada mes" y no un día de semana fijo.
+- **Naranja X en Coto** (`naranja-super-martes`, `coto-naranja_x-martes-30`): Coto Digital de hoy confirma los tres topes exactos por plan ($3.000/$9.500/$12.000 semanales) y el legal de Jumbo de hoy confirma texto completo del Plan Inicial (20%, martes de septiembre, tope $3.000, cupo de 80.000 reintegros).
+- **Supervielle jubilados**: Jumbo sigue mostrando 25% pero gana la web oficial de Supervielle (nivel 1) con 20%, sin cambios respecto de días anteriores.
+
+### Diarco: el sitio propio ya no tira timeout, pero tampoco muestra promos
+Después de semanas de `ERROR: page.goto: Timeout`, hoy `diarco.com.ar` cargó — pero se quedó trabado en la pantalla "Seleccioná tu sucursal" sin llegar a mostrar ninguna tarjeta de descuento. No se tocó ninguna promo de Diarco por este motivo.
+
+### Fuentes muertas hoy (no se tocaron sus promos)
+Carrefour, ChangoMás, Dia, La Anónima (403), Santander (timeout, viene así hace semanas). `crudo/mcdonalds.txt` y `crudo/musimundo.txt` siguen con `leido: 2026-08-27` (cinco días viejo, no se actualizan hace rato): no se cargó nada de ahí.
+
+### Pendiente / para la próxima corrida
+- **La receta de Coto no puede abrir "Sucursales"** hace 11 días — revisar `tools/fuentes-recetas.js`. Son 24 promos apagadas por esto.
+- **Personal Pay solo trae la página 1 de 9** (Supermercados está en páginas siguientes): Coto, Diarco, ChangoMás, Biomac, Chanchito Market siguen sin poder reconfirmarse.
+- **San Juan y Santa Cruz (grupo Petersen)**: 10 días sin verificar (última vez 22/08, mañana cumplen 11 y bajan a confianza baja). La receta solo lee el dominio de Santa Fe.
+- Revisar si conviene que las promos recurrentes se carguen con `vigencia_hasta` más largo por defecto, para que un solo día de corrida perdida (o un cron que no dispara) no las apague de golpe — ver el DESTACADO de arriba.
+- Sigue pendiente escribirle recetas especializadas a Coto, Banco Ciudad, Credicoop, Supervielle y Naranja X para poder leer el día activo (y en Credicoop el comercio) sin depender de CSS/atributos que el `saca: TEXTO` genérico no capta.
+
 ## 2026-08-31 — El cron de las 7 otra vez no disparó solo; rotación de fin de mes en el grupo Petersen; me comí varias confirmaciones falsas por lecturas parciales y las revertí antes de publicar
 
 **394 promos (era 402): 5 altas, 2 correcciones de datos, 1 baja de confianza, 13 bajas, 182 confirmaciones con fuente fresca.**
