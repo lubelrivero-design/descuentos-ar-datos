@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01",
+  "actualizado": "2026-09-02",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -292,93 +292,6 @@
       ]
     },
     {
-      "id": "bna-jumbo-martes",
-      "medio": "bna_mas",
-      "medio_nombre": "BNA+",
-      "rubro": "supermercados",
-      "comercios": [
-        "Jumbo"
-      ],
-      "dias": [
-        "martes"
-      ],
-      "descuento_pct": 20,
-      "tope_monto": 25000,
-      "tope_periodo": "mensual",
-      "requisitos": "Compra minima $100.000. Con BNA+ MODO o tarjetas Visa/Mastercard del banco.",
-      "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://calcularsueldo.com.ar/finanzas/15562/supermercados-bna-cuales-son-las-promociones-y-como-ahorrar-en-agosto-2026.html",
-      "verificado": "2026-08-09",
-      "confianza": "baja",
-      "fuentes": [
-        {
-          "url": "https://calcularsueldo.com.ar/finanzas/15562/supermercados-bna-cuales-son-las-promociones-y-como-ahorrar-en-agosto-2026.html",
-          "nivel": 4,
-          "fecha": "2026-08-09"
-        }
-      ]
-    },
-    {
-      "id": "bna-maxiconsumo-miercoles",
-      "medio": "bna_mas",
-      "medio_nombre": "BNA+",
-      "rubro": "supermercados",
-      "comercios": [
-        "Maxiconsumo"
-      ],
-      "dias": [
-        "miercoles"
-      ],
-      "descuento_pct": 30,
-      "tope_monto": 12000,
-      "tope_periodo": "semanal",
-      "requisitos": "En un pago, solo presencial.",
-      "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://calcularsueldo.com.ar/finanzas/15562/supermercados-bna-cuales-son-las-promociones-y-como-ahorrar-en-agosto-2026.html",
-      "verificado": "2026-08-09",
-      "confianza": "baja",
-      "fuentes": [
-        {
-          "url": "https://calcularsueldo.com.ar/finanzas/15562/supermercados-bna-cuales-son-las-promociones-y-como-ahorrar-en-agosto-2026.html",
-          "nivel": 4,
-          "fecha": "2026-08-09"
-        }
-      ]
-    },
-    {
-      "id": "bna-nini-jueves",
-      "medio": "bna_mas",
-      "medio_nombre": "BNA+",
-      "rubro": "supermercados",
-      "comercios": [
-        "Mayorista Nini"
-      ],
-      "dias": [
-        "jueves"
-      ],
-      "descuento_pct": 20,
-      "tope_monto": 20000,
-      "tope_periodo": "mensual",
-      "requisitos": "Con BNA+ MODO o tarjetas del Banco Nacion.",
-      "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://calcularsueldo.com.ar/finanzas/15562/supermercados-bna-cuales-son-las-promociones-y-como-ahorrar-en-agosto-2026.html",
-      "verificado": "2026-08-09",
-      "confianza": "baja",
-      "fuentes": [
-        {
-          "url": "https://calcularsueldo.com.ar/finanzas/15562/supermercados-bna-cuales-son-las-promociones-y-como-ahorrar-en-agosto-2026.html",
-          "nivel": 4,
-          "fecha": "2026-08-09"
-        }
-      ]
-    },
-    {
       "id": "bna-jubilados-extra",
       "medio": "bna_mas",
       "medio_nombre": "BNA+",
@@ -413,40 +326,6 @@
         }
       ],
       "vigencia_asumida": "2026-09-01"
-    },
-    {
-      "id": "bna-finde-cadenas",
-      "medio": "bna_mas",
-      "medio_nombre": "BNA+",
-      "rubro": "supermercados",
-      "comercios": [
-        "La Anónima",
-        "Disco",
-        "Vea",
-        "Diarco"
-      ],
-      "dias": [
-        "viernes",
-        "sabado",
-        "domingo"
-      ],
-      "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Va de 15% a 20% según la cadena: La Anónima y Diarco Barrio 20%, Diarco Mayorista 15%.",
-      "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://calcularsueldo.com.ar/finanzas/15562/supermercados-bna-cuales-son-las-promociones-y-como-ahorrar-en-agosto-2026.html",
-      "verificado": "2026-08-09",
-      "confianza": "baja",
-      "fuentes": [
-        {
-          "url": "https://calcularsueldo.com.ar/finanzas/15562/supermercados-bna-cuales-son-las-promociones-y-como-ahorrar-en-agosto-2026.html",
-          "nivel": 4,
-          "fecha": "2026-08-09"
-        }
-      ]
     },
     {
       "id": "modo-changomas-lunes",
@@ -628,7 +507,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -650,9 +529,13 @@
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "hipotecario-changomas-martes",
@@ -757,7 +640,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -793,6 +676,12 @@
           "nivel": 2,
           "fecha": "2026-09-01",
           "nota": "el legal de hoy confirma texto completo: Plan Inicial 20% tope $3.000/semana, todos los martes de septiembre 2026 (o hasta agotar 80.000 reintegros)"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "confirma los tres planes: Turbo 25%/$9.500, Inicial 20%/$3.000, Épico 30%/$12.000, martes de septiembre"
         }
       ]
     },
@@ -1665,39 +1554,6 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
-        }
-      ]
-    },
-    {
-      "id": "bna-rappi",
-      "medio": "bna_mas",
-      "medio_nombre": "BNA+",
-      "comercios": [
-        "Rappi"
-      ],
-      "dias": [
-        "lunes",
-        "martes",
-        "miercoles",
-        "jueves",
-        "viernes"
-      ],
-      "descuento_pct": 30,
-      "tope_monto": 20000,
-      "tope_periodo": "mensual",
-      "requisitos": "Exclusivo con tarjetas de crédito Visa del Banco Nación.",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.bna.com.ar/Personas/DescuentosYPromociones",
-      "confianza": "baja",
-      "rubro": "delivery",
-      "zona": "Nacional",
-      "verificado": "2026-08-09",
-      "fuentes": [
-        {
-          "url": "https://www.bna.com.ar/Personas/DescuentosYPromociones",
-          "nivel": 1,
-          "fecha": "2026-08-09"
         }
       ]
     },
@@ -2809,7 +2665,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2822,9 +2678,13 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-farmacias-modo-20",
@@ -3778,42 +3638,6 @@
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Con Visa, Mastercard o Amex. 3, 6, 9 y 12 cuotas sin interes con tarjetas de credito de Macro, Galicia o BBVA. Seleccionados de ferreteria, automotor, jugueteria, deportes, camping, libreria, bazar, muebles, jardineria, blanqueria y colchones.",
-      "fuente": "https://www.coto.com.ar/",
-      "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
-      "confianza": "baja",
-      "fuentes": [
-        {
-          "url": "https://www.coto.com.ar/",
-          "nivel": 2,
-          "fecha": "2026-08-21"
-        }
-      ]
-    },
-    {
-      "id": "cuotas-cualquiera-coto-20",
-      "medio": "bna_mas",
-      "medio_nombre": "BNA+",
-      "rubro": "electro",
-      "comercios": [
-        "Coto"
-      ],
-      "dias": [
-        "lunes",
-        "martes",
-        "miercoles",
-        "jueves",
-        "viernes",
-        "sabado",
-        "domingo"
-      ],
-      "descuento_pct": 0,
-      "cuotas": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "15, 18 y 20 cuotas sin interes con tarjetas de credito Visa y Mastercard del Banco Nacion, en seleccionados de electro, automotor, ferreteria, deportes, muebles, jardineria y camping.",
       "fuente": "https://www.coto.com.ar/",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
@@ -6942,7 +6766,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6970,6 +6794,17 @@
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-09-01",
+          "nota": "Jumbo sigue diciendo 25%; gana la web oficial de Supervielle (nivel 1) con 20%, sin cambios"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-09-02",
           "nota": "Jumbo sigue diciendo 25%; gana la web oficial de Supervielle (nivel 1) con 20%, sin cambios"
         }
       ]
@@ -7439,14 +7274,19 @@
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/combustible",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
-      "confianza": "baja",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/combustible",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/combustible",
+          "nivel": 1,
+          "fecha": "2026-09-02"
         }
       ]
     },
@@ -7468,14 +7308,19 @@
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
-      "confianza": "baja",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+          "nivel": 1,
+          "fecha": "2026-09-02"
         }
       ]
     },
@@ -7498,16 +7343,20 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+          "nivel": 1,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "cuotas-supervielle-farmaonline-6",
@@ -9538,7 +9387,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "brubank-axion-30",
       "rubro": "combustible",
@@ -9576,9 +9425,13 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "medio": "brubank",
@@ -9589,7 +9442,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "brubank-ypf-lunes-10",
       "rubro": "combustible",
@@ -9621,9 +9474,13 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "medio": "brubank",
@@ -9634,7 +9491,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "brubank-farmacity-30",
       "rubro": "farmacia",
@@ -9672,9 +9529,13 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "medio": "brubank",
@@ -9685,7 +9546,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "brubank-cabify-40",
       "rubro": "transporte",
@@ -9723,9 +9584,13 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "medio": "brubank",
@@ -9736,7 +9601,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "brubank-taxi-premium-40",
       "rubro": "transporte",
@@ -9774,9 +9639,13 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "medio": "brubank",
@@ -9787,7 +9656,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "brubank-burger-king-30",
       "rubro": "gastronomia",
@@ -9825,9 +9694,13 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "medio": "brubank",
@@ -9838,7 +9711,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "brubank-freddo-40",
       "rubro": "gastronomia",
@@ -9876,9 +9749,13 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "santa_fe-supermercados-la-gallega-viernes",
@@ -11156,7 +11033,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11188,9 +11065,13 @@
           "url": "https://www.vea.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-31"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "cencopay-jumbo-disco-vea-miercoles-online-20",
@@ -11214,7 +11095,7 @@
       "vigencia_desde": "2026-01-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11231,9 +11112,13 @@
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "clarin365-cencopay-jumbo-disco-20",
@@ -11291,7 +11176,7 @@
       "vigencia_desde": "2026-04-04",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11308,9 +11193,13 @@
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "macro-mcdonalds-nfc-20",
@@ -13495,7 +13384,7 @@
       "vigencia_desde": "2026-04-04",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13507,9 +13396,13 @@
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-09-02"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "patagonia-jumbo-disco-vea-viernes-amex-30",
@@ -13532,7 +13425,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13544,6 +13437,11 @@
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-09-02"
         }
       ]
     },
@@ -13883,11 +13781,11 @@
         "martes",
         "jueves"
       ],
-      "descuento_pct": 19,
+      "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": false,
-      "requisitos": "19% de reintegro en compras iguales o superiores a $100.000, pagando con la billetera MODO con tarjeta de débito o de crédito adherida en 1 cuota. No vale en compras hechas en la localidad de Pilar.",
+      "requisitos": "20% de reintegro en compras iguales o superiores a $100.000, pagando con la billetera MODO con tarjeta de débito o de crédito adherida en 1 cuota. No vale en compras hechas en la localidad de Pilar.",
       "zona": "Nacional",
       "vigencia_desde": "2026-06-01",
       "vigencia_hasta": "2026-09-30",
@@ -13898,10 +13796,15 @@
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "corregido de 19% a 20%: el legal de hoy dice 20% (antes se habia leido 19%)"
         }
       ],
-      "verificado": "2026-08-31",
-      "vigencia_asumida": "2026-09-01"
+      "verificado": "2026-09-02"
     },
     {
       "id": "modo-disco-viernes-sabado-20",
@@ -14545,6 +14448,105 @@
       ],
       "verificado": "2026-09-01",
       "confianza": "alta"
+    },
+    {
+      "id": "supervielle-colectivos-mastercard",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "transporte",
+      "comercios": [
+        "Colectivos"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 50,
+      "tope_monto": 15000,
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Pagando el boleto con tarjeta de crédito Mastercard de Supervielle por NFC, todos los días. Tope de reintegro $15.000.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/transporte",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/transporte",
+          "nivel": 1,
+          "fecha": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "id": "supervielle-cabify-mastercard",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "transporte",
+      "comercios": [
+        "Cabify"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 50,
+      "tope_monto": 4000,
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Pagando con tarjeta de crédito Mastercard de Supervielle, todos los días. Tope de reintegro $4.000.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/transporte",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/transporte",
+          "nivel": 1,
+          "fecha": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "id": "supervielle-farmacias-mastercard-lunes",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmacias adheridas"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": 5000,
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Pagando con tarjeta de crédito Mastercard de Supervielle por MODO, los lunes. Tope de reintegro $5.000.",
+      "zona": "Nacional",
+      "vigencia_desde": null,
+      "vigencia_hasta": null,
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+          "nivel": 1,
+          "fecha": "2026-09-02"
+        }
+      ]
     }
   ]
 }
