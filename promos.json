@@ -81,7 +81,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -94,9 +94,14 @@
           "nivel": 2,
           "fecha": "2026-08-23",
           "nota": "coincide: 15% los martes pagando con QR, sin tope"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "15% martes con QR, sin tope, \"martes de septiembre 2026\""
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "mp-dia-miercoles",
@@ -241,7 +246,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -254,9 +259,14 @@
           "nivel": 2,
           "fecha": "2026-08-23",
           "nota": "coincide exacto: 35%, miércoles, tope $15.000 semanal, crédito Visa y Mastercard"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "35% miércoles crédito Visa/MC, tope $15.000 semanal (N1)"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "bna-dia-lun-vie",
@@ -316,16 +326,21 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "5% jubilados BNA lunes a viernes hasta 30/09 por MODO/BNA+"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "modo-changomas-lunes",
@@ -346,7 +361,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -359,11 +374,16 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "20% los lunes desde MODO o apps de bancos adheridos, tope $25.000 mensual por banco, compra mínima $75.000"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Supervielle y Credicoop listan MODO lunes en ChangoMás en septiembre"
         }
       ],
       "compra_minima": 75000,
-      "acumulable": true,
-      "vigencia_asumida": "2026-09-01"
+      "acumulable": true
     },
     {
       "id": "modo-dia-vie-sab",
@@ -385,16 +405,21 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "tarjeta MODO viernes y sábados, $20.000 por banco por mes, compras de $35.000 o más"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "macro-jumbo-mar-jue",
@@ -554,9 +579,9 @@
       "requisitos": "Con tarjeta de débito Visa del Hipotecario, pagando con QR desde la app BH o desde MODO. El tope es de $10.000 por mes; para clientes Búho, $30.000.",
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.hipotecario.com.ar/alianzas-bh/changomas/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -578,7 +603,7 @@
         }
       ],
       "tope_publicado": true,
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "ChangoMás no la lista en septiembre; su legal de agosto vencía el 31/08"
     },
     {
       "id": "icbc-changomas-jueves",
@@ -597,9 +622,9 @@
       "requisitos": "Solo para quienes cobran el sueldo en ICBC. Pagando por MODO o desde ICBC Mobile Banking, con crédito Visa/Mastercard en un pago o débito Visa.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -614,7 +639,7 @@
           "nota": "30% los jueves para cuenta sueldo, tope $15.000 semanal"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "ChangoMás no la lista en septiembre; su legal de agosto vencía el 31/08"
     },
     {
       "id": "naranja-super-martes",
@@ -682,6 +707,12 @@
           "nivel": 2,
           "fecha": "2026-09-02",
           "nota": "confirma los tres planes: Turbo 25%/$9.500, Inicial 20%/$3.000, Épico 30%/$12.000, martes de septiembre"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "Naranja X \"martes del mes de septiembre 2026\", 80.000 reintegros"
         }
       ]
     },
@@ -702,9 +733,9 @@
       "requisitos": "Solo para adheridos al Plan Epico.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -719,7 +750,7 @@
           "nota": "Plan Épico: 30% los martes, tope $12.000 semanal"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "ChangoMás hoy publica Inicial y Turbo; el escalón Épico ya está descripto en los requisitos de naranja-super-martes"
     },
     {
       "id": "naranja-deportiva",
@@ -2129,7 +2160,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2142,9 +2173,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Disco 20% en la página de hoy; Disco confirma MODO viernes y sábados 01/06 al 30/09"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-jumbo-20",
@@ -2166,7 +2202,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2179,9 +2215,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Jumbo 20% en la página de hoy; Jumbo confirma MODO martes y jueves 01/06 al 30/09"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-supermercados-toledo-30",
@@ -2340,7 +2381,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2353,9 +2394,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Makro 20% en la página de hoy"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-supermercados-vea-20",
@@ -2376,7 +2422,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2389,9 +2435,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "Vea confirma MODO viernes y sábados hasta el 30/09"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-diarco-pueblo-15",
@@ -2486,7 +2537,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2499,9 +2550,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "ChangoMás: lunes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-la-anonima-20",
@@ -2629,7 +2685,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2642,9 +2698,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Paradiñeiro Online: domingo, martes, jueves, sábado"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-farmacity-online-20",
@@ -2705,7 +2766,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2718,9 +2779,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Farmacias MODO: martes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-farmacia-zentner-10",
@@ -2772,7 +2838,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2785,9 +2851,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Farmacia Santa Ana: domingo"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-farmacias-abc-20",
@@ -2808,7 +2879,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "cuotas": 6,
       "tope_publicado": false,
@@ -2822,9 +2893,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Farmacias ABC: lunes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-estaciones-de-servicio-adheridas-10",
@@ -2912,7 +2988,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -2924,9 +3000,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Frávega: 18 cuotas, todos los días"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "cuotas-ciudad-casa-del-audio-18",
@@ -3000,7 +3081,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3012,9 +3093,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Samsung: 18 cuotas, todos los días"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "cuotas-ciudad-almundo-6",
@@ -3042,7 +3128,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3054,9 +3140,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Almundo: 6 cuotas, todos los días"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "cuotas-ciudad-plataforma-10-3",
@@ -3084,7 +3175,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3096,9 +3187,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Plataforma 10: 3 cuotas, todos los días"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "cuotas-naranja_x-megatone-14",
@@ -3346,8 +3442,8 @@
       "fuente": "https://www.naranjax.com/promociones",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-29",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3361,7 +3457,7 @@
           "fecha": "2026-08-29"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Diarco: \"vigencia del 01/08/26 al 31/08/26\"; en septiembre publica 4 cuotas en Mayorista y Plan Zeta 3 cuotas en Barrio"
     },
     {
       "id": "cuotas-modo-tiendamacro-24",
@@ -4787,13 +4883,13 @@
       "medio_nombre": "Mercado Pago",
       "rubro": "supermercados",
       "comercios": [
-        "Carrefour Maxi"
+        "Carrefour"
       ],
       "dias": [
         "viernes"
       ],
       "descuento_pct": 10,
-      "requisitos": "Pagando con dinero en cuenta de Mercado Pago. Sin tope. Solo en sucursales y no se acumula con otras promos.",
+      "requisitos": "Escaneando el QR con la app de Mercado Pago y eligiendo \"dinero en cuenta\" (no sirve con tarjeta). Sin tope. Solo en sucursales: Hiper, Market y Express. No vale online ni en Maxi.",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "tope_monto": null,
@@ -4801,15 +4897,21 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
           "fecha": "2026-08-27"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "10% viernes de septiembre con dinero en cuenta de Mercado Pago, sin tope, sucursales físicas"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "tope_publicado": true
     },
     {
       "id": "mp-maxiconsumo",
@@ -4901,8 +5003,8 @@
       "confianza": "alta",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-27",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -4910,7 +5012,7 @@
           "fecha": "2026-08-27"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Carrefour no la publica en septiembre; la única de Mercado Pago con % es el 10% de los viernes"
     },
     {
       "id": "cuotas-mp-dia-3",
@@ -4970,15 +5072,20 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
           "fecha": "2026-08-27"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "6 cuotas sin tarjeta de Mercado Pago, lunes y miércoles de septiembre"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "cuotas-galicia-jumbo-3",
@@ -5038,8 +5145,8 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-27",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
@@ -5053,7 +5160,7 @@
           "nota": "3 cuotas sin interés de jueves a domingo de agosto, presencial"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "ChangoMás no la lista en septiembre; su legal de agosto vencía el 31/08"
     },
     {
       "id": "cuotas-naranja_x-jumbo-12",
@@ -5081,7 +5188,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
@@ -5092,9 +5199,14 @@
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "Naranja X Plan Z, presencial y web, 01/08 al 30/09/2026"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "cuotas-naranja_x-samsung-14",
@@ -5550,7 +5662,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5563,9 +5675,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "La Ilusión: lunes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-supermercado-dar-15",
@@ -5586,7 +5703,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5599,9 +5716,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Supermercado DAR: martes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-supermercado-el-tunel-25",
@@ -5793,7 +5915,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5806,9 +5928,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Nutrican: viernes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-farmacias-del-puente-15",
@@ -5860,7 +5987,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "tope_monto": 10000,
       "tope_periodo": "sin_aclarar",
       "fuentes": [
@@ -5878,10 +6005,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Farmaonline: viernes"
         }
       ],
-      "cuotas": 6,
-      "vigencia_asumida": "2026-09-01"
+      "cuotas": 6
     },
     {
       "id": "ciudad-farmaplus-online-15",
@@ -5902,7 +6034,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5915,9 +6047,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "FarmaPlus Online: lunes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-perfumerias-modo-20",
@@ -5938,7 +6075,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5951,9 +6088,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Perfumerías MODO: lunes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "personalpay-coto-30",
@@ -6287,7 +6429,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6299,9 +6441,14 @@
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "ChangoMás con MODO: lunes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "supervielle-jumbo",
@@ -6321,9 +6468,9 @@
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6337,7 +6484,7 @@
           "fecha": "2026-08-30"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
     },
     {
       "id": "supervielle-disco",
@@ -6357,9 +6504,9 @@
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6373,7 +6520,7 @@
           "fecha": "2026-08-30"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
     },
     {
       "id": "supervielle-vea",
@@ -6392,9 +6539,9 @@
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6408,7 +6555,7 @@
           "fecha": "2026-08-30"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
     },
     {
       "id": "supervielle-dia",
@@ -6428,9 +6575,9 @@
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6444,7 +6591,7 @@
           "fecha": "2026-08-30"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
     },
     {
       "id": "supervielle-la-anonima",
@@ -6464,9 +6611,9 @@
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6480,7 +6627,7 @@
           "fecha": "2026-08-30"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
     },
     {
       "id": "supervielle-libertad",
@@ -6499,9 +6646,9 @@
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6515,7 +6662,7 @@
           "fecha": "2026-08-30"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Supervielle lista \"Econo Libertad\" (una farmacia de Mendoza, martes y miércoles), no el hipermercado Libertad"
     },
     {
       "id": "supervielle-modo-market",
@@ -6536,7 +6683,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6548,9 +6695,14 @@
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Modo Market con MODO: martes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "supervielle-toledo-miercoles",
@@ -6569,9 +6721,9 @@
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6580,7 +6732,7 @@
           "fecha": "2026-08-21"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
     },
     {
       "id": "supervielle-toledo-viernes",
@@ -6600,9 +6752,9 @@
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6611,7 +6763,7 @@
           "fecha": "2026-08-21"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
     },
     {
       "id": "supervielle-el-puente",
@@ -6634,7 +6786,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6646,9 +6798,14 @@
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "El Puente con MODO: jueves, viernes y sábado"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "supervielle-josimar",
@@ -6727,7 +6884,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6739,9 +6896,14 @@
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "La Ilusión con MODO: lunes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "supervielle-jubilados",
@@ -7238,9 +7400,9 @@
       "requisitos": "En productos seleccionados, con tarjetas de crédito Macro. El listado no publica los días, se asume que aplica todos.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-08-29",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -7254,7 +7416,7 @@
           "fecha": "2026-08-29"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Diarco: \"del 01/08/26 al 31/08/26\""
     },
     {
       "id": "supervielle-shell-domingo",
@@ -7384,7 +7546,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-30",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -7396,9 +7558,14 @@
           "url": "https://www.farmaonline.com/promociones-bancarias",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Farmaonline: todos los días"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "patagonia-carrefour-miercoles",
@@ -7847,7 +8014,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "ciudad-masgo-20",
       "medio": "ciudad",
@@ -7873,9 +8040,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "MásGO: domingo"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "zona": "Nacional",
@@ -8158,7 +8330,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "ciudad-showsport-online-25",
       "medio": "ciudad",
@@ -8184,9 +8356,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Showsport Online: domingo"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "zona": "Nacional",
@@ -8194,7 +8371,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "ciudad-showsport-20",
       "medio": "ciudad",
@@ -8220,9 +8397,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Showsport: viernes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "zona": "Nacional",
@@ -8377,7 +8559,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "ciudad-deportivas-martes-15",
       "medio": "ciudad",
@@ -8411,9 +8593,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Dexter y Stock Center: martes, sin tope"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "zona": "Nacional",
@@ -8421,7 +8608,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "ciudad-calzado-martes-10",
       "medio": "ciudad",
@@ -8450,9 +8637,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Grimoldi, Hush Puppies, CAT y Vans: martes, sin tope"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "zona": "Nacional",
@@ -8460,7 +8652,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "id": "ciudad-librerias-jugueterias-viernes-20",
       "medio": "ciudad",
@@ -8497,9 +8689,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Librería Santa Fe, Yenny, Magic Toys, KEL: viernes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "zona": "Nacional",
@@ -8692,9 +8889,9 @@
       "requisitos": "Pagando sin contacto (NFC) con tarjeta de debito Visa Supervielle en la linea de cajas. Es la misma campana de 30% en Coto los jueves que MODO publica para los bancos adheridos.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -8703,7 +8900,7 @@
           "fecha": "2026-08-21"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
     },
     {
       "id": "coto-cualquiera-viernes-15",
@@ -8938,8 +9135,8 @@
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "confianza": "alta",
       "zona": "Nacional",
-      "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-27",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -8947,7 +9144,7 @@
           "fecha": "2026-08-21"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "el legal de Día sigue diciendo \"válida hasta el 31/08/2026\""
     },
     {
       "id": "columbia-dia-lun-vie-20",
@@ -9030,15 +9227,20 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "Tarjeta BA lunes y jueves en Día de CABA, 01/01 al 30/09/2026"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "sidecreer-dia-domingo-25",
@@ -9091,15 +9293,20 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "3 cuotas sábados con Visa/MC/Amex/Cabal, 01/01 al 30/09/2026"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "naranja-dia-martes-epico",
@@ -9120,8 +9327,8 @@
       "confianza": "alta",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-27",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -9129,7 +9336,7 @@
           "fecha": "2026-08-21"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "los tres escalones de Naranja X ya están en los requisitos de naranja-super-martes, que incluye Día"
     },
     {
       "id": "carrefour-banco-martes-20",
@@ -9151,15 +9358,20 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
           "fecha": "2026-08-27"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "crédito CB martes, en el acto, sin tope"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "carrefour-banco-jueves-20",
@@ -9181,15 +9393,20 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
           "fecha": "2026-08-27"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "crédito Mastercard CB jueves de septiembre, online, $10.000 semanal"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "carrefour-banco-viernes-15",
@@ -9211,15 +9428,20 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
           "fecha": "2026-08-27"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "Cuenta Digital CB viernes 1 al 30/09 en tiendas, sin tope, acumulable"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "carrefour-banco-lun-mar-15",
@@ -9273,15 +9495,20 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
           "fecha": "2026-08-27"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "Cuenta Digital CB sábados y domingos 1 al 30/09 en tiendas"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "cuotas-carrefour-banco-3",
@@ -9305,15 +9532,20 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
           "fecha": "2026-08-27"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "3 cuotas crédito CB sábados y domingos 1 al 30/09"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "carrefour-anses-mayores-10",
@@ -9337,15 +9569,20 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
           "fecha": "2026-08-27"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "Mi Carrefour + ANSES o mayor de 60: lunes a miércoles hasta 30/09, tope $35.000"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "carrefour-online-10",
@@ -9367,16 +9604,21 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "el legal completo dice \"VÁLIDO TODOS LOS JUEVES DE AGOSTO 2026\", no todos los dias como decia el resumen"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "cualquier medio, jueves de septiembre, online"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "medio": "brubank",
@@ -9831,9 +10073,9 @@
       "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
       "zona": "San Juan",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9842,7 +10084,7 @@
           "fecha": "2026-08-22"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Banco San Juan en septiembre publica una sola promo (Avícola Myriam); las de supermercados no están más"
     },
     {
       "id": "san_juan-la-anonima-viernes",
@@ -9863,9 +10105,9 @@
       "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
       "zona": "San Juan",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9874,7 +10116,7 @@
           "fecha": "2026-08-22"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Banco San Juan en septiembre publica una sola promo (Avícola Myriam); las de supermercados no están más"
     },
     {
       "id": "san_juan-makro-jueves",
@@ -9894,9 +10136,9 @@
       "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
       "zona": "San Juan",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9905,7 +10147,7 @@
           "fecha": "2026-08-22"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Banco San Juan en septiembre publica una sola promo (Avícola Myriam); las de supermercados no están más"
     },
     {
       "id": "san_juan-vea-viernes",
@@ -9925,9 +10167,9 @@
       "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
       "zona": "San Juan",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9936,7 +10178,7 @@
           "fecha": "2026-08-22"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Banco San Juan en septiembre publica una sola promo (Avícola Myriam); las de supermercados no están más"
     },
     {
       "id": "santa_cruz-coto-lunes",
@@ -9956,9 +10198,9 @@
       "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
       "zona": "Santa Cruz",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9967,7 +10209,7 @@
           "fecha": "2026-08-22"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Banco Santa Cruz no la lista en septiembre: hoy publica Market Sur, Autoservicio Cerca, La Anónima, DAR y Diarco"
     },
     {
       "id": "santa_cruz-la-anonima-viernes",
@@ -9988,18 +10230,23 @@
       "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
       "zona": "Santa Cruz",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancosantacruz.com/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "20% La Anónima con MODO, viernes y sábado, 01/06 al 31/10/2026"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "santa_cruz-supermercados-dar-martes",
@@ -10021,13 +10268,19 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-28",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancosantacruz.com/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-08-22"
+        },
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "15% Supermercados DAR con MODO, martes, 01/07 al 28/09/2026"
         }
       ]
     },
@@ -10050,9 +10303,9 @@
       "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
       "zona": "Santa Cruz",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10061,7 +10314,7 @@
           "fecha": "2026-08-22"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Banco Santa Cruz no la lista en septiembre: hoy publica Market Sur, Autoservicio Cerca, La Anónima, DAR y Diarco"
     },
     {
       "id": "santa_cruz-vea-viernes",
@@ -10082,9 +10335,9 @@
       "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
       "zona": "Santa Cruz",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10093,7 +10346,7 @@
           "fecha": "2026-08-22"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Banco Santa Cruz no la lista en septiembre: hoy publica Market Sur, Autoservicio Cerca, La Anónima, DAR y Diarco"
     },
     {
       "id": "santa_cruz-jumbo-martes",
@@ -10114,9 +10367,9 @@
       "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
       "zona": "Santa Cruz",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
-      "verificado": "2026-08-22",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10125,7 +10378,7 @@
           "fecha": "2026-08-22"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Banco Santa Cruz no la lista en septiembre: hoy publica Market Sur, Autoservicio Cerca, La Anónima, DAR y Diarco"
     },
     {
       "id": "supervielle-carnicerias-mendoza",
@@ -10217,7 +10470,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10229,9 +10482,14 @@
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Átomo con MODO: martes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "supervielle-aiello",
@@ -10252,7 +10510,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10264,9 +10522,14 @@
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "Aiello con MODO: martes"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "patagonia-changomas-miercoles",
@@ -10285,18 +10548,23 @@
       ],
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
       "fuentes": [
         {
           "url": "https://www.masonline.com.ar/promociones-bancarias",
           "nivel": 2,
           "fecha": "2026-08-23"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "Patagonia 365 miércoles 20% tope $10.000 mensual, vigente 01/08 al 31/10/2026"
         }
       ],
-      "verificado": "2026-08-27",
-      "confianza": "alta",
-      "vigencia_asumida": "2026-09-01"
+      "verificado": "2026-09-02",
+      "confianza": "alta"
     },
     {
       "id": "changomas-qr-finde",
@@ -10325,11 +10593,16 @@
           "url": "https://www.masonline.com.ar/promociones-bancarias",
           "nivel": 2,
           "fecha": "2026-08-23"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "15% vie/sáb/dom con QR de cualquier billetera, sin tope (BV)"
         }
       ],
-      "verificado": "2026-08-27",
-      "confianza": "alta",
-      "vigencia_asumida": "2026-09-01"
+      "verificado": "2026-09-02",
+      "confianza": "alta"
     },
     {
       "id": "cuenta-dni-carrefour-miercoles",
@@ -10458,7 +10731,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "changomas-anses",
@@ -10474,19 +10747,24 @@
         "domingo"
       ],
       "descuento_pct": 10,
-      "tope_monto": 50000,
-      "tope_periodo": "mensual",
+      "tope_monto": 12000,
+      "tope_periodo": "por compra",
       "acumulable": false,
-      "requisitos": "Para quienes cobran de ANSES, mostrando el DNI. Vale con cualquier medio de pago, en un pago, sobre una lista larga de almacén, lácteos, bebidas y perfumería. Tope $12.000 por compra y $50.000 por mes.",
+      "requisitos": "Para quienes cobran de ANSES, mostrando el DNI. Con cualquier medio de pago, en un pago, sobre una lista larga de almacén, lácteos, bebidas y perfumería. Tope $12.000 por compra.",
       "fuentes": [
         {
           "url": "https://www.masonline.com.ar/promociones-bancarias",
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "10% todos los días para beneficiarios de ANSES, tope $12.000 por transacción y $50.000 mensual"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "ANSES 10% todos los días; hoy el tope dice solo $12.000 por transacción"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "rubro": "supermercados",
@@ -10497,7 +10775,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "changomas-empleados-publicos",
@@ -10523,9 +10801,14 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "10% todos los días para empleados municipales y provinciales, tope $12.000 por transacción"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "10% todos los días empleados municipales/provinciales (EM)"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "rubro": "supermercados",
@@ -10598,7 +10881,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "patagonia-changomas-sabado-singular",
@@ -10617,9 +10900,14 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "Singular: 30% los sábados, tope $15.000 mensual"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "Singular 30% sábados, tope $15.000 mensual (P3)"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "rubro": "supermercados",
@@ -10659,9 +10947,9 @@
       ],
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "sol-changomas-jueves",
@@ -10682,7 +10970,7 @@
           "nota": "20% los jueves con crédito SOL, tope $10.000 semanal (o 4 cuotas sin interés)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "ChangoMás no la lista en septiembre; su legal de agosto vencía el 31/08"
     },
     {
       "id": "corrientes-dia-mie-jue",
@@ -10723,9 +11011,9 @@
       ],
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "mp-carrefour-jueves-15",
@@ -10747,7 +11035,7 @@
           "nota": "15% los jueves con dinero en cuenta de Mercado Pago, sin tope, mínimo $15.000, hasta el 31/08"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Carrefour: la de dinero en cuenta pasó a 10% los viernes (queda en mp-carrefour-maxi-viernes, corregida)"
     },
     {
       "rubro": "supermercados",
@@ -10758,7 +11046,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "carrefour-empleados-publicos-15",
@@ -10778,9 +11066,14 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "15% los jueves para empleados públicos, tope $20.000 mensual, en seis provincias y siete ciudades, hasta el 31/08"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "empleados públicos jueves hasta 30/09, provincias listadas"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "rubro": "supermercados",
@@ -10838,7 +11131,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10846,9 +11139,14 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "15% los lunes con Club LA NACION en tienda, sin tope"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "Club La Nación lunes hasta 30/09, DNI en caja, sin tope"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "columbia-changomas-mar-sab-20",
@@ -13721,17 +14019,18 @@
       "requisitos": "Con tarjeta de crédito Visa o Mastercard del Banco San Juan, pagando en hasta 3 cuotas vía MODO desde la app del banco o la app MODO.",
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "confianza": "alta",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.farmaonline.com/promociones-bancarias",
           "nivel": 2,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "baja_motivo": "Banco San Juan en septiembre publica una sola promo (Avícola Myriam); las de supermercados no están más"
     },
     {
       "id": "santa_cruz-farmaonline-10",
@@ -13757,17 +14056,18 @@
       "requisitos": "Con tarjeta de crédito Visa o Mastercard del Banco Santa Cruz, pagando en hasta 3 cuotas vía MODO desde la app del banco o la app MODO.",
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "confianza": "alta",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-02",
       "fuentes": [
         {
           "url": "https://www.farmaonline.com/promociones-bancarias",
           "nivel": 2,
           "fecha": "2026-08-30"
         }
-      ]
+      ],
+      "baja_motivo": "Banco Santa Cruz no la lista en septiembre: hoy publica Market Sur, Autoservicio Cerca, La Anónima, DAR y Diarco"
     },
     {
       "id": "modo-jumbo-martes-jueves-19",
@@ -13833,10 +14133,15 @@
           "url": "https://www.disco.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "MODO viernes y sábados, 01/06 al 30/09/2026"
         }
       ],
-      "verificado": "2026-08-31",
-      "vigencia_asumida": "2026-09-01"
+      "verificado": "2026-09-02"
     },
     {
       "id": "modo-vea-viernes-20",
@@ -13909,10 +14214,15 @@
           "url": "https://www.vea.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "3 cuotas MODO jue/vie/sáb/dom, 02/01 al 30/09/2026"
         }
       ],
-      "verificado": "2026-08-31",
-      "vigencia_asumida": "2026-09-01"
+      "verificado": "2026-09-02"
     },
     {
       "id": "macro-jumbo-disco-vea-jue-dom-3cuotas",
@@ -13955,10 +14265,15 @@
           "url": "https://www.vea.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "3 cuotas Macro crédito jue-dom online, 01/12/25 al 30/09/26"
         }
       ],
-      "verificado": "2026-08-31",
-      "vigencia_asumida": "2026-09-01"
+      "verificado": "2026-09-02"
     },
     {
       "id": "clarin365-cencopay-jumbo-lunes-20",
@@ -14015,10 +14330,15 @@
           "url": "https://www.vea.com.ar/descuentos-del-dia",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "Cencopay jueves 25% galletitas, bebidas sin alcohol, perfumería y limpieza"
         }
       ],
-      "verificado": "2026-08-31",
-      "vigencia_asumida": "2026-09-01"
+      "verificado": "2026-09-02"
     },
     {
       "id": "santa_fe-la-reina-lunes",
@@ -14183,7 +14503,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://beneficios.bancocredicoop.coop/",
-      "verificado": "2026-08-30",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14195,9 +14515,14 @@
           "url": "https://www.bancocredicoop.coop/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.beneficios.bancocredicoop.coop/coop/beneficios/?p=search",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "slug Diarco_Sabados-domingos-20%-MODO"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "credicoop-diarco-pueblo-finde",
@@ -14220,7 +14545,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://beneficios.bancocredicoop.coop/",
-      "verificado": "2026-08-30",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14232,9 +14557,14 @@
           "url": "https://www.bancocredicoop.coop/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.beneficios.bancocredicoop.coop/coop/beneficios/?p=search",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "slug Diarco-pueblo_15%-ahorro-sabado-domingo"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "credicoop-diarco-mayorista-finde",
@@ -14257,7 +14587,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://beneficios.bancocredicoop.coop/",
-      "verificado": "2026-08-30",
+      "verificado": "2026-09-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14269,9 +14599,14 @@
           "url": "https://www.bancocredicoop.coop/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.beneficios.bancocredicoop.coop/coop/beneficios/?p=search",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "slug Diarco-mayorista_15%-ahorro_sabado-domingo"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "cuenta-dni-petshop-sabado",
@@ -14545,6 +14880,336 @@
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
           "nivel": 1,
           "fecha": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "ciudad-coto-lunes-25",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 25,
+      "tope_monto": 30000,
+      "tope_periodo": "por compra",
+      "requisitos": "Pagando con MODO desde la app Ciudad con tarjeta de crédito del banco. Tope $30.000 por compra. Solo en sucursales.",
+      "fuente": "https://www.coto.com.ar/descuentos/index.asp",
+      "fuentes": [
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "Coto sucursales: 25% lunes, MODO app de Ciudad, crédito, tope $30.000 por transacción"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-12-31",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "masclub-masgo-20",
+      "medio": "cualquiera",
+      "medio_nombre": "Cualquier medio de pago",
+      "comercios": [
+        "MásGO"
+      ],
+      "dias": [
+        "miercoles",
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "acumulable": false,
+      "requisitos": "Hay que ser socio de MásClub, que es gratis. Sin tope. No acumulable con otras promociones.",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "MasGo 20% miércoles y jueves socios MásClub, sin tope (MC)"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "mp-carrefour-credito-lunes-15",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "acumulable": true,
+      "requisitos": "Con la tarjeta de crédito de Mercado Pago, física o por QR. Acumulable con las demás promociones.",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "fuentes": [
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "15% lunes hasta 30/09 con tarjeta de crédito MP (física y QR), tope $15.000, acumulable"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "columbia-changomas-martes-sabado-20",
+      "medio": "columbia",
+      "medio_nombre": "Banco Columbia",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "dias": [
+        "martes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "semanal",
+      "requisitos": "Con tarjetas de crédito Visa y Mastercard del Banco Columbia.",
+      "fuente": "https://www.masonline.com.ar/promociones-bancarias",
+      "fuentes": [
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "la tarjeta (BC): martes y sábados 20% crédito Visa/MC, tope $10.000 semanal; el legal dice \"emitidas por Banco Columbia\""
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "cencopay-disco-vea-40-galletitas",
+      "medio": "cencopay",
+      "medio_nombre": "Cencopay (tarjeta de crédito Cencosud)",
+      "comercios": [
+        "Disco",
+        "Vea",
+        "Jumbo"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 40,
+      "tope_monto": 15000,
+      "tope_periodo": "por compra",
+      "requisitos": "Con la tarjeta de crédito Cencopay, en galletitas, cervezas y productos seleccionados. Tope $15.000 por día. Solo presencial; no vale en Vea Express ni Disco Express.",
+      "fuente": "https://www.disco.com.ar/descuentos-del-dia?type=por-dia&day=1",
+      "fuentes": [
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "40% galletitas, cervezas y más con Cencopay crédito, todos los días 01/09 al 30/09, tope $15.000 por día"
+        }
+      ]
+    },
+    {
+      "rubro": "mayoristas",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
+      "tope_publicado": true,
+      "id": "cuotas-naranja_x-diarco-mayorista-4",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "comercios": [
+        "Diarco Mayorista"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 4,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Con tarjeta de crédito Naranja X, plan 4 cuotas cero interés. Solo en Diarco Mayorista.",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-02",
+          "nota": "4 cuotas cero interés Naranja X, válido en Diarco Mayorista"
+        }
+      ]
+    },
+    {
+      "id": "santa_cruz-diarco-finde-15",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "mayoristas",
+      "comercios": [
+        "Diarco"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app del banco. El banco no publica el tope.",
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-09-27",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "15% Diarco con MODO, sábado y domingo, 01/08 al 27/09/2026"
+        }
+      ],
+      "verificado": "2026-09-02",
+      "confianza": "alta"
+    },
+    {
+      "rubro": "supermercados",
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app del banco. El banco no publica el tope.",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
+      "id": "santa_cruz-market-sur-viernes",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "comercios": [
+        "Market Sur"
+      ],
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-08-07",
+      "vigencia_hasta": "2026-10-30",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "30% Market Sur con MODO, viernes, 07/08 al 30/10/2026"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app del banco. El banco no publica el tope.",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
+      "id": "santa_cruz-autoservicio-cerca-viernes",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "comercios": [
+        "Autoservicio Cerca"
+      ],
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-08-07",
+      "vigencia_hasta": "2026-10-30",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "30% Autoservicio Cerca con MODO, viernes, 07/08 al 30/10/2026"
+        }
+      ]
+    },
+    {
+      "rubro": "carnicerias",
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO desde la app del banco. El banco no publica el tope.",
+      "verificado": "2026-09-02",
+      "confianza": "alta",
+      "id": "san_juan-avicola-myriam-viernes",
+      "medio": "san_juan",
+      "medio_nombre": "Banco San Juan",
+      "comercios": [
+        "Avícola Myriam"
+      ],
+      "zona": "San Juan",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
+      "fuentes": [
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "30% Avícola Myriam, viernes, 01/08 al 31/10/2026"
         }
       ]
     }

@@ -1,5 +1,49 @@
 # Cambios
 
+## 2026-09-02 (tarde) — Cruce de las 41 fuentes contra las 131 promos con la vigencia asumida
+
+**401 promos, 200 visibles hoy.** Pasada a mano, en una sentada, sosteniendo las 41 fuentes a la vez: 66 confirmadas, 30 retiradas, 6 corregidas, 10 altas. **De 131 promos sin confirmar quedan 39.**
+
+### Lo que se aprendió, que vale más que los números
+
+**Banco Ciudad no da de baja promos: las rota.** Su página de destacados muestra un subconjunto distinto en cada carga (una vez 167 tarjetas, otra 185; Día y Vacalin aparecen un día y al siguiente no). Estuve a un paso de retirar 20 promos de Ciudad "porque ya no estaban". No estaban *en esa carga*. Ahora la receta carga la página tres veces y junta todo, y quedó escrito en la receta: que una promo de Ciudad no aparezca un día no significa nada.
+
+**Supervielle sí dio de baja** sus 20% en Día, Disco, Jumbo, Vea, La Anónima y Toledo. Y no fue este mes: revisando el texto guardado del 30/08, tampoco estaban ese día. En septiembre en su página de supermercados quedan solo las promos de jubilados. Retiradas las 8, más "Libertad", que resultó ser Econo Libertad (una farmacia de Mendoza), no el hipermercado.
+
+**ChangoMás, Día y Carrefour estaban llegando vacíos.** No bloqueo: los tres sitios VTEX empezaron a tardar más de los 3 segundos que esperaba el recolector, y volvían con un caracter y sin error. Un día entero de las tres mejores fuentes de comercio perdido por tres segundos. Ahora, si una fuente vuelve vacía, el recolector espera 8 segundos más y reintenta antes de darla por caída. Releídas las cinco desde acá.
+
+**El banco misterioso "(BC)" de ChangoMás es Banco Columbia**: 20% martes y sábados con crédito, tope $10.000 semanal. Estaba en el legal. Alta.
+
+**San Juan y Santa Cruz no tenían con qué confirmarse** porque la receta de Petersen leía solo Santa Fe. Ahora lee los tres bancos. Y con eso: San Juan en septiembre publica UNA sola promo (Avícola Myriam 30% viernes); Santa Cruz mantiene La Anónima y DAR y sumó Diarco, pero ya no lista Coto, Disco, Vea ni Jumbo. Retiradas 10, altas 4.
+
+### Retiradas (30), por qué
+- Supervielle ×9: la página del banco no las lista (ver arriba).
+- ChangoMás ×5: ICBC 30% cuenta sueldo, Hipotecario 25%, Tarjeta SOL, Galicia 3 cuotas — la página no las lista y sus legales vencían el 31/08. Y la fila "Épico" de Naranja X, que ya vive en los requisitos de la promo principal (también la de Día).
+- Día: el 35% de Ciudad los lunes — el legal de Día sigue diciendo "válida hasta el 31/08/2026".
+- Diarco ×2: Naranja X 6 cuotas y Macro 6 cuotas, ambas "del 01/08/26 al 31/08/26".
+- Carrefour ×2: Mercado Pago sáb/dom ANSES (no está) y el 15% de los jueves, que pasó a **10% los viernes** (corregida en `mp-carrefour-maxi-viernes`, que ahora vale en Hiper, Market y Express, no en Maxi).
+- San Juan ×5 y Santa Cruz ×5 (ver arriba).
+
+### Correcciones (6)
+- ChangoMás ANSES: el tope hoy dice solo $12.000 por compra (antes también $50.000 mensual).
+- Patagonia 365 en ChangoMás: vigencia hasta el 31/10.
+- Día 3 cuotas sábados y Ciudadanía Porteña: vigencia hasta el 30/09 (el comercio las renovó).
+- Naranja X Plan Z en Jumbo/Disco: hasta el 30/09.
+- Mercado Pago dinero en cuenta en Carrefour: 10% viernes, sucursales, sin tope.
+
+### Altas (10)
+Banco Ciudad 25% en Coto los **lunes** por MODO (tope $30.000 por compra, sucursales) · MásGO 20% mié/jue socios MásClub sin tope · Mercado Pago tarjeta de crédito 15% lunes en Carrefour tope $15.000 · Banco Columbia 20% mar/sáb en ChangoMás · Cencopay 40% en galletitas, cervezas y más todos los días (tope $15.000/día) · Naranja X 4 cuotas en Diarco Mayorista · Santa Cruz: Diarco 15% sáb/dom, Market Sur 30% vie, Autoservicio Cerca 30% vie · San Juan: Avícola Myriam 30% vie.
+
+### Las 39 que siguen sin confirmar, y por qué
+- **Banco Ciudad ×16** (Día vie/sáb, Diarco ×3, Toledo ×2, La Anónima, Rex, Supercoop, El Nene, El Túnel, Vacalin, Get The Look, Zentner, Vilela, Del Puente, Sandra Selma, Despegar, Almundo 15%): no salieron en las cargas de hoy. Por la rotación, no es evidencia de nada. La carga triple de mañana debería agarrar varias; el resto está en el catálogo de 101 páginas.
+- **Naranja X cuotas ×8** (Cetrogar, Megatone, Whirlpool, Musimundo, Naldo, On City, Samsung, Frávega): Naranja X no las publica en su web y ningún comercio las nombra. Son promos de electro que probablemente sigan, pero nadie lo dice.
+- **Supervielle carnicerías Mendoza/San Luis ×2**: su rubro no está en la receta (habría que agregar la URL de carnicerías).
+- **Farmaonline BBVA / Mercado Pago ×2**: la página de Farmaonline lista las promos pero el banco va en una imagen; la receta tendría que leer el `alt`.
+- **Buepp comercios de cercanía, Personal Pay Diarco, Banco del Sol Día** (el legal de Día no muestra la fecha nueva), **MODO Frávega 9 cuotas, Carrefour Banco lun/mar 15%, Club La Nación online, Ciudad Coto martes 20%**: sin fuente que las nombre hoy.
+
+### Herramienta nueva
+`node tools/cruzar.js` pone, promo por promo, lo que tenemos al lado de toda línea de `crudo/` que nombre a ese comercio. Una contradicción es cosa de dos fuentes: leyendo una por vez no se ve. Con `--todas` cruza todo, con `--id X` una sola.
+
 ## 2026-09-02 — El cron de GitHub Actions volvió a no disparar solo; debut de `agenda.js`, trabajadas las 8 fuentes completas
 
 **391 promos (era 394): 3 altas de Supervielle, 6 bajas de BNA+ por vencimiento real, 1 corrección (Jumbo MODO 19%→20%), 15 confirmaciones que borraron su `vigencia_asumida`, 2 renovaciones reales con fuente fresca de septiembre.**
