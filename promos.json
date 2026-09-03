@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02",
+  "actualizado": "2026-09-03",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -2160,7 +2160,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2179,6 +2179,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Disco 20% en la página de hoy; Disco confirma MODO viernes y sábados 01/06 al 30/09"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Disco | viernes, sabado | 20%"
         }
       ]
     },
@@ -2202,7 +2208,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2221,6 +2227,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Jumbo 20% en la página de hoy; Jumbo confirma MODO martes y jueves 01/06 al 30/09"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Jumbo | martes, jueves | 20%"
         }
       ]
     },
@@ -2345,7 +2357,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2358,9 +2370,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Dia | viernes, sabado | 20% (3 cargas iguales)"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-makro-20",
@@ -2381,7 +2398,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2400,6 +2417,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Makro 20% en la página de hoy"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Makro | jueves | 20%"
         }
       ]
     },
@@ -2422,7 +2445,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2441,6 +2464,12 @@
           "nivel": 2,
           "fecha": "2026-09-02",
           "nota": "Vea confirma MODO viernes y sábados hasta el 30/09"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Supermercados Vea | viernes | 20%"
         }
       ]
     },
@@ -2501,7 +2530,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-30",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -2514,9 +2543,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Diarco Barrio | domingo, sabado | 20%"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-changomas-20",
@@ -2537,7 +2571,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2556,6 +2590,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "ChangoMás: lunes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "ChangoMás | lunes | 20%"
         }
       ]
     },
@@ -2615,7 +2655,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2628,9 +2668,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Mayorista Nini | jueves | 20%"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudad-farmacias-vilela-20",
@@ -2685,7 +2730,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2704,6 +2749,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Paradiñeiro Online: domingo, martes, jueves, sábado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Farmacias Paradiñeiro Online | domingo, martes, jueves, sabado | 20%"
         }
       ]
     },
@@ -2726,7 +2777,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2744,6 +2795,12 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-09-02"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Farmacity Online | martes | 20%"
         }
       ]
     },
@@ -2766,7 +2823,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2785,6 +2842,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Farmacias MODO: martes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Farmacias MODO | martes | 20%"
         }
       ]
     },
@@ -2838,7 +2901,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2857,6 +2920,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Farmacia Santa Ana: domingo"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Farmacia Santa Ana | domingo | 15%"
         }
       ]
     },
@@ -2879,7 +2948,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "cuotas": 6,
       "tope_publicado": false,
@@ -2899,6 +2968,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Farmacias ABC: lunes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Farmacias ABC | lunes | 20% · 6 cuotas"
         }
       ]
     },
@@ -2988,7 +3063,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3006,6 +3081,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Frávega: 18 cuotas, todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Fravega | Todos los días | 18 cuotas"
         }
       ]
     },
@@ -3035,7 +3116,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3052,6 +3133,12 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Casa del Audio | Todos los días | 18 cuotas"
         }
       ]
     },
@@ -3081,7 +3168,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3099,6 +3186,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Samsung: 18 cuotas, todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Samsung | Todos los días | 18 cuotas"
         }
       ]
     },
@@ -3128,7 +3221,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3146,6 +3239,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Almundo: 6 cuotas, todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Almundo | Todos los días | 6 cuotas"
         }
       ]
     },
@@ -3175,7 +3274,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3193,6 +3292,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Plataforma 10: 3 cuotas, todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Plataforma 10 | Todos los días | 3 cuotas"
         }
       ]
     },
@@ -5662,7 +5767,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5681,6 +5786,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "La Ilusión: lunes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Supermercado La Ilusión | lunes | 15%"
         }
       ]
     },
@@ -5703,7 +5814,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5722,6 +5833,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Supermercado DAR: martes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Supermercado DAR | martes | 15%"
         }
       ]
     },
@@ -5915,7 +6032,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5934,6 +6051,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Nutrican: viernes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Nutrican | viernes | 20%"
         }
       ]
     },
@@ -5987,7 +6110,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "tope_monto": 10000,
       "tope_periodo": "sin_aclarar",
       "fuentes": [
@@ -6011,6 +6134,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Farmaonline: viernes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Farmaonline | viernes | 10% · 6 cuotas"
         }
       ],
       "cuotas": 6
@@ -6034,7 +6163,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6053,6 +6182,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "FarmaPlus Online: lunes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "FarmaPlus Online | lunes | 15%"
         }
       ]
     },
@@ -6075,7 +6210,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6094,6 +6229,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Perfumerías MODO: lunes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Perfumerías MODO | lunes | 20%"
         }
       ]
     },
@@ -6332,16 +6473,21 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "RES | Todos los días | 30% — de los ocho comercios de cercanía la página de destacados muestra solo RES"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "buepp-bicicleterias-24",
@@ -7978,7 +8124,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "id": "ciudad-coto-20",
       "medio": "ciudad",
@@ -8004,9 +8150,14 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Coto | martes | SIN TOPE | 20%"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "zona": "Nacional",
@@ -8014,7 +8165,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "id": "ciudad-masgo-20",
       "medio": "ciudad",
@@ -8046,6 +8197,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "MásGO: domingo"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "MásGO | domingo | 20%"
         }
       ]
     },
@@ -8086,7 +8243,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "id": "ciudad-casa-del-audio-20",
       "medio": "ciudad",
@@ -8096,8 +8253,9 @@
         "Casa del Audio"
       ],
       "dias": [
-        "jueves",
-        "viernes"
+        "viernes",
+        "sabado",
+        "domingo"
       ],
       "descuento_pct": 25,
       "requisitos": "Pagando con la App Ciudad o BUEPP.",
@@ -8113,8 +8271,15 @@
           "nivel": 1,
           "fecha": "2026-09-01",
           "nota": "la tarjeta de hoy muestra 25% y Sin tope explicito (antes 20% con tope_publicado:false); no se pudo releer que dias especificos siguen activos (se pierde la marca CSS al pasar a texto plano)"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Casa del Audio | domingo, viernes, sabado | 25%. Días corregidos: la base decía jueves y viernes. La tarjeta no dice SIN TOPE, así que el tope pasa a no publicado."
         }
-      ]
+      ],
+      "tope_publicado": false
     },
     {
       "zona": "Nacional",
@@ -8330,7 +8495,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "id": "ciudad-showsport-online-25",
       "medio": "ciudad",
@@ -8362,6 +8527,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Showsport Online: domingo"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Showsport Online | domingo | 25%"
         }
       ]
     },
@@ -8371,7 +8542,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "id": "ciudad-showsport-20",
       "medio": "ciudad",
@@ -8403,6 +8574,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Showsport: viernes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Showsport | viernes | 20%"
         }
       ]
     },
@@ -8559,7 +8736,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "id": "ciudad-deportivas-martes-15",
       "medio": "ciudad",
@@ -8574,7 +8751,8 @@
         "Ver",
         "MACOWENS",
         "Lazaro",
-        "Bowen"
+        "Bowen",
+        "Equus"
       ],
       "dias": [
         "martes"
@@ -8599,6 +8777,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Dexter y Stock Center: martes, sin tope"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Dexter, Stock Center, Moov, Montagne, Ruiz y Roca, Ver, MACOWENS, Lazaro, Bowen | martes | SIN TOPE | 15% · 10 cuotas. Se suma Equus (martes, SIN TOPE, 15% · 10 cuotas)"
         }
       ]
     },
@@ -8608,7 +8792,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "id": "ciudad-calzado-martes-10",
       "medio": "ciudad",
@@ -8643,6 +8827,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Grimoldi, Hush Puppies, CAT y Vans: martes, sin tope"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Hush Puppies, Grimoldi, Vans, CAT ONLINE | martes | SIN TOPE | 10% · 10 cuotas"
         }
       ]
     },
@@ -8652,7 +8842,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "id": "ciudad-librerias-jugueterias-viernes-20",
       "medio": "ciudad",
@@ -8695,6 +8885,12 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "Librería Santa Fe, Yenny, Magic Toys, KEL: viernes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "El Ateneo, Cúspide, Yenny, Eudeba, Tematika, Libreria Santa Fé, Magic Toys, El Mundo del Juguete, Danilandia, KEL, Céspedes, Eterna Cadencia | viernes | 20% · 3 cuotas"
         }
       ]
     },
@@ -15210,6 +15406,39 @@
           "nivel": 1,
           "fecha": "2026-09-02",
           "nota": "30% Avícola Myriam, viernes, 01/08 al 31/10/2026"
+        }
+      ]
+    },
+    {
+      "id": "ciudad-arredo-20",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "hogar",
+      "comercios": [
+        "Arredo"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 12,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "requisitos": "Pagando con la App Ciudad o BUEPP. Sin tope de reintegro. Suma 12 cuotas sin interés.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.bancociudad.com.ar/beneficios/",
+      "verificado": "2026-09-03",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "Arredo | viernes, sabado | SIN TOPE | 20% de descuento · 12 cuotas sin interés (3 cargas iguales)"
         }
       ]
     }
