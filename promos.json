@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04",
+  "actualizado": "2026-09-05",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -286,18 +286,24 @@
       "descuento_pct": 5,
       "tope_monto": 5000,
       "tope_periodo": "semanal",
-      "requisitos": "Pagando con MODO BNA+ escaneando el QR, con credito Visa o Mastercard o debito Mastercard del Banco Nacion. Tope $5.000 por semana.",
+      "requisitos": "Solo para jubilados y pensionados de ANSES que cobran en el Banco Nación. Pagando con MODO BNA+ escaneando el QR, con crédito Visa o Mastercard o débito Mastercard del banco. Tope $5.000 por semana y $20.000 por mes.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "legal BNA: lunes a viernes 01/01 al 30/09/2026 con MODO BNA+, tope $5.000 semanal y $20.000 mensual, SOLO jubilados ANSES que cobran en BNA"
         }
       ]
     },
@@ -405,7 +411,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -665,7 +671,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -841,7 +847,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -2160,7 +2166,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2208,7 +2214,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2357,7 +2363,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2398,7 +2404,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2445,7 +2451,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2530,7 +2536,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -2571,7 +2577,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2655,7 +2661,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2730,7 +2736,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2777,7 +2783,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2823,7 +2829,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2901,7 +2907,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2948,7 +2954,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "cuotas": 6,
       "tope_publicado": false,
@@ -2996,7 +3002,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -3069,7 +3075,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3122,7 +3128,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3174,7 +3180,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3227,7 +3233,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3280,7 +3286,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4970,29 +4976,42 @@
       "medio_nombre": "Mercado Pago",
       "rubro": "supermercados",
       "comercios": [
-        "Diarco"
+        "Diarco Barrio",
+        "Diarco Mayorista"
       ],
       "dias": [
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
         "sabado",
         "domingo"
       ],
       "descuento_pct": 15,
-      "requisitos": "Solo en compras con QR.",
-      "fuente": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
-      "confianza": "baja",
+      "requisitos": "Desde la app de Mercado Pago. De martes a domingo, hasta el 6/9. Sin tope: el descuento se aplica en el momento. Compra mínima $35.000 en Diarco Barrio y $100.000 en Diarco Mayorista ($35.000 en algunas sucursales mayoristas). No vale pagando con MODO. No incluye precios mayoristas ni se suma a otras promos.",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-06",
+      "verificado": "2026-09-05",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461561-descuentos-y-beneficios-en-supermercados-que-dan-billeteras-virtuales-agosto-2026",
           "nivel": 4,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "Diarco: 15% martes a domingo por QR de Mercado Pago con billeteras participantes (Mercado Pago, Cuenta DNI, Personal Pay, Naranja X, entre otras), sin tope, mínimo $35.000/$100.000, 01/09 al 06/09/26, excluye MODO"
         }
-      ]
+      ],
+      "compra_minima": 35000,
+      "acumulable": false
     },
     {
       "id": "mp-makro-vie-sab",
@@ -5862,7 +5881,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5909,7 +5928,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6127,7 +6146,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6205,7 +6224,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "tope_monto": 10000,
       "tope_periodo": "sin_aclarar",
       "fuentes": [
@@ -6264,7 +6283,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6311,7 +6330,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6388,8 +6407,8 @@
       "tope_publicado": false,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-28",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-09-05",
       "tope_monto": 7000,
       "tope_periodo": "semanal",
       "fuentes": [
@@ -6404,7 +6423,7 @@
           "fecha": "2026-08-28"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "Diarco la listaba el 28/8 (Personal Pay jueves y viernes 20%, tope $7.000) y en su página de septiembre ya no está; Personal Pay tampoco la muestra. Lo que hay ahora es el 15% por QR de Mercado Pago (personalpay-diarco-finde-15)."
     },
     {
       "id": "personalpay-diarco-finde-15",
@@ -6412,21 +6431,25 @@
       "medio_nombre": "Personal Pay",
       "rubro": "supermercados",
       "comercios": [
-        "Diarco"
+        "Diarco Barrio",
+        "Diarco Mayorista"
       ],
       "dias": [
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
         "sabado",
         "domingo"
       ],
       "descuento_pct": 15,
-      "requisitos": "El tope depende del Nivel de Personal Pay del usuario.",
-      "fuente": "https://www.personalpay.com.ar/beneficios",
-      "confianza": "baja",
-      "tope_publicado": false,
+      "requisitos": "Escaneando con Personal Pay el QR de Mercado Pago (es la promo de Diarco para billeteras, no de Personal Pay). De martes a domingo, hasta el 6/9. Sin tope: el descuento se aplica en el momento. Compra mínima $35.000 en Diarco Barrio y $100.000 en Diarco Mayorista ($35.000 en algunas sucursales mayoristas). No vale pagando con MODO. No incluye precios mayoristas ni se suma a otras promos.",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "confianza": "alta",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-06",
+      "verificado": "2026-09-05",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6434,8 +6457,16 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "Diarco: 15% martes a domingo por QR de Mercado Pago con billeteras participantes (Mercado Pago, Cuenta DNI, Personal Pay, Naranja X, entre otras), sin tope, mínimo $35.000/$100.000, 01/09 al 06/09/26, excluye MODO"
         }
-      ]
+      ],
+      "compra_minima": 35000,
+      "acumulable": false
     },
     {
       "id": "personalpay-changomas-15",
@@ -6676,7 +6707,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6930,7 +6961,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -7033,7 +7064,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -7131,7 +7162,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -7175,7 +7206,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -7540,7 +7571,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -7548,6 +7579,12 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "el legal da el ejemplo $60.000 de compra -> $15.000 de reintegro, eso da 25% no 20%"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "legal Credicoop: miércoles de agosto y septiembre 2026, QR MODO con Cabal Credicoop, tope $15.000 por miércoles"
         }
       ]
     },
@@ -7684,7 +7721,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -7718,7 +7755,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -7752,7 +7789,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -7793,7 +7830,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -8254,7 +8291,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "id": "ciudad-coto-20",
       "medio": "ciudad",
@@ -8295,7 +8332,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "id": "ciudad-masgo-20",
       "medio": "ciudad",
@@ -8373,7 +8410,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "id": "ciudad-casa-del-audio-20",
       "medio": "ciudad",
@@ -8625,7 +8662,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "id": "ciudad-showsport-online-25",
       "medio": "ciudad",
@@ -8672,7 +8709,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "id": "ciudad-showsport-20",
       "medio": "ciudad",
@@ -8866,7 +8903,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "id": "ciudad-deportivas-martes-15",
       "medio": "ciudad",
@@ -8922,7 +8959,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "id": "ciudad-calzado-martes-10",
       "medio": "ciudad",
@@ -8972,7 +9009,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "id": "ciudad-librerias-jugueterias-viernes-20",
       "medio": "ciudad",
@@ -9523,12 +9560,18 @@
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "confianza": "alta",
       "zona": "Nacional",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-05",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "legal Columbia: lunes y viernes, 20% en un pago, tope $10.000 por transacción, 01/04 al 30/09/2026, solo sucursales"
         }
       ]
     },
@@ -9552,15 +9595,20 @@
       "confianza": "alta",
       "zona": "Nacional",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-05",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "legal Banco del Sol: martes, 25% reintegro con débito Visa registrado en la app, tope $10.000 por mes, 01/07 al 30/09/2026"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "ciudadania-portena-dia-15",
@@ -9583,7 +9631,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -9619,12 +9667,18 @@
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "confianza": "alta",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-05",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "legal Sidecreer: domingos en Tiendas Día de Entre Ríos, Black 25% tope $5.000, Platinum 20% tope $3.000, Verde 10% tope $2.000, más 2 o 3 cuotas"
         }
       ]
     },
@@ -9649,7 +9703,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -10765,7 +10819,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/carnicerias-mendoza",
       "verificado": "2026-08-22",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/carnicerias-mendoza",
@@ -10802,7 +10856,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/carnicerias-san-luis",
       "verificado": "2026-08-22",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/carnicerias-san-luis",
@@ -10831,7 +10885,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10871,7 +10925,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11360,9 +11414,15 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "miércoles y jueves: 5% en 3 cuotas sin tope, o 30% desde Más Banco con tope $20.000 mensual, 01/01 al 31/12"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "legal Banco de Corrientes: miércoles y jueves, 5% + 3 cuotas sin tope con tarjeta, 30% tope $20.000 mensual desde Más Banco, 01/01 al 31/12/2026"
         }
       ],
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-05",
       "confianza": "alta"
     },
     {
@@ -12033,9 +12093,9 @@
       "requisitos": "20% OFF los viernes pagando con MODO, solo en sucursales seleccionadas. Acumulable con otras ofertas.",
       "zona": "Nacional",
       "vigencia_desde": null,
-      "vigencia_hasta": null,
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-08-28",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12043,7 +12103,8 @@
           "nivel": 2,
           "fecha": "2026-08-28"
         }
-      ]
+      ],
+      "baja_motivo": "Diarco cambió la promo en septiembre: ahora es 20% de martes a domingo, sin tope, solo en Diarco Barrio y con mínimo de $35.000 (ver modo-diarco-barrio-20). El 28/8 la página decía viernes con tope $20.000."
     },
     {
       "id": "comafi-diarco-20",
@@ -15225,7 +15286,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/transporte",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15260,7 +15321,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/transporte",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15289,7 +15350,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15471,7 +15532,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-05",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "cuotas-naranja_x-diarco-mayorista-4",
@@ -15501,6 +15562,12 @@
           "nivel": 2,
           "fecha": "2026-09-02",
           "nota": "4 cuotas cero interés Naranja X, válido en Diarco Mayorista"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "sigue publicada: 4 cuotas cero interés Naranja X en Diarco Mayorista, sin fecha de fin en el legal"
         }
       ]
     },
@@ -15808,7 +15875,7 @@
           "nota": "Rex | Todos los días | 18 cuotas sin interés (3 cargas)"
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta"
     },
     {
@@ -15845,7 +15912,7 @@
           "nota": "Pisano | Todos los días | 18 cuotas sin interés (3 cargas)"
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta"
     },
     {
@@ -15882,7 +15949,7 @@
           "nota": "On City | Todos los días | 18 cuotas sin interés (3 cargas)"
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta"
     },
     {
@@ -15916,7 +15983,7 @@
           "nota": "Juleriaque, Rouge, Beauty 24 | martes | 10% de descuento · 10 cuotas (3 cargas)"
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta"
     },
     {
@@ -15949,7 +16016,7 @@
           "nota": "Alpinestars | sabado, domingo | 15% de descuento · 10 cuotas (3 cargas)"
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-05",
       "confianza": "alta"
     },
     {
@@ -16182,6 +16249,346 @@
       ],
       "verificado": "2026-09-04",
       "confianza": "alta"
+    },
+    {
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-05",
+      "id": "supervielle-masgo-domingo",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "MásGO"
+      ],
+      "dias": [
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "fuentes": [
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-05",
+          "nota": "MásGO con MODO: domingo, 20%, tope $20.000"
+        }
+      ]
+    },
+    {
+      "tope_monto": 25000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-05",
+      "id": "supervielle-masgo-lunes",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "MásGO"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "fuentes": [
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-05",
+          "nota": "MásGO con MODO: lunes, 20%, tope $25.000; Plan Sueldo 25%, tope $30.000"
+        }
+      ]
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-05",
+      "id": "cuotas-supervielle-easy-6",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "hogar",
+      "comercios": [
+        "Easy"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 6,
+      "requisitos": "Hasta 6 cuotas sin interés con tarjeta de crédito Supervielle. Los sábados y domingos son 9 cuotas.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+      "fuentes": [
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+          "nivel": 1,
+          "fecha": "2026-09-05",
+          "nota": "Easy: 3 y 6 cuotas todos los días, 9 cuotas sábado y domingo. Crédito."
+        }
+      ]
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-05",
+      "id": "cuotas-supervielle-easy-9-finde",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "hogar",
+      "comercios": [
+        "Easy"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 9,
+      "requisitos": "9 cuotas sin interés con tarjeta de crédito Supervielle, sábados y domingos.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+      "fuentes": [
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+          "nivel": 1,
+          "fecha": "2026-09-05",
+          "nota": "Easy: 9 cuotas sábado y domingo. Crédito."
+        }
+      ]
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-05",
+      "id": "cuotas-supervielle-blaisten-6",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "hogar",
+      "comercios": [
+        "Blaisten"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 6,
+      "requisitos": "Hasta 6 cuotas sin interés con tarjeta de crédito Supervielle.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+      "fuentes": [
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+          "nivel": 1,
+          "fecha": "2026-09-05",
+          "nota": "Blaisten: 3 y 6 cuotas todos los días. Crédito."
+        }
+      ]
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-05",
+      "id": "cuotas-supervielle-coto-electro-18",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "electro",
+      "comercios": [
+        "Coto Electro"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 18,
+      "requisitos": "18 cuotas sin interés en electro de Coto con tarjeta de crédito Supervielle, sábados y domingos.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+      "fuentes": [
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+          "nivel": 1,
+          "fecha": "2026-09-05",
+          "nota": "COTO Electro: 18 cuotas sábado y domingo. Crédito."
+        }
+      ]
+    },
+    {
+      "tope_monto": 20000,
+      "tope_periodo": "por compra",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-05",
+      "id": "prex-dia-online-lunes-7-9",
+      "medio": "prex",
+      "medio_nombre": "Prex",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia online"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 30,
+      "requisitos": "Solo el lunes 7 de septiembre, comprando en diaonline.supermercadosdia.com.ar o la app de Día con la Mastercard de Prex, eligiendo \"tarjeta de débito\" al pagar. Vale para la primera compra del día, una vez por usuario. Tope $20.000. Sirve con envío o retiro en tienda.",
+      "vigencia_desde": "2026-09-07",
+      "vigencia_hasta": "2026-09-07",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+      "fuentes": [
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "legal Prex: 30% reintegro lunes 07/09/2026 online, Mastercard Prex como débito, primera transacción, tope $20.000, una vez por usuario"
+        }
+      ]
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-05",
+      "id": "modo-diarco-barrio-20",
+      "medio": "modo",
+      "medio_nombre": "MODO",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco Barrio"
+      ],
+      "dias": [
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "compra_minima": 35000,
+      "acumulable": false,
+      "requisitos": "De martes a domingo, hasta el 6/9. Pagando con el QR de MODO desde la app MODO (el legal dice que exclusivamente con la billetera MODO). Compra mínima de $35.000 en una sola transacción. Sin tope: el descuento se aplica en el momento. Solo sucursales Diarco Barrio. No incluye carnes, embutidos ni pollo, ni precios mayoristas. No se suma a otras promos bancarias.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-06",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "Diarco Barrio: 20% MODO martes a domingo, sin tope, mínimo $35.000, 01/09 al 06/09/26, exclusivo billetera MODO"
+        }
+      ]
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-05",
+      "id": "modo-diarco-mayorista-15",
+      "medio": "modo",
+      "medio_nombre": "MODO",
+      "rubro": "mayoristas",
+      "comercios": [
+        "Diarco Mayorista"
+      ],
+      "dias": [
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "compra_minima": 100000,
+      "acumulable": false,
+      "requisitos": "De martes a domingo, hasta el 6/9. Pagando con el QR de MODO desde la app MODO. Compra mínima de $100.000 por transacción en la mayoría de las sucursales ($35.000 en algunas). Sin tope: el descuento se aplica en el momento. Solo Diarco Mayorista.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-06",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "Diarco Mayorista: 15% MODO martes a domingo, sin tope, mínimo $100.000 (o $35.000 según sucursal), 01/09 al 06/09/26"
+        }
+      ]
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-05",
+      "id": "cuotas-mp-diarco-3",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "rubro": "supermercados",
+      "comercios": [
+        "Diarco Barrio",
+        "Diarco Mayorista"
+      ],
+      "dias": [
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "compra_minima": 150000,
+      "requisitos": "Con la tarjeta de crédito de Mercado Pago pagando por QR de Mercado Pago, en compras desde $150.000. De martes a domingo, hasta el 6/9. Se combina con el 15% de billeteras.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-06",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-05",
+          "nota": "Diarco: 3 cuotas sin interés con crédito Mercado Pago por QR, compras desde $150.000, 01/09 al 06/09/26"
+        }
+      ]
     }
   ]
 }

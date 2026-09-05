@@ -1,5 +1,46 @@
 # Cambios
 
+## 2026-09-05 — Diarco renovó todo para septiembre; Supervielle suma MásGO y cuotas de hogar; Banco del Sol en Día confirmada; Prex 30% el lunes 7
+
+**427 promos (eran 417): 11 altas, 2 revividas, 2 bajas, 1 corrección, 1 asumida confirmada, 64 reverificadas. Quedan 18 sin confirmar (eran 22): 1 se confirmó, 1 se retiró y 2 pasaron a baja por 14 días sin releer.** Push OK.
+
+### El workflow otra vez no disparó solo: lo lancé a mano
+A las 07:32 ARG el `crudo/` seguía en `leido: 2026-09-04`; el cron nuevo (06:17 ART, en minuto raro) tampoco corrió: la última corrida programada sigue siendo la de ayer 13:55 UTC. Disparé `workflow_dispatch` a las 10:33 UTC y el commit `2479a03` con las 41 fuentes llegó a las 07:38 ARG (4 minutos). De ahí trabajé. Sigue en pie: que esta rutina lo dispare siempre al arrancar, sin mirar.
+
+Dato para mirar: **ciudad, supervielle y dia vinieron byte a byte idénticos a ayer**. Ciudad mostró las mismas 94 tarjetas en 6 cargas de dos días: dejó de rotar, o la página quedó cacheada. Diarco sí cambió, así que el recolector corrió de verdad.
+
+### Agenda (`tools/agenda.js`): 8 fuentes, 4 trabajadas a fondo, 4 no se pudieron leer
+- **Banco Ciudad** ✅ 94 tarjetas, iguales a ayer. Reverificadas 38. Las **17 asumidas siguen sin aparecer** (Toledo x2, Diarco Pueblo y Mayorista, La Anónima, Vilela, Zentner, El Túnel, El Nene, Supercoop, Farmacias Del Puente, Almundo 15%, Rex 20%, Despegar, Sandra Selma, Vacalin, Get The Look). No las retiro: la home muestra 94 de las ~1000 del catálogo y Rex/Almundo aparecen con otra promo (cuotas), no con el porcentaje. **Ojo: están verificadas el 30-31/8, así que el 10/9 caen a baja solas** si nadie las confirma. La única fuente que puede confirmarlas es el catálogo `/beneficios/promo` (101 páginas), que el recolector no recorre.
+- **Supervielle** ✅ 180 tarjetas, iguales a ayer. Reverificadas 14.
+  - **Altas:** `supervielle-masgo-domingo` (20% con MODO, tope $20.000) y `supervielle-masgo-lunes` (20%, tope $25.000; Plan Sueldo 25% y $30.000). Cuotas de hogar con crédito: Easy hasta 6 todos los días y 9 sábado y domingo, Blaisten hasta 6, Coto Electro 18 sábado y domingo. Vigencia al 30/09 porque la web no publica fin, igual que las demás de Supervielle.
+  - **No cargadas:** Farmacias del Puente viernes y sábado 15% tope $5.000 y Central Oeste online jueves 15% tope $7.500 (no tengo la provincia de esas cadenas y la regla dice no deducirla); Hipercerámico, Casa Fácil, Sakura y Coraza Hierros 12 cuotas y Oscar David Mayorista 3 cuotas (comercios regionales sin zona); unas 50 farmacias con 20% martes y miércoles tope $8.000 más 3 cuotas (parecen de Mendoza y San Luis, sin zona confirmada).
+  - **Las 2 asumidas de Supervielle (carnicerías de Mendoza y de San Luis) pasaron a confianza baja:** 14 días sin releer, y la regla de los 10 días manda. La receta recorre supermercados, farmacia, combustible, transporte, hogar y gastronomía, pero **no `carnicerias-mendoza` ni `carnicerias-san-luis`**, que son las URLs de esas dos promos. Con sumar esos dos rubros a la lista de `tools/fuentes-recetas.js` (cerca de la línea 360) mañana se confirman o se retiran.
+- **Día** ✅ 22 legales, iguales a ayer. **Confirmada la asumida `bancodelsol-dia-martes-25`**: martes, 25% con débito Visa registrada en la app, tope $10.000 por mes, del 01/07 al 30/09. Reverificadas 10 más (Columbia, Credicoop, Sidecreer, Corrientes y BNA con la fuente sumada; Personal Pay jueves, MODO viernes y sábado, 3 cuotas sábado, Naranja martes y Ciudadanía Porteña solo con `verificado`).
+  - **Corrección destacada, `bna-dia-lun-vie`:** el legal dice que el 5% con MODO BNA+ es **solo para jubilados y pensionados de ANSES que cobran en el Banco Nación**, y que además del tope semanal de $5.000 hay uno mensual de $20.000. Teníamos los requisitos como si fuera para cualquier cliente del BNA.
+  - **Alta `prex-dia-online-lunes-7-9`:** 30% de reintegro **el lunes 7/9 únicamente**, comprando online en Día con la Mastercard de Prex eligiendo "débito", primera compra del día, tope $20.000. Medio nuevo `prex` / "Prex". Vale un solo día y la única fuente es Día (nivel 2): es de riesgo; si Prex lo publica, sumarlo.
+  - **No tocadas:** el legal de Cuenta DNI en Día sigue diciendo "lunes de agosto" (Banco Provincia, nivel 1, la confirma para septiembre: gana el emisor). El de Ciudad 35% lunes sigue diciendo "hasta 31/08" (sigue en baja). Mercado Pago 15% en "productos seleccionados" con mínimo $20.000 no dice el día: no alcanza para revivir `mp-dia-miercoles`. Las 2 y 3 cuotas de Mercado Pago no tienen fechas.
+- **Diarco** ✅ La página de septiembre trae promos **semanales (01/09 al 06/09)** y cambió casi todo respecto del 28/8:
+  - **Baja `modo-diarco-viernes-20`** (viernes, tope $20.000, "sucursales seleccionadas") y **alta `modo-diarco-barrio-20`**: 20% de martes a domingo, **sin tope**, mínimo $35.000 en una transacción, solo Diarco Barrio, excluye carnes, embutidos y pollo. La tarjeta dice "o desde la app de tu banco" pero el legal dice "exclusivamente con la billetera virtual MODO": puse lo del legal. **Vence el domingo 6/9: el lunes hay que releer Diarco.**
+  - **Alta `modo-diarco-mayorista-15`:** 15% de martes a domingo sin tope, mínimo $100.000 ($35.000 en algunas sucursales).
+  - **Revividas `mp-diarco-finde` y `personalpay-diarco-finde-15`** (en baja desde prensa de agosto): Diarco publica 15% de martes a domingo pagando por **QR de Mercado Pago con cualquier billetera participante** (Mercado Pago, Cuenta DNI, Personal Pay, Naranja X, entre otras), sin tope, mínimo $35.000 en Barrio y $100.000 en Mayorista, excluye MODO. Los ids dicen "finde" pero ahora son martes a domingo; los dejé para no perder la historia. Cuenta DNI y Naranja X también entran y no tienen promo cargada: para mirar.
+  - **Alta `cuotas-mp-diarco-3`:** 3 cuotas con la tarjeta de crédito de Mercado Pago por QR, compras desde $150.000.
+  - **Baja `personalpay-diarco-jueves-viernes-20`** (asumida): Diarco la listaba el 28/8 (jueves y viernes 20%, tope $7.000) y en la página de septiembre, bien cargada, ya no está; Personal Pay tampoco la muestra. Ojo que la receta de Personal Pay lee solo la página 1 de 9 del listado: otra cosa a arreglar.
+  - Reverificada `cuotas-naranja_x-diarco-mayorista-4`. Siguen en baja Macro 6 cuotas y Naranja X 6 cuotas: sus legales dicen 01/08 al 31/08. Galicia 3 cuotas jueves a domingo y 6/12 cuotas, BNA 6/12 cuotas: legales de agosto, no cargadas.
+  - Las promos "sin tope" de Diarco tienen una sola fuente, la del comercio. `validar` no las marca porque nivel 2 alcanza, pero son de riesgo. `cruzar` no encontró a Diarco en `modo.txt` (el listado de MODO trae solo títulos).
+- **Farmacity** ❌ `/promociones-bancarias` devuelve "No encontramos resultados": la URL cae en el buscador del sitio. Hay que encontrar la página real.
+- **Frávega** ❌ 403 de CloudFront ("Request blocked"): bloquea al navegador del recolector.
+- **ICBC** ❌ `/beneficios` da 404. Es otra URL.
+- **Patagonia** ❌ (la más abandonada) La página carga, pero el texto **no trae el nombre de ningún comercio**: solo "TODOS LOS JUEVES · DESDE 02/04 AL 30/09 · CLÁSICA 15% PLUS 20% SINGULAR 30%" y así. Los comercios están en imágenes. La receta tiene que sacar el `alt` o el título de cada tarjeta. Con esto no se puede confirmar ni retirar nada. Sus 2 promos con fuente propia quedan como están.
+- Fuera de agenda: `mcdonalds` y `musimundo` siguen con `leido: 2026-08-27`; el recolector no las está renovando.
+
+### Para Lucía
+1. Sumar `carnicerias-mendoza` y `carnicerias-san-luis` a la receta de Supervielle.
+2. Arreglar las recetas de Patagonia (nombres en imágenes), ICBC (404), Farmacity (URL) y Frávega (403); y hacer que Personal Pay pase las 9 páginas.
+3. Ver si Ciudad de verdad dejó de rotar o si hay caché: dos días con las mismas 94 tarjetas es raro. Las 17 asumidas de Ciudad caen a baja el 10/9 si no se leen desde `/beneficios/promo`.
+4. Diarco ahora publica por semana: hay que releerlo cada lunes.
+
+La corrida anterior había terminado bien (`fin OK 2026-09-04 08:05`).
+
 ## 2026-09-04 — Naranja X y Farmaonline por fin cargaron bien; Ciudad confirma y suma cuotas; Carrefour, Comafi, Dr. Ahorro y Easy fallaron
 
 **417 promos (eran 402): 15 altas, 15 revividas, 2 correcciones, 12 asumidas confirmadas, ~45 reverificadas. Quedan 22 sin confirmar (eran 34).** Push OK.
