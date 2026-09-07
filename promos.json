@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-06",
+  "actualizado": "2026-09-07",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -2166,7 +2166,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2191,6 +2191,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Disco | viernes, sabado | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Disco 20% sabado, viernes"
         }
       ]
     },
@@ -2214,7 +2220,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2239,6 +2245,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Jumbo | martes, jueves | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Jumbo 20% jueves, martes"
         }
       ]
     },
@@ -2363,7 +2375,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2382,6 +2394,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Dia | viernes, sabado | 20% (3 cargas iguales)"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Dia 20% sabado, viernes"
         }
       ]
     },
@@ -2404,7 +2422,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2429,6 +2447,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Makro | jueves | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Makro 20% jueves"
         }
       ]
     },
@@ -2451,7 +2475,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2476,6 +2500,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Supermercados Vea | viernes | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Supermercados Vea 20% viernes"
         }
       ]
     },
@@ -2536,7 +2566,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -2555,6 +2585,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Diarco Barrio | domingo, sabado | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Diarco Barrio 20% domingo, sabado"
         }
       ]
     },
@@ -2577,7 +2613,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2602,6 +2638,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "ChangoMás | lunes | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: ChangoMás 20% lunes"
         }
       ]
     },
@@ -2661,7 +2703,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2680,6 +2722,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Mayorista Nini | jueves | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Mayorista Nini 20% jueves"
         }
       ]
     },
@@ -2736,7 +2784,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2761,6 +2809,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Farmacias Paradiñeiro Online | domingo, martes, jueves, sabado | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Farmacias Paradiñeiro Online 20% domingo, jueves, martes, sabado"
         }
       ]
     },
@@ -2783,7 +2837,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2807,6 +2861,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Farmacity Online | martes | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Farmacity Online 20% martes"
         }
       ]
     },
@@ -2829,7 +2889,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2854,6 +2914,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Farmacias MODO | martes | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Farmacias MODO 20% martes"
         }
       ]
     },
@@ -2907,7 +2973,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2932,6 +2998,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Farmacia Santa Ana | domingo | 15%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Farmacia Santa Ana 15% domingo"
         }
       ]
     },
@@ -2954,7 +3026,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "cuotas": 6,
       "tope_publicado": false,
@@ -2980,6 +3052,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Farmacias ABC | lunes | 20% · 6 cuotas"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Farmacias ABC 20% lunes"
         }
       ]
     },
@@ -3075,7 +3153,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3099,6 +3177,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Fravega | Todos los días | 18 cuotas"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Fravega 18 cuotas todos los días"
         }
       ]
     },
@@ -3128,7 +3212,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3151,6 +3235,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Casa del Audio | Todos los días | 18 cuotas"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Casa del Audio 18 cuotas todos los días"
         }
       ]
     },
@@ -3180,7 +3270,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3204,6 +3294,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Samsung | Todos los días | 18 cuotas"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Samsung 18 cuotas todos los días"
         }
       ]
     },
@@ -3233,7 +3329,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3257,6 +3353,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Almundo | Todos los días | 6 cuotas"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Almundo 6 cuotas todos los días"
         }
       ]
     },
@@ -3286,7 +3388,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3310,6 +3412,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Plataforma 10 | Todos los días | 3 cuotas"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Plataforma 10 3 cuotas todos los días"
         }
       ]
     },
@@ -3807,16 +3915,21 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
-      "confianza": "media",
+      "verificado": "2026-09-05",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.modo.com.ar/promos",
           "nivel": 3,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.modo.com.ar/promos",
+          "nivel": 3,
+          "fecha": "2026-09-05",
+          "nota": "el listado de MODO del 5/9 dice \"9 cuotas sin interés en Frávega online\" (solo el título, sin fecha ni tope)"
         }
-      ],
-      "vigencia_asumida": "2026-09-01"
+      ]
     },
     {
       "id": "cuotas-cualquiera-coto-18",
@@ -4751,7 +4864,7 @@
         "miercoles"
       ],
       "descuento_pct": 10,
-      "requisitos": "Todo el mes, sin tope y acumula con otras promos.",
+      "requisitos": "Todo el mes, sin tope y acumula con otras promos. Solo en tiendas físicas, pagando con Clave DNI o el QR de la app Cuenta DNI (no con el QR de Mercado Pago ni con tarjeta).",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
       "confianza": "alta",
@@ -4759,7 +4872,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-07",
       "fuentes": [
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
@@ -4796,6 +4909,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "Sodimac: Cuenta DNI miércoles +10% adicional, exclusivo tiendas físicas, con Clave DNI o QR de la app, hasta 30/09/2026. Acumulable con otras promos."
         }
       ]
     },
@@ -5882,7 +6001,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5907,6 +6026,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Supermercado La Ilusión | lunes | 15%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Supermercado La Ilusión 15% lunes"
         }
       ]
     },
@@ -5929,7 +6054,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -5954,6 +6079,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Supermercado DAR | martes | 15%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Supermercado DAR 15% martes"
         }
       ]
     },
@@ -6147,7 +6278,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6172,6 +6303,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Nutrican | viernes | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Nutrican 20% viernes"
         }
       ]
     },
@@ -6225,7 +6362,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "tope_monto": 10000,
       "tope_periodo": "sin_aclarar",
       "fuentes": [
@@ -6261,6 +6398,12 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "10% reintegro tope $10.000 por transacción + hasta 6 cuotas, viernes, crédito Ciudad por QR MODO, 01/05 al 31/10/2026"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Farmaonline 10% viernes"
         }
       ],
       "cuotas": 6
@@ -6284,7 +6427,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6309,6 +6452,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "FarmaPlus Online | lunes | 15%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: FarmaPlus Online 15% lunes"
         }
       ]
     },
@@ -6331,7 +6480,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6356,6 +6505,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Perfumerías MODO | lunes | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Perfumerías MODO 20% lunes"
         }
       ]
     },
@@ -6606,7 +6761,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6619,6 +6774,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "RES | Todos los días | 30% — de los ocho comercios de cercanía la página de destacados muestra solo RES"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: RES 30% todos los días"
         }
       ]
     },
@@ -8322,7 +8483,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "id": "ciudad-coto-20",
       "medio": "ciudad",
@@ -8354,6 +8515,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Coto | martes | SIN TOPE | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Coto 20% martes, sin tope"
         }
       ]
     },
@@ -8363,7 +8530,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "id": "ciudad-masgo-20",
       "medio": "ciudad",
@@ -8401,6 +8568,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "MásGO | domingo | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: MásGO 20% domingo"
         }
       ]
     },
@@ -8441,7 +8614,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "id": "ciudad-casa-del-audio-20",
       "medio": "ciudad",
@@ -8475,6 +8648,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Casa del Audio | domingo, viernes, sabado | 25%. Días corregidos: la base decía jueves y viernes. La tarjeta no dice SIN TOPE, así que el tope pasa a no publicado."
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Casa del Audio 25% domingo, sabado, viernes"
         }
       ],
       "tope_publicado": false
@@ -8693,7 +8872,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "id": "ciudad-showsport-online-25",
       "medio": "ciudad",
@@ -8731,6 +8910,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Showsport Online | domingo | 25%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Showsport Online 25% domingo"
         }
       ]
     },
@@ -8740,7 +8925,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "id": "ciudad-showsport-20",
       "medio": "ciudad",
@@ -8778,6 +8963,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Showsport | viernes | 20%"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Showsport - 20% viernes"
         }
       ]
     },
@@ -8934,7 +9125,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "id": "ciudad-deportivas-martes-15",
       "medio": "ciudad",
@@ -8981,6 +9172,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Dexter, Stock Center, Moov, Montagne, Ruiz y Roca, Ver, MACOWENS, Lazaro, Bowen | martes | SIN TOPE | 15% · 10 cuotas. Se suma Equus (martes, SIN TOPE, 15% · 10 cuotas)"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Dexter 15% martes, sin tope"
         }
       ]
     },
@@ -8990,7 +9187,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "id": "ciudad-calzado-martes-10",
       "medio": "ciudad",
@@ -9031,6 +9228,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Hush Puppies, Grimoldi, Vans, CAT ONLINE | martes | SIN TOPE | 10% · 10 cuotas"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Hush Puppies 10% martes, sin tope"
         }
       ]
     },
@@ -9040,7 +9243,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "id": "ciudad-librerias-jugueterias-viernes-20",
       "medio": "ciudad",
@@ -9119,6 +9322,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "las 12 de siempre + 24 más, todas \"viernes | 20% de descuento · 3 cuotas\" en las 3 cargas"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: El Ateneo 20% viernes"
         }
       ]
     },
@@ -11144,7 +11353,7 @@
       "vigencia_desde": "2026-04-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "masclub-changomas",
@@ -11165,6 +11374,12 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "15% miércoles y jueves para socios de MásClub, sin tope, 01/04 al 31/12"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "ChangoMás 7/9: Miércoles y Jueves 15% presencial y online sin tope, socios MásClub, 01/04 al 31/12/2026 (MC)"
         }
       ]
     },
@@ -11265,7 +11480,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "credicoop-changomas-jueves-cabal",
@@ -11284,6 +11499,12 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "30% los jueves con Cabal Credicoop por QR MODO, tope $9.000 semanal, 01/07 al 30/09"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "ChangoMás 7/9: Todos los jueves 30% reintegro crédito y débito Cabal, tope $9.000 por semana, QR Credicoop Móvil o MODO, 01/07 al 30/09/2026 (C1)"
         }
       ]
     },
@@ -11296,7 +11517,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "icbc-changomas-jueves-general",
@@ -11315,6 +11536,12 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "20% los jueves con tarjetas ICBC, tope $10.000 semanal, 01/07 al 31/12"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "ChangoMás 7/9: Todos los jueves 20% crédito Visa/Mastercard ICBC, tope $10.000 semanal, 01/07 al 31/12/2026 (IC3)"
         }
       ]
     },
@@ -11370,7 +11597,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "yoy-changomas-jueves",
@@ -11389,6 +11616,12 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "20% los jueves con tarjetas YOY, tope $10.000 semanal, 01/07 al 31/12"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "ChangoMás 7/9: Todos los jueves 20% Mastercard YOY, tope $10.000 semanal, 01/07 al 31/12/2026 (Y)"
         }
       ]
     },
@@ -11625,13 +11858,13 @@
       ],
       "descuento_pct": 20,
       "tope_monto": 10000,
-      "tope_periodo": "por compra",
-      "requisitos": "En un pago con tarjeta de credito Visa o Mastercard de Banco Columbia. Tope $10.000 por cuenta. Vale en sucursales y en la tienda online.",
+      "tope_periodo": "semanal",
+      "requisitos": "En un pago con tarjeta de crédito Visa o Mastercard de Banco Columbia. Tope $10.000 por semana por cuenta. Vale en sucursales y en MásOnline, también Autocenter y Farmacia ChangoMás.",
       "zona": "Nacional",
       "vigencia_desde": "2026-04-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-08-27",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11639,6 +11872,12 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "codigo (BC) en el legal, identificado como Banco Columbia"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "ChangoMás 7/9: Martes y sábados 20% en un pago crédito Visa/Mastercard Columbia, tarjeta dice tope $10.000 semanal, legal dice $10.000 por cuenta, 01/04 al 30/09/2026 (BC)"
         }
       ]
     },
@@ -15928,9 +16167,15 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Rex | Todos los días | 18 cuotas sin interés (3 cargas)"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Rex 18 cuotas todos los días"
         }
       ],
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta"
     },
     {
@@ -15965,9 +16210,15 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Pisano | Todos los días | 18 cuotas sin interés (3 cargas)"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Pisano 18 cuotas todos los días"
         }
       ],
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta"
     },
     {
@@ -16002,9 +16253,15 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "On City | Todos los días | 18 cuotas sin interés (3 cargas)"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: On city 18 cuotas todos los días"
         }
       ],
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta"
     },
     {
@@ -16036,9 +16293,15 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Juleriaque, Rouge, Beauty 24 | martes | 10% de descuento · 10 cuotas (3 cargas)"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Juleriaque 10% martes"
         }
       ],
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta"
     },
     {
@@ -16069,9 +16332,15 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Alpinestars | sabado, domingo | 15% de descuento · 10 cuotas (3 cargas)"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "home del banco: Alpinestars 15% domingo, sabado"
         }
       ],
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-07",
       "confianza": "alta"
     },
     {
@@ -17720,6 +17989,191 @@
           "nivel": 2,
           "fecha": "2026-09-06",
           "nota": "miércoles: Club La Nación 15%, tope $30.000 por compra, 01/08 al 30/12/2026, locales y web"
+        }
+      ]
+    },
+    {
+      "rubro": "hogar",
+      "comercios": [
+        "Sodimac"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+      "verificado": "2026-09-07",
+      "confianza": "alta",
+      "id": "cuotas-bbva-sodimac-6",
+      "medio": "bbva",
+      "medio_nombre": "BBVA",
+      "cuotas": 6,
+      "requisitos": "6 cuotas sin interés en compras de más de $350.000 y 3 cuotas desde $150.000, con tarjeta de crédito Visa o Mastercard BBVA. En camas y colchones son 9 y 6 cuotas sin mínimo. Hay que estar registrado en la app GO de BBVA. No entra Patio Constructor. En tiendas y en la web.",
+      "fuentes": [
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "BBVA: 9 y 6 cuotas en camas y colchones sin mínimo; 6 cuotas desde $350.000; 3 cuotas desde $150.000. Legal: hasta 30/09/2026, crédito Visa/Mastercard BBVA, registrado en GO, web y tiendas, excluye Patio Constructor."
+        }
+      ]
+    },
+    {
+      "rubro": "hogar",
+      "comercios": [
+        "Sodimac"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Provincia de Buenos Aires",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+      "verificado": "2026-09-07",
+      "confianza": "alta",
+      "id": "cuotas-banco_provincia-sodimac-12",
+      "medio": "banco_provincia",
+      "medio_nombre": "Banco Provincia",
+      "cuotas": 12,
+      "requisitos": "12 cuotas sin interés en compras de más de $700.000, 6 cuotas desde $350.000 y 4 cuotas desde $150.000, con tarjeta de crédito Visa o Mastercard del Banco Provincia. En colchones y sommiers 6 cuotas sin mínimo. No entra obra gruesa ni Patio Constructor. Vale en CABA, GBA y Provincia de Buenos Aires.",
+      "fuentes": [
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "Banco Provincia: 12 cuotas desde $700.000, 6 en colchones y sommiers sin mínimo, 6 desde $350.000, 4 desde $150.000, excluye obra gruesa. Legal (el de 4 cuotas): todos los días hasta 30/09/2026, CABA, GBA y PBA, crédito Visa/Mastercard Provincia, comercios adheridos."
+        }
+      ]
+    },
+    {
+      "rubro": "hogar",
+      "comercios": [
+        "Sodimac"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+      "verificado": "2026-09-07",
+      "confianza": "alta",
+      "id": "cuotas-galicia-sodimac-3",
+      "medio": "galicia",
+      "medio_nombre": "Banco Galicia",
+      "cuotas": 3,
+      "requisitos": "3 cuotas sin interés en compras de más de $150.000 con tarjeta de crédito Visa, Mastercard o American Express Galicia, en todo el país. En colchones y sommiers son 6 cuotas. No entra Patio Constructor.",
+      "fuentes": [
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "Galicia: 6 cuotas en colchones y sommiers; 3 cuotas desde $150.000 excluye obra gruesa. Legal: válida en el país hasta 30/09/2026, Visa/Mastercard/Amex Galicia, todo Homecenter salvo Patio Constructor."
+        }
+      ]
+    },
+    {
+      "rubro": "hogar",
+      "comercios": [
+        "Sodimac"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+      "verificado": "2026-09-07",
+      "confianza": "alta",
+      "id": "cuotas-naranja_x-sodimac-6",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "cuotas": 6,
+      "requisitos": "6 cuotas sin interés (Plan Z) con tarjeta de crédito Naranja X, en tiendas y en la web, todo el país. No entra Patio de Construcción. No vale con Naranja Visa, Mastercard ni Amex.",
+      "fuentes": [
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "Naranja: 6 cuotas sin interés Plan Z. Legal: titulares y adicionales de todo el país, tiendas y web, hasta 30/09/2026, no incluye patio de construcción, no vale con Naranja Visa/Mastercard/Amex/Prepaga."
+        }
+      ]
+    },
+    {
+      "rubro": "hogar",
+      "comercios": [
+        "Sodimac"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+      "verificado": "2026-09-07",
+      "confianza": "alta",
+      "id": "cuotas-icbc-sodimac-6",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "cuotas": 6,
+      "requisitos": "3 o 6 cuotas sin interés en todo Homecenter con tarjeta de crédito Visa o Mastercard ICBC. Solo consumos familiares. No vale pagando por Mercado Pago ni Todo Pago.",
+      "fuentes": [
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "ICBC: 6 cuotas sin interés y 3 cuotas sin interés. Legal: hasta 30/09/2026, crédito Visa/Mastercard ICBC, todo Homecenter, consumo familiar, no Todo Pago ni Mercado Pago."
         }
       ]
     }

@@ -1,5 +1,45 @@
 # Cambios
 
+## 2026-09-07 — Sodimac aportó sus primeras 5 (cuotas de 5 bancos) y trajo el primer dato de ICBC; MODO confirmó Frávega; Ciudad idéntica por cuarto día
+
+**463 promos (eran 458): 5 altas, 2 confirmadas (una era asumida), 38 reverificadas en Ciudad, 5 rescatadas en ChangoMás antes de que cayeran por viejas, 1 corrección de tope. Quedan 17 asumidas en la cola (eran 18).** Push OK.
+
+### El workflow otra vez no disparó solo: lo lancé a mano
+A las 07:31 ARG el `crudo/` seguía en `leido: 2026-09-06` y el cron de las 07:23 UTC no había corrido (la última corrida programada sigue siendo la de ayer 11:41 UTC). Disparé `workflow_dispatch` a las 10:32 UTC y el commit `e5a3691` con las 41 fuentes llegó a las 07:41 ARG (9 minutos). De ahí trabajé.
+
+**Ciudad vino byte a byte idéntica a ayer por cuarto día seguido** (94 tarjetas, solo cambió `leido:`). Sodimac, MODO, Farmacity e ICBC también idénticas. Cada vez huele más a una versión cacheada del lado del runner que a que el banco dejó de rotar; conviene mirarlo (punto 3 de abajo).
+
+### Agenda (`tools/agenda.js`): dio 6 fuentes. Se trabajaron 3 a fondo, 3 no se pueden leer
+- **Banco Ciudad** ✅ (deuda: sostiene 28 sin confirmar) 94 tarjetas iguales a ayer. Reverificadas 38 (mismo comercio, día y porcentaje). **Las 17 asumidas siguen sin aparecer** (Toledo ×2, Diarco Pueblo y Mayorista, La Anónima, Vilela, Zentner, El Túnel, El Nene, Supercoop, Del Puente, Almundo 15%, Rex 20%, Despegar, Sandra Selma, Vacalin, Get The Look). No las retiro: la home muestra 94 de ~1000 y viene idéntica, así que no es una lectura nueva. **Caen a baja solas el 10/9** (verificadas el 30-31/8). Tampoco aparecen las 9 que ya están en baja (Wico, Coto lunes 25 duplicada, Almacor, Josimar, JetSmart, Under Armour, Champion, Topper, The Food Market) ni Arredo (ok, 3/9).
+- **MODO** ✅ a medias (deuda: sostiene 1 asumida). Hoy `/promos` devolvió otra vez solo el menú (1,3 KB). Pero **la lectura del 5/9** (commit `2479a03`, 3,4 KB) sí tenía el listado de destacadas, y ahí figura "9 cuotas sin interés en Frávega online": es `cuotas-modo-fravega-9`, la única asumida de MODO. Le sumé esa fuente fechada 5/9 (nivel 3, solo el título: sin tope ni fecha) y el auditor le borró la marca. Al tener dos fuentes de nivel 3 pasó a `alta`; es la misma URL dos veces, así que vale lo que vale. Ese mismo listado nombra "20% en Farmacity online", "20% en Topper online" y "20% en Vacalin online" sin decir de qué banco: no alcanza para revivir Topper (Ciudad, en baja) ni confirmar Vacalin (Ciudad, asumida), pero es señal de que existen.
+- **Sodimac** ✅ (la más abandonada, 9 días; tenía 1 promo). La página `/Financiacion/` viene entera con el legal de cada banco. **Altas (5), todas cuotas, nivel 2, vigencia al 30/09/2026 según cada legal:**
+  - BBVA 6 cuotas desde $350.000 (3 desde $150.000; 9 y 6 en camas y colchones sin mínimo). Hay que estar registrado en GO.
+  - **Banco Provincia** 12 cuotas desde $700.000 (6 desde $350.000, 4 desde $150.000, 6 en colchones sin mínimo). El legal dice CABA, GBA y PBA, así que va con zona Provincia de Buenos Aires. **Medio nuevo: `banco_provincia` / "Banco Provincia"** (las tarjetas del banco, que no es lo mismo que Cuenta DNI). La app arma la lista de medios desde las promos, así que aparece solo.
+  - Galicia 3 cuotas desde $150.000 (6 en colchones), en todo el país.
+  - Naranja X 6 cuotas Plan Z, todo el país.
+  - **ICBC 6 y 3 cuotas: es el primer dato que ICBC aporta al proyecto**, aunque por el lado del comercio.
+  - **Confirmada `cuenta-dni-sodimac`** (miércoles 10%): Sodimac lo publica con legal al 30/09 y aclara que es **solo en tiendas físicas**, con Clave DNI o QR de la app (no con el QR de Mercado Pago ni con tarjeta). Reescribí los requisitos con eso.
+  - **No cargadas:** Santander 6 cuotas en colchones Visa (el legal dice hasta 31/08/2026: vencida); Bancor 6 y 3 cuotas Tarjeta Cordobesa, exclusivo tienda de Córdoba (no tenemos el medio `bancor`; se puede crear otro día, la fuente sí dice la zona); las tablas de financiación con interés de Visa/Mastercard/Amex.
+- **ICBC** ❌ `/beneficios` da **404 desde siempre** (los 12 commits de `crudo/icbc.txt` son la misma página de "no encontrado", 6,3 KB). La URL de la receta está mal; hasta que se arregle esta fuente no va a aportar nunca.
+- **Farmacity** ❌ Igual que siempre: `/promociones-bancarias` cae en el buscador. La lectura del 1/9 (5,6 KB) era la home con el menú de categorías, sin promos. Falta la URL real.
+- **Frávega** ❌ 403 de CloudFront al navegador del runner, igual que ayer.
+
+### Fuera de agenda
+- **ChangoMás**: el auditor marcó 5 promos con 11 días sin verificar (`masclub-changomas`, `credicoop-changomas-jueves-cabal`, `icbc-changomas-jueves-general`, `yoy-changomas-jueves`, `columbia-changomas-mar-sab-20`), que mañana caían a baja solas. ChangoMás vino entera hoy (119 KB) y las cinco están con el mismo día, porcentaje y tope, y con legal vigente (Cabal y Columbia al 30/09, el resto al 31/12). Las reverifiqué con la fuente de hoy.
+  - **⚠ Corrección `columbia-changomas-mar-sab-20`:** teníamos tope $10.000 "por compra"; la tarjeta de ChangoMás dice **"$10.000 semanal"** y el legal dice "$10.000 por cuenta" sin período. Puse `semanal` (es el número más chico) y lo dejé claro en los requisitos.
+- **Diarco**: ayer mostraba la semana del 01/09 al 06/09; hoy vino con 4 KB y sin ninguna promo (solo sucursales). No es evidencia de nada: la página no cargó o todavía no subieron la semana nueva. Las cinco con vigencia al 06/09 (`modo-diarco-barrio-20`, `modo-diarco-mayorista-15`, `mp-diarco-finde`, `personalpay-diarco-finde-15`, `cuotas-mp-diarco-3`) desaparecen de la app solas por fecha. **Hay que releer Diarco mañana** y, si renovó, cargar la semana nueva.
+- No miré Coto, Credicoop, Jumbo, Carrefour ni Naranja X.
+
+### Auditoría
+`node tools/validar.js --arreglar`: 463 promos, 17 con vigencia asumida en la cola (las 17 de Ciudad; otras 2 de Supervielle la tienen pero ya están en baja), 0 sin fuente, 0 de riesgo sin cruzar, 0 viejas, 0 confianzas mal.
+
+### Para Lucía
+1. **ICBC: la URL `icbc.com.ar/beneficios` es 404 desde el primer día.** Buscar la página real de beneficios y cambiarla en la receta.
+2. **Ciudad idéntica cuatro días**: revisar si el runner recibe una versión cacheada (probar con un parámetro random en la URL, o leer directo el catálogo `/beneficios/promo`). Las 17 asumidas mueren el 10/9.
+3. Sumar `sodimac.com.ar` (nivel 2) e `easy.com.ar` (nivel 2) a `POR_DOMINIO` en `tools/fuentes.js` (hoy les puse el nivel a mano).
+4. Medio nuevo `banco_provincia`: si preferís que las tarjetas del Provincia vayan con otro nombre o chip, es un campo.
+5. Bancor en Sodimac (Córdoba) y los clubes regionales de Easy siguen sin cargar por falta de medio; la fuente sí dice la zona.
+
 ## 2026-09-06 — Patagonia por fin se pudo leer (27 promos, eran 9) y Easy aportó sus primeras 17; Ciudad reverificada, sus 17 asumidas siguen sin aparecer
 
 **458 promos (eran 427): 31 altas, 1 revivida, 1 corrección de tope, 8 confirmadas con el banco, 37 reverificadas en Ciudad. Quedan 18 sin confirmar (igual que ayer: ninguna se confirmó y ninguna se retiró).** Push OK.
