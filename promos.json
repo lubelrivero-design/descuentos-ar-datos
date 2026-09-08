@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07",
+  "actualizado": "2026-09-08",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -2159,16 +2159,16 @@
         "sabado"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 25000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $25.000 por mes. Compra mínima $100.000. Vale en tiendas físicas y online.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -2197,6 +2197,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Disco 20% sabado, viernes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Disco | viernes, sabado | 20% | tope $25.000 mensual | mínimo $100.000 | tiendas físicas y online"
         }
       ]
     },
@@ -2213,16 +2219,16 @@
         "jueves"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 25000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $25.000 por mes. Compra mínima $100.000. Vale en tiendas físicas y online.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -2251,6 +2257,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Jumbo 20% jueves, martes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Jumbo | martes, jueves | 20% | tope $25.000 mensual | mínimo $100.000"
         }
       ]
     },
@@ -2271,9 +2283,9 @@
       "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "cuotas": 3,
       "tope_publicado": false,
@@ -2282,9 +2294,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "id": "ciudad-supermercados-toledo-15",
@@ -2303,9 +2321,9 @@
       "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "cuotas": 3,
       "tope_publicado": false,
@@ -2314,9 +2332,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "id": "ciudad-diarco-mayorista-15",
@@ -2336,9 +2360,9 @@
       "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-30",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2351,9 +2375,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "id": "ciudad-dia-20",
@@ -2368,16 +2398,16 @@
         "sabado"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $20.000 por mes. Compra mínima $35.000. Vale en sucursales y tienda online.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -2400,6 +2430,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Dia 20% sabado, viernes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Dia | viernes, sabado | 20% | tope $20.000 mensual | mínimo $35.000"
         }
       ]
     },
@@ -2415,16 +2451,16 @@
         "jueves"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $20.000 por mes. Solo en tiendas físicas.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -2453,6 +2489,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Makro 20% jueves"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Makro | jueves | 20% | tope $20.000 mensual | no online"
         }
       ]
     },
@@ -2468,16 +2510,16 @@
         "viernes"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 25000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $25.000 por mes. Compra mínima $100.000. Vale en tiendas físicas y online.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -2506,6 +2548,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Supermercados Vea 20% viernes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Vea | viernes | 20% | tope $25.000 mensual | mínimo $100.000"
         }
       ]
     },
@@ -2527,9 +2575,9 @@
       "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-30",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2542,9 +2590,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "id": "ciudad-diarco-barrio-20",
@@ -2561,12 +2615,12 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Sin tope de reintegro. Compra mínima $35.000. Solo en sucursales.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -2591,6 +2645,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Diarco Barrio 20% domingo, sabado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Diarco Barrio | sabado, domingo | 20% | SIN TOPE | mínimo $35.000 | no online"
         }
       ]
     },
@@ -2606,16 +2666,16 @@
         "lunes"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 25000,
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $25.000 por cliente (el banco no dice el período). Compra mínima $75.000. Solo en tiendas físicas.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -2644,6 +2704,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: ChangoMás 20% lunes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "ChangoMás | lunes | 20% | tope $25.000 por cliente | mínimo $75.000 | tiendas físicas"
         }
       ]
     },
@@ -2665,9 +2731,9 @@
       "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2680,9 +2746,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "id": "ciudad-mayorista-nini-20",
@@ -2696,16 +2768,16 @@
         "jueves"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $20.000 por mes. Solo en tiendas físicas.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -2728,6 +2800,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Mayorista Nini 20% jueves"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Mayorista Nini | jueves | 20% | tope $20.000 mensual | no online"
         }
       ]
     },
@@ -2748,9 +2826,9 @@
       "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2758,9 +2836,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "id": "ciudad-farmacias-paradineiro-online-20",
@@ -2777,16 +2861,16 @@
         "sabado"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 12500,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Solo en la tienda online. Tope $12.500 por mes.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -2815,6 +2899,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Farmacias Paradiñeiro Online 20% domingo, jueves, martes, sabado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Paradiñeiro Online | martes, jueves, sabado, domingo | 20% | tope $12.500 mensual"
         }
       ]
     },
@@ -2830,16 +2920,16 @@
         "martes"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 16000,
+      "tope_periodo": "semanal",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Solo en la tienda online. Tope $16.000 por semana. Compra mínima $70.000.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -2867,6 +2957,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Farmacity Online 20% martes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Farmacity Online | martes | 20% | tope $16.000 semanal | mínimo $70.000"
         }
       ]
     },
@@ -2882,16 +2978,16 @@
         "martes"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 16000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Solo en tienda online de las marcas adheridas. Tope $16.000 por mes. Compra mínima $70.000.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -2920,6 +3016,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Farmacias MODO 20% martes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Farmacias MODO | martes | 20% | tope $16.000 mensual | mínimo $70.000 | online"
         }
       ]
     },
@@ -2940,9 +3042,9 @@
       "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -2950,9 +3052,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "id": "ciudad-farmacia-santa-ana-15",
@@ -2966,16 +3074,16 @@
         "domingo"
       ],
       "descuento_pct": 15,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 5000,
+      "tope_periodo": "semanal",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $5.000 por semana. Locales y tienda online.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -3004,6 +3112,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Farmacia Santa Ana 15% domingo"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Farmacia Santa Ana | domingo | 15% | tope $5.000 semanal"
         }
       ]
     },
@@ -3019,17 +3133,17 @@
         "lunes"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjeta de crédito, en locales adheridos. Tope $10.000 por mes. Hasta 6 cuotas sin interés.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "cuotas": 6,
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -3058,6 +3172,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Farmacias ABC 20% lunes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Farmacias ABC | lunes | 20% + 6 cuotas | tope $10.000 mensual"
         }
       ]
     },
@@ -3067,22 +3187,24 @@
       "medio_nombre": "Banco Ciudad",
       "rubro": "combustible",
       "comercios": [
-        "Estaciones de servicio adheridas"
+        "YPF",
+        "Shell",
+        "Axion"
       ],
       "dias": [
         "domingo"
       ],
       "descuento_pct": 10,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "requisitos": "En estaciones YPF, Shell y Axion, pagando con QR MODO desde Buepp o App Ciudad con tarjeta de crédito Visa o Mastercard del Ciudad. Tope $10.000 por mes.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-08",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -3094,6 +3216,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "tarjeta \"Combustible.\" | domingo | 10% (3 cargas)"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Combustible | domingo | 10% | YPF, Shell y Axion | tope $10.000 mensual | crédito Visa/Mastercard por MODO"
         }
       ]
     },
@@ -3153,7 +3281,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3183,6 +3311,18 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Fravega 18 cuotas todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Fravega | todos los días | 18 cuotas | online | App Ciudad o Buepp con crédito"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal Banco Ciudad: hasta 18 cuotas sin interés, todos los días del 01/09 al 30/09/2026, online con QR MODO desde App Ciudad o Buepp y en locales con crédito Visa/Mastercard"
         }
       ]
     },
@@ -3212,7 +3352,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3241,6 +3381,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Casa del Audio 18 cuotas todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Casa del Audio | todos los días | 18 cuotas"
         }
       ]
     },
@@ -3270,7 +3416,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3300,6 +3446,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Samsung 18 cuotas todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Samsung | todos los días | 18 cuotas | online"
         }
       ]
     },
@@ -3329,7 +3481,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3359,6 +3511,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Almundo 6 cuotas todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Almundo | todos los días | 6 cuotas | QR MODO"
         }
       ]
     },
@@ -3388,7 +3546,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3418,6 +3576,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Plataforma 10 3 cuotas todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Plataforma 10 | todos los días | 3 cuotas | NUEVA"
         }
       ]
     },
@@ -3907,15 +4071,15 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 9,
+      "cuotas": 12,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Comprando online y pagando con MODO.",
+      "requisitos": "Pagando con MODO. Las cuotas las pone el banco de tu tarjeta: hasta 12 según el banco (el listado de MODO muestra 9 para la compra online).",
       "fuente": "https://www.modo.com.ar/promos",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-05",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3928,6 +4092,12 @@
           "nivel": 3,
           "fecha": "2026-09-05",
           "nota": "el listado de MODO del 5/9 dice \"9 cuotas sin interés en Frávega online\" (solo el título, sin fecha ni tope)"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal MODO: \"HASTA 12 CUOTAS SIN INTERÉS, válido del 01/09 al 30/09\", la financiación la dan los bancos adheridos (el listado de MODO decía 9)"
         }
       ]
     },
@@ -4150,28 +4320,35 @@
       "medio_nombre": "ICBC",
       "rubro": "supermercados",
       "comercios": [
-        "Coto"
+        "Coto Digital"
       ],
       "dias": [
         "lunes"
       ],
       "descuento_pct": 20,
       "tope_monto": 15000,
-      "tope_periodo": "sin_aclarar",
-      "requisitos": "Con credito Visa o Mastercard, o Visa debito. Si tenes Plan Sueldo es 30% con tope de $20.000. En un pago. Aplican exclusiones.",
+      "tope_periodo": "por compra",
+      "requisitos": "Solo compras online en Coto Digital, con crédito Visa o Mastercard ICBC en un pago o Visa Débito. Tope $15.000 por compra ($20.000 si cobrás el sueldo en ICBC, que además tiene 30%). No incluye electrodomésticos.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-04-01",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-21",
+      "verificado": "2026-09-07",
       "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "COTO DIGITAL | lunes | hasta 30% | 01/04 al 31/12/2026 | campaña ONLINE | GENERAL 20% tope $15.000 por transacción ($20.000 plan sueldo)"
         }
-      ]
+      ],
+      "tope_publicado": true
     },
     {
       "id": "coto-credicoop-lunes-30",
@@ -4409,7 +4586,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4422,6 +4599,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días\" con crédito"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal Naranja: \"14 CUOTAS SIN INTERÉS\", 01/09 al 30/09/2026, productos seleccionados; se mantiene 12 porque Naranja X (emisor, 4/9) publica \"hasta 12\""
         }
       ]
     },
@@ -5994,16 +6177,16 @@
         "lunes"
       ],
       "descuento_pct": 15,
-      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $7.500 por semana. Solo en sucursales.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-07",
-      "tope_monto": null,
-      "tope_periodo": null,
+      "verificado": "2026-09-08",
+      "tope_monto": 7500,
+      "tope_periodo": "semanal",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -6032,6 +6215,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Supermercado La Ilusión 15% lunes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "La Ilusión | lunes | 15% | tope $7.500 semanal | no online"
         }
       ]
     },
@@ -6047,16 +6236,16 @@
         "martes"
       ],
       "descuento_pct": 15,
-      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $5.000 por semana. Compra mínima $35.000. Solo en sucursales.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-07",
-      "tope_monto": null,
-      "tope_periodo": null,
+      "verificado": "2026-09-08",
+      "tope_monto": 5000,
+      "tope_periodo": "semanal",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -6085,6 +6274,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Supermercado DAR 15% martes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "DAR | martes | 15% | tope $5.000 semanal | mínimo $35.000 | no online"
         }
       ]
     },
@@ -6106,8 +6301,8 @@
       "tope_publicado": false,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-09-08",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6120,9 +6315,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "id": "ciudad-supermercado-el-nene-25",
@@ -6143,8 +6344,8 @@
       "tope_publicado": false,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-09-08",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6157,9 +6358,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "id": "ciudad-supercoop-20",
@@ -6181,8 +6388,8 @@
       "tope_publicado": false,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-30",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-09-08",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6195,9 +6402,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "id": "ciudad-almacor-10",
@@ -6271,16 +6484,16 @@
         "viernes"
       ],
       "descuento_pct": 20,
-      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $8.000 por mes. Locales adheridos y tienda online.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-07",
-      "tope_monto": null,
-      "tope_periodo": null,
+      "verificado": "2026-09-08",
+      "tope_monto": 8000,
+      "tope_periodo": "mensual",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -6309,6 +6522,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Nutrican 20% viernes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Nutrican | viernes | 20% | tope $8.000 mensual | locales y online"
         }
       ]
     },
@@ -6330,8 +6549,8 @@
       "tope_publicado": false,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-08-31",
+      "vigencia_hasta": "2026-08-31",
+      "verificado": "2026-09-08",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6339,9 +6558,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "id": "ciudad-farmaonline-10",
@@ -6355,16 +6580,16 @@
         "viernes"
       ],
       "descuento_pct": 10,
-      "requisitos": "Con tarjetas de crédito Visa o Mastercard del Banco Ciudad, escaneando el QR de MODO desde Buepp o App Ciudad. Tope de reintegro $10.000 por transacción.",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjeta de crédito, en la tienda online. Tope $10.000 por compra. Hasta 6 cuotas sin interés.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "confianza": "alta",
       "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "tope_monto": 10000,
-      "tope_periodo": "sin_aclarar",
+      "tope_periodo": "por compra",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -6404,6 +6629,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Farmaonline 10% viernes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Farmaonline | viernes | 10% + 6 cuotas | tope $10.000 por transacción | online"
         }
       ],
       "cuotas": 6
@@ -6420,16 +6651,16 @@
         "lunes"
       ],
       "descuento_pct": 15,
-      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Solo en Farmaplus Online. Tope $9.000 por mes. Compra mínima $60.000.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-07",
-      "tope_monto": null,
-      "tope_periodo": null,
+      "verificado": "2026-09-08",
+      "tope_monto": 9000,
+      "tope_periodo": "mensual",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -6458,6 +6689,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: FarmaPlus Online 15% lunes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "FarmaPlus Online | lunes | 15% | tope $9.000 mensual | mínimo $60.000"
         }
       ]
     },
@@ -6467,22 +6704,24 @@
       "medio_nombre": "Banco Ciudad",
       "rubro": "farmacia",
       "comercios": [
-        "Perfumerias MODO"
+        "Juleriaque",
+        "Pigmento",
+        "Las Margaritas"
       ],
       "dias": [
         "lunes"
       ],
       "descuento_pct": 20,
-      "requisitos": "Con tarjetas del Banco Ciudad. La web no publica el tope.",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Solo en la tienda online de Juleriaque, Pigmento y Las Margaritas; no vale en locales. Tope $20.000 por semana. Compra mínima $70.000.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-07",
-      "tope_monto": null,
-      "tope_periodo": null,
+      "verificado": "2026-09-08",
+      "tope_monto": 20000,
+      "tope_periodo": "semanal",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -6511,6 +6750,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Perfumerías MODO 20% lunes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Perfumerías MODO | lunes | 20% | tope $20.000 semanal | mínimo $70.000 | online Juleriaque, Pigmento, Las Margaritas"
         }
       ]
     },
@@ -6732,7 +6977,6 @@
       "id": "buepp-comercios-cercania-30",
       "rubro": "comercios de cercanía",
       "comercios": [
-        "RES",
         "Carnicería y Granja",
         "Verdulería La Esquina",
         "Churros El Topo",
@@ -6745,7 +6989,7 @@
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": false,
-      "requisitos": "Exclusivo de la billetera Buepp, en comercios adheridos de la Ciudad de Buenos Aires. El sitio no publica el tope.",
+      "requisitos": "Exclusivo de la billetera Buepp, en más de 200 comercios vecinos adheridos de la Ciudad de Buenos Aires (la lista completa está en la app). El banco no publica el tope.",
       "medio": "buepp",
       "medio_nombre": "Buepp",
       "dias": [
@@ -6761,7 +7005,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6780,6 +7024,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: RES 30% todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Comercios Vecinos: 221 comercios con 30% todos los días con Buepp (RES ya no está en esta lista: ahora es sábados y domingos con tope $4.500 mensual)"
         }
       ]
     },
@@ -8483,7 +8733,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-coto-20",
       "medio": "ciudad",
@@ -8497,7 +8747,7 @@
       ],
       "descuento_pct": 20,
       "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. Sin tope de reintegro.",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Sin tope de reintegro. Solo en sucursales, no vale en la tienda online. Aplican exclusiones.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "fuentes": [
         {
@@ -8521,6 +8771,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Coto 20% martes, sin tope"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Coto | martes | 20% | SIN TOPE | NUEVA | no online"
         }
       ]
     },
@@ -8528,9 +8784,9 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "tope_monto": null,
-      "tope_periodo": null,
-      "verificado": "2026-09-07",
+      "tope_monto": 20000,
+      "tope_periodo": "sin_aclarar",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-masgo-20",
       "medio": "ciudad",
@@ -8543,8 +8799,8 @@
         "domingo"
       ],
       "descuento_pct": 20,
-      "tope_publicado": false,
-      "requisitos": "Pagando con la App Ciudad o BUEPP.",
+      "tope_publicado": true,
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $20.000 por cliente (el banco no dice el período). Compra mínima $30.000. Solo en tiendas físicas.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "fuentes": [
         {
@@ -8574,16 +8830,22 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: MásGO 20% domingo"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "MásGO | domingo | 20% | tope $20.000 por cliente | mínimo $30.000 | tiendas físicas"
         }
       ]
     },
     {
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-almundo-15",
       "medio": "ciudad",
@@ -8604,17 +8866,23 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "tope_monto": null,
-      "tope_periodo": null,
-      "verificado": "2026-09-07",
+      "tope_monto": 30000,
+      "tope_periodo": "sin_aclarar",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-casa-del-audio-20",
       "medio": "ciudad",
@@ -8629,7 +8897,7 @@
         "domingo"
       ],
       "descuento_pct": 25,
-      "requisitos": "Pagando con la App Ciudad o BUEPP.",
+      "requisitos": "Pagando a través de App Ciudad o Buepp con tarjetas del Ciudad, en locales físicos. Tope $30.000 por cliente (el banco no dice el período).",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "fuentes": [
         {
@@ -8654,17 +8922,23 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Casa del Audio 25% domingo, sabado, viernes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Casa del Audio | viernes, sabado, domingo | 25% | tope $30.000 por cliente | locales físicos | NUEVA"
         }
       ],
-      "tope_publicado": false
+      "tope_publicado": true
     },
     {
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-30",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-rex-20",
       "medio": "ciudad",
@@ -8696,17 +8970,23 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-30",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-despegar-10",
       "medio": "ciudad",
@@ -8738,9 +9018,15 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "zona": "Nacional",
@@ -8870,9 +9156,9 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "tope_monto": null,
-      "tope_periodo": null,
-      "verificado": "2026-09-07",
+      "tope_monto": 25000,
+      "tope_periodo": "mensual",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-showsport-online-25",
       "medio": "ciudad",
@@ -8885,8 +9171,8 @@
         "domingo"
       ],
       "descuento_pct": 25,
-      "tope_publicado": false,
-      "requisitos": "Pagando con la App Ciudad o BUEPP.",
+      "tope_publicado": true,
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Solo en la tienda online. Tope $25.000 por mes.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "fuentes": [
         {
@@ -8916,6 +9202,12 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Showsport Online 25% domingo"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Showsport Online | domingo | 25% | tope $25.000 mensual"
         }
       ]
     },
@@ -8923,9 +9215,9 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "tope_monto": null,
-      "tope_periodo": null,
-      "verificado": "2026-09-07",
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-showsport-20",
       "medio": "ciudad",
@@ -8939,7 +9231,7 @@
       ],
       "descuento_pct": 20,
       "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP.",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. En locales adheridos, no en la tienda online. Tope $20.000 por mes. Compra mínima $80.000.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "fuentes": [
         {
@@ -8969,16 +9261,22 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Showsport - 20% viernes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Showsport | viernes | 20% | tope $20.000 mensual | mínimo $80.000 | no online"
         }
       ]
     },
     {
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-sandra-selma-20",
       "medio": "ciudad",
@@ -9005,17 +9303,23 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-vacalin-online-20",
       "medio": "ciudad",
@@ -9043,17 +9347,23 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-08-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-get-the-look-20",
       "medio": "ciudad",
@@ -9079,21 +9389,27 @@
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
         }
       ],
-      "vigencia_asumida": "2026-09-01"
+      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
     },
     {
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "tope_monto": null,
-      "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "verificado": "2026-09-08",
       "confianza": "baja",
       "id": "ciudad-the-food-market-25",
-      "medio": "ciudad",
-      "medio_nombre": "Banco Ciudad",
+      "medio": "buepp",
+      "medio_nombre": "Buepp",
       "rubro": "gastronomia",
       "comercios": [
         "The Food Market"
@@ -9108,14 +9424,20 @@
         "domingo"
       ],
       "descuento_pct": 25,
-      "tope_publicado": false,
-      "requisitos": "Pagando con la App Ciudad o BUEPP.",
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de la app Buepp, en locales físicos adheridos. Tope $10.000 por mes.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "The Food Market | todos los dias | 25% | BUEPP | tope $10.000 mensual"
         }
       ]
     },
@@ -9125,7 +9447,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-deportivas-martes-15",
       "medio": "ciudad",
@@ -9148,7 +9470,7 @@
       ],
       "descuento_pct": 15,
       "cuotas": 10,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. Sin tope de reintegro. Suma 10 cuotas sin interés.",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjeta de crédito. Sin tope. Hasta 10 cuotas sin interés. Locales adheridos y tienda online (Stock Center y Montagne solo locales).",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "fuentes": [
         {
@@ -9178,8 +9500,15 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Dexter 15% martes, sin tope"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Moov, Stock Center, Ver, MACOWENS, Lazaro, Bowen, Montagne, Dexter, Equus, Ruiz y Roca | martes | 15% + 10 cuotas | SIN TOPE"
         }
-      ]
+      ],
+      "tope_publicado": true
     },
     {
       "zona": "Nacional",
@@ -9187,7 +9516,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-calzado-martes-10",
       "medio": "ciudad",
@@ -9204,7 +9533,7 @@
       ],
       "descuento_pct": 10,
       "cuotas": 10,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. Va de 10% a 15% según la marca. Sin tope de reintegro. Suma 10 cuotas sin interés.",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjeta de crédito. Sin tope. Hasta 10 cuotas sin interés. Locales adheridos y tienda online (CAT solo online).",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "fuentes": [
         {
@@ -9234,16 +9563,23 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Hush Puppies 10% martes, sin tope"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Vans, Hush Puppies, Grimoldi, CAT Online | martes | 10% + 10 cuotas | SIN TOPE"
         }
-      ]
+      ],
+      "tope_publicado": true
     },
     {
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "tope_monto": null,
-      "tope_periodo": null,
-      "verificado": "2026-09-07",
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "id": "ciudad-librerias-jugueterias-viernes-20",
       "medio": "ciudad",
@@ -9292,7 +9628,7 @@
       ],
       "descuento_pct": 20,
       "cuotas": 3,
-      "requisitos": "Son más de 30 librerías y jugueterías adheridas. Con tarjetas Banco Ciudad, App Ciudad o BUEPP. Suma 3 cuotas sin interés.",
+      "requisitos": "Con crédito Visa o Mastercard, o débito Maestro o Visa Débito del Ciudad, escaneando el QR de MODO desde Buepp, App Ciudad o MODO. Tope $15.000 por mes. Hasta 3 cuotas sin interés.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "fuentes": [
         {
@@ -9328,8 +9664,15 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: El Ateneo 20% viernes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "39 librerías y jugueterías | viernes | 20% + 3 cuotas | tope $15.000 mensual | crédito y débito por QR MODO"
         }
-      ]
+      ],
+      "tope_publicado": true
     },
     {
       "zona": "Nacional",
@@ -9405,13 +9748,13 @@
       "descuento_pct": 20,
       "tope_monto": 12000,
       "tope_periodo": "semanal",
-      "tope_publicado": false,
-      "requisitos": "Con débito Visa o crédito Visa y Mastercard del Comafi. Tope $12.000 por semana; si tenés Comafi Único Black, $15.000.",
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (no Credial ni corporativas). Tope $12.000 por semana (clientes Único/Black: $15.000). En tienda, o en la web solo con retiro en tienda.",
       "zona": "Nacional",
       "vigencia_desde": "2026-02-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.modo.com.ar/promos/20-comafi-changomas-feb26",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9424,6 +9767,12 @@
           "nivel": 2,
           "fecha": "2026-08-27",
           "nota": "20% los martes, tope $12.000 semanal ($15.000 para Único Black)"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Changomas | 20% | MODO | martes | 04/08 al 31/10/2026 | tope semanal $12.000 (cuentas Ahorro/Global/Classic/Premium/Platinum); Único/Black $15.000 | presencial y e-commerce con retiro en tienda"
         }
       ]
     },
@@ -9696,22 +10045,29 @@
         "jueves"
       ],
       "descuento_pct": 20,
-      "requisitos": "En un pago con tarjeta de debito Visa. Sin tope de reintegro. Solo en sucursales.",
+      "requisitos": "Con Visa Débito ICBC, en un pago, en sucursales Coto adheridas (CABA, GBA y principales ciudades del interior). Sin tope. No incluye electrodomésticos.",
       "fuente": "https://www.coto.com.ar/descuentos",
       "confianza": "baja",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-12-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-09-07",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "COTO | jueves | 20% | DEBITO | 01/07 al 31/12/2026 | GENERAL 20% | SIN TOPE | CABA, GBA y principales ciudades del interior"
         }
-      ]
+      ],
+      "tope_publicado": true
     },
     {
       "id": "cuotas-mp-coto-3",
@@ -11511,11 +11867,13 @@
     {
       "rubro": "supermercados",
       "comercios": [
-        "ChangoMás"
+        "ChangoMás",
+        "Hiper ChangoMás",
+        "Más Online"
       ],
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
       "verificado": "2026-09-07",
       "confianza": "alta",
@@ -11529,7 +11887,7 @@
       "descuento_pct": 20,
       "tope_monto": 10000,
       "tope_periodo": "semanal",
-      "requisitos": "Con crédito Visa o Mastercard ICBC en un pago, o débito Visa, pagando por MODO o desde ICBC Mobile Banking.",
+      "requisitos": "Pagando con MODO o desde ICBC Mobile Banking, con crédito Visa o Mastercard ICBC en un pago o con Visa Débito ICBC. Tope $10.000 por semana. Si cobrás el sueldo en ICBC es 30% con tope $15.000. Vale en ChangoMás, Hiper ChangoMás y Más Online.",
       "fuentes": [
         {
           "url": "https://www.masonline.com.ar/promociones-bancarias",
@@ -11542,6 +11900,12 @@
           "nivel": 2,
           "fecha": "2026-09-07",
           "nota": "ChangoMás 7/9: Todos los jueves 20% crédito Visa/Mastercard ICBC, tope $10.000 semanal, 01/07 al 31/12/2026 (IC3)"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "CHANGOMAS / HIPER CHANGO MAS / MAS ONLINE | jueves | hasta 30% | via MODO | 01/07 al 30/09/2026 | GENERAL 20% tope $10.000 por semana ($15.000 y 30% si cobrás el sueldo en ICBC)"
         }
       ]
     },
@@ -12409,10 +12773,10 @@
       "tope_periodo": "semanal",
       "requisitos": "Pagando con tarjetas Visa débito o Visa/Mastercard crédito, en un pago, a través de la app MODO. Exclusivo para clientes titulares de cuenta Comafi (Ahorro, Global, Classic, Premium, Platinum o Único).",
       "zona": "Nacional",
-      "vigencia_desde": null,
-      "vigencia_hasta": null,
+      "vigencia_desde": "2026-08-03",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-08-30",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12429,8 +12793,21 @@
           "url": "https://www.diarco.com.ar/promociones/",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Diarco Barrio y Diarco Mayorista | 20% | MODO | lunes a viernes | 03/08 al 31/10/2026 | tope semanal $15.000"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-08",
+          "nota": "Diarco 8/9 (sección Banco/Medio de pago): Comafi lunes a viernes 20%, tope $15.000 por semana, 01/09 al 30/09/2026, Visa débito y crédito Visa/Mastercard en un pago por MODO, cuentas Ahorro/Global/Classic/Premium/Platinum/Único (el banco dice hasta el 31/10)"
         }
-      ]
+      ],
+      "tope_publicado": true
     },
     {
       "id": "credicuotas-diarco-20",
@@ -12455,10 +12832,10 @@
       "tope_periodo": "sin_aclarar",
       "requisitos": "Solo en la primera compra pagando con la línea de crédito de Credicuotas desde la app. No es un beneficio recurrente.",
       "zona": "Nacional",
-      "vigencia_desde": null,
-      "vigencia_hasta": null,
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-08-30",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12475,6 +12852,12 @@
           "url": "https://www.diarco.com.ar/promociones/",
           "nivel": 2,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-08",
+          "nota": "Diarco 8/9: Credicuotas todos los días 20% en la primera compra con la línea de crédito por QR, tope $8.000, 01/09 al 30/09/2026 o primeros 10.000 clientes"
         }
       ]
     },
@@ -12726,7 +13109,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12743,6 +13126,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.burgerking.com.ar/es/promociones-y-bases-y-condiciones",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "CONTRADICE: la página de bases de BK dice Plan Plus SÁBADO Y DOMINGO 20%, tope $4.000 por mes, 4 usos por mes (sin fecha). Se mantiene lo del emisor."
         }
       ]
     },
@@ -13191,7 +13580,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13208,6 +13597,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.burgerking.com.ar/es/promociones-y-bases-y-condiciones",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "CONTRADICE: la página de bases de BK dice Plan One VIERNES 10%, tope $2.000 por mes, 4 usos por mes (sin fecha; la misma página tiene entradas viejas de 2025). Se mantiene lo del emisor."
         }
       ]
     },
@@ -15659,7 +16054,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "ciudad-coto-lunes-25",
@@ -15673,8 +16068,8 @@
       ],
       "descuento_pct": 25,
       "tope_monto": 30000,
-      "tope_periodo": "por compra",
-      "requisitos": "Pagando con MODO desde la app Ciudad con tarjeta de crédito del banco. Tope $30.000 por compra. Solo en sucursales.",
+      "tope_periodo": "semanal",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjeta de crédito del Ciudad, en un pago. Tope $30.000 por semana. En la tienda online, con tarjeta de crédito. Ver productos excluidos.",
       "fuente": "https://www.coto.com.ar/descuentos/index.asp",
       "fuentes": [
         {
@@ -15682,6 +16077,12 @@
           "nivel": 2,
           "fecha": "2026-09-02",
           "nota": "Coto sucursales: 25% lunes, MODO app de Ciudad, crédito, tope $30.000 por transacción"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Coto | lunes | 25% | tope $30.000 POR SEMANA | crédito | online con tarjeta de crédito"
         }
       ]
     },
@@ -16007,12 +16408,12 @@
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
-      "requisitos": "Pagando con la App Ciudad o BUEPP. Sin tope de reintegro. Suma 12 cuotas sin interés.",
+      "requisitos": "Pagando con QR desde App Ciudad o Buepp con tarjeta de crédito. Sin tope. Hasta 12 cuotas sin interés.",
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-03",
+      "verificado": "2026-09-08",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16020,6 +16421,12 @@
           "nivel": 1,
           "fecha": "2026-09-03",
           "nota": "Arredo | viernes, sabado | SIN TOPE | 20% de descuento · 12 cuotas sin interés (3 cargas iguales)"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Arredo | viernes, sabado | 20% + 12 cuotas | SIN TOPE | online | NUEVA"
         }
       ]
     },
@@ -16173,9 +16580,15 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Rex 18 cuotas todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Rex | todos los días | 18 cuotas | Semana de la pintura del 7 al 14/9"
         }
       ],
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta"
     },
     {
@@ -16216,9 +16629,15 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Pisano 18 cuotas todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Pisano | todos los días | 18 cuotas (Semana de la pintura 7 al 14/9); 12 cuotas el resto del mes"
         }
       ],
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta"
     },
     {
@@ -16259,9 +16678,15 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: On city 18 cuotas todos los días"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "On city | todos los días | 18 cuotas | online"
         }
       ],
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta"
     },
     {
@@ -16281,12 +16706,12 @@
       "cuotas": 10,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. Suma 10 cuotas sin interés. La web no publica el tope.",
+      "requisitos": "Pagando con MODO desde App Ciudad o Buepp con tarjeta de crédito, en perfumerías y tienda online. Sin tope. Hasta 10 cuotas sin interés.",
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -16299,9 +16724,15 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Juleriaque 10% martes"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Juleriaque, Rouge, Beauty 24 | martes | 10% + 10 cuotas | SIN TOPE"
         }
       ],
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta"
     },
     {
@@ -16318,14 +16749,14 @@
       ],
       "descuento_pct": 15,
       "cuotas": 10,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "requisitos": "Con tarjetas Banco Ciudad. Suma 10 cuotas sin interés. La web no publica el tope.",
+      "tope_monto": 50000,
+      "tope_periodo": "por compra",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjeta de crédito, en locales físicos. Tope $50.000 por compra. Hasta 10 cuotas sin interés.",
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -16338,9 +16769,15 @@
           "nivel": 1,
           "fecha": "2026-09-07",
           "nota": "home del banco: Alpinestars 15% domingo, sabado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Alpinestars | sabado, domingo | 15% + 10 cuotas | tope $50.000 por compra | locales físicos"
         }
       ],
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-08",
       "confianza": "alta"
     },
     {
@@ -16881,7 +17318,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-05",
+      "verificado": "2026-09-08",
       "id": "cuotas-mp-diarco-3",
       "medio": "mercado_pago",
       "medio_nombre": "Mercado Pago",
@@ -16891,6 +17328,7 @@
         "Diarco Mayorista"
       ],
       "dias": [
+        "lunes",
         "martes",
         "miercoles",
         "jueves",
@@ -16901,9 +17339,9 @@
       "descuento_pct": 0,
       "cuotas": 3,
       "compra_minima": 150000,
-      "requisitos": "Con la tarjeta de crédito de Mercado Pago pagando por QR de Mercado Pago, en compras desde $150.000. De martes a domingo, hasta el 6/9. Se combina con el 15% de billeteras.",
+      "requisitos": "Con la tarjeta de crédito de Mercado Pago pagando por QR de Mercado Pago, en compras desde $150.000. Todos los días de septiembre.",
       "vigencia_desde": "2026-09-01",
-      "vigencia_hasta": "2026-09-06",
+      "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.diarco.com.ar/promociones/",
       "fuentes": [
         {
@@ -16911,6 +17349,12 @@
           "nivel": 2,
           "fecha": "2026-09-05",
           "nota": "Diarco: 3 cuotas sin interés con crédito Mercado Pago por QR, compras desde $150.000, 01/09 al 06/09/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-08",
+          "nota": "Diarco 8/9 (sección Banco/Medio de pago): Mercado Pago lunes a domingo, 3 cuotas sin interés con crédito Mercado Pago por QR, compras desde $150.000, 01/09 al 30/09/26"
         }
       ]
     },
@@ -18174,8 +18618,1715 @@
           "nivel": 2,
           "fecha": "2026-09-07",
           "nota": "ICBC: 6 cuotas sin interés y 3 cuotas sin interés. Legal: hasta 30/09/2026, crédito Visa/Mastercard ICBC, todo Homecenter, consumo familiar, no Todo Pago ni Mercado Pago."
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "ICBC no lista a Sodimac en \"casa\" (la promo sale del lado del comercio); se deja como está"
         }
       ]
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-08",
+      "id": "ciudad-coto-debito-finde-12-13-sep-20",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Solo el sábado 12 y el domingo 13 de septiembre, con tarjeta de débito Visa Débito o Maestro del Banco Ciudad. Sin tope.",
+      "vigencia_desde": "2026-09-12",
+      "vigencia_hasta": "2026-09-13",
+      "fuentes": [
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Coto | sabado, domingo | 20% | SIN TOPE | VISA DEBITO, MAESTRO | \"para el sábado 12 y domingo 13 de septiembre de 2026\""
+        }
+      ],
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+    },
+    {
+      "descuento_pct": 50,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-08",
+      "id": "ciudad-cines-sabado-50",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "espectaculos",
+      "comercios": [
+        "Cines adheridos"
+      ],
+      "dias": [
+        "sabado"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Con tarjetas de débito y crédito del Ciudad pagando a través de MODO o App Ciudad. Tope $10.000 por mes por cliente.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Cines | sabado | 50% | NUEVA | BUEPP, APP CIUDAD | tope $10.000 mensual"
+        }
+      ],
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+    },
+    {
+      "descuento_pct": 35,
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-08",
+      "id": "ciudad-mastercard-masgo-jueves-35",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "supermercados",
+      "comercios": [
+        "MásGO"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Solo con tarjeta de crédito Mastercard del Ciudad, pagando a través de App Ciudad o Buepp. Tope $20.000 por mes por cliente.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "rubro Mastercard: Mas Go | jueves | 35% | MASTERCARD, BUEPP | tope mensual $20.000"
+        }
+      ],
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+    },
+    {
+      "descuento_pct": 35,
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-08",
+      "id": "ciudad-mastercard-farmacity-gtl-simplicity-miercoles-35",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmacity",
+        "Get The Look",
+        "Simplicity"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Solo con tarjeta de crédito Mastercard del Ciudad, pagando a través de App Ciudad o Buepp. Tope $15.000 por mes. Vale también en la tienda online.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "rubro Mastercard: Farmacity, GTL y Simplicity | miercoles | 35% | online | tope $15.000 mensual"
+        }
+      ],
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+    },
+    {
+      "descuento_pct": 35,
+      "tope_monto": 10000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-08",
+      "id": "ciudad-mastercard-cafes-vie-dom-35",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Tostado",
+        "Café Martínez",
+        "Le Pain Quotidien"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Solo con tarjeta de crédito Mastercard del Ciudad, pagando a través de App Ciudad o Buepp. Solo de 7 a 12 de la mañana. Tope $10.000 por semana.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "rubro Mastercard: Tostado | Café Martinez | Le Pain Quotidien | viernes, sabado, domingo | 35% | de 7 a 12 hs | tope $10.000 semanal"
+        }
+      ],
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+    },
+    {
+      "descuento_pct": 35,
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-08",
+      "id": "ciudad-mastercard-the-food-market-lunes-35",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "gastronomia",
+      "comercios": [
+        "The Food Market"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Solo con tarjeta de crédito Mastercard del Ciudad, pagando a través de App Ciudad o Buepp. Tope $20.000 por mes.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "rubro Mastercard: The Food Market | lunes | 35% | online | tope mensual $20.000"
+        }
+      ],
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+    },
+    {
+      "descuento_pct": 30,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "zona": "CABA",
+      "confianza": "alta",
+      "verificado": "2026-09-08",
+      "id": "buepp-ferias-itinerantes-30",
+      "medio": "buepp",
+      "medio_nombre": "Buepp",
+      "rubro": "ferias",
+      "comercios": [
+        "Ferias Itinerantes de Abastecimiento Barrial"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "jueves",
+        "sabado"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando exclusivamente con Buepp en las ferias itinerantes de la Ciudad. Tope $10.000 por mes (el catálogo también muestra una versión con tope $20.000; se carga el menor).",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Exclusivo Buepp: Ferias Itinerantes | lunes, martes, jueves, sabado | 30% | tope $10.000 mensual (otra entrada igual dice $20.000)"
+        }
+      ],
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+    },
+    {
+      "descuento_pct": 30,
+      "tope_monto": 4500,
+      "tope_periodo": "mensual",
+      "zona": "CABA",
+      "confianza": "alta",
+      "verificado": "2026-09-08",
+      "id": "buepp-res-finde-30",
+      "medio": "buepp",
+      "medio_nombre": "Buepp",
+      "rubro": "gastronomia",
+      "comercios": [
+        "RES"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de la app Buepp, en locales físicos adheridos. Tope $4.500 por mes.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Exclusivo Buepp: RES | sabado, domingo | 30% | NUEVA | tope $4.500 mensual"
+        }
+      ],
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "CABA",
+      "confianza": "alta",
+      "verificado": "2026-09-08",
+      "id": "buepp-gastronomicos-finde-20",
+      "medio": "buepp",
+      "medio_nombre": "Buepp",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Tacc Free",
+        "La Pascana",
+        "Roster Café Especialidad"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "tope_publicado": false,
+      "requisitos": "Pagando a través de la billetera Buepp. El banco no publica el tope.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Comercios Gastronómicos: Tacc Free, La Pascana, Roster Café | sabado, domingo | 20% | BUEPP | sin tope publicado"
+        }
+      ],
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+    },
+    {
+      "descuento_pct": 30,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-08",
+      "id": "ciudad-farmacias-jubilados-lunes-30",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmacias adheridas"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Solo para jubilados y pensionados, con tarjeta de débito Maestro o Visa Débito del Ciudad. Tope $10.000 por mes por cuenta.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "Farmacias Jubilados | lunes | 30% | MAESTRO, VISA DEBITO | tope $10.000 mensual por cuenta"
+        }
+      ],
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+    },
+    {
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-08",
+      "id": "cuotas-ciudad-bicicleterias-24",
+      "medio": "ciudad",
+      "medio_nombre": "Banco Ciudad",
+      "rubro": "rodados",
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 24,
+      "comercios": [
+        "Ale Bikes",
+        "ProBikes",
+        "Bicicletas Araoz",
+        "New Bikes",
+        "La Esquina del Rodado",
+        "Bici Urbana",
+        "Goldenbike",
+        "Rodados Universo",
+        "Rodar Electric",
+        "Lucky Bikes",
+        "Atalaya",
+        "Mundo Bike",
+        "Victorian Bike",
+        "Tienda Bike",
+        "Schisano Bikes",
+        "Runner Bikes",
+        "Sobre Ruedas",
+        "Leira",
+        "Rodados La Esquina",
+        "Bike More",
+        "Marathon",
+        "Fuerza Humana",
+        "Bicicletería Belgrano",
+        "Klover",
+        "Start Lap",
+        "De Felice Bikes",
+        "Bicicletas Espindola",
+        "La Cueva Bike",
+        "Go! Bicicletas",
+        "Liberty Bike",
+        "Forever Bikes",
+        "Bikeland",
+        "New North",
+        "STT Bikes",
+        "Pro Bike",
+        "El Taller Bike",
+        "Simple Speed",
+        "Pelotón",
+        "Amarante Bici Café",
+        "Bicicletas Mila"
+      ],
+      "requisitos": "Con tarjeta de crédito Visa o Mastercard del Banco Ciudad. Según la bicicletería, 12 o 24 cuotas sin interés.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-09-08",
+          "nota": "rubro Bicicleterías: 40 comercios | todos los días | 24 cuotas (algunos \"12 o 24\") | VISA, MASTERCARD"
+        }
+      ],
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-coto-martes-20",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando con MODO o desde ICBC Mobile Banking, con crédito Visa o Mastercard ICBC en un pago o con Visa Débito ICBC. Sin tope de reintegro. En sucursales Coto adheridas; no incluye electrodomésticos.",
+      "vigencia_desde": "2026-08-18",
+      "vigencia_hasta": "2026-10-31",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "COTO | martes | 20% | VISA, MASTER, DEBITO via MODO | 18/08 al 31/10/2026 | GENERAL 20% | legal: SIN TOPE DE REINTEGRO"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-coto-jueves-debito-nfc-30",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Solo con Visa Débito ICBC pagando por NFC desde Apple Pay, Google Pay o MODO NFC; no vale con la tarjeta física. Sin tope. Solo en CABA, Gran Buenos Aires, Neuquén, Mendoza, Entre Ríos y Santa Fe, hasta el 24/9 o hasta agotar el fondo de la promoción.",
+      "vigencia_desde": "2026-09-03",
+      "vigencia_hasta": "2026-09-24",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "COTO | jueves | hasta 30% | DEBITO | 03/09 al 24/09/2026 | campaña VISA DEBITO NFC | legal: CABA, GBA, Neuquén, Mendoza, Entre Ríos y Santa Fe; Apple Pay, Google Pay o MODO NFC; sin tope; no con tarjeta física"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 15000,
+      "tope_periodo": "sin_aclarar",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-changomas-4to-finde-sep-20",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás",
+        "Hiper ChangoMás",
+        "Más Online"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Solo el cuarto fin de semana del mes (26 y 27 de septiembre). Con crédito Visa o Mastercard ICBC en un pago, por MODO o Mobile Banking. Tope $15.000 por cliente por fin de semana.",
+      "vigencia_desde": "2026-09-26",
+      "vigencia_hasta": "2026-09-27",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "CHANGOMAS / HIPER / MAS ONLINE | sabado, domingo (\"4TO FINDE DE CADA MES\") | 20% | VISA, MASTER via MODO | 01/07 al 30/09/2026 | tope $15.000 por cliente por fin de semana"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-coto-4to-finde-sep-20",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto",
+        "Coto Digital"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Solo el cuarto fin de semana del mes (26 y 27 de septiembre). Con crédito Visa o Mastercard ICBC en un pago. Sin tope. No incluye electrodomésticos.",
+      "vigencia_desde": "2026-09-26",
+      "vigencia_hasta": "2026-09-27",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "COTO y COTO DIGITAL | sabado, domingo (\"4TO FINDE DE CADA MES\") | 20% | VISA, MASTER | 01/07 al 30/09/2026 | SIN TOPE"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-masgo-jueves-20",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "supermercados",
+      "comercios": [
+        "MásGO"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando con MODO o desde ICBC Mobile Banking, con crédito Visa o Mastercard ICBC en un pago o con Visa Débito ICBC. Tope $10.000 por semana. Si cobrás el sueldo en ICBC es 30%.",
+      "vigencia_desde": "2026-08-11",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "MÁS GO | jueves | hasta 30% | via MODO | 11/08 al 30/09/2026 | GENERAL 20% tope $10.000 por usuario por semana; 30% plan sueldo"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 15000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-la-anonima-jueves-20",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "supermercados",
+      "comercios": [
+        "La Anónima"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando con MODO o desde ICBC Mobile Banking, con crédito Visa o Mastercard ICBC en un pago o con Visa Débito ICBC. Tope $15.000 por cuenta por semana.",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "LA ANONIMA | jueves | hasta 20% | via MODO | 01/07 al 30/09/2026 | GENERAL 20% tope $15.000 por usuario por semana | legal: crédito Visa/Mastercard y Visa Débito"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 15000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-the-food-market-jue-dom-20",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "gastronomia",
+      "comercios": [
+        "The Food Market"
+      ],
+      "dias": [
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 3,
+      "tope_publicado": true,
+      "requisitos": "Pagando con MODO o desde ICBC Mobile Banking, con crédito Visa o Mastercard ICBC en un pago o con Visa Débito ICBC. Tope $15.000 por semana. Hasta 3 cuotas sin interés con crédito. Con paquete Exclusive Banking es 30% con tope $20.000.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "THE FOOD MARKET | jueves a domingo | hasta 30% | hasta 3 cuotas | via MODO | 02/10/2025 al 30/09/2026 | GENERAL 20% tope $15.000 por semana; EXCLUSIVE 30% tope $20.000"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-paladini-viernes-20",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "alimentos",
+      "comercios": [
+        "Paladini"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando con MODO o desde ICBC Mobile Banking, con crédito Visa o Mastercard ICBC en un pago o con Visa Débito ICBC. Tope $10.000 por cuenta por semana. Con paquete Exclusive Banking es 30% con tope $20.000.",
+      "vigencia_desde": "2026-08-07",
+      "vigencia_hasta": "2027-01-29",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "PALADINI | viernes | hasta 30% | via MODO | 07/08/2026 al 29/01/2027 | GENERAL 20% tope $10.000 por semana; EXCLUSIVE 30% tope $20.000"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 15,
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-ypf-martes-sueldo-15",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "combustible",
+      "comercios": [
+        "YPF"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Solo si cobrás el sueldo en ICBC. Pagando con MODO o desde ICBC Mobile Banking, con crédito Visa o Mastercard ICBC en un pago o con Visa Débito ICBC. Tope $15.000 por cuenta por mes.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "YPF | martes | hasta 15% | via MODO | 01/09 al 30/09/2026 | tope $15.000 por cuenta por mes | legal: EXCLUSIVO PARA CLIENTES QUE DEPOSITEN SU SUELDO EN ICBC"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 6000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-farmacity-gtl-simplicity-viernes-20",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmacity",
+        "Get The Look",
+        "Simplicity"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "cuotas": 3,
+      "tope_publicado": true,
+      "requisitos": "Pagando con MODO o desde ICBC Mobile Banking, con crédito Visa o Mastercard ICBC en un pago o con Visa Débito ICBC. Tope $6.000 por cuenta por semana. Hasta 3 cuotas sin interés con crédito. En Farmacity vale solo en la tienda online (farmacity.com).",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "WWW.FARMACITY.COM (online), GET THE LOOK, SIMPLICITY | viernes | 20% + 3 cuotas | via MODO | 01/04 al 30/09/2026 | tope $6.000 por usuario por semana"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 8000,
+      "tope_periodo": "por compra",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-openfarma-miercoles-20",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "farmacia",
+      "comercios": [
+        "Openfarma"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "cuotas": 3,
+      "tope_publicado": true,
+      "requisitos": "Con crédito Visa o Mastercard ICBC (hasta 3 cuotas sin interés) o Visa Débito solo si tenés paquete de productos o cobrás el sueldo en ICBC. Tope $8.000 por compra.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "OPENFARMA | miercoles | 20% + 3 cuotas | VISA, MASTER, DEBITO | 01/04 al 30/09/2026 | tope $8.000 por transacción | débito solo con paquete o sueldo"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-farmaplus-jue-dom-online-20",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "farmacia",
+      "comercios": [
+        "FarmaPlus Online"
+      ],
+      "dias": [
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 3,
+      "tope_publicado": true,
+      "requisitos": "Solo en la tienda online de Farmaplus. Con crédito Visa o Mastercard ICBC (hasta 3 cuotas sin interés) o Visa Débito. Sin tope.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "FARMAPLUS | jueves a domingo | 20% + 3 cuotas | VISA, MASTER, DEBITO | campaña ONLINE | 01/04 al 30/09/2026 | legal: SIN TOPE DE REINTEGRO"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 10,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-perfumerias-10",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "belleza",
+      "comercios": [
+        "Juleriaque",
+        "Parfumerie",
+        "Rouge",
+        "MAC",
+        "Beauty 24",
+        "La Prairie",
+        "Creed"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 6,
+      "tope_publicado": true,
+      "requisitos": "Con crédito Visa o Mastercard ICBC (hasta 6 cuotas sin interés) o Visa Débito. Sin tope. Juleriaque y Parfumerie, pagando por MODO.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "JULERIAQUE, PARFUMERIE (via MODO), ROUGE, MAC, BEAUTY 24, LA PRAIRIE, CREED | todos los días | 10% + 6 cuotas | 01/04 al 30/09/2026 | legal Juleriaque: SIN TOPE"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 30,
+      "tope_monto": 8000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-heladerias-modo-30",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Freddo",
+        "Havanna",
+        "Lucciano's",
+        "Rapanui"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando con MODO o desde ICBC Mobile Banking, con crédito Visa o Mastercard ICBC en un pago o con Visa Débito ICBC. Tope $8.000 por usuario por semana.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-12-31",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "FREDDO, HAVANNA, LUCCIANO'S, RAPANUI | todos los días | 30% | via MODO | 01/07 al 31/12/2026 | GENERAL 30% tope $8.000 por usuario por semana"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 30,
+      "tope_monto": 8000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-atalaya-30",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Atalaya"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando con MODO o desde ICBC Mobile Banking, con crédito Visa o Mastercard ICBC en un pago o con Visa Débito ICBC. Tope $8.000 por cuenta por semana.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "ATALAYA | todos los días | 30% | via MODO | 05/05 al 30/09/2026 | GENERAL 30% tope $8.000 por semana"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 30,
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "icbc-chocorisimo-guapaletas-persicco-30",
+      "medio": "ICBC",
+      "medio_nombre": "ICBC",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Chocorísimo",
+        "Guapaletas",
+        "Persicco"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC. Tope $20.000 por cuenta por mes.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2027-01-31",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "CHOCORISIMO, GUAPALETAS, PERSICCO | todos los días | 30% | VISA, MASTER, DEBITO | 01/09/2026 al 31/01/2027 | GENERAL 30% tope $20.000 por cuenta por mes"
+        }
+      ],
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "comafi-coto-martes-30",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (no Credial ni corporativas). Solo en sucursales. Es el 20% de la campaña de MODO en Coto más un 10% adicional de Comafi; el adicional es sin tope y vale hasta el 30/9.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Coto | 10% | MODO | martes | 01/09 al 30/09/2026 | SIN TOPE | \"10% adicional al 20% de la campaña MODO, totalizando 30%\" + Coto | 20% | MODO | martes | 01/09 al 31/10/2026 (campaña MODO)"
+        }
+      ],
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 15000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "comafi-makro-miercoles-20",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "mayoristas",
+      "comercios": [
+        "Makro"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (no Credial ni corporativas). Tope $15.000 por semana.",
+      "vigencia_desde": "2026-09-02",
+      "vigencia_hasta": "2026-11-30",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Makro | 20% | MODO | miércoles | 02/09 al 30/11/2026 | tope semanal $15.000"
+        }
+      ],
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 6000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "comafi-axion-lunes-20",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "combustible",
+      "comercios": [
+        "Axion"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (cuentas Ahorro, Global, Classic, Premium o Platinum). Tope $6.000 por semana; clientes Único/Black $10.000.",
+      "vigencia_desde": "2026-09-07",
+      "vigencia_hasta": "2026-11-30",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Axion Energy | 20% | MODO | lunes | 07/09 al 30/11/2026 | tope semanal $6.000 (Único/Black $10.000)"
+        }
+      ],
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 6000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "comafi-ypf-sabado-20",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "combustible",
+      "comercios": [
+        "YPF"
+      ],
+      "dias": [
+        "sabado"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (cuentas Ahorro, Global, Classic, Premium o Platinum). Tope $6.000 por semana; clientes Único/Black $10.000.",
+      "vigencia_desde": "2026-09-05",
+      "vigencia_hasta": "2026-11-30",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "YPF | 20% | MODO | sábados | 05/09 al 30/11/2026 | tope semanal $6.000 (Único/Black $10.000)"
+        }
+      ],
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 6000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "comafi-shell-domingo-20",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "combustible",
+      "comercios": [
+        "Shell"
+      ],
+      "dias": [
+        "domingo"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (cuentas Ahorro, Global, Classic, Premium o Platinum). Tope $6.000 por semana; clientes Único/Black $10.000.",
+      "vigencia_desde": "2026-09-06",
+      "vigencia_hasta": "2026-11-30",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Shell | 20% | MODO | domingos | 06/09 al 30/11/2026 | tope semanal $6.000 (Único/Black $10.000)"
+        }
+      ],
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 6000,
+      "tope_periodo": "semanal",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "comafi-puma-viernes-20",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "combustible",
+      "comercios": [
+        "Puma Energy"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (cuentas Ahorro, Global, Classic, Premium o Platinum). Tope $6.000 por semana; clientes Único/Black $10.000.",
+      "vigencia_desde": "2026-09-04",
+      "vigencia_hasta": "2026-11-30",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Puma energy | 20% | MODO | viernes | 04/09 al 30/11/2026 | tope semanal $6.000 (Único/Black $10.000)"
+        }
+      ],
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "descuento_pct": 15,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "comafi-farmacity-viernes-15",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmacity"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "cuotas": 3,
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard de Banco Comafi. Tope $10.000 por mes. Hasta 3 cuotas sin interés. En sucursales y en farmacity.com.",
+      "vigencia_desde": "2026-08-07",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Farmacity y Farmacity.com | 15% + cuotas | MODO | viernes | 07/08 al 30/09/2026 | crédito | tope mensual $10.000"
+        }
+      ],
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "comafi-simplicity-gtl-viernes-20",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "farmacia",
+      "comercios": [
+        "Simplicity",
+        "Get The Look"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "cuotas": 3,
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard de Banco Comafi. Tope $10.000 por mes. Hasta 3 cuotas sin interés. Sucursales y tienda online.",
+      "vigencia_desde": "2026-08-07",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Simplicity | 20% + cuotas | MODO | viernes | 07/08 al 30/09/2026 | tope mensual $10.000; Get The Look ídem"
+        }
+      ],
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "descuento_pct": 50,
+      "tope_monto": 12000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "comafi-cinemacenter-50",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "espectaculos",
+      "comercios": [
+        "Cinemacenter"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Con crédito Visa o Mastercard o Visa Débito de Banco Comafi. Tope $12.000 por mes.",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Cinemacenter | 50% | todos los días | 01/08 al 31/10/2026 | crédito y Visa débito | tope mensual $12.000"
+        }
+      ],
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "descuento_pct": 30,
+      "tope_monto": 40000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "comafi-restaurantes-sabado-premium-30",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Restaurantes adheridos a MODO"
+      ],
+      "dias": [
+        "sabado"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Solo para tarjetas Visa Platinum y Mastercard Platinum (cuenta Premium) o Visa Signature y Mastercard Black (cuenta Único). Pagando a través de MODO en cualquier comercio del rubro Restaurante. 5% extra con Mastercard. Tope $40.000 por mes ($50.000 Único).",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Restaurantes | 30% +5% con Mastercard | sábados | 01/08 al 31/10/2026 | Platinum tope mensual $40.000; Único/Black tope $50.000 | \"todos los comercios registrados dentro del rubro Restaurante a través de MODO\""
+        }
+      ],
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 20000,
+      "tope_periodo": "mensual",
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "comafi-petshops-mar-jue-20",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "mascotas",
+      "comercios": [
+        "Delivery Pet Food",
+        "Natural Life",
+        "Leocan",
+        "Zoocopet"
+      ],
+      "dias": [
+        "martes",
+        "miercoles",
+        "jueves"
+      ],
+      "cuotas": 3,
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (no Credial ni corporativas). Tope $20.000 por mes. Hasta 3 cuotas sin interés con crédito.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-11-30",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Delivery Pet Food, Natural life, Leocan, Zoocopet | 20% y cuotas | MODO | martes a jueves | 01/09 al 30/11/2026 | tope mensual $20.000"
+        }
+      ],
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "semanal",
+      "zona": "San Luis",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "comafi-aiello-viernes-20",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "supermercados",
+      "comercios": [
+        "Aiello"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "tope_publicado": true,
+      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (no Credial ni corporativas). Tope $10.000 por semana.",
+      "vigencia_desde": "2026-08-07",
+      "vigencia_hasta": "2026-10-31",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Aiello Supermercados | 20% | MODO | viernes | 07/08 al 31/10/2026 | tope semanal $10.000 (zona San Luis: la misma que tiene supervielle-aiello, verificada)"
+        }
+      ],
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "cuotas-bbva-fravega-12",
+      "medio": "bbva",
+      "medio_nombre": "BBVA",
+      "rubro": "electro",
+      "comercios": [
+        "Frávega"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 12,
+      "requisitos": "Con tarjeta de crédito BBVA pagando a través de MODO, en productos seleccionados, en locales adheridos y en fravega.com.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal BBVA: hasta 12 cuotas sin interés, 01/09 al 30/09/2026, crédito BBVA a través de MODO, productos seleccionados"
+        }
+      ],
+      "fuente": "https://www.fravega.com/e/promociones/"
+    },
+    {
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "cuotas-galicia-fravega-12",
+      "medio": "galicia",
+      "medio_nombre": "Banco Galicia",
+      "rubro": "electro",
+      "comercios": [
+        "Frávega"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 12,
+      "requisitos": "Con tarjeta de crédito Visa, Mastercard o American Express Galicia, en productos seleccionados. Vale por MODO, Google Pay y Apple Pay; no con otras billeteras.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal Galicia: hasta 12 cuotas sin interés, 01/09 al 30/09/2026, Visa/Mastercard/Amex, productos seleccionados"
+        }
+      ],
+      "fuente": "https://www.fravega.com/e/promociones/"
+    },
+    {
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "cuotas-macro-fravega-12",
+      "medio": "macro",
+      "medio_nombre": "Banco Macro",
+      "rubro": "electro",
+      "comercios": [
+        "Frávega"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 12,
+      "requisitos": "Con tarjeta de crédito Visa, Mastercard o American Express Macro, en productos seleccionados, en locales y en fravega.com. Vale por MODO; no por Mercado Pago ni QR.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal Macro: hasta 12 cuotas sin interés, 01/09 al 30/09/2026, productos seleccionados, incluye MODO"
+        }
+      ],
+      "fuente": "https://www.fravega.com/e/promociones/"
+    },
+    {
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "cuotas-santander-fravega-12",
+      "medio": "santander",
+      "medio_nombre": "Santander",
+      "rubro": "electro",
+      "comercios": [
+        "Frávega"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 12,
+      "requisitos": "Con tarjeta de crédito Santander, en productos seleccionados, en locales adheridos.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal Santander: hasta 12 cuotas sin interés, 01/09 al 30/09/2026, productos seleccionados, locales adheridos"
+        }
+      ],
+      "fuente": "https://www.fravega.com/e/promociones/"
+    },
+    {
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "cuotas-credicoop-fravega-12",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "electro",
+      "comercios": [
+        "Frávega"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 12,
+      "requisitos": "Con tarjeta de crédito Cabal de Credicoop, en productos seleccionados. Vale por MODO; no por otras billeteras ni Cuota Simple.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal Credicoop: hasta 12 cuotas sin interés, 01/09 al 30/09/2026, Cabal, productos seleccionados"
+        }
+      ],
+      "fuente": "https://www.fravega.com/e/promociones/"
+    },
+    {
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "cuotas-patagonia-fravega-12",
+      "medio": "patagonia",
+      "medio_nombre": "Banco Patagonia",
+      "rubro": "electro",
+      "comercios": [
+        "Frávega"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 12,
+      "requisitos": "Con cualquier tarjeta de crédito de Banco Patagonia, en locales y online. Vale por MODO, Google Pay y Apple Pay.",
+      "vigencia_desde": "2026-09-02",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal Patagonia: hasta 12 cuotas sin interés, 02/09 al 30/09/2026, presencial y online"
+        }
+      ],
+      "fuente": "https://www.fravega.com/e/promociones/"
+    },
+    {
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "cuotas-san_juan-fravega-12",
+      "medio": "san_juan",
+      "medio_nombre": "Banco San Juan",
+      "rubro": "electro",
+      "comercios": [
+        "Frávega"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 12,
+      "requisitos": "Con tarjeta de crédito de Banco San Juan, en productos seleccionados, en locales adheridos y en fravega.com.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal Banco San Juan: hasta 12 cuotas sin interés, 01/09 al 30/09/2026, productos seleccionados"
+        }
+      ],
+      "fuente": "https://www.fravega.com/e/promociones/"
+    },
+    {
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "cuotas-santa_fe-fravega-12",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "electro",
+      "comercios": [
+        "Frávega"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 12,
+      "requisitos": "Con tarjeta de crédito de Banco Santa Fe, en productos seleccionados, en locales adheridos y en fravega.com.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal Banco Santa Fe: hasta 12 cuotas sin interés, 01/09 al 30/09/2026, productos seleccionados"
+        }
+      ],
+      "fuente": "https://www.fravega.com/e/promociones/"
+    },
+    {
+      "descuento_pct": 0,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "cuotas-santa_cruz-fravega-12",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "electro",
+      "comercios": [
+        "Frávega"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "cuotas": 12,
+      "requisitos": "Con tarjeta de crédito de Banco Santa Cruz, en productos seleccionados, en locales adheridos y en fravega.com.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal Banco Santa Cruz: hasta 12 cuotas sin interés, 01/09 al 30/09/2026, productos seleccionados"
+        }
+      ],
+      "fuente": "https://www.fravega.com/e/promociones/"
+    },
+    {
+      "descuento_pct": 10,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "id": "corrientes-fravega-viernes-10",
+      "medio": "corrientes",
+      "medio_nombre": "Banco de Corrientes",
+      "rubro": "electro",
+      "comercios": [
+        "Frávega"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "cuotas": 6,
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de crédito Visa del Banco de Corrientes, en comercios adheridos. 10% de bonificación sin tope y hasta 6 cuotas sin interés. No por billeteras virtuales ni Cuota Simple.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuentes": [
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-07",
+          "nota": "legal Banco de Corrientes: viernes 10% OFF y hasta 6 cuotas sin interés, sin tope, 01/09 al 30/09/2026, crédito Visa"
+        }
+      ],
+      "fuente": "https://www.fravega.com/e/promociones/"
     }
   ]
 }
