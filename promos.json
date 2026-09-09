@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08",
+  "actualizado": "2026-09-09",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -19035,7 +19035,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-coto-martes-20",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "supermercados",
       "comercios": [
@@ -19066,7 +19066,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-coto-jueves-debito-nfc-30",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "supermercados",
       "comercios": [
@@ -19097,7 +19097,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-changomas-4to-finde-sep-20",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "supermercados",
       "comercios": [
@@ -19131,7 +19131,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-coto-4to-finde-sep-20",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "supermercados",
       "comercios": [
@@ -19164,7 +19164,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-masgo-jueves-20",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "supermercados",
       "comercios": [
@@ -19195,7 +19195,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-la-anonima-jueves-20",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "supermercados",
       "comercios": [
@@ -19226,7 +19226,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-the-food-market-jue-dom-20",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "gastronomia",
       "comercios": [
@@ -19261,7 +19261,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-paladini-viernes-20",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "alimentos",
       "comercios": [
@@ -19292,7 +19292,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-ypf-martes-sueldo-15",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "combustible",
       "comercios": [
@@ -19323,7 +19323,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-farmacity-gtl-simplicity-viernes-20",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "farmacia",
       "comercios": [
@@ -19357,7 +19357,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-openfarma-miercoles-20",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "farmacia",
       "comercios": [
@@ -19389,7 +19389,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-farmaplus-jue-dom-online-20",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "farmacia",
       "comercios": [
@@ -19424,7 +19424,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-perfumerias-10",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "belleza",
       "comercios": [
@@ -19468,7 +19468,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-heladerias-modo-30",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "gastronomia",
       "comercios": [
@@ -19508,7 +19508,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-atalaya-30",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "gastronomia",
       "comercios": [
@@ -19545,7 +19545,7 @@
       "confianza": "alta",
       "verificado": "2026-09-07",
       "id": "icbc-chocorisimo-guapaletas-persicco-30",
-      "medio": "ICBC",
+      "medio": "icbc",
       "medio_nombre": "ICBC",
       "rubro": "gastronomia",
       "comercios": [
@@ -20327,6 +20327,1945 @@
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "KROMACOLOR PINTURERIAS | 7 a 14 de septiembre | 30% + hasta 12 cuotas | VISA, MASTER, DEBITO | campaña SEMANA DE LA PINTURA | legal: SIN TOPE DE REINTEGRO, válida en la República Argentina"
+        }
+      ],
+      "id": "icbc-semana-pintura-kromacolor-30",
+      "rubro": "hogar",
+      "comercios": [
+        "Kromacolor Pinturerías"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "cuotas": 12,
+      "requisitos": "Semana de la Pintura, del 7 al 14 de septiembre. Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 12 cuotas sin interés con crédito). Sin tope de reintegro. En sucursales adheridas. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
+      "vigencia_desde": "2026-09-07",
+      "vigencia_hasta": "2026-09-14",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "COLORSHOP | 7 a 14 de septiembre | 25% + hasta 12 cuotas | campaña SEMANA DE LA PINTURA | GENERAL 25%, sin tope en el legal"
+        }
+      ],
+      "id": "icbc-semana-pintura-colorshop-25",
+      "rubro": "hogar",
+      "comercios": [
+        "Colorshop"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 25,
+      "cuotas": 12,
+      "requisitos": "Semana de la Pintura, del 7 al 14 de septiembre. Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 12 cuotas sin interés con crédito). Sin tope de reintegro. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
+      "vigencia_desde": "2026-09-07",
+      "vigencia_hasta": "2026-09-14",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "PINTURERÍAS PISANO | 7 a 14 de septiembre | 25% + hasta 12 cuotas | legal: SIN TOPE, República Argentina"
+        }
+      ],
+      "id": "icbc-semana-pintura-pisano-25",
+      "rubro": "hogar",
+      "comercios": [
+        "Pinturerías Pisano"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 25,
+      "cuotas": 12,
+      "requisitos": "Semana de la Pintura, del 7 al 14 de septiembre. Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 12 cuotas sin interés con crédito). Sin tope de reintegro. En sucursales adheridas. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
+      "vigencia_desde": "2026-09-07",
+      "vigencia_hasta": "2026-09-14",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "ANDRES MERINO PINTURERIAS | 7 a 13 de septiembre | 25% + hasta 12 cuotas | legal: SIN TOPE, República Argentina"
+        }
+      ],
+      "id": "icbc-semana-pintura-andres-merino-25",
+      "rubro": "hogar",
+      "comercios": [
+        "Andrés Merino Pinturerías"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 25,
+      "cuotas": 12,
+      "requisitos": "Semana de la Pintura, del 7 al 13 de septiembre. Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 12 cuotas sin interés con crédito). Sin tope de reintegro. En sucursales adheridas. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
+      "vigencia_desde": "2026-09-07",
+      "vigencia_hasta": "2026-09-13",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 25000,
+      "tope_periodo": "por compra",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "SODIMAC | 7 a 13 de septiembre | 25% + hasta 12 cuotas | GENERAL tope $25.000 por transacción | campaña SEMANA DE LA PINTURA"
+        }
+      ],
+      "id": "icbc-semana-pintura-sodimac-25",
+      "rubro": "hogar",
+      "comercios": [
+        "Sodimac"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 25,
+      "cuotas": 12,
+      "requisitos": "Semana de la Pintura, del 7 al 13 de septiembre. Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 12 cuotas sin interés con crédito). Tope $25.000 por compra.",
+      "vigencia_desde": "2026-09-07",
+      "vigencia_hasta": "2026-09-13",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "PINTURERIAS REX 07/09 al 14/09 y PRESTIGIO 07/09 al 15/09 | 12 cuotas sin interés (únicamente 12 pagos) | campaña SEMANA DE LA PINTURA"
+        }
+      ],
+      "id": "cuotas-icbc-semana-pintura-rex-prestigio-12",
+      "rubro": "hogar",
+      "comercios": [
+        "Pinturerías Rex",
+        "Prestigio"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 12,
+      "requisitos": "Semana de la Pintura: 12 cuotas sin interés (solo 12, no menos) con crédito visa o mastercard icbc. Rex hasta el 14/9, Prestigio hasta el 15/9.",
+      "vigencia_desde": "2026-09-07",
+      "vigencia_hasta": "2026-09-14",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "KROMACOLOR PINTURERIAS | todos los días | 25% + hasta 6 cuotas | 01/04 al 30/09/2026 | GENERAL 25%"
+        }
+      ],
+      "id": "icbc-kromacolor-25",
+      "rubro": "hogar",
+      "comercios": [
+        "Kromacolor Pinturerías"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 25,
+      "cuotas": 6,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope publicado. Del 7 al 14/9 la promo sube a 30% y 12 cuotas. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "AMBITO, CENTRO PINTURERIAS, COLORSHOP, PUNTO PINTURA | todos los días | 20% + hasta 3 cuotas | 01/04 al 30/09/2026 | legal: SIN TOPE"
+        }
+      ],
+      "id": "icbc-pinturerias-20-3c",
+      "rubro": "hogar",
+      "comercios": [
+        "Colorshop",
+        "Ámbito",
+        "Centro Pinturerías",
+        "Punto Pintura"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 3,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas sin interés con crédito). Sin tope de reintegro. En Colorshop, del 7 al 14/9 sube a 25% y 12 cuotas. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "LA CARDEUSE | todos los días | 20% + hasta 6 cuotas | 15/06 al 30/09/2026 | legal: SIN TOPE"
+        }
+      ],
+      "id": "icbc-la-cardeuse-20",
+      "rubro": "hogar",
+      "comercios": [
+        "La Cardeuse"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 6,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope de reintegro. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "SIMMONS, SIMMONS CASA, BELMO | todos los días | 10% 6 cuotas sin interés (únicamente 6 pagos) | 01/04 al 30/09/2026"
+        }
+      ],
+      "id": "icbc-colchones-10-6c",
+      "rubro": "hogar",
+      "comercios": [
+        "Simmons",
+        "Simmons Casa",
+        "Belmo"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "cuotas": 6,
+      "requisitos": "10% pagando en 6 cuotas sin interés (solo 6) con crédito visa o mastercard icbc. Sin tope publicado. Si preferís más cuotas, hay 9 y 12 sin descuento.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "SIMMONS, SIMMONS CASA, BELMO (9 y 12 pagos), ESSEN ALUMINIO (12 cuotas) | todos los días | 01/04 al 30/09/2026"
+        }
+      ],
+      "id": "cuotas-icbc-colchones-12",
+      "rubro": "hogar",
+      "comercios": [
+        "Simmons",
+        "Simmons Casa",
+        "Belmo",
+        "Essen"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 12,
+      "requisitos": "9 o 12 cuotas sin interés con crédito visa o mastercard icbc (Essen: 12 cuotas).",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "PINTURERÍAS PISANO (6 y 9), PINTURERIAS REX (2, 3, 6 y 9), PRESTIGIO (3, 6 y 9) | todos los días | hasta 9 cuotas | al 30/09/2026"
+        }
+      ],
+      "id": "cuotas-icbc-pinturerias-9",
+      "rubro": "hogar",
+      "comercios": [
+        "Pinturerías Pisano",
+        "Pinturerías Rex",
+        "Prestigio"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 9,
+      "requisitos": "Hasta 9 cuotas sin interés con crédito visa o mastercard icbc. Del 7 al 14/9 hay 12 cuotas por la Semana de la Pintura.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "WHIRLPOOL STORE, KITCHENAID STORE, HP, GARMIN | todos los días | 9 cuotas sin interés | al 30/09/2026"
+        }
+      ],
+      "id": "cuotas-icbc-electro-hogar-9",
+      "rubro": "electro",
+      "comercios": [
+        "Whirlpool Store",
+        "KitchenAid Store",
+        "HP",
+        "Garmin"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 9,
+      "requisitos": "9 cuotas sin interés con crédito visa o mastercard icbc. Garmin: los viernes además 20% de descuento.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "PARUOLO | 12 y 13 de septiembre | GENERAL 25% + hasta 9 cuotas, EXCLUSIVE 30% | campaña ESPECIAL MODA | sin tope"
+        }
+      ],
+      "id": "icbc-paruolo-especial-moda-25",
+      "rubro": "indumentaria",
+      "comercios": [
+        "Paruolo"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 25,
+      "cuotas": 9,
+      "requisitos": "Solo el sábado 12 y domingo 13 de septiembre, online y en locales. Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 9 cuotas sin interés con crédito). Sin tope. Clientes Exclusive Banking: 30%.",
+      "vigencia_desde": "2026-09-12",
+      "vigencia_hasta": "2026-09-13",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "PARUOLO | viernes | GENERAL 15% + hasta 6 cuotas, EXCLUSIVE 20% | 01/08/2026 al 31/01/2027"
+        }
+      ],
+      "id": "icbc-paruolo-viernes-15",
+      "rubro": "indumentaria",
+      "comercios": [
+        "Paruolo"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 15,
+      "cuotas": 6,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope publicado. Clientes Exclusive Banking: 20%.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2027-01-31",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 30000,
+      "tope_periodo": "por compra",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "ADIDAS.COM | martes | 25% + hasta 9 cuotas | tope $30.000 por transacción | 28/07 al 27/10/2026 | campaña ONLINE"
+        }
+      ],
+      "id": "icbc-adidas-online-martes-25",
+      "rubro": "indumentaria",
+      "comercios": [
+        "Adidas online"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 25,
+      "cuotas": 9,
+      "requisitos": "Solo en adidas.com.ar, los martes. 25% en el checkout con crédito visa o mastercard icbc, tope $30.000 por compra. Cuotas sin interés: 3 desde $89.999, 6 desde $149.999, 9 desde $179.999.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-10-27",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "REVER PASS | jueves | 25% + hasta 6 cuotas | 01/08 al 30/09/2026 | legal: SIN TOPE"
+        }
+      ],
+      "id": "icbc-rever-pass-jueves-25",
+      "rubro": "indumentaria",
+      "comercios": [
+        "Rever Pass"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 25,
+      "cuotas": 6,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope de reintegro. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 30000,
+      "tope_periodo": "por compra",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "TOPPER y SPORT 78 (03/07 al 30/10), CROCS, CHELSEA SNEAKERS, SEVEN SPORT, TOP SPORT, EXIT SKATE SHOP (05/06 al 30/09), EQUUS, DEVRE, MACOWENS (01/08 al 31/01/2027) | viernes | GENERAL 15% + hasta 6 cuotas tope $30.000 por transacción; EXCLUSIVE 20%. Vigencia cargada al 30/09 (la más corta del grupo)"
+        }
+      ],
+      "id": "icbc-moda-viernes-15-6c",
+      "rubro": "indumentaria",
+      "comercios": [
+        "Topper",
+        "Sport 78",
+        "Crocs",
+        "Chelsea Sneakers",
+        "Seven Sport",
+        "Top Sport",
+        "Exit Skate Shop",
+        "Equus",
+        "Devré",
+        "Macowens"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 15,
+      "cuotas": 6,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Tope $30.000 por compra. Clientes Exclusive Banking: 20%. En locales adheridos.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "LA PINTA | viernes | GENERAL 15% + hasta 6 cuotas, EXCLUSIVE 20% | 14/08 al 31/12/2026"
+        }
+      ],
+      "id": "icbc-la-pinta-viernes-15",
+      "rubro": "indumentaria",
+      "comercios": [
+        "La Pinta"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 15,
+      "cuotas": 6,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope publicado. Clientes Exclusive Banking: 20%.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-12-31",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "NIKE, DEXTER, MOOV, STOCK CENTER (2, 3, 6 y 9 pagos), SALOMON, WILSON | todos los días | 9 cuotas | al 30/09/2026"
+        }
+      ],
+      "id": "cuotas-icbc-deportivas-9",
+      "rubro": "indumentaria",
+      "comercios": [
+        "Nike",
+        "Dexter",
+        "Moov",
+        "Stock Center",
+        "Salomon",
+        "Wilson"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 9,
+      "requisitos": "Hasta 9 cuotas sin interés con crédito visa o mastercard icbc, en locales y online.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "ADIDAS, PUMA, RAPSODIA, CHAMPION, CONVERSE, UNDER ARMOUR (al 30/09), DECATHLON (al 31/10), MARIA CHER y MIZUNO online (al 30/11) | todos los días | hasta 6 cuotas. Vigencia cargada al 30/09"
+        }
+      ],
+      "id": "cuotas-icbc-indumentaria-6",
+      "rubro": "indumentaria",
+      "comercios": [
+        "Adidas",
+        "Puma",
+        "Decathlon",
+        "Rapsodia",
+        "María Cher",
+        "Champion",
+        "Converse",
+        "Under Armour",
+        "Mizuno online"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 6,
+      "requisitos": "Hasta 6 cuotas sin interés con crédito visa o mastercard icbc. Puma solo en locales; Mizuno solo online.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "SKECHERS, HEY DUDE | sábado y domingo | hasta 9 cuotas | 25/04 al 30/09/2026"
+        }
+      ],
+      "id": "cuotas-icbc-skechers-hey-dude-finde-9",
+      "rubro": "indumentaria",
+      "comercios": [
+        "Skechers",
+        "Hey Dude"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 9,
+      "requisitos": "Sábados y domingos, hasta 9 cuotas sin interés con crédito visa o mastercard icbc.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "BABY COTTONS, CARO CUORE | todos los días | hasta 3 cuotas | 01/04 al 30/09/2026"
+        }
+      ],
+      "id": "cuotas-icbc-baby-cottons-caro-cuore-3",
+      "rubro": "indumentaria",
+      "comercios": [
+        "Baby Cottons",
+        "Caro Cuore"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "Hasta 3 cuotas sin interés con crédito visa o mastercard icbc.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "GARMIN | viernes | 20% + 9 cuotas | 01/04 al 30/09/2026 | legal: SIN TOPE"
+        }
+      ],
+      "id": "icbc-garmin-viernes-20",
+      "rubro": "electro",
+      "comercios": [
+        "Garmin"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 9,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (9 cuotas sin interés con crédito). Sin tope de reintegro. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "MUSIC HOUSE | jueves | 15% + hasta 6 cuotas | 09/07 al 31/12/2026 | legal: SIN TOPE"
+        }
+      ],
+      "id": "icbc-music-house-jueves-15",
+      "rubro": "electro",
+      "comercios": [
+        "Music House"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 15,
+      "cuotas": 6,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope de reintegro. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-12-31",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "FRAVEGA | todos los días | hasta 9 cuotas | 01/09/2026 al 31/01/2027. OJO: la página de legales de Frávega (7/9) no nombra a ICBC; la promo la publica el banco"
+        }
+      ],
+      "id": "cuotas-icbc-fravega-9",
+      "rubro": "electro",
+      "comercios": [
+        "Frávega"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 9,
+      "requisitos": "Hasta 9 cuotas con crédito visa o mastercard icbc, en productos seleccionados.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2027-01-31",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "BIDCOM, GADNIC (únicamente 6 pagos, al 31/01/2027), MOTOROLA y PHI-DIGITAL (al 30/09) | todos los días | 6 cuotas. Vigencia cargada al 30/09"
+        }
+      ],
+      "id": "cuotas-icbc-tecnologia-online-6",
+      "rubro": "electro",
+      "comercios": [
+        "Bidcom",
+        "Gadnic",
+        "Motorola",
+        "Phi-Digital"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 6,
+      "requisitos": "6 cuotas sin interés con crédito visa o mastercard icbc. Bidcom y Gadnic: solo 6 pagos.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "COMPRAGAMER | todos los días | hasta 12 cuotas (3, 6, 9 y 12), online | vigencia publicada 01/09/2026 al 30/09/2027 (parece error de tipeo; cargada al 30/09/2026)"
+        }
+      ],
+      "id": "cuotas-icbc-compragamer-12",
+      "rubro": "electro",
+      "comercios": [
+        "Compra Gamer"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 12,
+      "requisitos": "3, 6, 9 o 12 cuotas sin interés con crédito visa o mastercard icbc, comprando online en compragamer.com.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "HONOR | todos los días | hasta 9 cuotas | 04/09 al 30/11/2026 | tiendas físicas"
+        }
+      ],
+      "id": "cuotas-icbc-honor-9",
+      "rubro": "electro",
+      "comercios": [
+        "Honor"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 9,
+      "requisitos": "Hasta 9 cuotas sin interés con crédito visa o mastercard icbc, en tiendas físicas.",
+      "vigencia_desde": "2026-09-04",
+      "vigencia_hasta": "2026-11-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "CÚSPIDE, EL ATENEO, YENNY, ESTACION LIBRO, ETERNA CADENCIA | todos los días | hasta 3 cuotas | al 30/09/2026"
+        }
+      ],
+      "id": "cuotas-icbc-librerias-3",
+      "rubro": "librerias",
+      "comercios": [
+        "Cúspide",
+        "El Ateneo",
+        "Yenny",
+        "Estación Libro",
+        "Eterna Cadencia"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "Hasta 3 cuotas sin interés con crédito visa o mastercard icbc.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 15000,
+      "tope_periodo": "por compra",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "WOOPY | todos los días | 15% + hasta 3 cuotas | tope $15.000 por transacción | 10/04 al 30/09/2026"
+        }
+      ],
+      "id": "icbc-woopy-15",
+      "rubro": "hogar",
+      "comercios": [
+        "Woopy"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "cuotas": 3,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas sin interés con crédito). Tope $15.000 por compra. Con débito, solo clientes con paquete o sueldo en ICBC.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 30000,
+      "tope_periodo": "por compra",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "CEBRA, CITYKIDS, COMPAÑIA DE JUGUETES, EL MUNDO DEL JUGUETE, GIRO DIDACTICO, GRACO STORE | viernes | GENERAL 15% + hasta 3 cuotas tope $30.000 por transacción; EXCLUSIVE 20% | 03/07 (o 10/07) al 31/10/2026. La misma promo lista también Duendes y Princesas, Juguetería Carrousel, Monococo, Osito Azul, Somos los Juguetes y Tío Mario (sin provincia verificada, no cargados)"
+        }
+      ],
+      "id": "icbc-jugueterias-viernes-15",
+      "rubro": "hogar",
+      "comercios": [
+        "Cebra",
+        "Citykids",
+        "Compañía de Juguetes",
+        "El Mundo del Juguete",
+        "Giro Didáctico",
+        "Graco Store"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 15,
+      "cuotas": 3,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas sin interés con crédito). Tope $30.000 por compra. Clientes Exclusive Banking: 20%. En locales adheridos.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 30000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "CRECIENDO | lunes y jueves | GENERAL 20% + hasta 6 cuotas tope $30.000 por cuenta por mes; EXCLUSIVE 30% tope $50.000 | 05/02 al 30/09/2026"
+        }
+      ],
+      "id": "icbc-creciendo-lun-jue-20",
+      "rubro": "hogar",
+      "comercios": [
+        "Creciendo"
+      ],
+      "dias": [
+        "lunes",
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 6,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Tope $30.000 por cuenta por mes. Clientes Exclusive Banking: 30% y tope $50.000.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "CABA",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "MALBA ENTRADAS | todos los días | 20% | 07/02 al 31/12/2026 | sin tope. MALBA TIENDA 10%"
+        }
+      ],
+      "id": "icbc-malba-entradas-20",
+      "rubro": "espectaculos",
+      "comercios": [
+        "Malba"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "Entradas al museo. Con crédito Visa o Mastercard ICBC en un pago o Visa Débito ICBC. Sin tope. En la tienda del museo es 10%.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-12-31",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 15000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "COLECTIVOS | todos los días | 50% | tarjetas: MASTER | campaña MASTERCARD NFC | 17/08 al 30/09/2026 | tope $15.000 por cuenta por mes"
+        }
+      ],
+      "id": "icbc-colectivos-mastercard-nfc-50",
+      "rubro": "transporte",
+      "comercios": [
+        "Colectivos"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 50,
+      "requisitos": "Pagando el pasaje de colectivo acercando la tarjeta de crédito Mastercard ICBC (NFC, física o en el celular). Tope $15.000 por cuenta por mes. No vale con SUBE.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 30000,
+      "tope_periodo": "por compra",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "SHOPGALLERY WEB | todos los días | 10% + hasta 6 cuotas | tope $30.000 por transacción | 01/08 al 30/09/2026 | campaña ONLINE. SHOPGALLERY (local) viernes 10% + 9 cuotas, sábado a jueves 6 cuotas"
+        }
+      ],
+      "id": "icbc-shopgallery-online-10",
+      "rubro": "hogar",
+      "comercios": [
+        "Shopgallery online"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "cuotas": 6,
+      "requisitos": "Solo online. Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Tope $30.000 por compra. En locales: los viernes 10% y 9 cuotas.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "PASSLINE (18/04 al 30/09, en eventos especiales), TICKETWAY (10/07 al 31/12) | todos los días | hasta 3 cuotas. Vigencia cargada al 30/09"
+        }
+      ],
+      "id": "cuotas-icbc-entradas-3",
+      "rubro": "espectaculos",
+      "comercios": [
+        "Passline",
+        "Ticketway"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "Hasta 3 cuotas sin interés con crédito visa o mastercard icbc. Passline: en eventos especiales.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "BRIDGESTONE ARGENTINA 9 cuotas, PIRELLI 9 cuotas, MICHELIN NEUMÁTICOS 6 cuotas | todos los días | al 30/09/2026"
+        }
+      ],
+      "id": "cuotas-icbc-neumaticos-9",
+      "rubro": "automotor",
+      "comercios": [
+        "Bridgestone",
+        "Pirelli",
+        "Michelin"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 9,
+      "requisitos": "9 cuotas sin interés con crédito visa o mastercard icbc (Michelin: 6 cuotas).",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 8000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "PUPPIS | lunes y miércoles | 20% + hasta 3 cuotas | via MODO | 03/08/2026 al 31/01/2027 | tope $8.000 por cuenta por mes"
+        }
+      ],
+      "id": "icbc-puppis-lun-mie-20",
+      "rubro": "mascotas",
+      "comercios": [
+        "Puppis"
+      ],
+      "dias": [
+        "lunes",
+        "miercoles"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 3,
+      "requisitos": "Pagando por MODO con crédito visa o mastercard icbc (hasta 3 cuotas sin interés) o Visa Débito ICBC (solo clientes con paquete o sueldo). Tope $8.000 por cuenta por mes.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2027-01-31",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 5000,
+      "tope_periodo": "por compra",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "NATURAL LIFE | lunes y viernes | 20% + hasta 3 cuotas | tope $5.000 por transacción | 03/08/2026 al 31/01/2027"
+        }
+      ],
+      "id": "icbc-natural-life-lun-vie-20",
+      "rubro": "mascotas",
+      "comercios": [
+        "Natural Life"
+      ],
+      "dias": [
+        "lunes",
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 3,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas con crédito). Tope $5.000 por compra.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2027-01-31",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 15000,
+      "tope_periodo": "por compra",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "PET COMPANY | lunes, martes y sábado | 20% + hasta 3 cuotas | tope $15.000 por transacción | 01/08/2026 al 31/01/2027"
+        }
+      ],
+      "id": "icbc-pet-company-20",
+      "rubro": "mascotas",
+      "comercios": [
+        "Pet Company"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 3,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas sin interés con crédito). Tope $15.000 por compra.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2027-01-31",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "ZOOCOPET | todos los días | GENERAL 25% + hasta 3 cuotas, EXCLUSIVE 35% | 01/08 al 31/10/2026 | legal: SIN TOPE"
+        }
+      ],
+      "id": "icbc-zoocopet-25",
+      "rubro": "mascotas",
+      "comercios": [
+        "Zoocopet"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 25,
+      "cuotas": 3,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas sin interés con crédito). Sin tope de reintegro. Clientes Exclusive Banking: 35%.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 5000,
+      "tope_periodo": "por compra",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "DELIVERY PET FOOD | lunes | 20% + hasta 3 cuotas | tope $5.000 por transacción | 03/08/2026 al 31/01/2027. Martes a domingo: hasta 3 cuotas"
+        }
+      ],
+      "id": "icbc-delivery-pet-food-lunes-20",
+      "rubro": "mascotas",
+      "comercios": [
+        "Delivery Pet Food"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 3,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas sin interés con crédito). Tope $5.000 por compra. De martes a domingo, 3 cuotas sin descuento.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2027-01-31",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "icbc",
+      "medio_nombre": "ICBC",
+      "fuentes": [
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "LEOCAN | martes y viernes | 10% + hasta 6 cuotas | 01/08/2026 al 31/01/2027"
+        }
+      ],
+      "id": "icbc-leocan-mar-vie-10",
+      "rubro": "mascotas",
+      "comercios": [
+        "Leocan"
+      ],
+      "dias": [
+        "martes",
+        "viernes"
+      ],
+      "descuento_pct": 10,
+      "cuotas": 6,
+      "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope publicado.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2027-01-31",
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
+    },
+    {
+      "tope_monto": 30000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Rappi [solo segmento ÚNICO/Black] | 30% | domingos a viernes | 02/08 al 31/10/2026 | tope mensual $30.000 | Visa Signature y Mastercard Black cuenta Único"
+        }
+      ],
+      "id": "comafi-rappi-unico-30",
+      "rubro": "delivery",
+      "comercios": [
+        "Rappi"
+      ],
+      "dias": [
+        "domingo",
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes"
+      ],
+      "descuento_pct": 30,
+      "requisitos": "Solo para tarjetas Visa Signature y Mastercard Black de cuenta Único de Banco Comafi. De domingo a viernes. Tope $30.000 por mes. Se acredita a los 60 días en el resumen.",
+      "vigencia_desde": "2026-08-02",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "tope_monto": 30000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Atalaya | 20% | MODO | todos los días | 01/08 al 31/10/2026 | tope de reintegro mensual $30.000"
+        }
+      ],
+      "id": "comafi-atalaya-20",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Atalaya"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (no Credial ni corporativas). Tope $30.000 por mes.",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Farmacity, Farmacity.com, Simplicity, Get The Look | 3 CUOTAS | todos los días | 01/08 al 30/09/2026 | crédito Visa y Mastercard"
+        }
+      ],
+      "id": "cuotas-comafi-farmacity-3",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmacity",
+        "Farmacity online",
+        "Simplicity",
+        "Get The Look"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "Hasta 3 cuotas sin interés con crédito Visa o Mastercard de Banco Comafi, en sucursales y tienda online. Los viernes, además, hay descuento.",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Soy Tu Farmacia | 3 CUOTAS | todos los días | 01/09 al 30/11/2026 | cuentas Global, Classic, Premium y Único"
+        }
+      ],
+      "id": "cuotas-comafi-soy-tu-farmacia-3",
+      "rubro": "farmacia",
+      "comercios": [
+        "Soy Tu Farmacia"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "Hasta 3 cuotas sin interés con crédito de Banco Comafi (cuentas Global, Classic, Premium y Único).",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-11-30",
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Makro | 3 CUOTAS | todos los días | 01/09 al 30/11/2026"
+        }
+      ],
+      "id": "cuotas-comafi-makro-3",
+      "rubro": "mayoristas",
+      "comercios": [
+        "Makro"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "requisitos": "3 cuotas sin interés con crédito Visa o Mastercard de Banco Comafi (no Credial ni corporativas). Los miércoles conviene el 20% por MODO.",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-11-30",
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Decathlon | 6 CUOTAS | todos los días | 01/08 al 31/10/2026"
+        }
+      ],
+      "id": "cuotas-comafi-decathlon-6",
+      "rubro": "indumentaria",
+      "comercios": [
+        "Decathlon"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 6,
+      "requisitos": "Hasta 6 cuotas sin interés con crédito Visa o Mastercard de Banco Comafi (cuentas Global, Classic, Premium y Único).",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Compra Gamer | 6 CUOTAS (9 para Único/Black) | todos los días | 01/08 al 31/10/2026 | online"
+        }
+      ],
+      "id": "cuotas-comafi-compragamer-6",
+      "rubro": "electro",
+      "comercios": [
+        "Compra Gamer"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 6,
+      "requisitos": "Hasta 6 cuotas sin interés con crédito Visa o Mastercard de Banco Comafi, en compragamer.com. Cuenta Único (Visa Signature/Mastercard Black): hasta 9.",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
+    },
+    {
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "zona": "Nacional",
+      "confianza": "alta",
+      "verificado": "2026-09-07",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-09-07",
+          "nota": "Multitravel | 6 CUOTAS (9 para Único/Black) | todos los días | 01/08 al 31/10/2026"
+        }
+      ],
+      "id": "cuotas-comafi-multitravel-6",
+      "rubro": "viajes",
+      "comercios": [
+        "Multitravel"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 6,
+      "requisitos": "Hasta 6 cuotas sin interés con crédito Visa o Mastercard de Banco Comafi. Cuenta Único (Visa Signature/Mastercard Black): hasta 9.",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     }
   ]
 }

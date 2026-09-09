@@ -1,5 +1,56 @@
 # Cambios
 
+## 2026-09-09 — ICBC entero (los 8 rubros que faltaban: 44 altas), Comafi terminado (8 altas) y un arreglo: 16 promos de ICBC estaban con el medio en mayúscula y la app no las mostraba
+
+**564 promos (eran 512): 52 altas, 16 arregladas, 0 bajas.** Push: ver abajo. Visibles hoy: 414 (197 valen un miércoles).
+
+### El workflow otra vez no disparó solo: lo lancé a mano
+A las 07:31 ARG el `crudo/` decía `leido: 2026-09-08` en 40 de 41 archivos. Disparé `workflow_dispatch` a las 10:32 UTC. El commit `307712f` con las 41 fuentes llegó a las 07:41 ARG (9 minutos). ICBC, Comafi y Frávega las trabajé con la **lectura desde casa del 7/9** (commit `1ec9295`), que es la que pide la agenda: el runner de hoy volvió a traer Cloudflare (Comafi, 3 KB), 403 (Frávega) y vacío (ICBC, que no se pisó y sigue con `leido: 2026-09-07`).
+
+### ⚠ Arreglo: `medio: "ICBC"` (mayúscula) en las 16 altas de ayer
+Las 16 promos de ICBC que se cargaron ayer (Coto martes, Coto jueves NFC, 4to finde, MásGO, La Anónima, The Food Market, Paladini, YPF sueldo, Farmacity/GTL/Simplicity, Openfarma, FarmaPlus, perfumerías, heladerías, Atalaya, Chocorísimo) tenían `medio: "ICBC"` en vez de `"icbc"`, que es como está en las otras 7 y en el chip de la app. La app filtra por `p.medio` contra los medios elegidos, así que **nadie las veía** (aparecían como un medio aparte "ICBC" con 16 promos). Las pasé a `"icbc"`. `medio_nombre` ya era "ICBC" en todas.
+
+### ICBC (lectura desde casa del 7/9, nivel 1): terminé los 8 rubros que ayer quedaron sin mirar
+Fechadas al 7/9, que es el `leido:` real (el runner de hoy tampoco puede entrar: 403). Cargué el escalón GENERAL; el de Exclusive Banking va en los requisitos. Todas dicen "válida en la República Argentina" en el legal.
+
+- **Semana de la Pintura (7 al 14/9), 6 altas.** Es la promo de la semana: **Kromacolor 30% + 12 cuotas sin tope**, Colorshop / Pisano / Andrés Merino 25% + 12 cuotas sin tope (Merino hasta el 13), **Sodimac 25% + 12 cuotas tope $25.000 por compra** (hasta el 13), Rex y Prestigio 12 cuotas (solo 12 pagos). Con crédito Visa/Mastercard o Visa Débito ICBC.
+- **Casa, todo el mes (7):** Kromacolor 25% + 6 cuotas sin tope; Colorshop/Ámbito/Centro Pinturerías/Punto Pintura 20% + 3 cuotas sin tope; La Cardeuse 20% + 6 cuotas sin tope; Simmons/Simmons Casa/Belmo 10% pagando en 6 cuotas; y cuotas: colchones 9 y 12 (más Essen 12), pinturerías 9 (Pisano, Rex, Prestigio), electro 9 (Whirlpool Store, KitchenAid Store, HP, Garmin).
+- **Moda (10):** Paruolo **12 y 13/9 25% + 9 cuotas sin tope** (Especial Moda) y viernes 15% + 6 cuotas sin tope; **Adidas online martes 25% + 9 cuotas tope $30.000 por compra** (adidas.com.ar); **Rever Pass jueves 25% + 6 cuotas sin tope**; viernes 15% + 6 cuotas tope $30.000 por compra agrupadas en una promo (Topper, Sport 78, Crocs, Chelsea Sneakers, Seven Sport, Top Sport, Exit Skate Shop, Equus, Devré, Macowens; vigencia cargada al 30/9 porque es la más corta del grupo); La Pinta viernes 15% sin tope; cuotas: 9 en Nike/Dexter/Moov/Stock Center/Salomon/Wilson, 6 en Adidas/Puma/Decathlon/Rapsodia/María Cher/Champion/Converse/Under Armour/Mizuno online, 9 los fines de semana en Skechers y Hey Dude, 3 en Baby Cottons y Caro Cuore.
+- **Tecnología (6):** Garmin viernes 20% + 9 cuotas sin tope; Music House jueves 15% + 6 cuotas sin tope (al 31/12); cuotas: Frávega 9 (al 31/1/27; **ojo:** la página de legales de Frávega del 7/9 no nombra a ICBC, lo publica solo el banco), Bidcom/Gadnic/Motorola/Phi-Digital 6, Compragamer 12 (el banco dice "al 30/09/2027", parece error; la cargué al 30/9), Honor 9 en tiendas físicas (al 30/11).
+- **Librería y niños (4):** cuotas 3 en Cúspide/El Ateneo/Yenny/Estación Libro/Eterna Cadencia; Woopy 15% + 3 cuotas tope $15.000 por compra; **jugueterías viernes 15% + 3 cuotas tope $30.000 por compra** (Cebra, Citykids, Compañía de Juguetes, El Mundo del Juguete, Giro Didáctico, Graco Store; al 31/10); Creciendo lunes y jueves 20% + 6 cuotas tope $30.000 mensual.
+- **Entretenimiento y varios (5):** Malba entradas 20% sin tope (zona CABA; la tienda del museo 10%); **colectivos 50% con Mastercard ICBC por NFC, tope $15.000 por mes, hasta el 30/9** (transporte; con SUBE no); Shopgallery online 10% + 6 cuotas tope $30.000 por compra; cuotas 3 en Passline y Ticketway; neumáticos Bridgestone/Pirelli 9 cuotas y Michelin 6.
+- **Mascotas (6):** Puppis lunes y miércoles 20% + 3 cuotas por MODO tope $8.000 mensual (al 31/1/27); Natural Life lunes y viernes 20% tope $5.000 por compra; Pet Company lunes/martes/sábado 20% tope $15.000 por compra; **Zoocopet 25% todos los días sin tope** (35% Exclusive, al 31/10); Delivery Pet Food lunes 20% tope $5.000; Leocan martes y viernes 10% + 6 cuotas.
+- **No cargadas, sin provincia verificada** (la regla de la zona): Anna Rossatti, David Comizzo Deportes, Dulce Lencería, MD Calzados, Plus, She The Market (viernes 15% + 3 cuotas tope $30.000); Cero26, El Templo del Fútbol, Newsport, Tienda Fuencarral, Estación Central (6 cuotas); Faitful Viveros 15% tope $10.000; Fontenla, FC Hogar y Deco 10%; Mix Pinturerías, Tienda Colucci, Hendel, Bed Collection, Authogar, Noray, Secure Pool, Acon, Angler, Familia Bercomat, Thermomix, Eslabón de Lujo, Pronto by Iberia (cuotas); las jugueterías Duendes y Princesas, Carrousel, Monococo, Osito Azul, Somos los Juguetes, Tío Mario; La Salle, World Skating; Nadir Libros 10%; Go Pets, Mascotas de la Abadía, Neozoo, Lavakan, Paws Pet, Buckys, Estilo Mascota; Cariló Tennis Club, Pilara Golf, Buke Golf, Creamfields; ON FIT 15% por MODO; Americars, Maxilimp, E Cológica, Aipa Solar, Amec; Shopgallery en locales; Uber (cupón al aeropuerto, no es descuento); Scania, Casa Ferrari, Colven, Igoa, Mir Vic, Multigroup, Sergio Trepat (autos, cuotas). Y del rubro restó siguen sin cargar los ~35 restaurantes del 20% (Kansas, Las Lilas, etc.).
+- **ICBC queda leído entero.** 67 promos con ese medio.
+
+### Comafi (lectura desde casa del 7/9, nivel 1): lo que faltaba
+- **Altas (8):** **Rappi 30% de domingo a viernes, solo cuenta Único (Visa Signature / Mastercard Black), tope $30.000 mensual** (al 31/10; lo dice primero en los requisitos, como la de restaurantes premium); **Atalaya 20% todos los días por MODO tope $30.000 mensual** (al 31/10; ICBC tiene 30% en el mismo lugar); cuotas: Farmacity/Farmacity online/Simplicity/Get The Look 3 (al 30/9), Soy Tu Farmacia 3 (al 30/11, cuentas Global/Classic/Premium/Único), Makro 3 (al 30/11), Decathlon 6 (al 31/10), Compra Gamer 6 (9 para Único), Multitravel 6 (9 para Único).
+- **No cargadas:** Tienda Nova 20% (no sé qué es ni dónde), Taxi Premium 20% tope $10.000 mensual (opera en AMBA, pero la fuente no lo dice: si Lucía confirma la zona va derecho), Cooperativa Obrera, Cordiez, Pingüino, Alvear, El Tropezón, Coquitos, Cereales El Diamante (regionales sin provincia).
+- **Comafi queda leído entero.** 24 promos con ese medio.
+
+### Frávega (lectura desde casa del 7/9, nivel 2)
+Ya se trabajó entera ayer (13 promos, todas verificadas al 7/9). La releí contra lo cargado: sin cambios. Lo único nuevo es el cruce con ICBC de arriba: el banco publica 9 cuotas en Frávega y la página de Frávega no lo lista.
+
+### Las otras cuatro de la agenda: las cuatro vinieron muertas, igual que ayer
+- **Vital** ❌ (nunca aportó). La página lista las sucursales (Abasto, Avellaneda, Bahía Blanca... 20 en total, AMBA y algunas provincias) y las pestañas "Por día / Por medio de pago", pero las tarjetas de promos no están en el texto: las arma con JavaScript después. Hoy hasta las pestañas de día vinieron incompletas (solo Miércoles y Sábado). La receta necesita esperar a que aparezcan las promos (una `senal` como en Carrefour). Nada cargado.
+- **Yaguar** ❌ (nunca aportó). Cloudflare: "Sorry, you have been blocked", hoy y ayer. Igual que Comafi: desde casa seguramente entra.
+- **YPF** ❌ (nunca aportó). `ypf.com/promociones` contesta "Lo sentimos, esta página no está disponible en este momento": el texto es el menú del sitio corporativo. La URL de la receta está mal o la sacaron; las promos de YPF viven en la app YPF / ServiClub. Mientras tanto, YPF ya tiene 9 promos cargadas desde los bancos (Ciudad, Galicia, Brubank, ICBC, Comafi, Cuenta DNI).
+- **Hipotecario** ❌ La portada de alianzas volvió a cargar una sola: Los Fresnos (hogar), jueves 25% con débito tope $40.000 y 6 cuotas con crédito, sin vigencia ni provincia. No cargada. Las 3 promos de Hipotecario quedan como estaban; Optilook (visto por última vez el 31/8) mañana cae a `baja` sola.
+
+### Agenda: qué se trabajó
+De las 7 que pidió (fravega, comafi, icbc, vital, yaguar, ypf, hipotecario) se trabajaron las 7. Las tres primeras enteras; las otras cuatro no dieron nada por problemas de la fuente, no por falta de tiempo.
+
+### Auditoría
+`node tools/validar.js --arreglar`: 564 promos, 0 con vigencia asumida, 0 sin fuente, 0 de riesgo sin cruzar, 0 viejas, 0 confianzas mal. 414 visibles hoy.
+
+### Para Lucía
+1. **Las 16 de ICBC de ayer no se veían** (medio "ICBC" vs "icbc"). Ya está arreglado en los datos; si el auditor pudiera avisar cuando un `medio` no coincide con los otros del mismo `medio_nombre`, no vuelve a pasar.
+2. **Hipotecario**: la página de alianzas carga una sola alianza por vez (30-31/8 Optilook, 2-7/9 Giannoni, 8/9 Los Fresnos y también el 9/9). Optilook lleva 9 días sin verse y mañana cae a `baja` por los 10 días. Si la receta entrara a cada `/alianzas-bh/<comercio>/` en vez de a la portada, se leerían todas.
+3. Zonas que faltan para cargar: Taxi Premium (Comafi 20%), los restaurantes de ICBC, y las tiendas chicas de ICBC de arriba.
+4. Naranja X en Frávega sigue con la duda de ayer (12 o 14 cuotas).
+5. Compragamer en ICBC dice vigencia "al 30/09/2027": conviene mirarlo en el sitio.
+
+---
 ## 2026-09-08 — Ciudad por el catálogo completo: las 17 asumidas no existen más y se retiran; ICBC (18 altas), Comafi (13) y Frávega (10 bancos en cuotas) leídas desde casa
 
 **512 promos (eran 463): 53 altas, 3 revividas, 17 bajas de Ciudad, 41 reverificadas en Ciudad (32 de ellas ahora con tope y mínimo del banco), 4 confirmadas en Comafi/Diarco, 1 corrección de cuotas. Quedan 0 asumidas en la cola (eran 17).** Push OK. Visibles hoy: 368.
