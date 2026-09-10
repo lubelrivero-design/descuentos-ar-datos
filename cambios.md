@@ -1,5 +1,51 @@
 # Cambios
 
+## 2026-09-10 — ⚠ Hipotecario en ChangoMás REVIVE (el 2/9 la dimos de baja y el comercio la lista de nuevo, 1/9 al 30/11); 3 altas de cuotas en Jumbo/Disco/Vea (BNA 6, Comafi 3 y 12); las cuatro fuentes nuevas de la agenda no dieron nada
+
+**567 promos (eran 564): 3 altas, 1 revivida, 1 corregida, 7 reverificadas, 1 a `baja` por vieja, 0 bajas.** Push: ver abajo. Visibles hoy: 421 (219 valen un jueves).
+
+### El workflow otra vez no disparó solo: lo lancé a mano
+A las 07:32 ARG el `crudo/` decía `leido: 2026-09-09` en 40 de 41. Disparé `workflow_dispatch` a las 10:32 UTC y el commit `d8ce95c` llegó a las 07:42 ARG (10 minutos). Todo lo de abajo está fechado al 10/9 con esa lectura. Quedó en ayer solo `shell.txt` (no estaba en la agenda). El cron de GitHub ayer sí corrió, pero a las 09:23 ARG: dos horas tarde, después de la rutina.
+
+### ⚠ REVIVIDA para que la mire un humano: Hipotecario 25% martes en ChangoMás
+El 2/9 se retiró `hipotecario-changomas-martes` porque ChangoMás no la listaba en septiembre y su legal vencía el 31/8. **Desde el 7/9 ChangoMás la volvió a publicar** (nivel 2, hoy también): martes 25% con débito Visa del Hipotecario por QR desde app BH o MODO, presencial y en masonline con pago online, **del 01/09 al 30/11/2026**, tope mensual $10.000 general y $30.000 para Búho One/Sueldo/Emprendedor/Jubilado. La reviví con esa vigencia y ese tope. Tres corridas (7, 8 y 9/9) la tuvieron delante sin verla porque ChangoMás no estaba en la agenda: es la regla del 4/9 (Farmaonline y los patagónicos) otra vez.
+
+### Altas (3), todas en Jumbo / Disco / Vea (nivel 2, la misma tarjeta en las tres cadenas)
+- **BNA 6 cuotas sin interés en electro seleccionado**, crédito Visa/Mastercard Banco Nación (`cuotas-bna-jumbo-disco-vea-6`). La tarjeta aparece de lunes a sábado (la página no tiene pestaña domingo) y **no trae vigencia**: la cargué del 1/9 (primer día que aparece en el historial de `crudo/`; el 30 y 31/8 no estaba) al 30/9, que es donde terminan todas las demás tarjetas de septiembre de Cencosud. Si mañana desaparece, se retira.
+- **Comafi 3 cuotas sin interés todos los días**, crédito Comafi Global/Classic/Premium/Único, no por Mercado Pago, 01/12/25 al 30/09/26 (`cuotas-comafi-jumbo-disco-vea-3`).
+- **Comafi 12 cuotas sin interés en electro, viernes a domingo, solo septiembre**, no pequeños electros (`cuotas-comafi-jumbo-disco-vea-electro-12`). Es nueva del 1/9.
+
+### Corregida (1)
+- `hipotecario-jumbo-martes`: decía "pagando por MODO con Visa o Mastercard" y Jumbo y Disco dicen **tarjeta de DÉBITO Visa**, desde app Hipotecario o MODO, **presencial**, 01/01 al 30/09/2026, tope $15.000 por cliente por mes. El 25% y el tope estaban bien; la tarjeta y el canal no. Arreglé los requisitos y le sumé las dos fuentes.
+
+### Reverificadas por el comercio o el banco (7)
+- `comafi-coto-martes-30`: Coto lista el 30% martes por MODO desde la app de Comafi, sin tope, sucursales, "no acumula con promo MODO martes". Coincide con lo que dice el banco.
+- `comafi-changomas-martes`: ChangoMás confirma 20% martes por MODO, 01/08 al 31/10, tope $12.000 semanal ($15.000 Único Black).
+- `bna-jubilados-extra` (Carrefour) y `bna-dia-lun-vie` (Día): los legales del 5% jubilados BNA siguen iguales, hasta el 30/9.
+- Macro, que estaba en 11 días: la portada de hoy repite **McDonald's 20% NFC todos los días**, **PedidosYa Plus 35% lunes/martes/viernes** y **movilidad 30% los sábados** con crédito Macro. Les sumé la fuente de hoy. Sin tope publicado en ninguna, como antes.
+
+### A `baja` por vieja (1)
+- `macro-transporte-pases-50` (50% en pases mensuales de transporte): estaba en la portada de Macro el 30/8 y no está ni ayer ni hoy. La portada de Macro es un carrusel, no un catálogo, así que no la retiro; pero lleva 11 días sin verse y la regla de los 10 días la manda a `baja`. Si vuelve a aparecer, se levanta sola.
+
+### Agenda: qué se trabajó
+De las 7 que pidió (fravega, comafi, icbc, axion, bna, farmacity, hipotecario) se miraron las 7:
+- **Frávega, Comafi e ICBC**: la agenda las pide "enteras" pero el texto es el mismo del 7/9 que ya se trabajó entero el 8 y el 9 (el runner de hoy volvió a traer 403 en Frávega, Cloudflare en Comafi y vacío en ICBC). No había nada nuevo que leer ahí. Lo que sí hice fue **cruzar Comafi contra los comercios**: de ahí salieron las dos altas de cuotas y las dos confirmaciones de arriba.
+- **Axion** ❌ (nunca aportó): la página es el menú corporativo más títulos de promos ("Promoción combustible Super", pelotas de la Copa Argentina, Lollapalooza 2025) sin ningún % ni día. No sirve como fuente; las promos en Axion vienen de los bancos (Comafi lunes 20%).
+- **BNA** ❌ (nunca aportó): la página lista títulos con vigencia pero sin día, tope ni tarjeta: "YPF 20% del 1/3 al 30/9", "Día 20% del 4/9 al 30/9", "Tucson 25% todos los días al 30/9", "KFC 20% al 30/9", "Shopping con BNA 20% + 9 cuotas 2 y 3/9" (ya pasó), y dos vencidas (Supermercados hasta 30% y Shell 20%, ambas al 31/8). **Nada cargado**: sin día ni tope no se carga. Ojo con la de Día: Día no la publica (su página solo tiene el 5% jubilados de BNA). El detalle está en cada promo ("haciendo clic en cada promoción"); si la receta entrara a cada una, BNA aportaría.
+- **Farmacity** ❌ (nunca aportó): `/promociones-bancarias` devuelve "No encontramos resultados para promociones-bancarias", la URL no existe. La receta necesita otra URL.
+- **Hipotecario** ❌: la portada de alianzas volvió a traer solo Los Fresnos (jueves 25% débito tope $40.000 y 6 cuotas crédito, 3 cuotas todos los días), sin vigencia ni provincia. No cargada, igual que ayer. Pero Hipotecario avanzó igual por los comercios: la de ChangoMás revivió y la de Jumbo/Disco se corrigió. Optilook cumple 10 días hoy; mañana cae a `baja` sola.
+
+### Auditoría
+`node tools/validar.js --arreglar`: 567 promos, 0 con vigencia asumida, 0 sin fuente, 0 de riesgo sin cruzar, 0 viejas, 0 confianzas mal. 421 visibles hoy.
+
+### Para Lucía
+1. **Hipotecario en ChangoMás revivió** con vigencia al 30/11: mirala.
+2. Las promos que un comercio publica y ningún banco de la agenda nombra (hoy: 3 de cuotas en Cencosud) solo aparecen cruzando. Convendría que la agenda meta un supermercado por día aunque ya esté "verificado".
+3. BNA: la portada tiene YPF 20%, Día 20% y Tucson 25% sin detalle. Con la receta entrando a cada promo se cargarían.
+4. Farmacity: la URL de la receta está mal (404 disfrazado).
+5. Hipotecario: sigue cargando una alianza sola por vez; la receta tendría que entrar a cada `/alianzas-bh/<comercio>/`.
+
+---
 ## 2026-09-09 — ICBC entero (los 8 rubros que faltaban: 44 altas), Comafi terminado (8 altas) y un arreglo: 16 promos de ICBC estaban con el medio en mayúscula y la app no las mostraba
 
 **564 promos (eran 512): 52 altas, 16 arregladas, 0 bajas.** Push: ver abajo. Visibles hoy: 414 (197 valen un miércoles).
