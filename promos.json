@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10",
+  "actualizado": "2026-09-11",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -1988,7 +1988,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-10",
       "vigencia_hasta": "2026-09-10",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-09",
       "fuentes": [
         {
           "url": "https://www.galicia.ar/personas/promociones/promocion-combustible",
@@ -2015,6 +2015,12 @@
           "nivel": 1,
           "fecha": "2026-09-01",
           "nota": "el legal aclara que es el dia 10 de cada mes, no un dia de semana fijo; dias:[jueves] es una aproximacion para septiembre 2026 (el 10 cae jueves)"
+        },
+        {
+          "url": "https://promoshellbox.shell.com.ar/",
+          "nivel": 2,
+          "fecha": "2026-09-09",
+          "nota": "Shell Box: jueves 15% en todos los productos, tope mensual $15.000, únicamente el 10 de septiembre, Mastercard; 10% extra con tope $5.000 para quienes cobran haberes en Galicia. Coincide con el banco."
         }
       ]
     },
@@ -9874,7 +9880,7 @@
       "vigencia_desde": "2026-08-17",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.uala.com.ar/promociones/colectivos",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9886,6 +9892,12 @@
           "url": "https://www.uala.com.ar/promociones",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.uala.com.ar/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "la portada lista \"50% de reintegro en colectivos pagando con Contactless\", tarjeta prepaga y crédito; el tope no se ve en el listado"
         }
       ]
     },
@@ -10676,7 +10688,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "id": "brubank-axion-30",
       "rubro": "combustible",
@@ -10719,6 +10731,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-09-02"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 30% Todos los días, tope $6.000"
         }
       ]
     },
@@ -10731,7 +10749,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "id": "brubank-ypf-lunes-10",
       "rubro": "combustible",
@@ -10768,6 +10786,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-09-02"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 10% Todos los lunes, tope $6.000"
         }
       ]
     },
@@ -10780,7 +10804,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "id": "brubank-farmacity-30",
       "rubro": "farmacia",
@@ -10823,6 +10847,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-09-02"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 30% Todos los días, tope $6.000"
         }
       ]
     },
@@ -10835,7 +10865,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "id": "brubank-cabify-40",
       "rubro": "transporte",
@@ -10878,6 +10908,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-09-02"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 40% Todos los días, tope $6.000"
         }
       ]
     },
@@ -10890,7 +10926,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "id": "brubank-taxi-premium-40",
       "rubro": "transporte",
@@ -10933,6 +10969,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-09-02"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 40% Todos los días, tope $6.000"
         }
       ]
     },
@@ -10945,7 +10987,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "id": "brubank-burger-king-30",
       "rubro": "gastronomia",
@@ -10988,6 +11030,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-09-02"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 30% Todos los días, tope $6.000"
         }
       ]
     },
@@ -11000,7 +11048,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-02",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "id": "brubank-freddo-40",
       "rubro": "gastronomia",
@@ -11043,6 +11091,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-09-02"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 40% Todos los días, tope $6.000"
         }
       ]
     },
@@ -12301,7 +12355,7 @@
       "vigencia_desde": "2026-08-13",
       "vigencia_hasta": "2026-12-11",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12323,6 +12377,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-31"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "legal: jueves y viernes del 13/8 al 11/12/2026, 25% con dinero en cuenta, tope unificado $8.000 por semana y por persona"
         }
       ]
     },
@@ -12346,7 +12406,7 @@
       "vigencia_desde": "2026-08-13",
       "vigencia_hasta": "2026-12-11",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12368,6 +12428,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-08-31"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "legal: jueves y viernes del 13/8 al 11/12/2026, 30% con NFC Visa crédito/débito desde Cuenta DNI (Android), tope unificado $15.000 por semana y por persona"
         }
       ]
     },
@@ -12392,7 +12458,7 @@
       "vigencia_hasta": null,
       "fuente": "https://www.hipotecario.com.ar/alianzas-bh/",
       "verificado": "2026-08-31",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.hipotecario.com.ar/alianzas-bh/",
@@ -12541,7 +12607,7 @@
       "vigencia_hasta": null,
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
       "verificado": "2026-08-31",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.jumbo.com.ar/descuentos-del-dia",
@@ -12941,7 +13007,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12958,6 +13024,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 40% Todos los días, tope $6.000"
         }
       ]
     },
@@ -12987,7 +13059,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13004,6 +13076,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 50% Todos los días, tope $10.000"
         }
       ]
     },
@@ -13033,7 +13111,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13050,6 +13128,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 40% Todos los días, tope $6.000"
         }
       ]
     },
@@ -13079,7 +13163,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13096,6 +13180,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 30% Todos los días, tope $6.000"
         }
       ]
     },
@@ -13121,7 +13211,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13138,6 +13228,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 20% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -13163,7 +13259,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13186,6 +13282,12 @@
           "nivel": 2,
           "fecha": "2026-09-07",
           "nota": "CONTRADICE: la página de bases de BK dice Plan Plus SÁBADO Y DOMINGO 20%, tope $4.000 por mes, 4 usos por mes (sin fecha). Se mantiene lo del emisor."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -13211,7 +13313,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13228,6 +13330,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos., sin tope publicado"
         }
       ]
     },
@@ -13253,7 +13361,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13270,6 +13378,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -13299,7 +13413,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13316,6 +13430,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 50% Todos los días, sin tope publicado"
         }
       ]
     },
@@ -13341,7 +13461,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13358,6 +13478,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -13383,7 +13509,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13400,6 +13526,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -13425,7 +13557,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13442,6 +13574,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -13465,7 +13603,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13482,6 +13620,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 10% Lunes, sin tope publicado"
         }
       ]
     },
@@ -13507,7 +13651,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13524,6 +13668,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -13553,7 +13703,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13570,6 +13720,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 40% Todos los días, sin tope publicado"
         }
       ]
     },
@@ -13593,7 +13749,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13610,6 +13766,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 10% Martes, sin tope publicado"
         }
       ]
     },
@@ -13634,7 +13796,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13657,6 +13819,12 @@
           "nivel": 2,
           "fecha": "2026-09-07",
           "nota": "CONTRADICE: la página de bases de BK dice Plan One VIERNES 10%, tope $2.000 por mes, 4 usos por mes (sin fecha; la misma página tiene entradas viejas de 2025). Se mantiene lo del emisor."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Lunes y viernes, sin tope publicado"
         }
       ]
     },
@@ -13680,7 +13848,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13697,6 +13865,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Miércoles, sin tope publicado"
         }
       ]
     },
@@ -13726,7 +13900,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13743,6 +13917,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 30% Todos los días, sin tope publicado"
         }
       ]
     },
@@ -13766,7 +13946,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13783,6 +13963,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Viernes, sin tope publicado"
         }
       ]
     },
@@ -13806,7 +13992,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13823,6 +14009,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Miércoles, sin tope publicado"
         }
       ]
     },
@@ -13846,7 +14038,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13863,6 +14055,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Viernes, sin tope publicado"
         }
       ]
     },
@@ -13886,7 +14084,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13903,6 +14101,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 10% Lunes, sin tope publicado"
         }
       ]
     },
@@ -13926,7 +14130,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13943,6 +14147,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Miércoles, sin tope publicado"
         }
       ]
     },
@@ -13966,7 +14176,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13978,6 +14188,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Miércoles, sin tope publicado"
         }
       ]
     },
@@ -14006,7 +14222,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14018,6 +14234,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 30% Todos los días, tope $6.000"
         }
       ]
     },
@@ -14043,7 +14265,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14055,6 +14277,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -14080,7 +14308,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14092,6 +14320,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -14117,7 +14351,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14129,6 +14363,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -14158,7 +14398,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14170,6 +14410,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 50% Todos los días, sin tope publicado"
         }
       ]
     },
@@ -14195,7 +14441,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14207,6 +14453,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -14232,7 +14484,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14244,6 +14496,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -14270,7 +14528,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14282,6 +14540,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 30% Jueves a domingos, sin tope publicado"
         }
       ]
     },
@@ -14305,7 +14569,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14317,6 +14581,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Viernes, sin tope publicado"
         }
       ]
     },
@@ -14341,7 +14611,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14353,6 +14623,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 15% Domingo y lunes, sin tope publicado"
         }
       ]
     },
@@ -14376,13 +14652,19 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Viernes, sin tope publicado"
         }
       ]
     },
@@ -14406,7 +14688,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14418,6 +14700,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Miércoles, sin tope publicado"
         }
       ]
     },
@@ -14447,7 +14735,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14459,6 +14747,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 15% Todos los días, sin tope publicado"
         }
       ]
     },
@@ -14488,7 +14782,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14500,6 +14794,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 15% Todos los días, sin tope publicado"
         }
       ]
     },
@@ -14529,7 +14829,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14541,6 +14841,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Todos los días, sin tope publicado"
         }
       ]
     },
@@ -14564,7 +14870,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14576,6 +14882,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Miércoles, sin tope publicado"
         }
       ]
     },
@@ -14599,7 +14911,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14611,6 +14923,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Miércoles, sin tope publicado"
         }
       ]
     },
@@ -14640,7 +14958,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14652,6 +14970,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 45% Todos los días, sin tope publicado"
         }
       ]
     },
@@ -14681,7 +15005,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14693,6 +15017,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 15% Todos los días, sin tope publicado"
         }
       ]
     },
@@ -14722,7 +15052,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14734,6 +15064,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 10% Todos los días, sin tope publicado"
         }
       ]
     },
@@ -14763,7 +15099,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14775,6 +15111,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 10% Todos los días, sin tope publicado"
         }
       ]
     },
@@ -14804,7 +15146,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14816,6 +15158,12 @@
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 10% Todos los días, sin tope publicado"
         }
       ]
     },
@@ -14935,13 +15283,19 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-08-31",
+      "verificado": "2026-09-11",
       "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.brubank.com/beneficios",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
         }
       ]
     },
@@ -15382,7 +15736,7 @@
       "zona": "Nacional",
       "vigencia_desde": null,
       "vigencia_hasta": null,
-      "confianza": "alta",
+      "confianza": "baja",
       "fuente": "https://www.vea.com.ar/descuentos-del-dia",
       "fuentes": [
         {
@@ -15513,7 +15867,7 @@
       "zona": "Nacional",
       "vigencia_desde": null,
       "vigencia_hasta": null,
-      "confianza": "alta",
+      "confianza": "baja",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
       "fuentes": [
         {
@@ -22474,6 +22828,216 @@
       ],
       "verificado": "2026-09-10",
       "confianza": "alta"
+    },
+    {
+      "id": "brubank-chungo-ultra-40",
+      "medio": "brubank",
+      "medio_nombre": "Brubank",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Chungo"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 40,
+      "tope_monto": 6000,
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Con tu Plan Ultra, pagando con tarjeta de crédito Brubank, todos los días. Tope de reintegro $6.000.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-04",
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-09-11",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 40% Todos los días, tope $6.000. Aparece en la portada desde el 4/9."
+        }
+      ]
+    },
+    {
+      "id": "brubank-chungo-plus-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Chungo"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, viernes, sábados y domingos.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-04",
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-09-11",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado. Aparece en la portada desde el 4/9."
+        }
+      ],
+      "tope_publicado": false
+    },
+    {
+      "id": "brubank-chungo-one-miercoles-20",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Chungo"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, miércoles.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-04",
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-09-11",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 20% Miércoles, sin tope publicado. Aparece en la portada desde el 4/9."
+        }
+      ],
+      "tope_publicado": false
+    },
+    {
+      "id": "brubank-luccianos-ultra-40",
+      "medio": "brubank",
+      "medio_nombre": "Brubank",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Lucciano's"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 40,
+      "tope_monto": 6000,
+      "tope_periodo": "sin_aclarar",
+      "requisitos": "Con tu Plan Ultra, pagando con tarjeta de crédito Brubank, todos los días. Tope de reintegro $6.000.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-04",
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-09-11",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Ultra: 40% Todos los días, tope $6.000. Aparece en la portada desde el 4/9."
+        }
+      ]
+    },
+    {
+      "id": "brubank-luccianos-plus-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Plus",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Lucciano's"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Con tu Plan Plus, pagando con tarjeta de crédito Brubank, todos los días.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-04",
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-09-11",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan Plus: 30% Todos los días, sin tope publicado. Aparece en la portada desde el 4/9."
+        }
+      ],
+      "tope_publicado": false
+    },
+    {
+      "id": "brubank-luccianos-one-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "gastronomia",
+      "comercios": [
+        "Lucciano's"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, todos los días.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-04",
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-09-11",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-11",
+          "nota": "Plan One: 30% Todos los días, sin tope publicado. Aparece en la portada desde el 4/9."
+        }
+      ],
+      "tope_publicado": false
     }
   ]
 }

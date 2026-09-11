@@ -1,5 +1,57 @@
 # Cambios
 
+## 2026-09-11 — Brubank confirma las 53 promos que hoy cumplían 11 días (iban a caerse todas a `baja` sin que el banco las hubiera sacado); 6 altas de Brubank (Chungo y Lucciano's); las 7 de la agenda no dieron nada nuevo
+
+**573 promos (eran 567): 6 altas, 61 reverificadas por Brubank, 3 por Cuenta DNI/Ualá, 1 fuente sumada, 4 a `baja` por viejas, 0 bajas.** Push: ver abajo. Visibles hoy: 418 (221 valen un jueves).
+
+### El workflow otra vez no disparó solo: lo lancé a mano
+A las 07:32 ARG todo `crudo/` decía `leido: 2026-09-10`. Disparé `workflow_dispatch` a las 10:32 UTC y el commit `8226bd7` llegó a las 07:41 ARG (9 minutos). Todo lo de abajo está fechado al 11/9 con esa lectura, salvo Shell (ver abajo). El cron de GitHub ayer corrió a las 09:16 ARG, de nuevo después de la rutina. Hoy vinieron vacías **Ciudad, ICBC y Shell** (quedaron con la lectura anterior, la cabecera lo dice). **McDonald's y Musimundo tienen `leido: 2026-08-27`**: hace dos semanas que no se leen y la cabecera no avisa; no estaban en la agenda, no las toqué, pero conviene mirar la receta.
+
+### ⚠ Lo importante del día: 53 promos iban a `baja` hoy por la regla de los 10 días, y el banco las sigue publicando
+`validar.js` listó 53 promos con 11 días sin verificar: **46 de Brubank** (todo lo de Plan One y Plan Plus cargado el 28-30/8), las 2 de Mostaza con Cuenta DNI, Ualá colectivos, Optilook con Hipotecario, 2 de Clarín 365 con Cencopay y MODO en Vea. Ninguna estaba en la agenda, pero mandarlas a `baja` sin mirar era esconder 50 promos que nadie retiró. Así que leí entero `crudo/brubank.txt` de hoy (nivel 1, 9,7 KB, con las tres pestañas One / Plus / Ultra) y crucé cada promo **por script** contra el texto: comercio, plan, %, días y tope. **Las 61 promos de Brubank que tenemos coinciden una por una** (las 46 viejas más las 7 de Ultra y las demás); les sumé la fuente de hoy con una nota con lo que dice la página y quedaron verificadas al 11/9. Lo mismo Cuenta DNI (el legal de Mostaza sigue igual: jueves y viernes del 13/8 al 11/12, 25% tope $8.000 semanal con dinero en cuenta y 30% NFC tope $15.000 semanal) y Ualá ("50% de reintegro en colectivos pagando con Contactless", prepaga y crédito; el tope no se ve en el listado, quedó el que teníamos).
+
+Ojo con esto para la agenda: Brubank publica ~90 promos en una sola página y **no entra en la agenda porque "ya aportó"**, con lo cual sus promos envejecen hasta caerse. Lo mismo va a pasar el 12/9 con las de Cuenta DNI cargadas el 1/9 si nadie las relee.
+
+### Altas (6): Chungo y Lucciano's en Brubank, en los tres planes (nivel 1)
+Aparecen en la portada de Brubank desde el 4/9 (el 3/9 no estaban; también entraron La Cabrera y Rock & Feller's, ver abajo). Cargadas calcadas de Freddo, que es el mismo rubro y la misma escalera de planes:
+- `brubank-chungo-ultra-40`: 40% todos los días, tope $6.000 (la página no dice el período: `sin_aclarar`).
+- `brubank-chungo-plus-30`: 30% viernes, sábados y domingos, sin tope publicado.
+- `brubank-chungo-one-miercoles-20`: 20% los miércoles, sin tope publicado.
+- `brubank-luccianos-ultra-40`: 40% todos los días, tope $6.000.
+- `brubank-luccianos-plus-30`: 30% todos los días, sin tope publicado.
+- `brubank-luccianos-one-30`: 30% todos los días, sin tope publicado.
+La `zona` quedó `Nacional` como en Freddo, Rapanui y Cerini, que se cargaron igual: **la página del banco no dice la provincia** de ninguna. Son cadenas de heladerías con sucursales en varias provincias, pero no lo leí en ninguna fuente: si hay que ser estrictos con la regla de la zona, estas seis (y las de Freddo/Rapanui/Cerini) van igual.
+
+**No cargué** La Cabrera y Rock & Feller's (Ultra 30%, tope $30.000: son parrillas de pocas sucursales y no sé en qué provincia), Matter (One 20%, no sé qué es) ni las que ya estaban el 3/9 y nadie cargó entonces (Selma, Celeste, ACF, Alto Parque, Multipoint, CUI, Enter The Exit, Open Park, Playmobil, Mundo Bienestar, Club Newman): comercios chicos sin zona conocida.
+
+### Fuente sumada (1)
+- `galicia-combustible-dia10`: Shell Box (nivel 2, leído el 9/9) lista "jueves 15% en todos los productos, tope mensual $15.000, únicamente el 10 de septiembre, Mastercard, 10% extra con tope $5.000 para quienes cobran haberes en Galicia". Coincide con el banco. Ya venció (era solo ayer).
+
+### A `baja` por viejas (4)
+Once días sin que ninguna fuente de `crudo/` las nombre. No las retiro porque ninguna fuente dice que terminaron; si aparecen, se levantan:
+- `hipotecario-optilook-lunes-25`: la portada de Hipotecario muestra una alianza sola por carga (ayer Los Fresnos, hoy Sueño Azul), Optilook no volvió a salir desde el 31/8.
+- `clarin365-cencopay-jumbo-disco-20` y `clarin365-cencopay-jumbo-lunes-20`: Clarín 365 no está en `crudo/`; Jumbo/Disco no las nombran.
+- `modo-vea-viernes-20`: el listado de MODO trae solo títulos y no la nombra; Vea tampoco.
+
+### Agenda: qué se trabajó
+De las 7 que pidió (fravega, comafi, icbc, la-anonima, maxiconsumo, shell, hipotecario) se miraron las 7. Ninguna dio una promo nueva:
+- **Frávega, Comafi e ICBC**: la agenda las vuelve a pedir "enteras", pero el único texto bueno sigue siendo la lectura desde casa del 7/9 (`1ec9295`), que ya se trabajó entera el 8, 9 y 10/9 (13 promos con fuente Frávega, 22 con Comafi, 64 con la API de ICBC). El runner de hoy trajo 403 en Frávega, Cloudflare en Comafi y vacío en ICBC. No había nada nuevo que leer. **La agenda cuenta el archivo con el 403 como "leída hace 1 día"** y por eso las repite: convendría que mire el tamaño o el `ERROR`.
+- **La Anónima** ❌ (nunca aportó): `403 Forbidden` hoy y todos los días desde el 3/9. La única lectura "entera" (2/9 desde casa, 7 KB) es la home con heladeras y celulares, sin promos bancarias: la URL `/promociones_bancarias` no devuelve promos ni desde casa. La receta necesita otra URL.
+- **Maxiconsumo** ❌ (nunca aportó): la página de promociones de la sucursal Moreno carga bien (7,9 KB) pero las promos son **18 imágenes** con un link "LEGALES" cada una: en el texto no hay ni un %, ni un banco, ni un día. Sin OCR o sin bajar los legales no aporta.
+- **Shell** ❌ (nunca aportó): hoy vino vacía, quedó la del 9/9. Shell Box sí lista promos con día, % y tope, **pero el banco está en una imagen** y no en el texto: "viernes 25% combustibles tope mensual $13.000 Visa/Mastercard", "domingo 10% tope mensual $10.000" (dos veces, seguramente Ciudad y Supervielle, que tenemos con esos mismos números), "miércoles 10% V-Power + 5% en criptodólar UXD", "jueves 10% V-Power + 5% Cencopay", "jueves 10% V-Power para Club Easy". Sin el emisor no se carga ninguna. La receta tendría que sacar el `alt` de los logos. Lo único identificable era la de Galicia del día 10, y se sumó como fuente.
+- **Hipotecario** ❌: la portada de alianzas trajo hoy **Sueño Azul** en vez de Los Fresnos, el mismo maquetado (jueves 25% débito tope $40.000, 6 cuotas crédito, 3 cuotas todos los días), sin vigencia ni provincia. Rota una alianza por carga. No cargada. Las dos de supermercados (Jumbo/Disco y ChangoMás) siguen sostenidas por los comercios.
+
+### Auditoría
+`node tools/validar.js --arreglar`: 573 promos, 0 con vigencia asumida, 0 sin fuente, 0 de riesgo sin cruzar, 0 viejas, 0 confianzas mal. 418 visibles hoy.
+
+### Para Lucía
+1. **La agenda no protege lo que ya está cargado**: 46 promos de Brubank iban a esconderse hoy por vejez con el banco publicándolas. Convendría que la agenda meta cada día la fuente con más promos por vencer de plazo, aunque "ya haya aportado". Mañana 12/9 les toca a las de Cuenta DNI cargadas el 1/9.
+2. **McDonald's y Musimundo** llevan 15 días con `leido: 2026-08-27` y la cabecera no dice `OJO`: la receta o el workflow no las está pisando.
+3. La agenda repite Frávega/Comafi/ICBC como "leídas hace 1 día" porque cuenta el archivo con el 403.
+4. Shell Box y Maxiconsumo tienen las promos en imágenes; La Anónima `/promociones_bancarias` da 403 al runner y desde casa muestra la home.
+5. Las seis altas de Chungo/Lucciano's tienen `zona: Nacional` por analogía con Freddo, no por una fuente.
+
+---
 ## 2026-09-10 — ⚠ Hipotecario en ChangoMás REVIVE (el 2/9 la dimos de baja y el comercio la lista de nuevo, 1/9 al 30/11); 3 altas de cuotas en Jumbo/Disco/Vea (BNA 6, Comafi 3 y 12); las cuatro fuentes nuevas de la agenda no dieron nada
 
 **567 promos (eran 564): 3 altas, 1 revivida, 1 corregida, 7 reverificadas, 1 a `baja` por vieja, 0 bajas.** Push: ver abajo. Visibles hoy: 421 (219 valen un jueves).
