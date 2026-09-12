@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11",
+  "actualizado": "2026-09-12",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -877,7 +877,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-09-05",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -899,6 +899,12 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "listado: Supermercado Dia 15% Jueves (el listado no muestra tope ni vigencia)"
         }
       ]
     },
@@ -921,7 +927,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -944,6 +950,12 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "listado: Supermercado La Reina 10% Sábado (el listado no muestra tope ni vigencia)"
         }
       ]
     },
@@ -966,7 +978,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -989,6 +1001,12 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "listado: Farmacia Central Oeste 20% Miércoles (el listado no muestra tope ni vigencia)"
         }
       ]
     },
@@ -1017,7 +1035,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1040,6 +1058,12 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "listado: Farmalife 10% Todos los días (el listado no muestra tope ni vigencia)"
         }
       ]
     },
@@ -1062,7 +1086,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1085,6 +1109,12 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "listado: Puma Energy 10% Sábado (el listado no muestra tope ni vigencia)"
         }
       ]
     },
@@ -1109,7 +1139,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1132,6 +1162,12 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "listado: Taxi Premium 30% Lunes a Miércoles (el listado no muestra tope ni vigencia)"
         }
       ]
     },
@@ -1160,7 +1196,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1183,6 +1219,12 @@
           "url": "https://www.personalpay.com.ar/beneficios",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "listado: Go Bar 15% Todos los días (el listado no muestra tope ni vigencia)"
         }
       ]
     },
@@ -1231,16 +1273,22 @@
       "tope_periodo": null,
       "requisitos": "En un pago siendo miembro de Comunidad Coto, con cualquier medio de pago. Sin limite de reintegro. Solo en sucursales.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.coto.com.ar/descuentos",
-      "verificado": "2026-08-21",
-      "confianza": "baja",
+      "verificado": "2026-09-12",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-09-12",
+          "nota": "Coto: miércoles 15% miembros de Comunidad Coto, todos los medios de pago, sin límite de reintegro, solo sucursales (sin fecha de fin publicada; se asume el mes)"
         }
       ]
     },
@@ -1303,7 +1351,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.lanacion.com.ar/economia/cuenta-dni-en-agosto-2026-como-y-cuando-son-las-promociones-de-carnicerias-nid09082026/",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1341,6 +1389,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: lunes a viernes de septiembre 2026, 20%, tope unificado $6.000 por semana y por persona; excluye garrafas, pet shop, veterinarias y gastronomía"
         }
       ]
     },
@@ -1369,7 +1423,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1407,6 +1461,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: todos los días de septiembre 2026, 40%, tope unificado $18.000 en el mes"
         }
       ]
     },
@@ -1430,7 +1490,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1468,6 +1528,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: sábados y domingos de septiembre 2026, 25%, tope unificado $8.000 por semana y por persona"
         }
       ]
     },
@@ -1496,7 +1562,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1528,6 +1594,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: todos los días de septiembre 2026, 40%, tope unificado $6.000 por semana"
         }
       ]
     },
@@ -1556,7 +1628,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.infobae.com/economia/2026/08/01/cuenta-dni-uno-por-uno-todos-los-descuentos-y-las-promociones-para-aprovechar-en-agosto-2026/",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1580,6 +1652,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: todos los días de septiembre 2026, 40%, tope unificado $6.000 por semana y por persona (se mantiene $4.000 cargado; ver cambios.md)"
         }
       ]
     },
@@ -1603,7 +1681,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1621,6 +1699,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: martes y miércoles de septiembre 2026, 15%, tope $6.000 por semana y por cuenta, mínimo de compra $30.000"
         }
       ]
     },
@@ -1771,7 +1855,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "tope_publicado": false,
       "fuentes": [
         {
@@ -1798,6 +1882,12 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "portada: JUMBO hasta 20% de ahorro, martes y jueves (la portada no publica tope)"
         }
       ]
     },
@@ -1827,7 +1917,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "tope_publicado": false,
       "fuentes": [
         {
@@ -1854,6 +1944,12 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "portada: STARBUCKS hasta 25% de ahorro, todos los días (la portada no publica tope)"
         }
       ]
     },
@@ -1877,7 +1973,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "cuotas": 3,
       "tope_publicado": false,
       "fuentes": [
@@ -1905,6 +2001,12 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "portada: MIMO & CO hasta 25% de ahorro y 3 cuotas sin interés, viernes (la portada no publica tope)"
         }
       ]
     },
@@ -1934,7 +2036,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "cuotas": 3,
       "tope_publicado": false,
       "fuentes": [
@@ -1962,6 +2064,12 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "portada: CCKONEX hasta 20% de ahorro y 3 cuotas sin interés, todos los días (la portada no publica tope)"
         }
       ]
     },
@@ -4235,7 +4343,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4262,6 +4370,12 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "portada: BRIDGESTONE hasta 12 cuotas sin interés, todos los días (la portada no publica tope)"
         }
       ]
     },
@@ -4291,7 +4405,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4318,6 +4432,12 @@
           "url": "https://www.galicia.ar/personas/promociones",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "portada: REX hasta 6 cuotas sin interés, todos los días (la portada no publica tope)"
         }
       ]
     },
@@ -4400,18 +4520,30 @@
       "descuento_pct": 30,
       "tope_monto": 15000,
       "tope_periodo": "semanal",
-      "requisitos": "En un pago con tarjeta de crédito o débito Cabal. Este mes vale solo los lunes 3, 10, 24 y 31 de agosto.",
+      "requisitos": "Pagando con MODO desde la app Banca Credicoop, con débito o crédito Cabal. Este mes vale solo los lunes 14 y 28 de septiembre (el 7 ya pasó). Tope $15.000 por usuario por semana. Solo en sucursales.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-28",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-21",
-      "confianza": "baja",
+      "verificado": "2026-09-12",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-09-12",
+          "nota": "Coto: lunes 30% débito y crédito Cabal Credicoop desde app Banca Credicoop con MODO, válido únicamente lunes 07/09, 14/09 y 28/09, tope unificado $15.000 por usuario por semana"
+        },
+        {
+          "url": "https://www.beneficios.bancocredicoop.coop/coop/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "Credicoop lista Coto lunes 30% de ahorro (slug Coto_MODO-lunes); no publica tope"
         }
       ]
     },
@@ -4434,7 +4566,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4447,6 +4579,12 @@
           "nivel": 2,
           "fecha": "2026-09-01",
           "nota": "Coto Digital de hoy confirma los mismos 3 topes semanales por plan (Inicial $3.000, Turbo $9.500, Epico $12.000); la lectura de hoy no distingue que dia esta activo en cada tarjeta (se perdio la marca CSS al pasar a texto plano), asi que el dia sigue de otras fuentes"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-09-12",
+          "nota": "Coto: martes 30% crédito Naranja X o débito Naranja X Visa, tope $12.000 por semana Plan Épico (25%/$9.500 Turbo, 20%/$3.000 Inicial), sucursal y online"
         }
       ]
     },
@@ -4488,23 +4626,29 @@
         "Coto"
       ],
       "dias": [
-        "martes"
+        "lunes"
       ],
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Con tarjeta de credito TCI. Sin tope de reintegro. En un pago. Aplican exclusiones.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-08-21",
-      "confianza": "baja",
+      "verificado": "2026-09-12",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-09-12",
+          "nota": "Coto: LUNES 20% tarjeta de crédito TCI, sin tope, un pago, solo sucursales (en agosto era martes; sin fecha de fin publicada, se asume el mes)"
         }
       ]
     },
@@ -4706,7 +4850,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -4738,6 +4882,42 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: lunes del 07 al 30/09/2026, 10% sin tope con dinero en cuenta y Clave DNI en Día"
+        }
+      ]
+    },
+    {
+      "id": "cuenta-dni-dia-nfc-lunes-20",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Pagando con Cuenta DNI por NFC (sin contacto) con tarjeta Visa crédito habilitada en la app, solo desde celulares Android. Sin tope. En todos los locales Día. Solo consumo familiar. Del 7 al 30 de septiembre.",
+      "zona": "Provincia de Buenos Aires",
+      "vigencia_desde": "2026-09-07",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+      "verificado": "2026-09-12",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: lunes del 07 al 30/09/2026, 20% de reintegro sin tope con NFC Visa crédito en Día; 10% sin tope con dinero en cuenta (esa es la otra promo)"
         }
       ]
     },
@@ -4762,7 +4942,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-29",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4799,6 +4979,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: lunes y martes del 01/09 al 29/12/2026, 10% sin tope en librerías de texto adheridas"
         }
       ]
     },
@@ -4816,13 +5002,13 @@
       "descuento_pct": 15,
       "tope_monto": 20000,
       "tope_periodo": "semanal",
-      "requisitos": "Tope de $20.000 por persona y por semana. Este mes vale solo los martes 1 y 8 de septiembre, no todos los martes.",
+      "requisitos": "Tope de $20.000 por persona y por martes. Este mes vale solo los martes 15 y 29 de septiembre (ya pasaron el 1 y el 8), no todos los martes. Solo venta minorista, sin bebidas con alcohol ni electro.",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
       "confianza": "alta",
       "vigencia_desde": "2026-09-01",
-      "vigencia_hasta": "2026-09-08",
-      "verificado": "2026-09-01",
+      "vigencia_hasta": "2026-09-29",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4840,6 +5026,12 @@
           "nivel": 1,
           "fecha": "2026-09-01",
           "nota": "el legal de hoy especifica \"martes 1 y 8 de septiembre\", no todos los martes del mes como veniamos cargando"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: martes 1, 8, 15 y 29 de septiembre 2026, 15%, tope $20.000 por martes y por persona"
         }
       ]
     },
@@ -4855,15 +5047,15 @@
         "martes"
       ],
       "descuento_pct": 15,
-      "requisitos": "Sin tope de reintegro.",
+      "requisitos": "Con dinero en cuenta de Cuenta DNI, en Toledo y Mini Toledo. Sin tope. Solo consumo familiar. Del 7 al 30 de septiembre. Pagando por NFC con Visa crédito es 20% (otra promo).",
       "zona": "Provincia de Buenos Aires",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
-      "vigencia_desde": "2026-09-01",
+      "vigencia_desde": "2026-09-07",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4880,6 +5072,42 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal (cambió hoy): martes del 07 al 30/09/2026, 15% sin tope con dinero en cuenta en Toledo y Mini Toledo; 20% sin tope con NFC Visa crédito (esa es otra promo)"
+        }
+      ]
+    },
+    {
+      "id": "cuenta-dni-toledo-nfc-martes-20",
+      "medio": "cuenta_dni",
+      "medio_nombre": "Cuenta DNI",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supermercados Toledo"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Pagando con Cuenta DNI por NFC (sin contacto) con tarjeta Visa crédito habilitada en la app, solo desde celulares Android. Sin tope. En Toledo y Mini Toledo. Solo consumo familiar. Del 7 al 30 de septiembre.",
+      "zona": "Provincia de Buenos Aires",
+      "vigencia_desde": "2026-09-07",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+      "verificado": "2026-09-12",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: martes del 07 al 30/09/2026, 20% de reintegro sin tope con NFC Visa crédito en Toledo y Mini Toledo; 15% sin tope con dinero en cuenta (esa es la otra promo)"
         }
       ]
     },
@@ -4909,7 +5137,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -4946,6 +5174,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: todos los días de septiembre 2026, 30%, tope unificado $15.000 durante la vigencia"
         }
       ]
     },
@@ -4970,7 +5204,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -5007,6 +5241,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: sábados y domingos de septiembre 2026, 25%, tope unificado $8.000 por semana y por persona, en gastronomía Full YPF"
         }
       ]
     },
@@ -5031,7 +5271,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -5068,6 +5308,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: miércoles y jueves del 01/09 al 31/12/2026, 10% sin tope"
         }
       ]
     },
@@ -5091,7 +5337,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-07",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
@@ -5134,6 +5380,12 @@
           "nivel": 2,
           "fecha": "2026-09-07",
           "nota": "Sodimac: Cuenta DNI miércoles +10% adicional, exclusivo tiendas físicas, con Clave DNI o QR de la app, hasta 30/09/2026. Acumulable con otras promos."
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: miércoles del 1 al 30/09/2026, 10%"
         }
       ]
     },
@@ -5157,7 +5409,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -5174,6 +5426,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: miércoles de septiembre 2026, 10%, tope $5.000 por miércoles y por persona, mínimo $25.000"
         }
       ]
     },
@@ -5197,7 +5455,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -5214,6 +5472,12 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: miércoles de septiembre y octubre 2026, 10%, tope $6.000"
         }
       ]
     },
@@ -5244,7 +5508,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-06-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -5277,6 +5541,12 @@
           "nivel": 1,
           "fecha": "2026-09-01",
           "nota": "el legal dice vigente desde el 1 de junio de 2026, no desde agosto como estaba cargado"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal \"Tarjeteá con Cuenta DNI\": hasta 3 cuotas sin interés del 01/06 al 31/10/2026, CABA, GBA y provincia, con Visa/Mastercard Banco Provincia desde la app"
         }
       ]
     },
@@ -8695,12 +8965,12 @@
     },
     {
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
-      "confianza": "baja",
+      "verificado": "2026-09-12",
+      "confianza": "alta",
       "id": "coto-supervielle-martes-25",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -8712,13 +8982,19 @@
         "martes"
       ],
       "descuento_pct": 25,
-      "requisitos": "Solo Segmento Identité. En un pago con tarjetas de crédito Visa o Mastercard. Sin tope de reintegro.",
+      "requisitos": "Pagando con MODO desde la app de Supervielle con débito o crédito del banco. Sin tope. En un pago, compras presenciales, productos sin oferta. No acumula con la promo MODO de los martes.",
       "fuente": "https://www.coto.com.ar/",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-09-12",
+          "nota": "Coto: martes 25% pagando con MODO desde la app de Supervielle con débito y crédito del banco, sin tope, solo sucursales; además figura 25% martes Segmento Identité Visa/Mastercard sin tope (sin fecha de fin publicada; se asume el mes)"
         }
       ]
     },
@@ -10009,17 +10285,23 @@
       "requisitos": "Con la tarjeta del programa Ciudadania Portena. Sin tope de reintegro. Solo en sucursales.",
       "zona": "CABA",
       "fuente": "https://www.coto.com.ar/descuentos",
-      "confianza": "baja",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "confianza": "alta",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-09-12",
+          "nota": "Coto: martes y jueves 15% programa Ciudadanía Porteña, sin tope, solo sucursales (sin fecha de fin publicada; se asume el mes)"
         }
       ]
     },
@@ -10037,18 +10319,24 @@
       "descuento_pct": 15,
       "requisitos": "Para jubilados y pensionados, presentando DNI. En un pago con cualquier medio. Solo en sucursales, no vale online.",
       "fuente": "https://www.coto.com.ar/descuentos",
-      "confianza": "baja",
+      "confianza": "alta",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-08-21",
+      "verificado": "2026-09-12",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
           "nivel": 2,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-09-12",
+          "nota": "Coto: jueves 15% jubilados y pensionados presentando DNI, todos los medios de pago, un pago, solo sucursales (sin fecha de fin publicada; se asume el mes)"
         }
       ]
     },
@@ -11120,7 +11408,7 @@
       "vigencia_desde": "2026-04-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11152,6 +11440,12 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "página 1 de hoy: EXCLUSIVO CUENTAS, 30% en Supermercados la Gallega todos los viernes, del 01/04 al 31/12/2026"
         }
       ]
     },
@@ -11736,9 +12030,15 @@
           "nivel": 1,
           "fecha": "2026-09-01",
           "nota": "el legal de hoy confirma \"sin tope de reintegro\" (antes tope_publicado:false por no saberlo)"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: miércoles de septiembre 2026, 10% sin tope, mínimo $15.000, en Maxi, Market, Express e Hiper (no Digital); descuento en caja"
         }
       ],
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta"
     },
     {
@@ -11756,9 +12056,9 @@
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
-      "requisitos": "Pagando en la caja con Cuenta DNI (no sirve el autocobro ni el pago online). Sin tope. Vale en sucursales de HiperChangoMás, ChangoMás y MásGO de varias localidades bonaerenses (y Viedma, Río Negro); no en todo el país. No acumulable con otras promociones bancarias.",
+      "requisitos": "Con dinero en cuenta (Clave DNI o QR) o por NFC con Visa crédito habilitada en la app (solo Android): 20% sin tope en los dos casos. En todos los Hiper ChangoMás, ChangoMás y MasGo. Solo consumo familiar. Del 7 al 30 de septiembre.",
       "zona": "Provincia de Buenos Aires",
-      "vigencia_desde": "2026-09-01",
+      "vigencia_desde": "2026-09-07",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
       "fuentes": [
@@ -11784,9 +12084,15 @@
           "nivel": 1,
           "fecha": "2026-09-01",
           "nota": "la zona real (segun el listado de localidades del legal) es mas amplia que AMBA: incluye Bahia Blanca, La Plata, Pergamino, Junin, Olavarria y Viedma (Rio Negro), entre otras"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal (cambió hoy): jueves del 07 al 30/09/2026, 20% sin tope con dinero en cuenta y también 20% sin tope con NFC Visa crédito, en todos los Hiper ChangoMás, ChangoMás y MasGo (ya no lista localidades)"
         }
       ],
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta",
       "acumulable": false
     },
@@ -15934,7 +16240,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-02",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15946,6 +16252,12 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "lectura del 3/9 (página 1 de 2): La Reina 25% todos los lunes, del 01/08 al 02/10/2026"
         }
       ]
     },
@@ -15969,7 +16281,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-09-29",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15981,6 +16293,12 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "lectura del 3/9 (página 1 de 2): Supermercados DAR - MODO 15% todos los martes, del 01/07 al 29/09/2026"
         }
       ]
     },
@@ -16005,7 +16323,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16017,6 +16335,12 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "lectura del 3/9 (página 1 de 2): Super Kilbel 20% miércoles y jueves, del 01/08 al 30/09/2026"
         }
       ]
     },
@@ -16041,7 +16365,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-28",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16053,6 +16377,12 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "lectura del 3/9 (página 1 de 2): Alvear 25% lunes y jueves, del 01/08 al 28/09/2026"
         }
       ]
     },
@@ -16206,9 +16536,15 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: sábados de septiembre 2026, 30%, tope unificado $8.000 por sábado y por persona"
         }
       ],
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta"
     },
     {
@@ -16236,9 +16572,15 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: viernes y sábados de septiembre y octubre 2026, 15% sin tope, solo Cooperativa Obrera de Lobos"
         }
       ],
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta"
     },
     {
@@ -16265,9 +16607,15 @@
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-12",
+          "nota": "legal: jueves del 19/03 al 24/09/2026, 30% NFC en tiendas físicas de Coto de CABA y GBA, sin tope"
         }
       ],
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-12",
       "confianza": "alta"
     },
     {
@@ -16294,9 +16642,15 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-03",
+          "nota": "lectura del 3/9 (página 1 de 2): Supermercados - Modo 20% todos los viernes, del 01/06 al 31/10/2026, +10% adicional clientes"
         }
       ],
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-03",
       "confianza": "alta"
     },
     {
@@ -16323,9 +16677,15 @@
           "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
           "nivel": 1,
           "fecha": "2026-09-01"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-09-02",
+          "nota": "lectura del 2/9 (10 resultados, completa): Super Kilbel 20% todos los viernes, del 01/09 al 31/10/2026"
         }
       ],
-      "verificado": "2026-09-01",
+      "verificado": "2026-09-02",
       "confianza": "alta"
     },
     {
@@ -16356,7 +16716,8 @@
         }
       ],
       "verificado": "2026-09-01",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Era solo el 9/9/2026 (Alvear 50%, Cuentas Paquete); ya pasó."
     },
     {
       "id": "supervielle-colectivos-mastercard",
@@ -19041,7 +19402,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-08",
+      "verificado": "2026-09-12",
       "id": "ciudad-coto-debito-finde-12-13-sep-20",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -19063,6 +19424,12 @@
           "nivel": 1,
           "fecha": "2026-09-08",
           "nota": "Coto | sabado, domingo | 20% | SIN TOPE | VISA DEBITO, MAESTRO | \"para el sábado 12 y domingo 13 de septiembre de 2026\""
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-09-12",
+          "nota": "Coto (hoy, nuevo): sábado y domingo 20% en un pago con Visa débito y Maestro, sin tope, sucursal y online; el texto de Coto no nombra al banco, coincide con la promo del Ciudad para el 12 y 13/9"
         }
       ],
       "fuente": "https://www.bancociudad.com.ar/beneficios/promo"

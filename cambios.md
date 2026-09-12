@@ -1,5 +1,57 @@
 # Cambios
 
+## 2026-09-12 — 42 promos cumplían 11 días y las fuentes las siguen publicando (Cuenta DNI, Personal Pay, Galicia, Santa Fe); 2 altas de Cuenta DNI por NFC; 6 promos de Coto revividas; la agenda otra vez no dio nada
+
+**575 promos (eran 573): 2 altas, 6 revividas, 1 retirada por vencida, 41 reverificadas (22 Cuenta DNI, 7 Personal Pay, 6 Galicia, 6 Santa Fe), 2 fuentes sumadas en Coto, 0 a `baja` por viejas.** Push: ver abajo. Visibles hoy: 431 (234 valen un sábado).
+
+### El workflow otra vez no disparó solo: lo lancé a mano
+A las 07:32 ARG todo `crudo/` decía `leido: 2026-09-11`. Disparé `workflow_dispatch` a las 07:32 ARG y el commit `2ea3798` ("Texto de las fuentes al 2026-09-12 07:42") llegó a las 07:43 ARG (11 minutos). Todo lo de abajo está fechado al 12/9 con esa lectura, salvo Santa Fe (ver abajo). Hoy vinieron vacías o viejas **Ciudad (queda la del 10/9), ICBC (queda la del 7/9), Shell (9/9)**, y siguen con `leido: 2026-08-27` **McDonald's y Musimundo**. Santander y Dr. Ahorro con `ERROR`. No toqué las promos de ninguna de esas.
+
+### ⚠ Lo importante del día: 42 promos iban a `baja` hoy por la regla de los 10 días
+Como avisó la corrida de ayer, hoy `validar.js` listó 42 promos con 11 días sin verificar, todas cargadas el 1/9: 21 de Cuenta DNI, 6 de Personal Pay, 6 de Galicia, 8 de Banco Santa Fe y la de Naranja X en Coto. Ninguna estaba en la agenda, pero mandarlas a `baja` sin mirar era esconder 40 promos que nadie retiró. Las crucé una por una contra el texto de hoy:
+
+- **Cuenta DNI (nivel 1, legal completo por la API del banco)**: las 22 que tenemos coinciden con su legal en día, %, tope y vigencia; les sumé la fuente de hoy con una nota con lo que dice el legal. Cambios que salieron del cruce:
+  - `cuenta-dni-nini`: teníamos "martes 1 y 8 de septiembre", el legal dice **martes 1, 8, 15 y 29**. `vigencia_hasta` pasa del 8/9 al **29/9**.
+  - `cuenta-dni-changomas-jueves`: el legal cambió hoy. Vale del 7 al 30/9, 20% sin tope con dinero en cuenta **y también por NFC con Visa crédito**, y ya no lista localidades (antes eran 35 localidades bonaerenses más Viedma). Actualicé `requisitos`.
+  - `cuenta-dni-toledo`: el legal cambió hoy, mismo 15% sin tope con dinero en cuenta, del 7 al 30/9; la novedad es el escalón NFC (ver altas).
+  - `cuenta-dni-universidades`: el legal dice tope **$6.000** por semana y nosotros tenemos $4.000 desde el 27/8 (la nota del 29/8 decía "gana el menor, mismo nivel"). Hoy ninguna parte del texto del banco dice $4.000. **Lo dejé en $4.000** porque un tope más bajo no le hace gastar de más a nadie, pero convendría que un humano decida si se sube a $6.000.
+  - La promo del Día del Maestro (11/9) desapareció del sitio, como corresponde; no la teníamos cargada.
+- **Personal Pay (nivel 1)**: la página 1 del listado (de 9 páginas) nombra las 6 con el mismo % y día (La Reina 10% sábado, Farmacia Central Oeste 20% miércoles, Farmalife 10% todos los días, Puma 10% sábado, Taxi Premium 30% lunes a miércoles, Go Bar 15% todos los días) y también Día 15% jueves. El listado no muestra tope ni vigencia; quedan con `tope_publicado: false`.
+- **Galicia (nivel 1)**: la portada sigue mostrando las 6 destacadas iguales (Starbucks 25%, Mimo 25% + 3 cuotas viernes, Jumbo 20% martes y jueves, Bridgestone 12 cuotas, Rex 6 cuotas, CCKonex 20% + 3 cuotas). Texto idéntico al de ayer.
+- **Coto (nivel 2)**: confirma `coto-naranja_x-martes-30` con los tres topes semanales por plan (Épico $12.000, Turbo $9.500, Inicial $3.000).
+- **Banco Santa Fe (Petersen, nivel 1)** — ⚠ **problema de receta**: el sitio pasó de 14 a 24 resultados y la receta lee solo la página 1 de 2 ("Resultados 1 - 12 de 24"). Por eso La Reina, DAR, Kilbel y Alvear no aparecen en `crudo/` desde el 8/9: **no es que el banco las sacó, es que quedaron en la página 2**. Les sumé la última lectura de este mes que sí las mostró, fechada a su día (3/9 para La Reina 25% lunes hasta 2/10, DAR 15% martes hasta 29/9, Kilbel 20% mié/jue hasta 30/9, Alvear 25% lun/jue hasta 28/9 y Supermercados MODO 20% viernes hasta 31/10; 2/9 para Kilbel 20% viernes hasta 31/10). Con eso hoy zafan, pero **mañana Kilbel viernes cumple 11 días y pasado las otras cinco**: hay que hacer que la receta de `petersen` recorra la paginación. La Gallega sí está en la página 1 de hoy (30% viernes hasta 31/12, exclusivo cuentas) y quedó verificada al 12/9.
+
+### Altas (2): los escalones NFC de Cuenta DNI (nivel 1)
+El legal de Día y el nuevo de Toledo traen dos descuentos distintos según cómo se pague, y el mayor no lo teníamos:
+- `cuenta-dni-dia-nfc-lunes-20`: lunes del 7 al 30/9, **20% sin tope** pagando por NFC con Visa crédito habilitada en Cuenta DNI (solo Android), en todos los Día. La de 10% con dinero en cuenta sigue aparte.
+- `cuenta-dni-toledo-nfc-martes-20`: martes del 7 al 30/9, **20% sin tope** por NFC con Visa crédito, en Toledo y Mini Toledo. La de 15% con dinero en cuenta sigue aparte.
+En ChangoMás el escalón NFC es el mismo 20%, así que fue a `requisitos` de la promo que ya estaba.
+
+### ⚠ Revividas (6): Coto las publica hoy y estaban en `baja` desde agosto — que lo mire un humano
+Coto (nivel 2, texto de hoy, 26 KB bien cargado) lista promos que teníamos apagadas con vigencia al 31/8. Las levanté con `vigencia_hasta: 2026-09-30` (Coto no publica fecha de fin para estas; las que sí la tienen dicen "del 01/09 al 30/09/2026") y la fuente de hoy:
+- `coto-credicoop-lunes-30`: 30% lunes con MODO desde la app Banca Credicoop, débito y crédito Cabal, **solo los lunes 7, 14 y 28/9**, tope $15.000 por usuario por semana. Credicoop (nivel 1) también la lista ("Coto MODO lunes 30%"). `vigencia_hasta` 28/9. La gemela `credicoop-coto-lunes` (sin tope) queda en `baja` para no duplicar.
+- `coto-tci-martes-20`: Coto la da ahora **los lunes** (en agosto era martes): 20% crédito TCI sin tope. Cambié `dias` a lunes; el id quedó viejo.
+- `coto-supervielle-martes-25`: 25% martes, ahora "pagando con MODO desde la app de Supervielle con débito y crédito del banco, sin tope, no acumula con la promo MODO de los martes". Reescribí `requisitos` (antes decía Segmento Identité, que también sigue apareciendo en Coto Digital como línea aparte). Supervielle (nivel 1) no lista Coto los martes.
+- `coto-ciudadania-portena-15` (martes y jueves 15%), `coto-jubilados-jueves-15` (jueves 15% presentando DNI, todos los medios) y `coto-comunidad-15` (miércoles 15% miembros de Comunidad Coto): igual que en agosto.
+No reviví las que Coto lista sin nombrar el banco (20% jueves Visa débito, 30% jueves Visa/Mastercard crédito, 10% lunes a jueves débito y crédito, 20% sábado y domingo "todos los medios dentro de la app"): sin banco no se puede cargar.
+
+### Fuentes sumadas (2)
+- `ciudad-coto-debito-finde-12-13-sep-20`: Coto sumó hoy "sábado y domingo 20% con Visa débito y Maestro, sin tope". No nombra al banco pero es calcada a la del Ciudad para el 12 y 13/9.
+- `coto-naranja_x-martes-30` (ya dicho arriba).
+
+### Retirada (1)
+- `santa_fe-alvear-especial-9sept-50`: era solo el 9/9; `baja_motivo` puesto, ya no molesta en la cola.
+
+### Agenda: qué se trabajó
+Pidió 7 (fravega, comafi, icbc, farmacity, la-anonima, maxiconsumo, hipotecario). Se miraron las 7 y **ninguna dio una promo nueva**, igual que ayer y antes de ayer:
+- **Frávega** ❌ 403 de CloudFront al runner (885 bytes). **Comafi** ❌ Cloudflare "Verificación de seguridad en curso" en los 5 rubros. **ICBC** ❌ vacía hoy; queda la lectura del 7/9 desde casa, que ya se trabajó entera del 8 al 10/9. Las tres solo se leen desde la PC de Lucía; la agenda las sigue pidiendo "enteras" porque cuenta el archivo con el 403 como leído.
+- **Farmacity** ❌ (nunca aportó): 821 bytes, solo el menú de la tienda ("Farmacity / Get The Look / Simplicity / The Food Market"). La URL `/promociones-bancarias` no muestra promos en texto.
+- **La Anónima** ❌ (nunca aportó): `403 Forbidden`, como todos los días desde el 3/9.
+- **Maxiconsumo** ❌ (nunca aportó): igual que ayer, la página de Moreno son 18 imágenes con link "LEGALES"; sin un %, banco ni día en el texto.
+- **Hipotecario** (la más abandonada): la portada de alianzas muestra una sola por carga; hoy Sueño Azul (jueves 25% débito tope $40.000, jueves 6 cuotas, 3 cuotas todos los días). No la cargué: **la página no dice la provincia** y la regla de la zona manda. Optilook sigue sin aparecer desde el 31/8.
+
+Para la agenda: cinco días seguidos pidiendo Frávega, Comafi e ICBC que no se pueden leer desde Actions, y tres fuentes "nuevas" que devuelven 403 o imágenes. Mientras tanto Cuenta DNI, Personal Pay y Galicia (que sí se leen bien y sostienen 35 promos) no entran porque "ya aportaron", y hoy casi se caen. Convendría que la agenda pese "promos que sostiene y están por cumplir 10 días" por encima de "nunca aportó".
+
 ## 2026-09-11 — Brubank confirma las 53 promos que hoy cumplían 11 días (iban a caerse todas a `baja` sin que el banco las hubiera sacado); 6 altas de Brubank (Chungo y Lucciano's); las 7 de la agenda no dieron nada nuevo
 
 **573 promos (eran 567): 6 altas, 61 reverificadas por Brubank, 3 por Cuenta DNI/Ualá, 1 fuente sumada, 4 a `baja` por viejas, 0 bajas.** Push: ver abajo. Visibles hoy: 418 (221 valen un jueves).
