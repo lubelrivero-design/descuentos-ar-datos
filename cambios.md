@@ -1,5 +1,49 @@
 # Cambios
 
+## 2026-09-13 — 40 promos cumplían 11 días y las fuentes las siguen publicando (ChangoMás, Carrefour, Jumbo/Disco/Vea, Credicoop, Petersen); 1 alta y 1 revivida en Carrefour; 1 baja (3 cuotas MODO en Cencosud); 3 correcciones de datos; la agenda otra vez no dio nada
+
+**576 promos (eran 575): 1 alta, 1 revivida, 1 retirada, 3 corregidas, 39 reverificadas al 13/9, 1 a `baja` por vieja (Kilbel viernes).** Push: ver abajo. Visibles hoy: 431 (216 valen un domingo).
+
+### El workflow otra vez no disparó solo: lo lancé a mano
+A las 07:33 ARG todo `crudo/` decía `leido: 2026-09-12`. Disparé `workflow_dispatch` a las 07:33 y el commit `265963f` ("Texto de las fuentes al 2026-09-13 07:42") llegó a las 07:43 (9 minutos). Todo lo de abajo está fechado al 13/9 con esa lectura. Siguen viejas **Ciudad (10/9), ICBC (7/9), Shell (9/9)** y **McDonald's y Musimundo (27/8)**; con `ERROR` **Santander y Dr. Ahorro**; con 403 o vacías **Frávega, La Anónima, Yaguar, Farmacity**. No toqué las promos de ninguna de esas.
+
+### ⚠ Lo importante del día: 40 promos iban a `baja` por la regla de los 10 días, y las fuentes las siguen publicando
+Igual que los dos días anteriores: `validar.js` listó 67 con 11 días sin verificar, de las cuales 40 estaban visibles (todas cargadas o releídas el 2/9). Ninguna estaba en la agenda. Las crucé una por una **por script contra el texto de hoy**, con una guarda por promo: si el texto de la fuente no contiene la tarjeta con ese día, % y tope, el script no la toca y lo avisa. Resultado: 39 confirmadas, 1 sin confirmar (Kilbel, ver abajo).
+
+- **ChangoMás (nivel 2, 116 KB, las siete pestañas)**: BNA+ 35% miércoles tope $15.000 semanal; Columbia 20% martes y sábados tope $10.000 semanal (vigencia 01/04 al 30/09); QR de billeteras 15% vie/sáb/dom sin tope; ANSES 10% tope $12.000 por compra; empleados públicos 10% (01/09 al 30/09, excluye Luján); MásClub 20% mié/jue en MasGO sin tope; Mercado Pago 15% martes sin tope; Patagonia 365 20% miércoles tope $10.000 mensual (hasta 31/10). De yapa confirmé **Hipotecario 25% martes con Visa débito, tope $10.000 mensual cartera general** (`hipotecario-changomas-martes`), que era de la fuente más abandonada de la agenda.
+- **Carrefour (nivel 2, 54 KB, con legales)**: las 11 coinciden en día, % y tope. Ojo con la maqueta: **el cartel del día va ANTES de cada tarjeta**, no después (lo verifiqué con tres tarjetas cuyo legal nombra el día). De ahí salieron dos correcciones y una revivida (abajo).
+- **Jumbo / Disco / Vea (nivel 2)**: Cencopay Cuenta 25% lunes tope $15.000; Cencopay 20% miércoles online; Cencopay 25% + 3 cuotas jueves en Vea (el legal de Vea dice galletitas, chocolates, golosinas, conservas y cervezas; el de Jumbo y Disco dice galletitas, bebidas sin alcohol, perfumería y limpieza: son listas distintas por cadena, dejé la de Vea como estaba); MODO 20% martes y jueves en Jumbo y viernes y sábados en Disco (compras de $100.000 o más, 01/06 al 30/09); Macro 3 cuotas jue-dom online. También **Hipotecario 25% martes con débito en Jumbo y Disco, tope $15.000 por mes** (`hipotecario-jumbo-martes`).
+- **Credicoop (nivel 1)**: Diarco 20%, Diarco Pueblo 15% y Diarco Mayorista 15%, sábados y domingos con MODO.
+- **Grupo Petersen (nivel 1)**: San Juan confirma Avícola Myriam 30% viernes hasta 31/10; Santa Cruz confirma La Anónima 20% vie/sáb hasta 31/10, DAR 15% martes, Diarco 15% sáb/dom hasta 27/09, Market Sur y Autoservicio Cerca 30% viernes hasta 30/10. Santa Fe confirma ChangoMás con MODO 20% lunes (`modo-changomas-lunes`), que Supervielle (nivel 1) también lista hoy con tope $25.000.
+
+### Alta (1)
+- `carrefour-empleados-publicos-miercoles-15`: Carrefour publica **dos** promos de empleados públicos, no una: la de los jueves (Santa Fe, Formosa, Neuquén, Salta, Río Negro, Tierra del Fuego y siete ciudades bonaerenses), que ya teníamos, y otra igual **los miércoles** en Chaco, Chubut, Córdoba, Corrientes, Tucumán, Santa Cruz, Jujuy, San Juan, Entre Ríos, Catamarca, La Rioja, San Luis, La Pampa y Mendoza. 15%, tope $20.000 mensual, hasta 30/09. El legal se contradice sobre Express y Maxi (los nombra y después los excluye): cargué la lectura estricta, Hiper y Market.
+
+### ⚠ Revivida (1): Carrefour la sigue publicando y estaba en `baja` desde el 2/9 — que lo mire un humano
+- `mp-carrefour-jueves-15`: 15% los jueves con dinero en cuenta de Mercado Pago, sin tope, mínimo $15.000, en Hiper, Market y Express (no Maxi ni online), hasta 30/09. El 2/9 se retiró creyendo que "pasó a 10% los viernes", pero Carrefour hoy tiene **las dos**: la de 15% jueves (Hiper/Market/Express) y la de 10% viernes (solo Maxi). Vuelve con `vigencia_hasta` 30/09 y la fuente de hoy.
+
+### Correcciones (3)
+- `mp-carrefour-maxi-viernes`: decía "Solo en Hiper, Market y Express. No vale en Maxi" y el legal dice exactamente lo contrario: **solo en Carrefour Maxi**, no online. Corregí `requisitos` y `comercios` (ahora "Carrefour Maxi"). Era el dato al revés, en la caja fallaba.
+- `cencopay-disco-vea-40-galletitas`: teníamos "todos los días" y la tarjeta del 40% en galletitas y cervezas aparece **solo en las pestañas viernes y sábado** de Jumbo, Disco y Vea (también era así el 2/9; no hay pestaña domingo, así que domingo no se puede afirmar). `dias` pasa a viernes y sábado. El tope es $15.000 **por día** (lo dice `requisitos`; `tope_periodo` quedó en "por compra" porque no hay un valor "diario" y no quise inventar uno sin ver cómo lo pinta la app).
+- `cuotas-naranja_x-jumbo-12`: el registro estaba mezclado (el id y `requisitos` decían 12 cuotas, `cuotas` decía 3). La tarjeta de Jumbo y Disco dice **"3 cuotas sin interés con Naranja X Plan Z, presencial y web, 01/08 al 30/09"**, en las pestañas de lunes a sábado. Quedó `cuotas: 3`, días lunes a sábado y el texto corregido; el id no lo toqué. La nota de iProfesional que decía 12 cuotas es nivel 4 y pierde.
+- Menor: `carrefour-banco-jueves-20` decía "Cuenta Digital o tarjeta de crédito Mastercard" y el legal solo nombra la crédito Mastercard. `santa_cruz-supermercados-dar-martes` vence el **29/09** según el banco (teníamos 28/09).
+
+### Retirada (1)
+- `modo-jumbo-disco-vea-jue-dom-3cuotas`: Jumbo, Disco y Vea listaron "3 cuotas sin interés en todo el surtido jue-dom pagando con MODO" hasta el **11/9** (tres pestañas en cada sitio) y desde el 12/9 no está en ninguno de los tres, en tres lecturas seguidas con las seis pestañas bien cargadas. Lo comprobé con el historial de `crudo/`. `vigencia_hasta` 11/9. La tarjeta parecida que queda es la de **Macro** (3 cuotas jue-dom online con Visa/Mastercard/Amex del banco), cuyo legal excluye MODO en cuotas; esa sigue viva y confirmada.
+
+### ⚠ A `baja` por vieja (1): Kilbel viernes, y es culpa de la receta, no del banco
+- `santa_fe-kilbel-viernes-20`: cumplió 11 días. Como avisó ayer la corrida, Banco Santa Fe pasó a 24 resultados y la receta de `petersen` lee solo la página 1 de 2 ("Resultados 1 - 12 de 24"); Kilbel quedó en la página 2 y hoy tampoco aparece en ninguna otra fuente. Regla de los 10 días: `confianza: "baja"`, la app la esconde. **No la retiré**: en cuanto la receta recorra la paginación (o Lucía corra `node tools/recolectar.js petersen` desde casa y suba `crudo/`) vuelve sola sumándole la fuente. No toqué la receta porque no puedo probarla desde acá (la URL de la página 2 no se ve en el texto y un `goto` fallido tumbaría los tres bancos). Mañana cumplen 11 días La Reina, DAR, Kilbel mié/jue y Alvear de Santa Fe, por el mismo motivo.
+
+### Agenda: qué se trabajó
+Pidió 7 (fravega, comafi, icbc, vital, yaguar, ypf, hipotecario). Se miraron las 7 y **ninguna dio una promo nueva desde su propio texto**, igual que los tres días anteriores:
+- **Frávega** ❌ 403 de CloudFront (885 bytes). **Comafi** ❌ Cloudflare "Verificación de seguridad en curso". **ICBC** ❌ vacía hoy; queda la del 7/9, ya trabajada.
+- **Vital** ❌ (nunca aportó): la página de promociones viene con las pestañas "Por día / Por medio de pago" y ningún cartel en el texto (1,3 KB). O las promos son imágenes o se cargan al tocar una pestaña: la receta necesita hacer eso.
+- **Yaguar** ❌ (nunca aportó): "Sorry, you have been blocked" (Cloudflare bloquea el runner).
+- **YPF** ❌ (nunca aportó): `/promociones` dice "Lo sentimos, esta página no está disponible en este momento". La URL de la receta está muerta; habría que buscar dónde publica YPF las promos de la app ahora.
+- **Hipotecario** (la más abandonada): la portada de alianzas muestra una sola por carga, hoy otra vez Sueño Azul (no dice provincia, no se carga). Pero sus dos promos de supermercados quedaron confirmadas hoy por el lado de los comercios: ChangoMás 25% martes (tope $10.000 mensual) y Jumbo/Disco 25% martes (tope $15.000 mensual), las dos con Visa débito desde app BH o MODO.
+
+Para la agenda, lo mismo que ayer: cuatro días seguidos pidiendo Frávega, Comafi e ICBC, que desde Actions no se leen, y tres "nuevas" que devuelven 403 o páginas vacías. Mientras tanto lo que sostiene la app (ChangoMás, Carrefour, Cencosud, Credicoop, Petersen, y antes Brubank y Cuenta DNI) llega al día 11 sin releerse y hay que rescatarlo a mano fuera de agenda. Convendría que pese "promos visibles que sostiene y están por cumplir 10 días" por encima de "nunca aportó".
+
 ## 2026-09-12 — 42 promos cumplían 11 días y las fuentes las siguen publicando (Cuenta DNI, Personal Pay, Galicia, Santa Fe); 2 altas de Cuenta DNI por NFC; 6 promos de Coto revividas; la agenda otra vez no dio nada
 
 **575 promos (eran 573): 2 altas, 6 revividas, 1 retirada por vencida, 41 reverificadas (22 Cuenta DNI, 7 Personal Pay, 6 Galicia, 6 Santa Fe), 2 fuentes sumadas en Coto, 0 a `baja` por viejas.** Push: ver abajo. Visibles hoy: 431 (234 valen un sábado).
