@@ -1,0 +1,11 @@
+{
+  "name": "descuentos-ar-datos",
+  "private": true,
+  "description": "Los datos de la app ¿Con qué pago? y la imagen del día para publicar.",
+  "scripts": {
+    "imagen": "node herramientas/imagen-del-dia.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1"
+  }
+}

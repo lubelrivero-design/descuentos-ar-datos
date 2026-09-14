@@ -1,0 +1,45 @@
+# Cada vez que cambian los datos (la rutina de la mañana pushea promos.json),
+# arma la imagen del día para publicar y la deja en hoy/.
+#
+# El commit lo hace el bot de GitHub, y ese commit no vuelve a disparar esto.
+# La página https://lubelrivero-design.github.io/conquepago/hoy.html la muestra.
+
+name: Imagen del día
+
+on:
+  push:
+    branches: [main]
+    paths: ['promos.json']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  imagen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm install --no-audit --no-fund
+      - run: npx playwright install --with-deps chromium
+
+      - name: Armar la imagen
+        run: node herramientas/imagen-del-dia.js
+
+      - name: Subirla
+        run: |
+          git config user.name  "imagen del dia"
+          git config user.email "imagen@users.noreply.github.com"
+          git add hoy/
+          if git diff --cached --quiet; then
+            echo "La imagen es igual a la de ayer."
+          else
+            git commit -m "Imagen del $(cat hoy/fecha.txt)"
+            git push
+          fi
