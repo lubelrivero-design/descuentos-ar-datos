@@ -180,7 +180,7 @@ function html(formato) {
   </style></head><body>
     <div class="cabeza"><div class="hoy">${esc(bonito)}</div><div class="titulo">Hoy te conviene</div></div>
     <div class="filas">${filas}</div>
-    <div class="pie"><img src="file:///${path.join(__dirname, 'icono.png').replace(/\\/g, '/')}" alt="">
+    <div class="pie"><img src="data:image/png;base64,${fs.readFileSync(path.join(__dirname, 'icono.png')).toString('base64')}" alt="">
       <div><div class="app">¿Con qué pago?</div><div class="sub">Todos tus descuentos, día por día · gratis en Google Play</div></div></div>
   </body></html>`;
 }
