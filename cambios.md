@@ -1,5 +1,55 @@
 # Cambios
 
+## 2026-09-15 — Las 40 visibles que hoy cumplían 11 días (Naranja X y Farmaonline) quedaron confirmadas con las lecturas de esta semana; Naranja X subió a 15 cuotas en electro y bajó Simmons a 12; 4 altas (Aerolíneas 9 cuotas, Essen 24, Cata, MODO 10% en Farmaonline); 2 revividas (Plusmar y deportes/Moov); Hipotecario por fin aportó desde su propia web
+
+**582 promos (eran 578): 4 altas, 2 revividas, 0 retiradas, 12 corregidas (7 de cuotas en Naranja X, 5 de cuotas en Farmaonline), 45 tocadas en total, 22 verificadas al 15/9 y otras 26 al 13 o 14/9.** Push: ver abajo. Visibles hoy: 428 con vigencia al 15/9 (224 valen un martes). Vencieron solas ayer las 4 de la Semana de la Pintura de ICBC.
+
+### El workflow otra vez no disparó solo: lo lancé a mano
+A las 07:33 ARG todo `crudo/` decía `leido: 2026-09-14`. Disparé `workflow_dispatch` a las 07:32 y el commit `29b652b` ("Texto de las fuentes al 2026-09-15 07:41") llegó a las 07:41 (9 minutos). Dato para Lucía: **el cron de ayer arrancó recién a las 11:15 ARG y quedó cancelado**; el de hoy directamente no había arrancado a las 07:32. Siguen viejas **ICBC (13/9, lectura desde casa, está bien), Ciudad (10/9), Shell (9/9)** y **McDonald's y Musimundo (27/8)**; con `ERROR` **Santander, Dr. Ahorro y Frávega**; con 403 o vacías **La Anónima, Yaguar, Farmacity, Comafi (Cloudflare)**. No toqué las promos de ninguna de esas.
+
+**Naranja X vino rota hoy** (2,8 KB, una sola tarjeta): la página cargó con la ubicación en "Dulles Town Center" (la IP del runner de GitHub es de Estados Unidos y la web geolocaliza), así que el listado de tarjetas no salió. Sí salió la portada con cuatro destacados, que usé (abajo). Para el listado usé las lecturas del 8, 10, 11, 13 y 14/9 que están en git (`git show <commit>:crudo/naranja-x.txt`), cada una fechada a su día. **Ojo con esto en la receta:** si la geolocalización se queda pegada en Estados Unidos, la lectura de Naranja X va a venir rota todos los días; habría que fijar la ubicación en la receta.
+
+### Lo importante del día: 40 visibles cumplían 11 días y las fuentes las siguen publicando
+`validar.js` listó 64 con más de 10 días, de las cuales 40 estaban visibles: 23 de Naranja X (nivel 1, todas releídas el 4/9) y 17 de Farmaonline (nivel 2, ídem). Ninguna estaba en la agenda. Las crucé por script con guarda por promo (si la fuente no trae el comercio con ese % y esas cuotas, no se toca).
+
+- **Naranja X (nivel 1)**: el listado de `/promociones` muestra siempre 33 tarjetas y **rota** cuál muestra cada día (Andesmar salió el 13/9 pero no el 14/9; Chevallier y Suavegom, el 10/9 y no después). Por eso cada promo quedó fechada a la **última lectura que la trajo**: 20 al 14/9, Andesmar al 13/9, Chevallier y Suavegom al 10/9. Ninguna quedó sin aparecer en la semana. Las 23: Megatone, Naldo, On City, Cetrogar, Musimundo, Frávega, Simmons, Samsung, La Cardeuse, Whirlpool, Suavestar, Cannon, Rosen, Piero, Suavegom (cuotas) y Andesmar, Chevallier, El Práctico, La Veloz del Norte, General Urquiza, Flecha Bus, El Norte (10% + 6 cuotas) y Shopgallery martes.
+- **Farmaonline (nivel 2, 28 KB, la página entera con los legales)**: hoy vino bien, y además la del 13/9 (27 KB, en `265963f`) era idéntica a la del 8/9. Las 18 con fuente Farmaonline quedaron confirmadas al 15/9 con el fragmento del legal en la nota: Credicoop 30% martes, BBVA 10% lunes, YOY 20% jueves, Mercado Pago 20% mar/jue y 15% finde, Supervielle jubilados 50%+50%, Santa Fe / San Juan / Santa Cruz 10% todos los días, Santander 10% miércoles, Galicia 15% jueves, Naranja X 20% martes y 3 cuotas, MODO 20% martes y 15% lunes, Mercado Pago 6 cuotas, Ciudad 10% viernes y Supervielle 6 cuotas. Todo coincide en día, % y tope.
+
+### ⚠ Correcciones de cuotas en Naranja X (7), para que lo mire un humano
+El emisor cambió los números y los venía publicando así **desde el 8/9 sin que nadie lo mirara** (Naranja X no estaba en la agenda):
+- **Musimundo, Megatone y Frávega: "Hasta 15 cuotas"** en las cinco lecturas del 8 al 14/9 (teníamos 12, 14 y 12). **On City, Cetrogar y Naldo: "Hasta 15 cuotas"** en la del 14/9 (la del 4/9 decía 12; teníamos 12). Pasan a 15. Los ids siguen diciendo `-12`/`-14`, no los cambié.
+- **Simmons: "Hasta 12 cuotas"** desde el 10/9 (el 4/9 y el 8/9 decía 18; teníamos 18). Baja a 12.
+- Contradicción conocida con Frávega: su página de legales del 13/9 dice "Naranja X 14 cuotas" y el emisor dice "hasta 15". Manda el emisor (nivel 1 sobre nivel 2), pero es la tercera vez que estos números se mueven (el 30/8 fue 14→15, el 4/9 volvió a 12). Si Lucía prefiere el número menor, se cambia en un minuto.
+- Además completé las cuotas que el legal de Farmaonline publica y no teníamos cargadas: YOY "+ hasta 6 cuotas", BBVA "+ hasta 3 cuotas", y los tres del grupo Petersen "+ 3 cuotas" (`yoy-farmaonline-jueves-20`, `bbva-farmaonline-lunes-10`, `santa_fe-`, `san_juan-` y `santa_cruz-farmaonline-10`).
+
+### Altas (4)
+- `cuotas-naranja_x-aerolineas-9` — **Aerolíneas Argentinas, 9 cuotas sin interés en vuelos nacionales, del 9 al 20 de septiembre**, crédito Naranja X. La tarjeta del listado ("Especial | Hasta 9 cuotas | Todos los días") está desde el 10/9 y la portada de hoy le puso la fecha y el alcance ("Del 9 al 20 de septiembre, 9 cuotas cero interés en vuelos nacionales"). Vence sola el domingo.
+- `cuotas-naranja_x-essen-24` — Essen, hasta 24 cuotas sin interés, crédito Naranja X (listado del 14/9; Essen había salido del listado en agosto y volvió).
+- `naranja-cata-10` — Cata (micros), 10% + 6 cuotas todos los días, crédito Naranja X, tope no publicado. Estaba en el listado del 4/9 y del 14/9 y era la única empresa de micros que no teníamos cargada.
+- `modo-farmaonline-14-20sep-10` — **MODO 10% de reintegro en Farmaonline, del 14 al 20 de septiembre**, compras desde $70.000, tope $10.000 por banco para toda la promo, con tarjetas de 18 entidades (Nación, Santander, BBVA, Galicia, los cuatro Petersen, Credicoop, Supervielle, Comafi, Columbia, ICBC, YOY, Macro, Ciudad, Buepp y Bancor). Es lo único nuevo en la página de Farmaonline contra el 13/9 (aparte de un cupón BEAUTY que no es medio de pago).
+
+### ⚠ Revividas (2), para que lo mire un humano
+- `naranja-plusmar-10` — Plusmar 10% + 6 cuotas: estaba en `baja` desde el 21/8 porque no aparecía; el listado del 14/9 la trae igual que a las otras seis de micros. Vuelve con `alta` (revivir es también poner la confianza, lección del 14/9).
+- `naranja-deportiva` — estaba en `baja` desde agosto como "Dexter, Stock Center, Moov, Adidas, lunes y martes, 20% + 6 cuotas". La portada de hoy dice **"Lunes y martes | Hasta 20% OFF + 9 cuotas cero interés | En deportes | Crédito"** y el listado del 14/9 nombra a **Moov** con "Hasta 20% off y 9 cuotas | Días seleccionados". La reviví **acotada a Moov** con 9 cuotas y `tope_publicado: false`; Dexter, Stock Center y Adidas no aparecen en ninguna lectura de la semana, así que quedaron afuera. Seven Sport y Exit salen con "20% + 6 cuotas, días seleccionados" y no las cargué porque no sé el día. Si Lucía entra a la ficha y ve las tiendas, se completa.
+
+### No cargadas de Naranja X, para que quede el rastro
+"Viajes Naranja X hasta 40% en viajes a Estados Unidos, del 14 al 27/9" (agencia propia, "hasta"); Punto Deportivo 8 cuotas viernes y sábados (no sé la provincia); In Store y On Sports 8 cuotas "días seleccionados"; Falabella venta telefónica/internet 6 cuotas.
+
+### Agenda: qué se trabajó
+Pidió 7 (fravega, comafi, icbc, la-anonima, maxiconsumo, vital, hipotecario). Se miraron las 7, pero las tres primeras ya se habían trabajado enteras ayer con la lectura desde casa del 13/9 y hoy no trajeron texto nuevo:
+- **Frávega** ❌ hoy `ERROR` (885 bytes). **Comafi** ❌ hoy Cloudflare (3 KB). **ICBC** ➖ sigue la lectura del 13/9 (221 KB), ya cruzada entera ayer. Nada que cambiar.
+- **La Anónima** ❌ (nunca aportó): 403 Forbidden, idéntico a ayer y a todos los días desde el 3/9. La única lectura buena que hay en git es la del 2/9 a las 19:38 (7 KB, desde casa).
+- **Maxiconsumo** ❌ (nunca aportó): 7,9 KB idénticos a ayer. La página de promociones de la sucursal Moreno tiene las pestañas Lunes a Domingo y **18 botones "LEGALES", pero las promos son imágenes**: en el texto no hay banco, % ni tope. La receta tendría que abrir cada "LEGALES".
+- **Vital** ❌ (nunca aportó): 1,3 KB idénticos a ayer. La página tiene los filtros "Por día / Por medio de pago" pero las tarjetas se cargan al hacer clic y el recolector no las ve. La receta tendría que clickear "Ver todos".
+- **Hipotecario** ✅ (la más abandonada, 16 días): **hoy la portada de alianzas rotó a "Másonline + MODO"** y dice martes 25% con débito por MODO desde app BH o app MODO, tope mensual $10.000 (Búho $30.000), en ChangoMás y masonline.com.ar. Es exactamente `hipotecario-changomas-martes`, que hasta hoy se sostenía solo con la página de ChangoMás; le sumé el banco como fuente nivel 1. Primera vez que esta fuente aporta desde el 30/8. La portada rota cada tres o cuatro días (Giannoni 2 al 7/9, Los Fresnos 8 al 10, Sueño Azul 11 al 14, hoy súper), así que no sirve para verificar nada a pedido: la receta tendría que entrar a cada `/alianzas-bh/<comercio>/`.
+
+### Para Lucía
+1. **Naranja X geolocalizada en Estados Unidos**: si mañana vuelve a venir con una sola tarjeta, es eso. La receta tendría que fijar la ubicación.
+2. **Cuotas de Naranja X en electro (15) y Simmons (12)**: cambiaron según el emisor; Frávega dice 14. ¿Dejamos el número del emisor?
+3. **Deportes de Naranja X**: quedó solo Moov. ¿Dexter, Stock Center y Adidas siguen?
+4. **El cron del recolector**: ayer arrancó a las 11:15 y quedó cancelado; hoy no arrancó. Ya son 4 días seguidos lanzándolo a mano.
+5. Maxiconsumo (legales en botones), Vital (tarjetas por clic) e Hipotecario (una alianza por carga) necesitan receta propia para aportar algo alguna vez.
+
 ## 2026-09-14 — Lucía subió ICBC, Comafi y Frávega desde casa (13/9 20:01): las 97 promos de esas tres fuentes cruzadas una por una contra la lectura nueva; 2 altas de ICBC; 2 de Coto con ICBC que estaban en `baja` por error desde el 8/9, revividas; Carrefour confirma sus 2 que cumplían 11 días; 5 de Banco Santa Fe a `baja` por la paginación
 
 **578 promos (eran 576): 2 altas, 2 revividas, 0 retiradas, 4 corregidas, 146 verificadas al 13 o 14/9 (62 ICBC, 22 Comafi, 13 Frávega, 2 Carrefour y las de ayer), 5 a `baja` por viejas (Banco Santa Fe, página 2).** Push: ver abajo. Visibles hoy: 362 con vigencia al 14/9 (180 valen un lunes). *Ojo: ayer decía 431 porque contaba sin mirar la vigencia; con la misma cuenta de hoy, ayer daba 368.*

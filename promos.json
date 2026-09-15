@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14",
+  "actualizado": "2026-09-15",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -648,7 +648,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.hipotecario.com.ar/alianzas-bh/changomas/",
-      "verificado": "2026-09-13",
+      "verificado": "2026-09-15",
       "confianza": "alta",
       "fuentes": [
         {
@@ -679,6 +679,12 @@
           "nivel": 2,
           "fecha": "2026-09-13",
           "nota": "martes 25% Visa débito Hipotecario, tope mensual $10.000 cartera general y $30.000 Búho One/Sueldo/Emprendedor/Jubilado"
+        },
+        {
+          "url": "https://www.hipotecario.com.ar/alianzas-bh/",
+          "nivel": 1,
+          "fecha": "2026-09-15",
+          "nota": "Portada: Másonline + MODO, martes 25% OFF con débito pagando con MODO desde app BH o app MODO, tope mensual $10.000 (Búho One/Sueldo/Jubilado/Emprendedor $30.000), en ChangoMás y masonline.com.ar"
         }
       ],
       "tope_publicado": true
@@ -743,7 +749,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-09-05",
+      "verificado": "2026-09-15",
       "confianza": "alta",
       "fuentes": [
         {
@@ -791,6 +797,12 @@
           "nivel": 2,
           "fecha": "2026-09-02",
           "nota": "Naranja X \"martes del mes de septiembre 2026\", 80.000 reintegros"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-15",
+          "nota": "Portada Naranja X: \"Martes | Hasta 25% OFF | En súper | Con Plan Turbo | Crédito\""
         }
       ]
     },
@@ -836,10 +848,7 @@
       "medio_nombre": "Naranja X",
       "rubro": "indumentaria",
       "comercios": [
-        "Dexter",
-        "Stock Center",
-        "Moov",
-        "Adidas"
+        "Moov"
       ],
       "dias": [
         "lunes",
@@ -848,21 +857,34 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjeta de crédito Naranja X. En Adidas son 20% + Plan Zeta sin interés.",
+      "requisitos": "Hasta 20% segun el plan de tu tarjeta de credito Naranja X, en 9 cuotas sin interes. La web no publica el tope.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-08-21",
-      "confianza": "baja",
-      "cuotas": 6,
+      "verificado": "2026-09-15",
+      "confianza": "alta",
+      "cuotas": 9,
       "fuentes": [
         {
           "url": "https://www.naranjax.com/promociones",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Listado: \"Hasta 20% off y 9 cuotas cero interés | Días seleccionados en Moov | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-15",
+          "nota": "Portada: \"Lunes y martes | Hasta 20% OFF + 9 cuotas cero interés | En deportes | Crédito\""
         }
-      ]
+      ],
+      "tope_publicado": false
     },
     {
       "id": "naranja-transporte",
@@ -3795,7 +3817,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 14,
+      "cuotas": 15,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -3803,7 +3825,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3816,6 +3838,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días\" con crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Especial | Hasta 15 cuotas cero interés | Todos los días en Megatone | Crédito\""
         }
       ]
     },
@@ -3837,7 +3865,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 12,
+      "cuotas": 15,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -3845,7 +3873,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3858,6 +3886,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Naldo: hasta 12 cuotas (antes teníamos 14)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Especial | Hasta 15 cuotas cero interés | Todos los días en Naldo | Crédito\""
         }
       ]
     },
@@ -3879,7 +3913,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 12,
+      "cuotas": 15,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -3887,7 +3921,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3900,6 +3934,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días\" con crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Especial | Hasta 15 cuotas cero interés | Todos los días en On City | Crédito\""
         }
       ]
     },
@@ -3921,7 +3961,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 12,
+      "cuotas": 15,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -3929,7 +3969,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3942,6 +3982,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días\" con crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Especial | Hasta 15 cuotas cero interés | Todos los días en Cetrogar | Crédito\""
         }
       ]
     },
@@ -3963,7 +4009,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 12,
+      "cuotas": 15,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -3971,7 +4017,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -3984,6 +4030,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días\" con crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Especial | Hasta 15 cuotas cero interés | Todos los días en Musimundo | Crédito\""
         }
       ]
     },
@@ -4818,7 +4870,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 12,
+      "cuotas": 15,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -4826,7 +4878,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-09-13",
+      "verificado": "2026-09-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4851,6 +4903,12 @@
           "nivel": 2,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9: página de legales idéntica a la del 7/9. NARANJA: 14 cuotas (se mantiene 12 porque Naranja X, emisor, publica \"hasta 12\"), válida del 01 al 30 de septiembre de 2026"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Especial | Hasta 15 cuotas cero interés | Todos los días en Fravega | Crédito\""
         }
       ]
     },
@@ -4872,7 +4930,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 18,
+      "cuotas": 12,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -4880,7 +4938,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4893,6 +4951,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Simmons: hasta 18 cuotas (antes 12)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días en Simmons | Crédito\""
         }
       ]
     },
@@ -6099,7 +6163,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6113,6 +6177,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días\" con crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días en Samsung | Crédito\""
         }
       ]
     },
@@ -6141,7 +6211,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6155,6 +6225,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "La Cardeuse: hasta 12 cuotas, todos los días"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días en La Cardeuse | Crédito\""
         }
       ]
     },
@@ -6256,7 +6332,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-13",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6270,6 +6346,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Andesmar: hasta 10% off y 6 cuotas, todos los días, crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-13",
+          "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Andesmar | Crédito\""
         }
       ]
     },
@@ -6299,7 +6381,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-10",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6313,6 +6395,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Chevallier: hasta 10% off y 6 cuotas, todos los días, crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-10",
+          "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Chevallier | Crédito\""
         }
       ]
     },
@@ -6337,12 +6425,12 @@
       "cuotas": 6,
       "requisitos": "Con tarjeta de credito Naranja X. La web no publica el tope.",
       "fuente": "https://www.naranjax.com/promociones",
-      "confianza": "baja",
+      "confianza": "alta",
       "tope_publicado": false,
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-08-21",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-09-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6350,6 +6438,12 @@
           "url": "https://www.naranjax.com/promociones",
           "nivel": 1,
           "fecha": "2026-08-21"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Plusmar | Crédito\""
         }
       ]
     },
@@ -6379,7 +6473,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6393,6 +6487,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "El Practico: hasta 10% off y 6 cuotas, todos los días, crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"10% off y 6 cuotas cero interés | Todos los días en El Practico | Crédito\""
         }
       ]
     },
@@ -6422,7 +6522,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6436,6 +6536,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "La Veloz del Norte: hasta 10% off y 6 cuotas, todos los días, crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en La Veloz del Norte | Crédito\""
         }
       ]
     },
@@ -6465,7 +6571,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6479,6 +6585,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "General Urquiza Transportes: hasta 10% off y 6 cuotas, todos los días, crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en General Urquiza Transportes | Crédito\""
         }
       ]
     },
@@ -6508,7 +6620,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6522,6 +6634,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Flecha Bus: hasta 10% off y 6 cuotas, todos los días, crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Flecha Bus | Crédito\""
         }
       ]
     },
@@ -6545,7 +6663,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6559,6 +6677,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Shopgallery: 10% off y 9 cuotas, los martes, crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"10% off y 9 cuotas cero interés | Los martes en Shopgallery | Crédito\""
         }
       ]
     },
@@ -6984,7 +7108,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-08",
+      "verificado": "2026-09-15",
       "tope_monto": 10000,
       "tope_periodo": "por compra",
       "fuentes": [
@@ -7032,6 +7156,12 @@
           "nivel": 1,
           "fecha": "2026-09-08",
           "nota": "Farmaonline | viernes | 10% + 6 cuotas | tope $10.000 por transacción | online"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "10% reintegro tope $10.000/transacción + hasta 6 cuotas, viernes, crédito Visa/Master Banco Ciudad por QR MODO desde Buepp o App Ciudad, 01/05 al 31/10/2026"
         }
       ],
       "cuotas": 6
@@ -8639,7 +8769,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-05",
+      "verificado": "2026-09-15",
       "confianza": "alta",
       "fuentes": [
         {
@@ -8663,6 +8793,12 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "hasta 6 cuotas Visa/MC de paquete Supervielle, todos los días, 29/06 al 30/09/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "Hasta 6 cuotas sin interés todos los días con crédito Visa/Master de paquete Supervielle, 29/06 al 30/09/2026"
         }
       ]
     },
@@ -8791,7 +8927,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "confianza": "alta",
       "id": "cuotas-naranja_x-whirlpool-12",
       "medio": "naranja_x",
@@ -8824,6 +8960,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días\" con crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días en Whirlpool | Crédito\""
         }
       ]
     },
@@ -8833,7 +8975,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "confianza": "alta",
       "id": "cuotas-naranja_x-suavestar-14",
       "medio": "naranja_x",
@@ -8866,6 +9008,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Suavestar: hasta 14 cuotas, todos los días"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días en Suavestar | Crédito\""
         }
       ]
     },
@@ -8875,7 +9023,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "confianza": "alta",
       "id": "cuotas-naranja_x-cannon-14",
       "medio": "naranja_x",
@@ -8908,6 +9056,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Cannon: hasta 14 cuotas, todos los días"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días en Cannon | Crédito\""
         }
       ]
     },
@@ -8917,7 +9071,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "confianza": "alta",
       "id": "cuotas-naranja_x-rosen-14",
       "medio": "naranja_x",
@@ -8950,6 +9104,12 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Rosen: hasta 14 cuotas, todos los días"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días en Rosen | Crédito\""
         }
       ]
     },
@@ -15904,7 +16064,7 @@
       "vigencia_hasta": null,
       "confianza": "alta",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "fuentes": [
         {
           "url": "https://www.farmaonline.com/promociones-bancarias",
@@ -15915,6 +16075,12 @@
           "url": "https://www.farmaonline.com/promociones-bancarias",
           "nivel": 2,
           "fecha": "2026-09-04",
+          "nota": "30% reintegro tope $9.000/usuario/semana, martes, Cabal por QR MODO en 1 pago, desde 01/11/2025 sin fecha de fin"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
           "nota": "30% reintegro tope $9.000/usuario/semana, martes, Cabal por QR MODO en 1 pago, desde 01/11/2025 sin fecha de fin"
         }
       ]
@@ -15940,7 +16106,7 @@
       "vigencia_hasta": "2026-09-30",
       "confianza": "alta",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "fuentes": [
         {
           "url": "https://www.farmaonline.com/promociones-bancarias",
@@ -15952,8 +16118,15 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "10% reintegro + hasta 3 cuotas MODO los lunes, tope $10.000/usuario/mes, crédito BBVA por QR MODO, 01/07 al 30/09/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "10% reintegro tope $10.000/usuario/mes + hasta 3 cuotas, lunes, crédito BBVA por QR MODO, 01/07 al 30/09/2026"
         }
-      ]
+      ],
+      "cuotas": 3
     },
     {
       "id": "yoy-farmaonline-jueves-20",
@@ -15976,7 +16149,7 @@
       "vigencia_hasta": "2026-09-30",
       "confianza": "alta",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "fuentes": [
         {
           "url": "https://www.farmaonline.com/promociones-bancarias",
@@ -15988,8 +16161,15 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "20% + hasta 6 cuotas, jueves, YOY MC crédito / Visa débito por MODO, tope $5.000/usuario/semana, hasta 30/09/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "20% + hasta 6 cuotas, jueves, YOY Mastercard crédito y Visa débito por MODO, tope $5.000/usuario/semana, 1/12/2025 al 30/09/2026"
         }
-      ]
+      ],
+      "cuotas": 6
     },
     {
       "id": "mp-farmaonline-mar-jue-20",
@@ -16013,7 +16193,7 @@
       "vigencia_hasta": "2026-09-30",
       "confianza": "alta",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "fuentes": [
         {
           "url": "https://www.farmaonline.com/promociones-bancarias",
@@ -16024,6 +16204,12 @@
           "url": "https://www.farmaonline.com/promociones-bancarias",
           "nivel": 2,
           "fecha": "2026-09-04",
+          "nota": "20% tope $16.000 en compras >$80.000, martes y jueves, primera compra con TC Mercado Pago, 01/07 al 30/09/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
           "nota": "20% tope $16.000 en compras >$80.000, martes y jueves, primera compra con TC Mercado Pago, 01/07 al 30/09/2026"
         }
       ]
@@ -16050,7 +16236,7 @@
       "vigencia_hasta": "2026-09-30",
       "confianza": "alta",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "fuentes": [
         {
           "url": "https://www.farmaonline.com/promociones-bancarias",
@@ -16062,6 +16248,12 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "15% sáb y dom en compras ≥$70.000, tope $12.000 por usuario, dinero en cuenta MP, 01/08 al 30/09/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "15% tope $12.000 en compras >$70.000, sábados y domingos, dinero en cuenta Mercado Pago, 01/08 al 30/09/2026"
         }
       ]
     },
@@ -16086,7 +16278,7 @@
       "vigencia_hasta": "2026-11-30",
       "confianza": "alta",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "fuentes": [
         {
           "url": "https://www.farmaonline.com/promociones-bancarias",
@@ -16098,6 +16290,12 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "50% Visa Débito Previsional (tope $6.000/mes) + 50% por MODO (tope $6.000/mes), martes, 01/07 al 30/11/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "Jubilados Supervielle: 50% Visa débito (tope $6.000/cuenta/mes) + 50% por MODO (tope $6.000/cliente/mes), martes, 1/07 al 30/11/2026"
         }
       ]
     },
@@ -16128,7 +16326,7 @@
       "vigencia_hasta": "2026-09-30",
       "confianza": "alta",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "fuentes": [
         {
           "url": "https://www.farmaonline.com/promociones-bancarias",
@@ -16140,8 +16338,15 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "10% reintegro tope $10.000/cuenta/mes + 3 cuotas, todos los días, Visa/MC de Entre Ríos, San Juan, Santa Fe o Santa Cruz por MODO, 01/07 al 30/09/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "10% reintegro tope $10.000/cuenta/mes + 3 cuotas, todos los días, crédito Visa/Master de Entre Ríos, San Juan, Santa Fe o Santa Cruz por MODO, 01/07 al 30/09/2026"
         }
-      ]
+      ],
+      "cuotas": 3
     },
     {
       "id": "san_juan-farmaonline-10",
@@ -16170,7 +16375,7 @@
       "vigencia_hasta": "2026-09-30",
       "confianza": "alta",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "fuentes": [
         {
           "url": "https://www.farmaonline.com/promociones-bancarias",
@@ -16182,8 +16387,15 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "el legal nombra a Banco San Juan: 10% + 3 cuotas por MODO, tope $10.000/mes, hasta 30/09/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "10% reintegro tope $10.000/cuenta/mes + 3 cuotas, todos los días, crédito Visa/Master de Entre Ríos, San Juan, Santa Fe o Santa Cruz por MODO, 01/07 al 30/09/2026"
         }
-      ]
+      ],
+      "cuotas": 3
     },
     {
       "id": "santa_cruz-farmaonline-10",
@@ -16212,7 +16424,7 @@
       "vigencia_hasta": "2026-09-30",
       "confianza": "alta",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "fuentes": [
         {
           "url": "https://www.farmaonline.com/promociones-bancarias",
@@ -16224,8 +16436,15 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "el legal nombra a Banco Santa Cruz: 10% + 3 cuotas por MODO, tope $10.000/mes, hasta 30/09/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "10% reintegro tope $10.000/cuenta/mes + 3 cuotas, todos los días, crédito Visa/Master de Entre Ríos, San Juan, Santa Fe o Santa Cruz por MODO, 01/07 al 30/09/2026"
         }
-      ]
+      ],
+      "cuotas": 3
     },
     {
       "id": "modo-jumbo-martes-jueves-19",
@@ -17619,9 +17838,15 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Piero: hasta 14 cuotas cero interés, todos los días, crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días en Piero | Crédito\""
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "confianza": "alta"
     },
     {
@@ -17656,9 +17881,15 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "Suavegom: hasta 14 cuotas cero interés, todos los días, crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-10",
+          "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días en Suavegom | Crédito\""
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-10",
       "confianza": "alta"
     },
     {
@@ -17694,9 +17925,15 @@
           "nivel": 1,
           "fecha": "2026-09-04",
           "nota": "El Norte: hasta 10% off y 6 cuotas, todos los días, crédito"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en El Norte | Crédito\""
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-14",
       "confianza": "alta"
     },
     {
@@ -17963,9 +18200,15 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "10% reintegro sin tope + hasta 6 cuotas, miércoles 2, 9, 16, 23 y 30 de septiembre de 2026, Santander Visa con paquete"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "10% reintegro sin tope + hasta 6 cuotas, miércoles 2, 9, 16, 23 y 30 de septiembre 2026, Santander Visa crédito/débito, clientes con paquete, no MODO ni Mercado Pago"
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "confianza": "alta"
     },
     {
@@ -17995,9 +18238,15 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "15% reintegro + hasta 3 cuotas en compras ≥$40.000, jueves, tope $10.000/mes, Galicia por QR MODO, 07/05 al 30/09/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "15% + hasta 3 cuotas en compras ≥$40.000, jueves, tope $10.000/mes, Galicia débito/Visa/Master/Amex por QR MODO, 07/05 al 30/09/2026"
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "confianza": "alta"
     },
     {
@@ -18027,9 +18276,15 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "20% reintegro tope $9.000 + 3 cuotas, martes 1, 8, 15, 22 y 29 de septiembre de 2026, Naranja X Plan Z"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "20% reintegro tope $9.000 + 3 cuotas, martes 1, 8, 15, 22 y 29 de septiembre 2026, Naranja X Plan Z en 3 cuotas"
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "confianza": "alta"
     },
     {
@@ -18064,9 +18319,15 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "3 cuotas sin interés todos los días, Naranja X Plan Z, 01/07 al 30/09/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "3 cuotas sin interés todos los días, Naranja X Plan Z, 01/07 al 30/09/2026"
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "confianza": "alta"
     },
     {
@@ -18095,9 +18356,15 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "20% reintegro en compras ≥$70.000 por MODO, martes, tope $16.000 por banco por semana, 07/07 al 29/09/2026, 18 bancos nombrados"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "MODO 20% reintegro tope $16.000/banco/semana en compras ≥$70.000, martes, 07/07 al 29/09/2026, bancos: Nación, Santander, BBVA, Galicia, Santa Fe, Entre Ríos, San Juan, Santa Cruz, Supervielle, Credicoop, Comafi, Columbia, ICBC, YOY, Macro, Ciudad, Buepp y Bancor"
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "confianza": "alta"
     },
     {
@@ -18126,9 +18393,15 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "15% reintegro por MODO con Mastercard, lunes, tope $5.000/usuario/semana, 13/07 al 12/10/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "MODO 15% reintegro tope $5.000/usuario/semana, lunes, Mastercard débito/crédito de entidades adheridas, 13/07 al 12/10/2026"
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "confianza": "alta"
     },
     {
@@ -18163,9 +18436,15 @@
           "nivel": 2,
           "fecha": "2026-09-04",
           "nota": "hasta 6 cuotas sin interés en compras >$80.000 con TC Mercado Pago, 07/08 al 31/12/2026"
+        },
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "Hasta 6 cuotas sin interés en compras >$80.000 con TC Mercado Pago, 07/08 al 31/12/2026"
         }
       ],
-      "verificado": "2026-09-04",
+      "verificado": "2026-09-15",
       "confianza": "alta"
     },
     {
@@ -24412,6 +24691,155 @@
           "nota": "PERFUMERIAS PIGMENTO | \"18 A 20 DE SEPTIEMBRE\" | 6 cuotas sin interés | VISA, MASTER | 18/09/2026 al 20/09/2026; legal: válida en la República Argentina"
         }
       ]
+    },
+    {
+      "id": "cuotas-naranja_x-aerolineas-9",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "viajes",
+      "comercios": [
+        "Aerolíneas Argentinas"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 9,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Vuelos nacionales, del 9 al 20 de septiembre. Solo con tarjeta de credito Naranja X.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-09",
+      "vigencia_hasta": "2026-09-20",
+      "fuente": "https://www.naranjax.com/promociones",
+      "fuentes": [
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Especial | Hasta 9 cuotas cero interés | Todos los días en Aerolineas Argentinas | Crédito\""
+        }
+      ],
+      "verificado": "2026-09-14",
+      "confianza": "alta"
+    },
+    {
+      "id": "cuotas-naranja_x-essen-24",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "hogar",
+      "comercios": [
+        "Essen"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 24,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Solo con tarjeta de credito Naranja X.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.naranjax.com/promociones",
+      "fuentes": [
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"Hasta 24 cuotas cero interés | Todos los días en Essen | Crédito\""
+        }
+      ],
+      "verificado": "2026-09-14",
+      "confianza": "alta"
+    },
+    {
+      "id": "naranja-cata-10",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "transporte",
+      "comercios": [
+        "Cata"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "cuotas": 6,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tarjeta de credito Naranja X. La web no publica el tope.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://www.naranjax.com/promociones",
+      "fuentes": [
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-14",
+          "nota": "Naranja X: \"10% off y 6 cuotas cero interés | Todos los días en Cata | Crédito\""
+        }
+      ],
+      "verificado": "2026-09-14",
+      "confianza": "alta"
+    },
+    {
+      "id": "modo-farmaonline-14-20sep-10",
+      "medio": "modo",
+      "medio_nombre": "MODO",
+      "rubro": "farmacia",
+      "comercios": [
+        "Farmaonline"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": 10000,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Del 14 al 20 de septiembre, compras desde $70.000 en farmaonline.com pagando con MODO con tarjetas de Nacion, Santander, BBVA, Galicia, Santa Fe, Entre Rios, San Juan, Santa Cruz, Credicoop, Supervielle, Comafi, Columbia (solo app del banco), ICBC, YOY, Macro, Ciudad, Buepp o Bancor. El tope de $10.000 es por banco y para toda la promo, no por compra.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-14",
+      "vigencia_hasta": "2026-09-20",
+      "fuente": "https://www.farmaonline.com/promociones-bancarias",
+      "fuentes": [
+        {
+          "url": "https://www.farmaonline.com/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-09-15",
+          "nota": "10% reintegro tope $10.000 por banco por promoción, compras ≥$70.000 por MODO, 14/09 al 20/09/2026, 18 entidades adheridas"
+        }
+      ],
+      "verificado": "2026-09-15",
+      "confianza": "alta"
     }
   ]
 }
