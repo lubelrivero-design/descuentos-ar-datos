@@ -1,5 +1,46 @@
 # Cambios
 
+## 2026-09-16 — Las 28 visibles que hoy cumplían 11 días (18 de Supervielle, 9 de Día, 1 de Diarco) quedaron confirmadas con el texto de hoy, todas iguales; 1 alta (Clarín 365 en Diarco Barrio); Cuenta DNI en Día confirmada también desde la página de Día; Rappi solo confirma vigencias; la agenda pidió 7 fuentes y 6 no trajeron nada
+
+**583 promos (eran 582): 1 alta, 0 revividas, 0 retiradas, 0 corregidas, 35 verificadas al 16/9 (28 por los 11 días, 2 de Cuenta DNI en Día, 4 de Rappi y la nueva), 10 puntuales ya vencidas con `baja_motivo` para limpiar la cola.** Push: ver abajo. Visibles hoy: 426 con vigencia al 16/9 (204 valen un miércoles). Ninguna visible queda con más de 10 días sin verificar.
+
+### El workflow otra vez no disparó solo: lo lancé a mano (quinto día seguido)
+A las 07:32 ARG todo `crudo/` decía `leido: 2026-09-15` y el último run del cron era el de ayer a las 09:45 ARG. Disparé `workflow_dispatch` a las 07:32 y el commit `7c02b8c` ("Texto de las fuentes al 2026-09-16 07:41") llegó a los 9 minutos. Siguen viejas **ICBC (13/9, lectura desde casa), Ciudad (10/9), Shell (9/9), McDonald's y Musimundo (27/8)**; con `ERROR` **Santander y Dr. Ahorro**; bloqueadas **La Anónima, Yaguar (Cloudflare), Farmacity, Frávega (403), Comafi (Cloudflare)**. **Hoy vinieron cortas MODO (1,2 KB, solo el menú), Macro (7 KB, perdió 96 líneas), Vea (perdió 166 líneas) y Disco (perdió 214 líneas)**: páginas que no terminaron de cargar, no cambios de promos. **Naranja X sigue rota (2,6 KB)**, seguramente la geolocalización en Estados Unidos de ayer. No toqué las promos de ninguna de esas.
+
+### Lo importante del día: 28 visibles cumplían 11 días y las fuentes las siguen publicando igual
+`validar.js` arrancó con 61 promos de más de 10 días, de las cuales 28 estaban visibles: 18 de Supervielle (nivel 1), 9 de Día (nivel 2) y 1 de Diarco (nivel 2). Ninguna estaba en la agenda. Las crucé por script con guarda por promo contra el texto de hoy (si la fuente no trae el comercio con ese día, ese % y ese tope, no se toca): **las 28 pasaron, sin una sola diferencia.**
+- **Supervielle (25 KB, los 6 rubros, idéntico a ayer letra por letra)**: ChangoMás lunes 20% tope $25.000, Modo Market martes, El Puente jue/vie/sáb, La Ilusión lunes 15%, jubilados en ChangoMás martes, Shell domingo 10%, farmacias jubilados martes 50% tope $6.000, Farmacity online martes, Átomo y Aiello martes, colectivos Mastercard NFC 50% tope $15.000, Cabify 50% tope $4.000, farmacias Mastercard lunes 15%, MásGO domingo y lunes, y las cuotas de Easy (6 y 9 el finde), Blaisten (6) y Coto Electro (18).
+- **Día (39 KB, con los legales)**: Banco del Sol martes 25% tope $10.000 al 30/9; Columbia lunes y viernes 20% tope $10.000 por transacción al 30/9; Corrientes mié/jue 30% desde Más Banco tope $20.000 al 31/12; Credicoop miércoles ($60.000 → $15.000, "miércoles de agosto y septiembre"); Ciudadanía Porteña lun/jue 15% sin tope al 30/9; 3 cuotas los sábados al 30/9; Sidecreer domingos en Entre Ríos al 30/11; MODO vie/sáb del 1 al 30/9 tope $20.000 por banco.
+- **Diarco**: "4 cuotas cero interés · Naranja X · Todos los días" sigue publicada para Diarco Mayorista. **Ojo:** el legal de abajo sigue diciendo "del 01/08/26 al 31/08/26" (Diarco no lo actualizó; el de Macro dice lo mismo). La dejé porque la página la publica hoy como vigente, con la nota en la fuente.
+
+### Alta (1)
+- `clarin365-diarco-barrio-miercoles-10` — **Clarín 365 en Diarco Barrio, miércoles, 10% (15% si además sos socio de Diarco Club)**, compra mínima $25.000 en un ticket, sin tope, con cualquier medio de pago (efectivo, débito, crédito en un pago o billeteras), no incluye carnes, pollo ni embutidos. Es la única novedad de Diarco contra ayer. Como no es un medio de pago, va con `medio: cualquiera` igual que el Club La Nación en Carrefour. El legal no dice hasta cuándo ("sin previo aviso"), así que `vigencia_hasta` quedó en null.
+
+### Cuenta DNI en Día: la página de Día cambió el legal de agosto al de septiembre
+Ayer el legal de Cuenta DNI en Día todavía decía "lunes de agosto"; hoy dice **lunes del 7 al 30 de septiembre, 20% sin tope por NFC con Visa crédito habilitada en Cuenta DNI (solo Android)**, más el 10% con Pago Clave DNI y el 5% adicional para jubilados (tope unificado $5.000 por semana). Es exactamente lo que ya teníamos de la web del Banco Provincia (`cuenta-dni-dia-nfc-lunes-20` y `cuenta-dni-dia-lunes`, verificadas el 12/9): les sumé la página de Día como nivel 2.
+
+### Agenda: qué se trabajó
+Pidió 7 (fravega, comafi, icbc, yaguar, ypf, axion, rappi). Se miraron las 7:
+- **Frávega** ❌ 403 de CloudFront otra vez (885 bytes). **Comafi** ❌ Cloudflare (3 KB). **ICBC** ➖ sigue la lectura desde casa del 13/9 (221 KB), cruzada entera el 14/9. Las tres ya se trabajaron enteras con esa lectura; hoy no hay texto nuevo. Nada que cambiar.
+- **Yaguar** ❌ (nunca aportó): "Sorry, you have been blocked" de Cloudflare, igual que ayer.
+- **YPF** ❌ (nunca aportó): `ypf.com/promociones` devuelve la home institucional (directorio, inversores, comunicados). No hay ni una promo en el texto. La URL de la ficha está mal o la página de promos vive en otro lado (la app YPF).
+- **Axion** ❌ (nunca aportó): la página de promociones tiene solo campañas de marca (Desafío Redondo, pelotas de Copa Argentina, Coca-Cola, Lollapalooza **2025**, Movistar Arena) y un "Descuento Super" de Pan American Energy del que solo se ve el título. Sin banco, sin %, sin día. No hay nada que cargar.
+- **Rappi** ➖ (la más abandonada, 17 días): el archivo es el mismo desde el 11/9 (196 KB): un calendario de términos y condiciones que da **solo la vigencia** de cada campaña, sin %, día ni tope. Lo usé para lo que sirve: confirma que `comafi-rappi-unico-30` sigue hasta el 31/10 (coincide con el banco), y que Galicia y Banco Provincia 20% van hasta el 30/9 y Ualá hasta el 31/12. Esas tres siguen en `baja` porque nadie publica el día ni el tope; les sumé la fuente igual para que el `verificado` no mienta. Rappi también lista un "30% OFF YoY" hasta el 30/9 que no tenemos y no se puede cargar sin abrir los términos.
+
+### Limpieza: 10 puntuales que ya habían vencido, ahora con `baja_motivo`
+Las cuatro de Diarco del 1 al 6/9 (Mercado Pago, Personal Pay, MODO Barrio y MODO Mayorista), Prex en Día online del lunes 7/9, Banco Ciudad en Coto del finde 12 y 13/9 y las cuatro de la Semana de la Pintura de ICBC (Kromacolor, Colorshop, Pisano y Rex). La app ya no las mostraba por la fecha; ahora tampoco ensucian la cola del auditor. `galicia-combustible-dia10` (el día 10 de cada mes) la dejé como está.
+
+### No cargadas, para que quede el rastro (BNA)
+La web del Nación hoy muestra dos cosas que no tenemos: **"COTO 20% de descuento los días martes, del 18/8 al 31/10"** y **"Especial Aerolíneas Argentinas, 30% y hasta 18 cuotas, del 14 al 20/9"**. No las cargué: la ficha de BNA avisa que esa página no publica tope ni medio (¿MODO BNA+? ¿tarjeta?), Coto no nombra al Nación en su propia página de descuentos (26 KB, bien cargada), y el 30% de Aerolíneas exige cruce por la regla de los 30%. Si Lucía entra a semananacion.com.ar o al PDF de Coto, se cargan en un minuto. La misma web sigue mostrando Supermercados y Shell "hasta el 31/8" (vencidas).
+
+### Para Lucía
+1. **El cron del recolector no arranca solo: cinco días seguidos lanzándolo a mano** (ayer el cron corrió recién a las 09:45). Convendría mover el `schedule` más temprano o duplicarlo.
+2. **Naranja X sigue viniendo con una sola tarjeta**: es la geolocalización en Estados Unidos de ayer. La receta tendría que fijar la ubicación.
+3. **YPF**: la URL `ypf.com/promociones` no es la página de promos. Hay que buscar la correcta o darla por fuente de app.
+4. **BNA en Coto (20% martes) y Aerolíneas (30% + 18 cuotas)**: candidatas, faltan tope y medio.
+5. **Diarco no actualiza los legales de cuotas** (Naranja X 4 cuotas y Macro siguen diciendo agosto): si querés ser estricta, se retiran; yo las dejé porque la página las publica.
+6. MODO, Macro, Vea y Disco vinieron cortas hoy: si mañana también, es la receta y no las promos.
+
 ## 2026-09-15 — Las 40 visibles que hoy cumplían 11 días (Naranja X y Farmaonline) quedaron confirmadas con las lecturas de esta semana; Naranja X subió a 15 cuotas en electro y bajó Simmons a 12; 4 altas (Aerolíneas 9 cuotas, Essen 24, Cata, MODO 10% en Farmaonline); 2 revividas (Plusmar y deportes/Moov); Hipotecario por fin aportó desde su propia web
 
 **582 promos (eran 578): 4 altas, 2 revividas, 0 retiradas, 12 corregidas (7 de cuotas en Naranja X, 5 de cuotas en Farmaonline), 45 tocadas en total, 22 verificadas al 15/9 y otras 26 al 13 o 14/9.** Push: ver abajo. Visibles hoy: 428 con vigencia al 15/9 (224 valen un martes). Vencieron solas ayer las 4 de la Semana de la Pintura de ICBC.
