@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16",
+  "actualizado": "2026-09-17",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -7359,21 +7359,21 @@
       "medio_nombre": "Personal Pay",
       "rubro": "supermercados",
       "comercios": [
-        "Diarco"
+        "Diarco Barrio"
       ],
       "dias": [
         "jueves",
         "viernes"
       ],
       "descuento_pct": 20,
-      "requisitos": "El tope depende del Nivel de Personal Pay del usuario.",
-      "fuente": "https://www.personalpay.com.ar/beneficios",
+      "requisitos": "Con la tarjeta física prepaga Personal Pay, solo en sucursales Diarco Barrio. Tope $7.000 por cliente por semana. No incluye embutidos ni cortes vacunos, de cerdo y cordero. No acumula con ofertas ni otras promociones.",
+      "fuente": "https://www.diarco.com.ar/promociones/",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-09-05",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-09-17",
       "tope_monto": 7000,
       "tope_periodo": "semanal",
       "fuentes": [
@@ -7386,9 +7386,14 @@
           "url": "https://www.diarco.com.ar/promociones/",
           "nivel": 2,
           "fecha": "2026-08-28"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "Diarco vuelve a publicarla para septiembre: Personal Pay jueves y viernes, 20%, solo Diarco Barrio, tarjeta física prepaga, tope $7.000 por cliente por semana, 01/09 al 30/09/26"
         }
-      ],
-      "baja_motivo": "Diarco la listaba el 28/8 (Personal Pay jueves y viernes 20%, tope $7.000) y en su página de septiembre ya no está; Personal Pay tampoco la muestra. Lo que hay ahora es el 15% por QR de Mercado Pago (personalpay-diarco-finde-15)."
+      ]
     },
     {
       "id": "personalpay-diarco-finde-15",
@@ -8913,7 +8918,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "fuentes": [
         {
@@ -8932,6 +8937,12 @@
           "nivel": 2,
           "fecha": "2026-09-06",
           "nota": "legal: miércoles hasta 30/09, cartera general Clásica 15% tope $10.000 por mes; Plan Sueldo 20/25/35%"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Carrefour miércoles 01/04 al 30/09: Clásica 15% tope $10.000, Plus 20% $15.000, Singular 30% $20.000"
         }
       ]
     },
@@ -8955,7 +8966,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-31",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "fuentes": [
         {
@@ -8974,6 +8985,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Changomas sábados 07/03 al 31/12: Clásica y Plus 15% tope $10.000; Singular 30% tope $20.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Changomas sábados 07/03 al 31/12: Clásica y Plus 15% tope $10.000"
         }
       ]
     },
@@ -8997,7 +9014,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9009,6 +9026,12 @@
           "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
           "nivel": 1,
           "fecha": "2026-09-06",
+          "nota": "Coto Digital jueves 14/05 al 30/09, Clásica/Plus/Singular 20%, tope $25.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
           "nota": "Coto Digital jueves 14/05 al 30/09, Clásica/Plus/Singular 20%, tope $25.000"
         }
       ]
@@ -9347,7 +9370,7 @@
       "vigencia_hasta": "2026-09-24",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "id": "coto-modo-nfc-jueves-30",
       "medio": "modo",
@@ -9379,6 +9402,18 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Coto NFC jueves 26/02 al 30/09, exclusivo NFC, 30% sin tope, Clásica/Plus/Singular"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Coto NFC jueves 26/02 al 30/09, exclusivo NFC, 30% sin tope"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "Coto: \"30 OFF PROMO VISA DÉBITO\", jueves, NFC en sucursal, sin tope, no vale en Coto Digital"
         }
       ]
     },
@@ -12801,7 +12836,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "patagonia-changomas-sabado-singular",
@@ -12832,6 +12867,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Changomas sábados Singular 30% tope $20.000, 07/03 al 31/12 (ChangoMás dice $15.000)"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Changomas sábados 07/03 al 31/12: Singular 30% tope $20.000"
         }
       ]
     },
@@ -13520,7 +13561,7 @@
       "vigencia_desde": "2026-04-04",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13547,6 +13588,12 @@
           "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
           "nivel": 1,
           "fecha": "2026-09-06",
+          "nota": "Disco y Jumbo sábados 04/04 al 31/10: Singular 30% tope $20.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
           "nota": "Disco y Jumbo sábados 04/04 al 31/10: Singular 30% tope $20.000"
         }
       ]
@@ -13774,7 +13821,7 @@
       "vigencia_desde": "2026-08-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-09-13",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13809,6 +13856,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "Diarco: Banco Comafi lunes a viernes, 20%, tope $15.000 por semana, Visa débito y Visa/Mastercard crédito por MODO, Diarco Barrio y Mayorista, 01/09 al 30/09/26"
         }
       ],
       "tope_publicado": true
@@ -13839,7 +13892,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-09-08",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13862,6 +13915,12 @@
           "nivel": 2,
           "fecha": "2026-09-08",
           "nota": "Diarco 8/9: Credicuotas todos los días 20% en la primera compra con la línea de crédito por QR, tope $8.000, 01/09 al 30/09/2026 o primeros 10.000 clientes"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "Diarco: Credicuotas todos los días, 20% en la primera compra con la línea de crédito por QR, tope $8.000, 01/09 al 30/09/26 o hasta 10.000 clientes"
         }
       ]
     },
@@ -16072,7 +16131,7 @@
       "vigencia_desde": "2026-04-04",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16094,6 +16153,12 @@
           "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
           "nivel": 1,
           "fecha": "2026-09-06",
+          "nota": "Disco y Jumbo sábados 04/04 al 31/10, exclusivo plan sueldo y jubilados: Singular 35% tope $25.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
           "nota": "Disco y Jumbo sábados 04/04 al 31/10, exclusivo plan sueldo y jubilados: Singular 35% tope $25.000"
         }
       ]
@@ -16119,7 +16184,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16142,6 +16207,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Disco y Jumbo viernes 05/06 al 31/10: Clásica/Plus 25% tope $20.000, Singular 30% tope $40.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Disco y Jumbo viernes 05/06 al 31/10: Singular 30% tope $40.000"
         }
       ]
     },
@@ -17737,7 +17808,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-16",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "cuotas-naranja_x-diarco-mayorista-4",
@@ -17779,6 +17850,12 @@
           "nivel": 2,
           "fecha": "2026-09-16",
           "nota": "la página sigue publicando \"4 cuotas cero interés · Naranja X · Todos los días\", solo Diarco Mayorista; el legal de abajo sigue diciendo 01/08/26 al 31/08/26 (no lo actualizaron)"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "sigue publicada \"4 cuotas cero interés · Naranja X · Todos los días\", solo Diarco Mayorista; el legal sigue diciendo 01/08/26 al 31/08/26"
         }
       ]
     },
@@ -18957,7 +19034,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-08",
+      "verificado": "2026-09-17",
       "id": "cuotas-mp-diarco-3",
       "medio": "mercado_pago",
       "medio_nombre": "Mercado Pago",
@@ -18994,6 +19071,12 @@
           "nivel": 2,
           "fecha": "2026-09-08",
           "nota": "Diarco 8/9 (sección Banco/Medio de pago): Mercado Pago lunes a domingo, 3 cuotas sin interés con crédito Mercado Pago por QR, compras desde $150.000, 01/09 al 30/09/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "Diarco: Mercado Pago lunes a domingo, 3 cuotas sin interés con crédito Mercado Pago por QR, compras desde $150.000, 01/09 al 30/09/26"
         }
       ]
     },
@@ -19004,7 +19087,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-06-05",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "supermercados",
       "comercios": [
@@ -19026,6 +19109,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Disco y Jumbo viernes 05/06 al 31/10: CLASICAPLUS 25% tope $20.000; SINGULAR 30% tope $40.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Disco y Jumbo viernes 05/06 al 31/10: Clásica/Plus 25% tope $20.000"
         }
       ]
     },
@@ -19036,7 +19125,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-07",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "supermercados",
       "comercios": [
@@ -19057,6 +19146,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "La Anónima TODOS LOS LUNES del 07/09/2026 al 31/12/2026, Exclusivo NFC, CLASICAPLUSSINGULAR 30%, tope $20.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "La Anónima lunes 07/09 al 31/12, exclusivo NFC, Clásica/Plus/Singular 30%, tope $20.000"
         }
       ]
     },
@@ -19067,7 +19162,7 @@
       "zona": "Río Negro",
       "vigencia_desde": "2026-04-02",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "supermercados",
       "comercios": [
@@ -19088,6 +19183,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "La Anónima jueves 02/04 al 30/09, exclusivo Río Negro: Clásica 15% $10.000, Plus 20% $15.000, Singular 30% $20.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "La Anónima jueves 02/04 al 30/09, exclusivo Río Negro: Clásica 15% $10.000, Plus 20% $15.000, Singular 30% $20.000"
         }
       ]
     },
@@ -19098,7 +19199,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-01-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/combustibles.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "combustible",
       "comercios": [
@@ -19119,6 +19220,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Combustible jueves 01/01 al 31/10: Singular 20% tope $10.000; plan sueldo Plus 20% $7.500, Singular 25% $15.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/combustibles.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Combustible jueves 01/01 al 31/10: Singular 20% tope $10.000; plan sueldo Plus 20% $7.500, Singular 25% $15.000"
         }
       ]
     },
@@ -19129,7 +19236,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "gastronomia",
       "comercios": [
@@ -19156,6 +19263,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Havanna todos los días 01/07 al 31/12, exclusivo NFC, CLASICAPLUSSINGULAR 30%, tope $20.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Havanna todos los días 01/07 al 31/12, exclusivo NFC, 30%, tope $20.000"
         }
       ]
     },
@@ -19166,7 +19279,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "gastronomia",
       "comercios": [
@@ -19190,6 +19303,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Freddo, Rapanui y Atalaya sábados y domingos 04/10/2025 al 31/12/2026: CLASICAPLUS 15% tope $10.000, SINGULAR 25% tope $15.000; plan sueldo y jubilados 20%/30%"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Freddo, Rapanui y Atalaya sábados y domingos 04/10/2025 al 31/12/2026: Clásica/Plus 15% tope $10.000, Singular 25% $15.000"
         }
       ]
     },
@@ -19200,7 +19319,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "gastronomia",
       "comercios": [
@@ -19227,6 +19346,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Kansas todos los días 04/10/2025 al 31/10/2026: CLASICAPLUS 15% tope $10.000, SINGULAR 25% tope $15.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Kansas todos los días 04/10/2025 al 31/10/2026: Clásica/Plus 15% tope $10.000, Singular 25% $15.000"
         }
       ]
     },
@@ -19237,7 +19362,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "gastronomia",
       "comercios": [
@@ -19264,6 +19389,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Rock And Fellers todos los días 01/04/2025 al 31/10/2026: CLASICAPLUS 20% tope $15.000, SINGULAR 30% tope $20.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Rock And Fellers todos los días 01/04/2025 al 31/10/2026: Clásica/Plus 20% tope $15.000, Singular 30% $20.000"
         }
       ]
     },
@@ -19274,7 +19405,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "gastronomia",
       "comercios": [
@@ -19303,6 +19434,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Negroni, Demuru y La Pulpería todos los días 26/01 al 31/12: CLASICAPLUS 25% tope $40.000, SINGULAR 30% tope $45.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Negroni, Demuru y La Pulpería todos los días 26/01 al 31/12: Clásica/Plus 25% tope $40.000, Singular 30% $45.000"
         }
       ]
     },
@@ -19313,7 +19450,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-01-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "indumentaria",
       "comercios": [
@@ -19340,6 +19477,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Macowens, Devre, Chelsea, Exit, Top Sport, Seven Sport jueves 01/01 al 31/12: CLASICAPLUS 15% +3 cuotas tope $10.000, SINGULAR 25% tope $15.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Macowens, Devre, Chelsea, Exit, Top Sport y Seven Sport jueves 01/01 al 31/12: Clásica/Plus 15% + 3 cuotas tope $10.000, Singular 25% $15.000"
         }
       ]
     },
@@ -19350,7 +19493,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-03-12",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "indumentaria",
       "comercios": [
@@ -19372,6 +19515,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Adidas jueves 12/03 al 31/10: CLASICAPLUS 15% +3 cuotas tope $10.000, SINGULAR 25% tope $15.000; plan sueldo 20%/30%"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Adidas jueves 12/03 al 31/10: Clásica/Plus 15% + 3 cuotas tope $10.000, Singular 25% $15.000"
         }
       ]
     },
@@ -19382,7 +19531,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-03-13",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "indumentaria",
       "comercios": [
@@ -19404,6 +19553,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Adidas viernes 13/03 al 31/10, exclusivo Amex: CLASICAPLUS 25% +3 cuotas tope $20.000, SINGULAR 30% tope $25.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Adidas viernes 13/03 al 31/10, exclusivo Amex: Clásica/Plus 25% + 3 cuotas tope $20.000, Singular 30% $25.000"
         }
       ]
     },
@@ -19414,7 +19569,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-01-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "librerias",
       "comercios": [
@@ -19442,6 +19597,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Cúspide todos los días 01/01 al 31/12: CLASICAPLUSSINGULAR 10% +hasta 3 cuotas, tope $5.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Cúspide todos los días 01/01 al 31/12: 10% + hasta 3 cuotas, tope $5.000"
         }
       ]
     },
@@ -19452,7 +19613,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2025-07-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "mascotas",
       "comercios": [
@@ -19479,6 +19640,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Nutrican todos los días 01/07/2025 al 31/12/2026: CLASICAPLUS 20% tope $10.000, SINGULAR 30% tope $15.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Nutrican todos los días 01/07/2025 al 31/12/2026: Clásica/Plus 20% tope $10.000, Singular 30% $15.000"
         }
       ]
     },
@@ -19489,7 +19656,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "mascotas",
       "comercios": [
@@ -19510,6 +19677,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Tienda De Mascotas jueves 01/07 al 31/12: CLASICAPLUS 20% tope $10.000, SINGULAR 30% tope $15.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Tienda De Mascotas jueves 01/07 al 31/12: Clásica/Plus 20% tope $10.000, Singular 30% $15.000"
         }
       ]
     },
@@ -19520,7 +19693,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-04",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "rubro": "espectaculos",
       "comercios": [
@@ -19541,6 +19714,12 @@
           "nivel": 1,
           "fecha": "2026-09-06",
           "nota": "Cines, Teatros y Espectáculos viernes 04/09/2026 al 31/01/2027, exclusivo Visa NFC, CLASICAPLUSSINGULAR 25%, tope $15.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "Cines, Teatros y Espectáculos viernes 04/09/2026 al 31/01/2027, exclusivo Visa NFC, 25%, tope $15.000"
         }
       ]
     },
@@ -19563,7 +19742,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -19577,6 +19756,12 @@
           "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
           "nivel": 2,
           "fecha": "2026-09-06",
+          "nota": "Macro: 3 cuotas sin interés sin mínimo, todos los días, 01/09 al 30/09"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
           "nota": "Macro: 3 cuotas sin interés sin mínimo, todos los días, 01/09 al 30/09"
         }
       ]
@@ -19600,7 +19785,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -19614,6 +19799,12 @@
           "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
           "nivel": 2,
           "fecha": "2026-09-06",
+          "nota": "Macro: 6 cuotas sin interés con mínimo $300.000, todos los días, 01/09 al 30/09"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
           "nota": "Macro: 6 cuotas sin interés con mínimo $300.000, todos los días, 01/09 al 30/09"
         }
       ]
@@ -19637,7 +19828,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -19651,6 +19842,12 @@
           "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
           "nivel": 2,
           "fecha": "2026-09-06",
+          "nota": "Naranja X: 6 cuotas sin interés en compras superiores a $300.000, todos los días, 01/09 al 30/09, presencial y online"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
           "nota": "Naranja X: 6 cuotas sin interés en compras superiores a $300.000, todos los días, 01/09 al 30/09, presencial y online"
         }
       ]
@@ -19674,7 +19871,7 @@
       "vigencia_desde": "2026-01-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -19689,6 +19886,12 @@
           "nivel": 2,
           "fecha": "2026-09-06",
           "nota": "Naranja X Plan Z: 3 cuotas sin interés, 01/01 al 31/12/2026, presencial y web"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "Naranja X Plan Z: 3 cuotas sin interés, sigue publicado"
         }
       ]
     },
@@ -19711,7 +19914,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -19725,6 +19928,12 @@
           "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
           "nivel": 2,
           "fecha": "2026-09-06",
+          "nota": "Patagonia: 3 cuotas sin interés, presencial, 01/09 al 31/12/2026"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
           "nota": "Patagonia: 3 cuotas sin interés, presencial, 01/09 al 31/12/2026"
         }
       ]
@@ -19748,7 +19957,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -19763,6 +19972,12 @@
           "nivel": 2,
           "fecha": "2026-09-06",
           "nota": "Patagonia: 6 cuotas sin interés en compras superiores a $300.000, presencial y online, 01/09 al 31/12/2026"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "Patagonia: 6 cuotas sin interés, presencial y online, 01/09 al 31/12/2026"
         }
       ]
     },
@@ -19785,7 +20000,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -19799,6 +20014,12 @@
           "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
           "nivel": 2,
           "fecha": "2026-09-06",
+          "nota": "Tarjeta SOL: 3 cuotas sin interés sin mínimo, presencial, 01/09 al 30/09"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
           "nota": "Tarjeta SOL: 3 cuotas sin interés sin mínimo, presencial, 01/09 al 30/09"
         }
       ]
@@ -19822,7 +20043,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -19836,6 +20057,12 @@
           "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
           "nivel": 2,
           "fecha": "2026-09-06",
+          "nota": "Tarjeta SOL: 6 cuotas sin interés en compras superiores a $300.000, presencial, 01/09 al 30/09"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
           "nota": "Tarjeta SOL: 6 cuotas sin interés en compras superiores a $300.000, presencial, 01/09 al 30/09"
         }
       ]
@@ -19859,7 +20086,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -19874,6 +20101,12 @@
           "nivel": 2,
           "fecha": "2026-09-06",
           "nota": "Cencopay crédito: 3, 6 y 12 cuotas sin mínimo todos los días en locales y web; 15 cuotas socios Club Easy; 01/09 al 30/09"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "Cencopay crédito: 12 cuotas sin interés sin mínimo, locales y web, 01/09 al 30/09"
         }
       ]
     },
@@ -19896,7 +20129,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -19911,6 +20144,12 @@
           "nivel": 2,
           "fecha": "2026-09-06",
           "nota": "Cencopay crédito: 18 y 24 cuotas sin interés, exclusivo online, compras superiores a $200.000, 01/09 al 30/09"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "Cencopay crédito: 24 cuotas sin interés, exclusivo web, compras superiores a $200.000, 01/09 al 30/09"
         }
       ]
     },
@@ -19927,7 +20166,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -19941,6 +20180,12 @@
           "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
           "nivel": 2,
           "fecha": "2026-09-06",
+          "nota": "martes: socios Club Easy con Cencopay crédito 10% sin mínimo, presencial, 01/09 al 30/09; no dice tope"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
           "nota": "martes: socios Club Easy con Cencopay crédito 10% sin mínimo, presencial, 01/09 al 30/09; no dice tope"
         }
       ]
@@ -19958,7 +20203,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": 30000,
       "tope_periodo": "por compra",
@@ -19972,6 +20217,12 @@
           "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
           "nivel": 2,
           "fecha": "2026-09-06",
+          "nota": "jueves: Cencopay Cuenta Digital 15%, tope diario $30.000, presencial, 01/09 al 30/09"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
           "nota": "jueves: Cencopay Cuenta Digital 15%, tope diario $30.000, presencial, 01/09 al 30/09"
         }
       ]
@@ -19995,7 +20246,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": 10000,
       "tope_periodo": "por compra",
@@ -20009,6 +20260,12 @@
           "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
           "nivel": 2,
           "fecha": "2026-09-06",
+          "nota": "todos los días: Cencopay crédito (QR o tarjeta física) 10% en canastos de oferta, tope $10.000 por día, 01/09 al 30/09"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
           "nota": "todos los días: Cencopay crédito (QR o tarjeta física) 10% en canastos de oferta, tope $10.000 por día, 01/09 al 30/09"
         }
       ]
@@ -20026,7 +20283,7 @@
       "vigencia_desde": "2026-01-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": 30000,
       "tope_periodo": "por compra",
@@ -20040,6 +20297,12 @@
           "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
           "nivel": 2,
           "fecha": "2026-09-06",
+          "nota": "jueves: socios 365 15% tope $30.000 por compra, +5% con Cencopay crédito presencial; 01/08/2025 al 31/12/2026"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
           "nota": "jueves: socios 365 15% tope $30.000 por compra, +5% con Cencopay crédito presencial; 01/08/2025 al 31/12/2026"
         }
       ]
@@ -20057,7 +20320,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-30",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-09-06",
+      "verificado": "2026-09-17",
       "confianza": "alta",
       "tope_monto": 30000,
       "tope_periodo": "por compra",
@@ -20072,6 +20335,12 @@
           "nivel": 2,
           "fecha": "2026-09-06",
           "nota": "miércoles: Club La Nación 15%, tope $30.000 por compra, 01/08 al 30/12/2026, locales y web"
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "miércoles: Club La Nación 15%, 01/08 al 30/12/2026, locales y web"
         }
       ]
     },
@@ -25083,6 +25352,113 @@
           "nivel": 2,
           "fecha": "2026-09-16",
           "nota": "Clarín 365 - Todos los miércoles | 10% + 5% adicional Diarco Club | solo Diarco Barrio | compra mínima $25.000 | sin tope | el legal no dice hasta cuándo (\"sin previo aviso\")"
+        }
+      ]
+    },
+    {
+      "id": "credicoop-diarco-jueves-20",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "dias": [
+        "jueves"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-09-17",
+      "confianza": "alta",
+      "comercios": [
+        "Diarco Barrio",
+        "Diarco Mayorista"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 7000,
+      "tope_periodo": "semanal",
+      "tope_publicado": true,
+      "requisitos": "Pagando con QR de MODO desde Credicoop Móvil o desde la app MODO, con tarjetas Cabal Credicoop, en un pago. Tope $7.000 por usuario por semana. Si cobrás el sueldo en el banco es 30% con tope $10.500. Consumos familiares; no vale con Agrocabal, Cabal Mayorista ni Cabal Empresa.",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "Diarco: Banco Credicoop - Cartera General - Jueves, 20%, tope $7.000 por usuario por semana, QR de MODO con Cabal Credicoop, Diarco Barrio y Mayorista, 01/09 al 30/09/26"
+        },
+        {
+          "url": "https://www.beneficios.bancocredicoop.coop/coop/beneficios/?p=search&discount_on_thursday=true",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "la tarjeta del banco dice \"DIARCO | Hasta 30% de AHORRO | Exclusivo\", jueves; el desglose 20%/30% y los topes salen de Diarco"
+        }
+      ]
+    },
+    {
+      "id": "credicoop-diarco-jueves-30-haberes",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "dias": [
+        "jueves"
+      ],
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-09-17",
+      "confianza": "alta",
+      "comercios": [
+        "Diarco Barrio",
+        "Diarco Mayorista"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 10500,
+      "tope_periodo": "semanal",
+      "tope_publicado": true,
+      "requisitos": "Solo si cobrás el sueldo en Credicoop. Pagando con QR de MODO desde Credicoop Móvil o desde la app MODO, con tarjetas Cabal Credicoop, en un pago. Tope $10.500 por usuario por semana. Consumos familiares; no vale con Agrocabal, Cabal Mayorista ni Cabal Empresa.",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "Diarco: Banco Credicoop - Asalariados - Jueves, 30%, tope $10.500 por usuario por semana, QR de MODO con Cabal Credicoop, Diarco Barrio y Mayorista, 01/09 al 30/09/26"
+        },
+        {
+          "url": "https://www.beneficios.bancocredicoop.coop/coop/beneficios/?p=search&discount_on_thursday=true",
+          "nivel": 1,
+          "fecha": "2026-09-17",
+          "nota": "la tarjeta del banco dice \"DIARCO | Hasta 30% de AHORRO | Exclusivo\", jueves"
+        }
+      ]
+    },
+    {
+      "id": "chubut-diarco-mayorista-jueves-20",
+      "medio": "chubut",
+      "medio_nombre": "Banco del Chubut",
+      "rubro": "mayoristas",
+      "dias": [
+        "jueves"
+      ],
+      "zona": "Chubut",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-09-30",
+      "verificado": "2026-09-17",
+      "confianza": "alta",
+      "comercios": [
+        "Diarco Mayorista"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "Con la tarjeta Patagonia 365 del Banco del Chubut, en un pago. Solo en las sucursales Diarco Mayorista de Comodoro Rivadavia, Trelew, Esquel y El Bolsón. Tope $10.000 por cuenta por mes.",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-17",
+          "nota": "Diarco: Banco Chubut - Patagonia 365 (exclusivo Cdo. Rivadavia, El Bolsón, Esquel y Trelew) - Jueves, 20%, tope $10.000 por cuenta y por mes, 1 cuota, solo Diarco Mayorista, 01/09 al 30/09/26"
         }
       ]
     }

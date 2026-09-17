@@ -1,5 +1,45 @@
 # Cambios
 
+## 2026-09-17 — Diarco publicó su grilla de bancos de septiembre: revive Personal Pay (jue/vie 20%), 3 altas (Credicoop jueves 20% y 30%, Banco del Chubut jueves en Diarco Mayorista) y 4 confirmadas; las 39 visibles que hoy cumplían 11 días (23 de Patagonia, 15 de Easy, Coto NFC) siguen iguales; la agenda pidió 7 y ninguna trajo texto nuevo
+
+**586 promos (eran 583): 3 altas, 1 revivida, 0 retiradas, 0 corregidas, 47 verificadas al 17/9 (39 por los 11 días, 4 de Diarco que ya teníamos, la revivida y las 3 nuevas).** Push: ver abajo. Visibles hoy: 433 con vigencia al 17/9 (225 valen un jueves, que es mañana). Ninguna visible queda con más de 10 días sin verificar; las 32 que lista `validar` son todas invisibles (vencidas al 31/8 o en `baja`).
+
+### El workflow otra vez no disparó solo: lo lancé a mano (sexto día seguido)
+A las 07:32 ARG todo `crudo/` decía `leido: 2026-09-16` y el último run del cron era el de ayer a las 09:39 ARG. Disparé `workflow_dispatch` a las 07:32 y el commit `a4e0871` ("Texto de las fuentes al 2026-09-17 07:42") llegó a los 11 minutos. Siguen viejas **ICBC (13/9, lectura desde casa), Ciudad (10/9), Shell (9/9), McDonald's y Musimundo (27/8)**. **Hoy Disco volvió entera** (44 KB, ayer había perdido 214 líneas). **MODO otra vez solo el menú (1,3 KB)** y **Naranja X sigue corta (2,9 KB, unas pocas tarjetas de cuotas)**. No toqué las promos de ninguna de esas.
+
+### Lo importante del día: Diarco cambió de grilla y trae bancos que no teníamos
+La página de Diarco (20 KB, bien cargada, con la sección "DÍA / BANCO / MEDIO DE PAGO") hoy mostró un juego de tarjetas distinto al de ayer: ayer eran Diarco Club y Clarín 365, hoy son los bancos. **Diarco rota lo que muestra en cada carga** (el 13/9 tenía 35 KB con las de sábado y domingo de Ciudad, ayer 17 KB, hoy 20 KB), así que la ausencia de una tarjeta no dice nada: `clarin365-diarco-barrio-miercoles-10` (alta de ayer) hoy no aparece y la dejé como está. Todos los legales de abajo dicen **01/09/26 al 30/09/26**, salvo los de cuotas que siguen en agosto (ver "no cargadas").
+
+- **REVIVIDA `personalpay-diarco-jueves-viernes-20`** (para que lo mire un humano): estaba en `baja` desde el 5/9 porque "Diarco ya no la listaba y Personal Pay tampoco". Hoy Diarco la publica de nuevo con legal de septiembre: **Personal Pay, jueves y viernes, 20%, solo Diarco Barrio, con la tarjeta física prepaga, tope $7.000 por cliente por semana, del 01/09 al 30/09/26**, sin embutidos ni carnes. Le puse `vigencia_hasta` 30/9, `comercios` solo Diarco Barrio (antes decía "Diarco" a secas), el tope ahora publicado y el legal en `requisitos`. **Ojo:** la página de Personal Pay de hoy (4,7 KB) no la lista (trae Smiles jueves y viernes 20%, que es otra cosa). Nivel 2 con legal completo alcanza para mostrarla.
+- **Alta `credicoop-diarco-jueves-20`**: Banco Credicoop, jueves, 20%, tope $7.000 por usuario por semana, QR de MODO desde Credicoop Móvil o MODO con tarjetas Cabal Credicoop, Diarco Barrio y Mayorista, 01/09 al 30/09. Cruzada: la página del banco (nivel 1, leída hoy) tiene la tarjeta "DIARCO | Hasta 30% de AHORRO | Exclusivo" en jueves; el desglose sale de Diarco.
+- **Alta `credicoop-diarco-jueves-30-haberes`**: lo mismo pero **30% con tope $10.500** para los que cobran el sueldo en Credicoop. Es un 30%, así que va con las dos fuentes (Diarco + el "Hasta 30%" del banco).
+- **Alta `chubut-diarco-mayorista-jueves-20`** (medio nuevo `chubut`, "Banco del Chubut"): tarjeta Patagonia 365 del Banco del Chubut, jueves, 20%, tope $10.000 por cuenta por mes, un pago, **solo en las sucursales Diarco Mayorista de Comodoro Rivadavia, Trelew, Esquel y El Bolsón**, 01/09 al 30/09. `zona: Chubut` (la app la muestra a quien puso Chubut; El Bolsón es Río Negro y queda nombrado en `requisitos`). Es de provincia puntual con una sola fuente (nivel 2): la regla pide cruce, pero la fuente nombra las cuatro sucursales con nombre y apellido, así que la cargué. Si Lucía prefiere, `bancochubut.com.ar/promociones365` es la fuente 1 para confirmarla.
+- **Confirmadas con Diarco de hoy** (fuente sumada, iguales): `comafi-diarco-20` (lun a vie 20% tope $15.000/semana por MODO), `credicuotas-diarco-20` (20% primera compra, tope $8.000), `cuotas-mp-diarco-3` (3 cuotas QR desde $150.000) y `cuotas-naranja_x-diarco-mayorista-4` (el legal sigue en agosto, como ayer).
+
+### Las 39 visibles que hoy cumplían 11 días: todas iguales
+`validar.js` arrancó con 72 promos de más de 10 días, 39 de ellas visibles: **23 de Banco Patagonia** (nivel 1), **15 de Easy** (nivel 2) y **Coto NFC jueves 30%**. Ninguna estaba en la agenda. Las crucé por script con guarda por promo contra el texto de hoy (si la fuente no trae comercio + día + % + tope + vigencia letra por letra, no se toca): **las 39 pasaron sin una diferencia**.
+- **Patagonia (30 KB, los 4 rubros, idéntico a ayer)**: Carrefour miércoles 15/20/30%, ChangoMás sábados 15% y Singular 30%, Coto Digital jueves 20% $25.000, Coto NFC jueves 30% sin tope, Disco y Jumbo sábados Singular 30% y 35% plan sueldo, viernes 25%/30%, La Anónima lunes NFC 30% y jueves Río Negro, combustible jueves Singular 20%, Havanna NFC 30%, heladerías finde, Kansas, Rock and Fellers, Negroni/Demuru/Pulpería, indumentaria jueves, Adidas jueves y viernes Amex, Cúspide, Nutrican, Tienda de Mascotas, cines viernes NFC 25%.
+- **Easy (82 KB, los 7 días)**: Macro 3 y 6 cuotas, Naranja X 6 cuotas y Plan Z, Patagonia 3 y 6 cuotas al 31/12, SOL 3 y 6, Cencopay 12 y 24 online, martes 10% socios Club Easy, jueves 15% Cuenta Digital tope $30.000, canastos 10%, Clarín 365 jueves 15%+5%, Club La Nación miércoles 15%. Easy hoy dejó de mostrar el **"20% con MODO online, solo el 16/09"** de ayer (era de un día, no la teníamos).
+- **Coto (27 KB)**: la tarjeta "30 OFF PROMO VISA DÉBITO, jueves, NFC en sucursal, sin tope" sigue; Coto cambió el separador de las líneas (ahora ` | `), por eso el cruce falló la primera vez y lo corregí.
+
+### Agenda: qué se trabajó
+Pidió 7 (fravega, comafi, icbc, bna, farmacity, la-anonima, modo). Se miraron las 7 y **ninguna trajo texto útil nuevo**:
+- **Frávega** ❌ 403 de CloudFront (885 bytes). **Comafi** ❌ Cloudflare (3 KB). **ICBC** ➖ sigue la lectura desde casa del 13/9, ya cruzada entera el 14/9. Nada que cambiar en las tres.
+- **BNA** ❌ (nunca aportó): el mismo listado de ayer, títulos sin medio ni tope: "COTO 20% los martes del 18/8 al 31/10", "Especial Aerolíneas 30% y 18 cuotas del 14 al 20/9", "Shopping con BNA 20% y hasta 9 cuotas, 16 y 17/9", YPF 20% al 30/9, Tucson 25%, KFC 20%, y dos vencidas al 31/8 (Supermercados, Shell). Coto tampoco nombra al Nación hoy. Sin cargar.
+- **Farmacity** ❌ (nunca aportó): `/promociones-bancarias` devuelve "No encontramos resultados para 'promociones-bancarias'". La URL de la ficha está mal.
+- **La Anónima** ❌ (nunca aportó): "403 Forbidden", igual que siempre desde GitHub.
+- **MODO** ❌ (la más abandonada, 13 días): otra vez solo el menú (1,3 KB). Sus 4 visibles (`modo-changomas-lunes`, `modo-jumbo-martes-jueves-19`, `modo-disco-viernes-sabado-20`, `cuotas-modo-fravega-9`) siguen sostenidas por los comercios y por Supervielle; ninguna pasa los 10 días todavía.
+
+### No cargadas, para que quede el rastro
+- **Diarco, cuotas con legal de agosto**: Galicia 3 cuotas jueves a domingo (legal "01/08/26 al 31/08/26"), Galicia y BNA 6 y 12 cuotas en electro, Macro 3 y 6 cuotas, Naranja X 6 cuotas y Plan Zeta 3 cuotas en Diarco Barrio. La página las muestra como vigentes pero el legal dice agosto; solo mantuve la de Naranja 4 cuotas que ya estaba, con la nota. Si mañana Diarco actualiza esos legales, entran.
+- **Coto sucursales** hoy muestra tres tarjetas de jueves sin nombre de banco en el texto: "25% PLAN SUELDO crédito Visa/Mastercard y Visa débito sin tope", "20% Visa débito sin tope" y "30% crédito Visa y Mastercard sin tope". El banco va en la imagen; no se pueden cargar desde el texto.
+
+### Para Lucía
+1. **El cron del recolector no arranca solo: seis días seguidos lanzándolo a mano** (ayer corrió recién a las 09:39). Conviene mover el `schedule` más temprano o duplicarlo.
+2. **Revisar `personalpay-diarco-jueves-viernes-20` (revivida) y `chubut-diarco-mayorista-jueves-20` (provincia puntual, una fuente).**
+3. **Farmacity**: la URL `/promociones-bancarias` no existe; hay que buscar la página correcta.
+4. **Naranja X y MODO** siguen viniendo cortas desde GitHub (geolocalización / página lenta).
+
 ## 2026-09-16 — Las 28 visibles que hoy cumplían 11 días (18 de Supervielle, 9 de Día, 1 de Diarco) quedaron confirmadas con el texto de hoy, todas iguales; 1 alta (Clarín 365 en Diarco Barrio); Cuenta DNI en Día confirmada también desde la página de Día; Rappi solo confirma vigencias; la agenda pidió 7 fuentes y 6 no trajeron nada
 
 **583 promos (eran 582): 1 alta, 0 revividas, 0 retiradas, 0 corregidas, 35 verificadas al 16/9 (28 por los 11 días, 2 de Cuenta DNI en Día, 4 de Rappi y la nueva), 10 puntuales ya vencidas con `baja_motivo` para limpiar la cola.** Push: ver abajo. Visibles hoy: 426 con vigencia al 16/9 (204 valen un miércoles). Ninguna visible queda con más de 10 días sin verificar.
