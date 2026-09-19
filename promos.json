@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18",
+  "actualizado": "2026-09-19",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -2405,7 +2405,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -2442,7 +2442,8 @@
           "fecha": "2026-09-08",
           "nota": "Disco | viernes, sabado | 20% | tope $25.000 mensual | mínimo $100.000 | tiendas físicas y online"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-jumbo-20",
@@ -2465,7 +2466,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -2502,7 +2503,8 @@
           "fecha": "2026-09-08",
           "nota": "Jumbo | martes, jueves | 20% | tope $25.000 mensual | mínimo $100.000"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-supermercados-toledo-30",
@@ -2644,7 +2646,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -2675,7 +2677,8 @@
           "fecha": "2026-09-08",
           "nota": "Dia | viernes, sabado | 20% | tope $20.000 mensual | mínimo $35.000"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-makro-20",
@@ -2697,7 +2700,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -2734,7 +2737,8 @@
           "fecha": "2026-09-08",
           "nota": "Makro | jueves | 20% | tope $20.000 mensual | no online"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-supermercados-vea-20",
@@ -2756,7 +2760,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -2793,7 +2797,8 @@
           "fecha": "2026-09-08",
           "nota": "Vea | viernes | 20% | tope $25.000 mensual | mínimo $100.000"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-diarco-pueblo-15",
@@ -2859,7 +2864,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -2890,7 +2895,8 @@
           "fecha": "2026-09-08",
           "nota": "Diarco Barrio | sabado, domingo | 20% | SIN TOPE | mínimo $35.000 | no online"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-changomas-20",
@@ -2912,7 +2918,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -2949,7 +2955,8 @@
           "fecha": "2026-09-08",
           "nota": "ChangoMás | lunes | 20% | tope $25.000 por cliente | mínimo $75.000 | tiendas físicas"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-la-anonima-20",
@@ -3014,7 +3021,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -3045,7 +3052,8 @@
           "fecha": "2026-09-08",
           "nota": "Mayorista Nini | jueves | 20% | tope $20.000 mensual | no online"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-farmacias-vilela-20",
@@ -3107,7 +3115,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -3144,7 +3152,8 @@
           "fecha": "2026-09-08",
           "nota": "Paradiñeiro Online | martes, jueves, sabado, domingo | 20% | tope $12.500 mensual"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-farmacity-online-20",
@@ -3166,7 +3175,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -3202,7 +3211,8 @@
           "fecha": "2026-09-08",
           "nota": "Farmacity Online | martes | 20% | tope $16.000 semanal | mínimo $70.000"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-farmacias-modo-20",
@@ -3224,7 +3234,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -3261,7 +3271,8 @@
           "fecha": "2026-09-08",
           "nota": "Farmacias MODO | martes | 20% | tope $16.000 mensual | mínimo $70.000 | online"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-farmacia-zentner-10",
@@ -3320,7 +3331,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -3357,7 +3368,8 @@
           "fecha": "2026-09-08",
           "nota": "Farmacia Santa Ana | domingo | 15% | tope $5.000 semanal"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-farmacias-abc-20",
@@ -3379,7 +3391,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "cuotas": 6,
       "tope_publicado": true,
       "fuentes": [
@@ -3417,7 +3429,8 @@
           "fecha": "2026-09-08",
           "nota": "Farmacias ABC | lunes | 20% + 6 cuotas | tope $10.000 mensual"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-estaciones-de-servicio-adheridas-10",
@@ -3441,7 +3454,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "fuentes": [
         {
@@ -3461,7 +3474,8 @@
           "fecha": "2026-09-08",
           "nota": "Combustible | domingo | 10% | YPF, Shell y Axion | tope $10.000 mensual | crédito Visa/Mastercard por MODO"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-wico-combustible-15",
@@ -3597,7 +3611,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -3632,7 +3646,8 @@
           "fecha": "2026-09-08",
           "nota": "Casa del Audio | todos los días | 18 cuotas"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "cuotas-ciudad-samsung-18",
@@ -3661,7 +3676,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -3697,7 +3712,8 @@
           "fecha": "2026-09-08",
           "nota": "Samsung | todos los días | 18 cuotas | online"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "cuotas-ciudad-almundo-6",
@@ -3726,7 +3742,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -3762,7 +3778,8 @@
           "fecha": "2026-09-08",
           "nota": "Almundo | todos los días | 6 cuotas | QR MODO"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "cuotas-ciudad-plataforma-10-3",
@@ -3791,7 +3808,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -3827,7 +3844,8 @@
           "fecha": "2026-09-08",
           "nota": "Plataforma 10 | todos los días | 3 cuotas | NUEVA"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "cuotas-naranja_x-megatone-14",
@@ -6749,7 +6767,7 @@
       "descuento_pct": 15,
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $7.500 por semana. Solo en sucursales.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
@@ -6792,7 +6810,8 @@
           "fecha": "2026-09-08",
           "nota": "La Ilusión | lunes | 15% | tope $7.500 semanal | no online"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-supermercado-dar-15",
@@ -6808,7 +6827,7 @@
       "descuento_pct": 15,
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $5.000 por semana. Compra mínima $35.000. Solo en sucursales.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
@@ -6851,7 +6870,8 @@
           "fecha": "2026-09-08",
           "nota": "DAR | martes | 15% | tope $5.000 semanal | mínimo $35.000 | no online"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-supermercado-el-tunel-25",
@@ -7056,7 +7076,7 @@
       "descuento_pct": 20,
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $8.000 por mes. Locales adheridos y tienda online.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
@@ -7099,7 +7119,8 @@
           "fecha": "2026-09-08",
           "nota": "Nutrican | viernes | 20% | tope $8.000 mensual | locales y online"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-farmacias-del-puente-15",
@@ -7229,7 +7250,7 @@
       "descuento_pct": 15,
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Solo en Farmaplus Online. Tope $9.000 por mes. Compra mínima $60.000.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
@@ -7272,7 +7293,8 @@
           "fecha": "2026-09-08",
           "nota": "FarmaPlus Online | lunes | 15% | tope $9.000 mensual | mínimo $60.000"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-perfumerias-modo-20",
@@ -7290,7 +7312,7 @@
       "descuento_pct": 20,
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Solo en la tienda online de Juleriaque, Pigmento y Las Margaritas; no vale en locales. Tope $20.000 por semana. Compra mínima $70.000.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
@@ -7333,7 +7355,8 @@
           "fecha": "2026-09-08",
           "nota": "Perfumerías MODO | lunes | 20% | tope $20.000 semanal | mínimo $70.000 | online Juleriaque, Pigmento, Las Margaritas"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "personalpay-coto-30",
@@ -7588,7 +7611,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -7613,7 +7636,8 @@
           "fecha": "2026-09-08",
           "nota": "Comercios Vecinos: 221 comercios con 30% todos los días con Buepp (RES ya no está en esta lista: ahora es sábados y domingos con tope $4.500 mensual)"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "buepp-bicicleterias-24",
@@ -9436,7 +9460,7 @@
       "tope_monto": null,
       "tope_periodo": null,
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "id": "ciudad-coto-20",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -9480,7 +9504,8 @@
           "fecha": "2026-09-08",
           "nota": "Coto | martes | 20% | SIN TOPE | NUEVA | no online"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "zona": "Nacional",
@@ -9489,7 +9514,7 @@
       "tope_monto": 20000,
       "tope_periodo": "sin_aclarar",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "id": "ciudad-masgo-20",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -9539,7 +9564,8 @@
           "fecha": "2026-09-08",
           "nota": "MásGO | domingo | 20% | tope $20.000 por cliente | mínimo $30.000 | tiendas físicas"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "zona": "Nacional",
@@ -9585,7 +9611,7 @@
       "tope_monto": 30000,
       "tope_periodo": "sin_aclarar",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "id": "ciudad-casa-del-audio-20",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -9632,7 +9658,8 @@
           "nota": "Casa del Audio | viernes, sabado, domingo | 25% | tope $30.000 por cliente | locales físicos | NUEVA"
         }
       ],
-      "tope_publicado": true
+      "tope_publicado": true,
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "zona": "Nacional",
@@ -9861,7 +9888,7 @@
       "tope_monto": 25000,
       "tope_periodo": "mensual",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "id": "ciudad-showsport-online-25",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -9911,7 +9938,8 @@
           "fecha": "2026-09-08",
           "nota": "Showsport Online | domingo | 25% | tope $25.000 mensual"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "zona": "Nacional",
@@ -9920,7 +9948,7 @@
       "tope_monto": 20000,
       "tope_periodo": "mensual",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "id": "ciudad-showsport-20",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -9970,7 +9998,8 @@
           "fecha": "2026-09-08",
           "nota": "Showsport | viernes | 20% | tope $20.000 mensual | mínimo $80.000 | no online"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "zona": "Nacional",
@@ -10150,7 +10179,7 @@
       "tope_monto": null,
       "tope_periodo": null,
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "id": "ciudad-deportivas-martes-15",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -10210,7 +10239,8 @@
           "nota": "Moov, Stock Center, Ver, MACOWENS, Lazaro, Bowen, Montagne, Dexter, Equus, Ruiz y Roca | martes | 15% + 10 cuotas | SIN TOPE"
         }
       ],
-      "tope_publicado": true
+      "tope_publicado": true,
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "zona": "Nacional",
@@ -10219,7 +10249,7 @@
       "tope_monto": null,
       "tope_periodo": null,
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "id": "ciudad-calzado-martes-10",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -10273,7 +10303,8 @@
           "nota": "Vans, Hush Puppies, Grimoldi, CAT Online | martes | 10% + 10 cuotas | SIN TOPE"
         }
       ],
-      "tope_publicado": true
+      "tope_publicado": true,
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "zona": "Nacional",
@@ -10282,7 +10313,7 @@
       "tope_monto": 15000,
       "tope_periodo": "mensual",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "id": "ciudad-librerias-jugueterias-viernes-20",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -10374,7 +10405,8 @@
           "nota": "39 librerías y jugueterías | viernes | 20% + 3 cuotas | tope $15.000 mensual | crédito y débito por QR MODO"
         }
       ],
-      "tope_publicado": true
+      "tope_publicado": true,
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "zona": "Nacional",
@@ -11755,7 +11787,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-11",
+      "verificado": "2026-09-18",
       "confianza": "alta",
       "id": "brubank-burger-king-30",
       "rubro": "gastronomia",
@@ -11804,6 +11836,12 @@
           "nivel": 1,
           "fecha": "2026-09-11",
           "nota": "Plan Ultra: 30% Todos los días, tope $6.000"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-18",
+          "nota": "Plan Ultra: \"30% de reintegro · Burger King · Tope de reintegro: $6.000 · Todos los días\""
         }
       ]
     },
@@ -14262,7 +14300,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-11",
+      "verificado": "2026-09-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14291,6 +14329,18 @@
           "nivel": 1,
           "fecha": "2026-09-11",
           "nota": "Plan Plus: 30% Viernes, sábados y domingos, sin tope publicado"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-18",
+          "nota": "Plan Plus: \"30% de reintegro · Burger King · Viernes, sábados y domingos\" (sin tope publicado)"
+        },
+        {
+          "url": "https://www.burgerking.com.ar/es/promociones-y-bases-y-condiciones",
+          "nivel": 2,
+          "fecha": "2026-09-19",
+          "nota": "SIGUE CONTRADICIENDO (página idéntica a la del 7/9): Plan Plus sábado y domingo 20%, tope $4.000 por mes, 4 usos por mes, sin fecha. Gana el emisor."
         }
       ]
     },
@@ -14799,7 +14849,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-11",
+      "verificado": "2026-09-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14828,6 +14878,18 @@
           "nivel": 1,
           "fecha": "2026-09-11",
           "nota": "Plan One: 20% Lunes y viernes, sin tope publicado"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-18",
+          "nota": "Plan One: \"20% de reintegro · Burger King · Lunes y viernes\" (sin tope publicado)"
+        },
+        {
+          "url": "https://www.burgerking.com.ar/es/promociones-y-bases-y-condiciones",
+          "nivel": 2,
+          "fecha": "2026-09-19",
+          "nota": "SIGUE CONTRADICIENDO (página idéntica a la del 7/9): Plan One viernes 10%, tope $2.000 por mes, 4 usos por mes, sin fecha. Gana el emisor."
         }
       ]
     },
@@ -17665,7 +17727,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "id": "ciudad-coto-lunes-25",
       "medio": "ciudad",
@@ -17694,7 +17756,8 @@
           "fecha": "2026-09-08",
           "nota": "Coto | lunes | 25% | tope $30.000 POR SEMANA | crédito | online con tarjeta de crédito"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "rubro": "supermercados",
@@ -18091,7 +18154,7 @@
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "verificado": "2026-09-08",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -18105,7 +18168,8 @@
           "fecha": "2026-09-08",
           "nota": "Arredo | viernes, sabado | 20% + 12 cuotas | SIN TOPE | online | NUEVA"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "cuotas-naranja_x-piero-14",
@@ -18284,7 +18348,8 @@
         }
       ],
       "verificado": "2026-09-08",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "cuotas-ciudad-pisano-18",
@@ -18333,7 +18398,8 @@
         }
       ],
       "verificado": "2026-09-08",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "cuotas-ciudad-on-city-18",
@@ -18382,7 +18448,8 @@
         }
       ],
       "verificado": "2026-09-08",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-perfumerias-martes-10",
@@ -18428,7 +18495,8 @@
         }
       ],
       "verificado": "2026-09-08",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "ciudad-alpinestars-15",
@@ -18473,7 +18541,8 @@
         }
       ],
       "verificado": "2026-09-08",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "id": "santander-farmaonline-miercoles-10",
@@ -20693,7 +20762,7 @@
       "tope_monto": 10000,
       "tope_periodo": "mensual",
       "zona": "Nacional",
-      "confianza": "alta",
+      "confianza": "baja",
       "verificado": "2026-09-08",
       "id": "ciudad-cines-sabado-50",
       "medio": "ciudad",
@@ -20717,14 +20786,15 @@
           "nota": "Cines | sabado | 50% | NUEVA | BUEPP, APP CIUDAD | tope $10.000 mensual"
         }
       ],
-      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "descuento_pct": 35,
       "tope_monto": 20000,
       "tope_periodo": "mensual",
       "zona": "Nacional",
-      "confianza": "alta",
+      "confianza": "baja",
       "verificado": "2026-09-08",
       "id": "ciudad-mastercard-masgo-jueves-35",
       "medio": "ciudad",
@@ -20748,14 +20818,15 @@
           "nota": "rubro Mastercard: Mas Go | jueves | 35% | MASTERCARD, BUEPP | tope mensual $20.000"
         }
       ],
-      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "descuento_pct": 35,
       "tope_monto": 15000,
       "tope_periodo": "mensual",
       "zona": "Nacional",
-      "confianza": "alta",
+      "confianza": "baja",
       "verificado": "2026-09-08",
       "id": "ciudad-mastercard-farmacity-gtl-simplicity-miercoles-35",
       "medio": "ciudad",
@@ -20781,14 +20852,15 @@
           "nota": "rubro Mastercard: Farmacity, GTL y Simplicity | miercoles | 35% | online | tope $15.000 mensual"
         }
       ],
-      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "descuento_pct": 35,
       "tope_monto": 10000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "alta",
+      "confianza": "baja",
       "verificado": "2026-09-08",
       "id": "ciudad-mastercard-cafes-vie-dom-35",
       "medio": "ciudad",
@@ -20816,14 +20888,15 @@
           "nota": "rubro Mastercard: Tostado | Café Martinez | Le Pain Quotidien | viernes, sabado, domingo | 35% | de 7 a 12 hs | tope $10.000 semanal"
         }
       ],
-      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "descuento_pct": 35,
       "tope_monto": 20000,
       "tope_periodo": "mensual",
       "zona": "Nacional",
-      "confianza": "alta",
+      "confianza": "baja",
       "verificado": "2026-09-08",
       "id": "ciudad-mastercard-the-food-market-lunes-35",
       "medio": "ciudad",
@@ -20847,14 +20920,15 @@
           "nota": "rubro Mastercard: The Food Market | lunes | 35% | online | tope mensual $20.000"
         }
       ],
-      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "descuento_pct": 30,
       "tope_monto": 10000,
       "tope_periodo": "mensual",
       "zona": "CABA",
-      "confianza": "alta",
+      "confianza": "baja",
       "verificado": "2026-09-08",
       "id": "buepp-ferias-itinerantes-30",
       "medio": "buepp",
@@ -20881,14 +20955,15 @@
           "nota": "Exclusivo Buepp: Ferias Itinerantes | lunes, martes, jueves, sabado | 30% | tope $10.000 mensual (otra entrada igual dice $20.000)"
         }
       ],
-      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "descuento_pct": 30,
       "tope_monto": 4500,
       "tope_periodo": "mensual",
       "zona": "CABA",
-      "confianza": "alta",
+      "confianza": "baja",
       "verificado": "2026-09-08",
       "id": "buepp-res-finde-30",
       "medio": "buepp",
@@ -20913,14 +20988,15 @@
           "nota": "Exclusivo Buepp: RES | sabado, domingo | 30% | NUEVA | tope $4.500 mensual"
         }
       ],
-      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "CABA",
-      "confianza": "alta",
+      "confianza": "baja",
       "verificado": "2026-09-08",
       "id": "buepp-gastronomicos-finde-20",
       "medio": "buepp",
@@ -20947,14 +21023,15 @@
           "nota": "Comercios Gastronómicos: Tacc Free, La Pascana, Roster Café | sabado, domingo | 20% | BUEPP | sin tope publicado"
         }
       ],
-      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "descuento_pct": 30,
       "tope_monto": 10000,
       "tope_periodo": "mensual",
       "zona": "Nacional",
-      "confianza": "alta",
+      "confianza": "baja",
       "verificado": "2026-09-08",
       "id": "ciudad-farmacias-jubilados-lunes-30",
       "medio": "ciudad",
@@ -20978,14 +21055,15 @@
           "nota": "Farmacias Jubilados | lunes | 30% | MAESTRO, VISA DEBITO | tope $10.000 mensual por cuenta"
         }
       ],
-      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "descuento_pct": 0,
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "alta",
+      "confianza": "baja",
       "verificado": "2026-09-08",
       "id": "cuotas-ciudad-bicicleterias-24",
       "medio": "ciudad",
@@ -21054,7 +21132,8 @@
           "nota": "rubro Bicicleterías: 40 comercios | todos los días | 24 cuotas (algunos \"12 o 24\") | VISA, MASTERCARD"
         }
       ],
-      "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
+      "fuente": "https://www.bancociudad.com.ar/beneficios/promo",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
     },
     {
       "descuento_pct": 20,
