@@ -1,5 +1,53 @@
 # Cambios
 
+## 2026-09-20 — Coto publicó un especial de Credicoop para este finde (sáb 19, dom 20 y lun 21/9: 40% plan sueldo y 30% Cabal) y la página del banco lo confirma; primera promo de La Pampa (Promo Alimentos 25% del Banco de La Pampa); Brubank Ultra suma Coto jueves 30% sin tope y Cerini pasa a tope $50.000; Rex y Pisano 18 cuotas retiradas (eran la Semana de la pintura, 7 al 14/9). El recolector completo se canceló otra vez a los 15 minutos; una parcial trajo el texto de hoy de 6 fuentes en 2 minutos. Ciudad sigue vacía (10.º día): las 49 siguen en baja
+
+**595 promos (eran 591): 4 altas, 0 revividas, 2 retiradas (Rex y Pisano 18 cuotas de Ciudad, ya estaban en baja), 1 corregida (tope de Cerini Ultra), 1 verificada al 20/9 (Coto + Credicoop lunes 30%). Push: ver abajo. Visibles hoy: 393 con vigencia al 20/9 (eran 389), 197 valen un domingo, 198 un lunes.** Ninguna visible queda con más de 10 días sin verificar; las 50 que sigue listando `validar` son todas invisibles (vencidas al 31/8 o en `baja`).
+
+### Lo importante del día: Coto + Credicoop, 40% y 30%, solo sábado 19, domingo 20 y lunes 21 de septiembre
+El texto de Coto de ayer a las 09:07 (el run del cron, que llegó después de la rutina) y el de hoy traen dos tarjetas nuevas, y la página de Credicoop las confirma (tarjeta "Supermercados | Hasta 40% de ahorro", días lunes, sábado y domingo, slug `Coto_Sabado-domingo-lunes-40%-presencial-CABAL-MODO`). Dos fuentes, nivel 2 + nivel 1, como pide la regla para un 30% o más y para promos de pocos días:
+- **Alta `credicoop-coto-19-21-sept-40-plan-sueldo`**: 40% para plan sueldo Credicoop, sábado 19, domingo 20 y lunes 21/9. En sucursales pagando con MODO desde la app Banca Credicoop con débito o crédito Cabal; en Coto Digital en un pago con crédito o débito Cabal. Tope $20.000 semanal por usuario. `vigencia_desde` 19/9, `vigencia_hasta` 21/9: el martes desaparece sola.
+- **Alta `credicoop-coto-digital-19-21-sept-30`**: 30% con crédito o débito Cabal, mismos días, **solo Coto Digital** (en sucursales Coto publica únicamente el 40% plan sueldo). Tope $15.000 semanal. Coto dice "tarjetas Cabal" sin nombrar banco; la cargué bajo Credicoop porque es el emisor de la tarjeta de Credicoop que confirma la promo, y los `requisitos` dicen "tarjetas Cabal" a secas.
+- **Verificada `coto-credicoop-lunes-30`** (lunes 7, 14 y 28/9): Coto la sigue publicando igual, sumé la fuente de hoy.
+
+### Banco de La Pampa: primera promo de la provincia
+La agenda me puso `pampa` entre las que nunca aportaron. El archivo (38 KB, cuatro páginas del sitio de promos del banco) trae:
+- **Alta `banco_pampa-promo-alimentos-25`** (medio nuevo `banco_pampa` / "Banco de La Pampa", `zona: La Pampa`, rubro alimentos): **Promo Alimentos, 25% en un pago con tarjetas de crédito de los Paquetes Pampa, lunes, miércoles, viernes y sábados, del 01/07/26 al 30/09/26, reintegro $25.000 por semana**. Los miércoles es exclusivo pago QR de Billetera Pampa; lunes, viernes y sábado tarjeta física o QR. El listado trae 200 comercios (la primera tanda; el sitio pagina), todos de Santa Rosa y Toay: almacenes, carnicerías, panaderías, heladerías, y entre los supermercados Cooperativa Obrera, Super Edison, Gabiand y Supermercado Sun. `comercios`: "Comercios de alimentos adheridos" y "Cooperativa Obrera" para que se encuentre. Es de provincia puntual con una sola fuente, pero es el emisor y nombra cada comercio con dirección.
+- **No cargadas de Pampa**: (1) la portada lista cinco promos por rubro ("Todos los días -25% Tope $15.000", "Martes -25%", "Jueves -25% del 01/09 al 30/09", "Sábado -25%") **pero el nombre del rubro viene en imagen y no está en el texto**: sin saber en qué rubro vale cada una no se pueden cargar. Para Lucía: si la receta saca el `alt` o el enlace de cada tarjeta de la portada, salen cuatro promos más. (2) "Plan Cuotas: 3, 6 y 12 cuotas **fijas** con tarjetas de crédito Paquetes Pampa, 27/07 al 30/09" en ~200 comercios de indumentaria y tecnología: el sitio no dice "sin interés" y la app muestra las cuotas como sin interés, así que no la cargué. (3) "Préstamo Tarjeta, financiá en 4 y 20 meses": es un préstamo, no una promo.
+
+### Brubank: Coto jueves 30% sin tope (Plan Ultra) y Cerini con tope nuevo
+El texto de Brubank de ayer a las 09:07 (después de la rutina) y el de hoy traen cosas que no teníamos:
+- **Alta `brubank-coto-ultra-jueves-30`**: en el tramo Plan Ultra de brubank.com/beneficios, "30% descuento | COTO | Sin tope | Todos los jueves". No está en los tramos Plus ni One. **Para que lo mire un humano: la página de Coto de hoy no nombra a Brubank**, y es un 30% sin tope con una sola fuente (el emisor, nivel 1, así que `validar` la da por alta). Los `requisitos` avisan que Coto todavía no lo lista.
+- **Corregida `brubank-cerini-ultra-50`**: tope de reintegro $10.000 → **$50.000** (Brubank lo cambió entre el 18 y el 19/9).
+- Brubank también sumó cuotas sin interés en Farmacity, Simplicity, Get The Look (3 y 6), On City y Arredo (3 a 12) en Ultra y Plus. No las cargué: son solo financiación y no era la agenda.
+
+### Retiradas: Rex y Pisano 18 cuotas de Banco Ciudad
+`cuotas-ciudad-rex-18` y `cuotas-ciudad-pisano-18` (ya en baja desde ayer por los 10 días): el propio catálogo de Ciudad del 10/9 dice "¡Semana de la pintura! del 7 al 14 de septiembre hasta 18 cuotas sin interés". Vencieron el 14/9: `vigencia_hasta` 2026-09-14 y `baja_motivo`. Las de ICBC de la misma semana ya estaban con vigencia al 14/9.
+
+### Banco Ciudad: décimo día vacío, las 49 siguen en baja
+La API del banco volvió a contestar vacío al runner en las dos corridas de hoy (`✗ banco ciudad 0 — vino vacía`). Dejé listo el cruce (guarda por comercio + días + % o cuotas + tope; pasa 49 de 49 contra la lectura del 10/9): el día que `crudo/ciudad.txt` vuelva con los rubros, se reviven en un paso. Sigue valiendo lo de ayer: **una lectura desde la PC de Lucía (`node tools/recolectar.js ciudad`) las revive mañana**.
+
+### El recolector, otra vez
+A las 07:32 ARG todo `crudo/` decía `leido: 2026-09-19` y el cron no había arrancado (noveno día seguido). Disparé el completo a las 07:33 (run 57) y **GitHub lo canceló a los 15 minutos en el mismo punto que el 18 y el 19**: leyó 32 fuentes en 2 minutos y medio (la última, Personal Pay a las 07:36) y la tanda brubank/ualá/macro/bpn se quedó colgada 12 minutos. A las 07:48 disparé una parcial con `ciudad pampa coto credicoop brubank la-anonima maxiconsumo` (run 58): **terminó en 2 minutos, commit `55ef7d5` ("Texto de las fuentes al 2026-09-20 07:50")**. Por eso todo lo de hoy va fechado 20/9. Siguen viejas **ICBC (13/9, desde casa), Ciudad (10/9), Shell (9/9), McDonald's y Musimundo (27/8)**; Dr. Ahorro con DNS caído. Ojo: ayer el cron sí corrió solo a las 08:58 ARG y terminó entero (run 56, commit `e3cf464` de las 09:07), pero llegó después de la rutina: ese texto (Coto, Brubank, Jumbo, Burger King entera) nadie lo miró hasta hoy.
+
+### Agenda: qué se trabajó
+Pidió 7 (fravega, comafi, icbc, la-anonima, maxiconsumo, pampa, ciudad). Se miraron las 7; **solo Pampa aportó** (lo de Coto/Credicoop/Brubank salió de mirar qué había cambiado en el run de ayer a las 09:07):
+- **Frávega** ❌ 403 de CloudFront (885 bytes) y **Comafi** ❌ Cloudflare "Verificación de seguridad" (3 KB), como todos los días desde Actions. La agenda las marca "leída hace 1 d" porque el `leido:` es de ayer, pero el contenido es el bloqueo: la lectura buena sigue siendo la del 13/9 desde casa.
+- **ICBC** ➖ sigue la lectura desde casa del 13/9 (280 promos), cruzada entera el 14/9; la API vino vacía al runner otra vez. Nada que cambiar.
+- **La Anónima** ❌ (nunca aportó): `laanonimaonline.com/promociones_bancarias` devuelve **403 Forbidden** (278 bytes) hoy y ayer. Para Lucía: bloquea al runner; probar desde casa o buscar otra URL.
+- **Maxiconsumo** ❌ (nunca aportó): la página de promociones (7,9 KB) es el menú de categorías del sitio más las pestañas "Lunes … Domingo" y la palabra "LEGALES" repetida: **las promos son imágenes**, el texto no trae ni banco ni %. Hoy además dice "Sin loguearse, los precios corresponden a Moreno". No va a aportar desde el texto; habría que leer los legales (enlaces) o las imágenes.
+- **Pampa** ✅ 1 alta (arriba).
+- **Ciudad** ❌ (la más abandonada, 12 días): vacía otra vez (arriba).
+
+### Para Lucía
+1. **Banco Ciudad lleva 10 días sin poder leerse desde Actions.** Una lectura desde casa revive las 49 en un paso.
+2. **El recolector completo ya no entra en 15 minutos: tres días seguidos cancelado en la tanda brubank/ualá/macro/bpn.** Sigue pendiente subir `timeout-minutes` a 30 y ponerle tope por fuente a las recetas de API. Las parciales tardan 1-2 minutos y salvan el día.
+3. **Coto/Credicoop finde 19-21/9**: cargadas con las dos fuentes; vencen solas el 21/9.
+4. **Brubank Ultra en Coto jueves 30% sin tope**: solo lo dice Brubank; mirarla si aparece alguien reclamando.
+5. **Pampa**: la portada tiene cuatro promos más por rubro que la receta no distingue (el rubro viene en imagen); y "Plan Cuotas" son cuotas *fijas*, no dice sin interés.
+6. **La Anónima da 403 y Maxiconsumo publica en imágenes**: dos de las tres "nuevas" de hoy no van a aportar nunca así como están.
+7. El cron del recolector ayer sí corrió solo (08:58 ARG) pero después de la rutina: si la rutina corriera a las 09:30 en vez de 07:30 tendría texto fresco sin disparar nada… salvo los días que el cron se demora horas.
+
 ## 2026-09-19 — ⚠ 49 promos de Banco Ciudad y Buepp a `baja` por la regla de los 10 días: la fuente no se lee desde el 11/9 y hoy cumplían 11 días sin verificar. El recolector completo volvió a cancelarse a los 15 minutos; una corrida parcial trajo el texto de hoy de las 5 fuentes de la agenda que sí se leen, y las 5 vinieron idénticas a ayer. 0 altas, 3 confirmadas (Brubank en Burger King), agenda: 7 pedidas, 7 miradas, ninguna aportó
 
 **591 promos (igual que ayer): 0 altas, 0 revividas, 49 a `baja` (Ciudad y Buepp, no vencidas: ver abajo), 0 corregidas, 3 verificadas al 18/9 (Brubank en Burger King).** Push: ver abajo. **Visibles hoy: 389 con vigencia al 19/9 (eran 438)**, 211 valen un sábado, 195 un domingo. Ninguna visible queda con más de 10 días sin verificar; las 49 que sigue listando `validar` son todas invisibles (vencidas al 31/8 o ya en `baja`).

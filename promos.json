@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19",
+  "actualizado": "2026-09-20",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -4691,7 +4691,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-28",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-09-12",
+      "verificado": "2026-09-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4710,6 +4710,12 @@
           "nivel": 1,
           "fecha": "2026-09-12",
           "nota": "Credicoop lista Coto lunes 30% de ahorro (slug Coto_MODO-lunes); no publica tope"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-09-20",
+          "nota": "Coto sucursales: 30% débito y crédito Cabal Credicoop desde app Banca Credicoop con MODO, válido únicamente los lunes 07/09, 14/09 y 28/09, tope $15.000 semanal; Coto Digital idem con crédito y débito Cabal"
         }
       ]
     },
@@ -14092,15 +14098,15 @@
         "domingo"
       ],
       "descuento_pct": 50,
-      "tope_monto": 10000,
+      "tope_monto": 50000,
       "tope_periodo": "mensual",
       "tope_publicado": true,
-      "requisitos": "Con tu Plan Ultra, pagando con tarjeta de crédito Brubank, todos los días. Tope de reintegro: $10000.",
+      "requisitos": "Con tu Plan Ultra, pagando con tarjeta de crédito Brubank, todos los días. Tope de reintegro: $50.000.",
       "zona": "Nacional",
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-11",
+      "verificado": "2026-09-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14123,6 +14129,12 @@
           "nivel": 1,
           "fecha": "2026-09-11",
           "nota": "Plan Ultra: 50% Todos los días, tope $10.000"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-20",
+          "nota": "Tramo Plan Ultra: 50% de reintegro, Cerini, tope de reintegro $50.000, todos los días (el 18/9 decía $10.000)"
         }
       ]
     },
@@ -18325,7 +18337,7 @@
       "requisitos": "Con tarjetas Banco Ciudad.",
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-09-14",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "fuentes": [
         {
@@ -18349,7 +18361,7 @@
       ],
       "verificado": "2026-09-08",
       "confianza": "baja",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
+      "baja_motivo": "Era la \"Semana de la pintura\": el catálogo de Banco Ciudad (lectura del 10/9) dice \"del 7 al 14 de septiembre hasta 18 cuotas sin interés\". Venció el 14/9. Seguía en baja por la regla de los 10 días; ahora además está vencida."
     },
     {
       "id": "cuotas-ciudad-pisano-18",
@@ -18375,7 +18387,7 @@
       "requisitos": "Con tarjetas Banco Ciudad.",
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-09-14",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
       "fuentes": [
         {
@@ -18399,7 +18411,7 @@
       ],
       "verificado": "2026-09-08",
       "confianza": "baja",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 2026-09-08 y Banco Ciudad no se pudo leer desde el 11/9 (la API del catálogo devuelve vacío al runner de GitHub, 9 días seguidos). No venció: revivir en cuanto crudo/ciudad.txt vuelva a traer el catálogo y la liste igual."
+      "baja_motivo": "Era la \"Semana de la pintura\": el catálogo de Banco Ciudad (lectura del 10/9) dice \"del 7 al 14 de septiembre hasta 18 cuotas sin interés\". Venció el 14/9. Seguía en baja por la regla de los 10 días; ahora además está vencida."
     },
     {
       "id": "cuotas-ciudad-on-city-18",
@@ -25831,6 +25843,151 @@
           "nivel": 1,
           "fecha": "2026-09-18",
           "nota": "Club de Beneficios BPN, Viernes :: gastronomía y peluquería: 3 grupos, 32 comercios con 6 cuotas (11 con % extra)"
+        }
+      ]
+    },
+    {
+      "id": "credicoop-coto-19-21-sept-40-plan-sueldo",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto",
+        "Coto Digital"
+      ],
+      "dias": [
+        "sabado",
+        "domingo",
+        "lunes"
+      ],
+      "descuento_pct": 40,
+      "tope_monto": 20000,
+      "tope_periodo": "semanal",
+      "tope_publicado": true,
+      "requisitos": "Solo el sábado 19, domingo 20 y lunes 21 de septiembre, para quienes cobran el sueldo en Credicoop (plan sueldo). En sucursales pagando con MODO desde la app Banca Credicoop con débito o crédito Cabal; en Coto Digital en un pago con crédito o débito Cabal. Tope de reintegro $20.000 por usuario por semana. Aplican exclusiones.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-19",
+      "vigencia_hasta": "2026-09-21",
+      "fuente": "https://www.coto.com.ar/descuentos/index.asp",
+      "verificado": "2026-09-20",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-09-20",
+          "nota": "Coto Digital: 40% PLAN SUELDO en un pago con crédito Cabal y débito Cabal, válido únicamente sábado 19/09, domingo 20/09 y lunes 21/09, tope $20.000 semanal por usuario. Sucursales: 40% plan sueldo con débito y crédito Cabal Credicoop desde app Banca Credicoop con MODO, mismos días y tope"
+        },
+        {
+          "url": "https://www.beneficios.bancocredicoop.coop/coop/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-20",
+          "nota": "Credicoop: tarjeta \"Supermercados | Hasta 40% de ahorro\", días lunes, sábado y domingo, slug Coto_Sabado-domingo-lunes-40%-presencial-CABAL-MODO"
+        }
+      ]
+    },
+    {
+      "id": "credicoop-coto-digital-19-21-sept-30",
+      "medio": "credicoop",
+      "medio_nombre": "Banco Credicoop",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto Digital"
+      ],
+      "dias": [
+        "sabado",
+        "domingo",
+        "lunes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 15000,
+      "tope_periodo": "semanal",
+      "tope_publicado": true,
+      "requisitos": "Solo el sábado 19, domingo 20 y lunes 21 de septiembre, comprando online en Coto Digital en un pago con tarjetas de crédito o débito Cabal. No vale en sucursales. Tope de reintegro $15.000 por usuario por semana. Aplican exclusiones.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-19",
+      "vigencia_hasta": "2026-09-21",
+      "fuente": "https://www.coto.com.ar/descuentos/index.asp",
+      "verificado": "2026-09-20",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-09-20",
+          "nota": "Coto Digital: 30% en un pago con crédito Cabal y débito Cabal, válido únicamente sábado 19/09, domingo 20/09 y lunes 21/09, tope $15.000 semanal por usuario. Solo Online (en sucursales solo está el 40% plan sueldo)"
+        },
+        {
+          "url": "https://www.beneficios.bancocredicoop.coop/coop/beneficios/",
+          "nivel": 1,
+          "fecha": "2026-09-20",
+          "nota": "Credicoop: tarjeta \"Supermercados | Hasta 40% de ahorro\", días lunes, sábado y domingo, slug Coto_Sabado-domingo-lunes-40%-presencial-CABAL-MODO (el \"hasta\" cubre el 30% general)"
+        }
+      ]
+    },
+    {
+      "id": "brubank-coto-ultra-jueves-30",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan Ultra",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "requisitos": "Para clientes del Plan Ultra de Brubank, pagando con la tarjeta de crédito Brubank. Todos los jueves. Brubank lo publica sin tope de reintegro. La página de Coto todavía no lo lista: conviene chequear en la app de Brubank antes de ir.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-09-20",
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-09-20",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-09-20",
+          "nota": "Tramo Plan Ultra: \"30% descuento | COTO | Sin tope | Todos los jueves\". No aparece en los tramos Plus ni One. La página de Coto del mismo día no nombra a Brubank"
+        }
+      ]
+    },
+    {
+      "id": "banco_pampa-promo-alimentos-25",
+      "medio": "banco_pampa",
+      "medio_nombre": "Banco de La Pampa",
+      "rubro": "alimentos",
+      "comercios": [
+        "Comercios de alimentos adheridos",
+        "Cooperativa Obrera"
+      ],
+      "dias": [
+        "lunes",
+        "miercoles",
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 25,
+      "tope_monto": 25000,
+      "tope_periodo": "semanal",
+      "tope_publicado": true,
+      "requisitos": "Promo Alimentos del Banco de La Pampa: 25% en un pago con tarjetas de crédito de los Paquetes Pampa en los comercios de alimentos adheridos (almacenes, carnicerías, verdulerías, panaderías, heladerías y supermercados de Santa Rosa y Toay, entre ellos Cooperativa Obrera). Lunes, viernes y sábado con la tarjeta física o pagando con QR de Billetera Pampa; los miércoles solo con QR de Billetera Pampa. Tope de reintegro $25.000 por semana. La lista completa de comercios con dirección está en pampapromos.bancodelapampa.com.ar.",
+      "zona": "La Pampa",
+      "vigencia_desde": "2026-07-01",
+      "vigencia_hasta": "2026-09-30",
+      "fuente": "https://pampapromos.bancodelapampa.com.ar/PromoAlimentos",
+      "verificado": "2026-09-20",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://pampapromos.bancodelapampa.com.ar/PromoAlimentos",
+          "nivel": 1,
+          "fecha": "2026-09-20",
+          "nota": "PROMO ALIMENTOS: lunes, miércoles, viernes y sábados del 01/07/26 al 30/09/26, 25% en un pago con tarjetas de crédito de Paquetes Pampa; miércoles exclusivo QR Billetera Pampa, lun/vie/sáb tarjeta física o QR; reintegro $25.000 por semana; listado de 200 comercios de Santa Rosa y Toay (Cooperativa Obrera, Super Edison, Gabiand, carnicerías, panaderías, heladerías)"
         }
       ]
     }
