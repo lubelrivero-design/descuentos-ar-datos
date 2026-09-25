@@ -1,5 +1,53 @@
 # Cambios
 
+## 2026-09-25 — Ciudad vuelve: 47 promos revividas con el catálogo completo del banco; ⚠ 80 promos de ICBC, Comafi y cuotas de Frávega pasan a `baja` por los 10 días; Naranja X corregido (cuotas que bajaron desde el 17/9, 4 retiradas, 3 altas); Petersen y Carrefour confirman 9 más
+
+**604 promos (eran 601): 3 altas, 47 revividas, 4 retiradas, 6 corregidas, 80 a `baja` por la regla de los 10 días, 31 confirmadas sin cambios.** Push: ver abajo. **Visibles hoy: 357 (eran 391).** Ninguna visible lleva más de 10 días sin verificar; las 65 que sigue listando `validar` son todas invisibles (vencidas).
+
+**Ayer 24/9 no hubo corrida**: `ultima-corrida.txt` decía `fin OK 2026-09-23` y no hay entrada del 24 en este archivo (no quedó un `inicio` colgado, así que no arrancó). Un día sin actualizar.
+
+### ⚠ Para Lucía, lo urgente: se apagaron 80 promos que no vencieron
+Son las que se verificaron el 13/9 con la lectura desde casa y que ninguna de las fuentes de Actions nombra (el 23/9 quedó avisado). Hoy cumplieron 12 días y van a `baja` con el motivo escrito en cada una:
+- **ICBC 54**: Coto lunes/martes/jueves y 4.º finde, MasGO jueves, La Anónima jueves, YPF martes, farmacias, heladerías, Atalaya, pinturerías, colchones, moda, deportes, jugueterías, mascotas, colectivos 50%, cuotas varias (Frávega 9 incluida)…
+- **Comafi 18**: Makro miércoles, Axion/YPF/Shell/Puma, Farmacity y Simplicity, Cinemacenter 50%, restaurantes, pet shops, Aiello, Atalaya y 6 de cuotas.
+- **Cuotas de Frávega por banco, 8**: BBVA, Galicia, Santander, Patagonia, San Juan, Santa Fe, Santa Cruz (12 cuotas) y Corrientes viernes 10%.
+
+Con `node tools/recolectar.js icbc comafi fravega` desde tu compu y subir `crudo/`, la corrida siguiente las revive de una (el motivo de cada una lo dice). **Ojo con la agenda:** hoy puso a `fravega` y `comafi` como "leída hace 0 d — trabajarla entera", pero lo que hay en `crudo/` de hoy es el 403 de CloudFront y la pantalla de Cloudflare: la agenda mira la fecha del `leido:` y no si el texto vino bien. Y `icbc.txt` sigue siendo la lectura del 13/9.
+
+### El recolector
+Texto de hoy: `aa0a754` ("Texto de las fuentes al 2026-09-25 18:50"), 42 de 43 fuentes con `leido: 2026-09-25`; no hizo falta dispararlo. Siguen viejas ICBC (13/9) y McDonald's y Musimundo (27/8). Frávega y Comafi vinieron bloqueadas (ver arriba).
+
+### Banco Ciudad: vuelve a leerse y revive 46 promos
+Desde el 11/9 la API del catálogo le devolvía vacío al runner; hoy Lucía arregló la receta (el banco movió la API a `/beneficios_rest/beneficios/`, commit `d7e0c86`) y el archivo trae los 23 rubros enteros. Como es el catálogo completo, lo crucé promo por promo: **las 46 que estaban en `baja` por los 10 días figuran iguales** (mismos días, % y topes) y se revivieron con la fuente del banco fechada hoy: Disco, Jumbo, Vea, Día, Makro, Diarco Barrio, ChangoMás lunes, Nini, La Ilusión, DAR, Coto martes sin tope, **MásGO domingo 20%** (el 23/9 quedó en `baja` porque ChangoMás no nombraba al banco; ahora lo lista el banco mismo), farmacias (Farmacity online, Paradiñeiro, Farmacias MODO, Santa Ana, ABC, FarmaPlus, jubilados lunes 30%), Mastercard 35% (Farmacity/GTL/Simplicity miércoles, cafés viernes a domingo, The Food Market lunes), combustible domingo 10%, cines sábado 50%, moda y calzado de los martes, librerías viernes, Arredo, Alpinestars, Showsport, Casa del Audio 25% y cuotas (Samsung, On City, Casa del Audio, Almundo, Plataforma 10, bicicleterías 24), Nutrican, perfumerías, y las de Buepp (Comercios Vecinos 30%, Ferias Itinerantes, RES, gastronómicos, The Food Market 25%). Las cuatro que ya estaban visibles (Coto lunes 25%, Frávega 18 cuotas, Farmaonline, Mastercard MasGO jueves 35%) quedan verificadas hoy.
+- **Ferias Itinerantes** aparece dos veces en el catálogo, una con tope $10.000 y otra con $20.000 mensual: queda el menor, como pide el instructivo.
+- **No cargadas** (quedan para otro día): Cordiez lunes 20% y El Puente lunes 20% (el catálogo no dice la provincia); y cuotas nuevas (Pisano, Fontenla, Garden Life, Riiing, Bidcom, Gadnic, Personal, Coto electro finde 18, Tienda Ciudad 24).
+
+### Naranja X: el listado cambió el 17/9 y nadie lo había aplicado
+Lo que teníamos venía de la lectura del 14/9. Desde el 17/9 el listado viene entero (33 tarjetas, siete lecturas iguales) y dice otra cosa:
+- **Corregidas:** Megatone 15 → 14 cuotas; Naldo 15 → 12; On City 15 → 14; Cetrogar 15 → 12; Frávega 15 → 12; Essen pasa de 24 cuotas a **10% + 12 cuotas** (con `tope_publicado: false`).
+- **Retiradas** (con `vigencia_hasta` 14/9, la última lectura que las traía): **Musimundo 15 cuotas, Rosen 14 cuotas, Cata 10% + 6 cuotas y Suavestar 14 cuotas**, porque Naranja X no las lista más desde el 17/9, con la página bien cargada.
+- **Altas:** Casa del Audio 14 cuotas, Complot 10% + 5 cuotas y Falabella Venta Telefónica 6 cuotas, todos los días con crédito.
+- **Confirmadas iguales:** Whirlpool, Simmons, Samsung, La Cardeuse, Piero, Cannon, Shopgallery martes, y los micros (Plusmar, Flecha Bus, General Urquiza, El Norte, La Veloz del Norte, El Práctico).
+- No cargadas: Viajes Naranja X "hasta 25%" (depende del plan y no hay tope), Rouge Maison 6 cuotas (no sé dónde queda), y las de "días seleccionados" (Moov, Exit, Seven Sport, Sweet, In Store, On Sports), porque no dicen el día.
+
+### Grupo Petersen (Santa Cruz, San Juan, Santa Fe) y Carrefour: 9 que el cruce del 23/9 no vio
+`crudo/petersen.txt` se lee todos los días y trae las páginas de los tres bancos con día y vigencia.
+- **Santa Cruz**, confirmadas hoy: La Anónima viernes y sábado 20%, DAR martes 15% (al 29/9), Diarco sábado y domingo 15% (al 27/9), Market Sur viernes 30%, Autoservicio Cerca viernes 30%.
+- **San Juan**: Avícola Myriam viernes 30% (al 31/10).
+- **Revivida `santa_fe-supermercados-la-gallega-viernes`** (estaba en `baja` desde el 23/9): Banco Santa Fe la publica hoy, "EXCLUSIVO CUENTAS, 30% todos los viernes, del 01/04 al 31/12/2026". **Para que la mire un humano.** Santa Fe solo trae la página 1 de 2 (12 de 24), así que La Reina, Kilbel, Alvear y DAR siguen en `baja`: puede que estén en la página 2.
+- Sin cargar, para otro día: Santa Fe viernes 30% en Bacim, Alfa y Beltrán; San Juan viernes 20% en Tienda de Frío y La Cumbre Sanjuanina; y las de cadenas grandes con MODO de los tres bancos (ChangoMás, Día, Vea, Jumbo, Disco, Makro).
+- **Carrefour** confirma Carrefour Banco lunes y martes 15% en Maxi y Club La Nación 10% de martes a domingo online.
+
+### Agenda de hoy: 8 pedidas, 6 leídas, ninguna aportó
+- **Maxiconsumo** (Moreno): la pestaña de promociones trae los días pero no las tarjetas, que deben ser imágenes. Solo el pie legal ("promociones bancarias con tarjetas de crédito no válidas pagando desde la web").
+- **Vital**: la página "Conocé todas nuestras promociones bancarias" trae los filtros por día y por medio de pago, pero ninguna promo en el texto.
+- **Yaguar**: la receta cae en la página de "no encontraste lo que buscabas"; hay que revisar la URL (el menú tiene "Promociones Bancarias").
+- **Shell**: solo el sorteo de Shell Box a Las Vegas (21/9 al 18/10), sin descuentos. Nuestra única promo con fuente Shell es Galicia día 10, y sigue firme por el banco.
+- **Frávega y Comafi**: bloqueadas (ver arriba), no se pudieron trabajar.
+
+### Para mañana
+Mañana cumplen 11 días **17 visibles** verificadas el 15/9: Mercado Pago 3, Naranja X 3, MODO 2, Supervielle 2, y una de BBVA, Galicia, Santander, YOY, Santa Fe, San Juan y Santa Cruz (las tres Farmaonline de Petersen). Hay que salir a buscarlas temprano.
+
 ## 2026-09-23 — Parcial de Actions de 12 fuentes en 3 minutos; 71 promos verificadas al 23/9 y 38 al 22/9 (Carrefour 19, ChangoMás 18, Cencosud 9, Coto 14, Cuenta DNI 27, Credicoop 4, Macro, Naranja X, Sodimac); revivida Ciudad Mastercard jueves 35% en MasGO (ChangoMás nombra al banco); 4 altas (MODO domingos en MasGO, MODO martes 29/9 en ChangoMás, Credicoop sábado 26/9 30% en ChangoMás, Credicoop miércoles 10% en Carrefour); "Patagonia 365" pasa de Banco Patagonia a Banco del Chubut; La Gallega (Santa Fe) a `baja` por los 10 días. ⚠ Mañana 24/9 cumplen 11 días 89 visibles (55 de ICBC, 18 de Comafi, 8 cuotas de Frávega por banco, 6 de Santa Cruz, 2 de San Juan): sin lectura desde casa pasan a `baja`. Agenda: 6 pedidas, 6 miradas, ninguna aportó desde su propio texto
 
 **601 promos (eran 597): 4 altas, 1 revivida (Ciudad MasGO jueves 35%), 0 retiradas, 1 a `baja` (La Gallega, no vencida), 2 corregidas (Patagonia 365 → Banco del Chubut; tope del 4.º finde de ICBC "por fin de semana"), 71 verificadas al 23/9 y 38 al 22/9.** Push: ver abajo. **Visibles hoy: 328 con vigencia al 23/9 (eran 324)**, 162 valen un miércoles, 185 un jueves. Ninguna visible lleva más de 10 días sin verificar; las 50 que sigue listando `validar` son todas invisibles (vencidas al 31/8).
