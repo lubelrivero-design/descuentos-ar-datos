@@ -2,7 +2,7 @@
 
 ## 2026-09-25 — Ciudad vuelve: 47 promos revividas con el catálogo completo del banco; ⚠ 80 promos de ICBC, Comafi y cuotas de Frávega pasan a `baja` por los 10 días; Naranja X corregido (cuotas que bajaron desde el 17/9, 4 retiradas, 3 altas); Petersen y Carrefour confirman 9 más
 
-**604 promos (eran 601): 3 altas, 47 revividas, 4 retiradas, 6 corregidas, 80 a `baja` por la regla de los 10 días, 31 confirmadas sin cambios.** Push: ver abajo. **Visibles hoy: 357 (eran 391).** Ninguna visible lleva más de 10 días sin verificar; las 65 que sigue listando `validar` son todas invisibles (vencidas).
+**604 promos (eran 601): 3 altas, 47 revividas, 4 retiradas, 6 corregidas, 80 a `baja` por la regla de los 10 días, 31 confirmadas sin cambios.** Push: salió bien (commit "Datos al 2026-09-25"). **Visibles hoy: 357 (eran 391).** Ninguna visible lleva más de 10 días sin verificar; las 65 que sigue listando `validar` son todas invisibles (vencidas).
 
 **Ayer 24/9 no hubo corrida**: `ultima-corrida.txt` decía `fin OK 2026-09-23` y no hay entrada del 24 en este archivo (no quedó un `inicio` colgado, así que no arrancó). Un día sin actualizar.
 
