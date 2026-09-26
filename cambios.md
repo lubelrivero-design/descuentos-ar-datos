@@ -1,5 +1,32 @@
 # Cambios
 
+## 2026-09-26 — Vuelven las 80 de ICBC, Comafi y Frávega con la lectura desde casa del 25/9; ⚠ 16 de Farmaonline pasan a `baja` por los 10 días; el recolector de hoy no llegó
+
+**604 promos (sin altas ni bajas por vencimiento): 81 revividas, 16 a `baja` por la regla de los 10 días, 1 corregida (vigencia), 1 confirmada.** **Visibles hoy: 421 (ayer 357).** Ninguna visible lleva más de 10 días sin verificar.
+
+### ⚠ El texto es del 25/9, no de hoy
+El cron de las 7 no corrió hoy. Lo disparé a mano a las 07:33 (run 70) y **GitHub lo canceló a los 25 minutos** sin commitear nada: la corrida completa ya pasa el timeout de 25 min del workflow (ayer el run 69 también terminó en `failure`). Para mañana conviene subir el timeout o partir la corrida en dos. Todo lo de hoy sale del texto con `leido: 2026-09-25` y **cada fuente sumada va fechada 2026-09-25**, igual que `verificado`.
+
+### ICBC, Comafi y Frávega: revividas las 80 que ayer se apagaron
+Lucía subió anoche la lectura desde casa (`1b17fa1`). Ojo: la cabecera de los tres archivos dice "OJO: el 2026-09-25 no se pudo leer… lo de abajo es la lectura anterior": eso lo agregó el recolector de Actions de las 19:29 al fallar, **pero el contenido es la lectura buena de casa del 25/9** (el arreglo `715a6c4` hizo que conservara la buena en vez de pisarla).
+- **ICBC 54**: el catálogo del 25/9 (274 entradas, 12 rubros) es **idéntico al del 13/9** salvo eventos ya vencidos (Coto jueves 30% débito NFC hasta el 24/9, Paruolo 12-13/9, Semana de la pintura 7-14/9, Pigmento 18-20/9) y dos altas (New Era viernes 20% + 6 cuotas, LBC Tech 6 cuotas). Ninguna de las 54 dependía de las entradas que salieron, así que vuelven todas con la fuente del banco fechada 25/9 (Coto Digital lunes, Coto martes/jueves, **Coto 4.º finde = hoy y mañana**, MasGO, La Anónima, YPF martes, farmacias, heladerías, Atalaya, pinturerías, colchones, moda, deportes, jugueterías, mascotas, colectivos 50%, cuotas…).
+- **Comafi 18**: una por una contra el archivo: mismos días, %, topes y vigencias. **Corregida:** `comafi-farmacity-viernes-15` ahora vence el **31/12/2026** (el banco la extendió; antes 30/9). Simplicity sigue hasta el 30/9 y Get The Look pasó al 31/12, así que las dos promos que las juntan (`comafi-simplicity-gtl-viernes-20`, `cuotas-comafi-farmacity-3`) quedan al 30/9 por la parte de Simplicity.
+- **Frávega 8** (cuotas de BBVA, Galicia, Santander, Patagonia, San Juan, Santa Fe, Santa Cruz y Corrientes viernes 10% + 6): los legales siguen en la página, válidos al 30/9.
+- **No cargadas** (para otro día): ICBC New Era y LBC Tech; Comafi Puppis martes a jueves 20% + cuotas y Carrefour miércoles 10% por MODO (23 al 30/9, mínimo $15.000).
+- Quedan en `baja` de ayer, por no ser de estas fuentes: `macro-movilidad-sabado-30` y las dos de pinturerías de Ciudad (vencidas el 14/9).
+
+### ⚠ Farmaonline: 16 promos a `baja` por los 10 días
+Se verificaron el 15/9 y hoy cumplen 11 días. El único texto automático de Farmaonline (`crudo/farmarket.txt`) trae **solo los títulos, sin el banco de cada promo**, y además **cambió desde el 16/9**: salieron "15% de reintegro a través de MODO todos los lunes" y "10% de reintegro en compras mayores a $70.000", y apareció "20% de reintegro en compras mayores a $70.000". Sin saber qué banco es cada línea no se puede confirmar ninguna: Credicoop martes 30%, BBVA lunes, Yoy jueves, Mercado Pago (3), Santa Fe/San Juan/Santa Cruz 10%, Santander miércoles, Galicia jueves, Naranja X (2), MODO martes y lunes, y **Supervielle Jubilados martes 50% + 50%** (la página todavía la nombra, pero sin día ni tope, y es de 50% en un solo día: no la revivo sin leer el legal). El motivo va escrito en cada una. **Para revivirlas hace falta leer la página con los logos** (desde casa o captura).
+- **Se salvó una:** `cuotas-supervielle-farmaonline-6`, confirmada por el listado de farmacias de Supervielle del 25/9 (Farmaonline, todos los días, 6 cuotas con crédito).
+- **Naranja X Moov** (`naranja-deportiva`, también de 11 días) sigue en el listado del 25/9 ("Hasta 20% off y 9 cuotas cero interés | Días seleccionados en Moov"): confirmada.
+
+### Agenda del día
+Trabajadas las 8: **fravega, comafi, icbc** (enteras, ver arriba), **ypf, axion, farmacity** (las tres "nunca aportaron") y **shell**.
+- **YPF**: `ypf.com/promociones` devuelve "Lo sentimos, esta página no está disponible". La URL de la receta está rota.
+- **Farmacity**: `farmacity.com/promociones-bancarias` da "No encontramos resultados" (404 de la tienda). Solo muestra "hasta 6 cuotas sin interés en seleccionados", sin banco. URL rota.
+- **Axion**: solo títulos ("Promoción combustible Super", "Desafío redondo", pelotas, Lollapalooza) sin %, día ni banco. Nada cargable.
+- **Shell**: la página de Shell Box hoy es un sorteo a Las Vegas (21/9 al 18/10), no un descuento. No nombra la promo de Galicia del día 10, que sigue respaldada por el banco (22/9). Sin cambios.
+
 ## 2026-09-25 — Ciudad vuelve: 47 promos revividas con el catálogo completo del banco; ⚠ 80 promos de ICBC, Comafi y cuotas de Frávega pasan a `baja` por los 10 días; Naranja X corregido (cuotas que bajaron desde el 17/9, 4 retiradas, 3 altas); Petersen y Carrefour confirman 9 más
 
 **604 promos (eran 601): 3 altas, 47 revividas, 4 retiradas, 6 corregidas, 80 a `baja` por la regla de los 10 días, 31 confirmadas sin cambios.** Push: salió bien (commit "Datos al 2026-09-25"). **Visibles hoy: 357 (eran 391).** Ninguna visible lleva más de 10 días sin verificar; las 65 que sigue listando `validar` son todas invisibles (vencidas).

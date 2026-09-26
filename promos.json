@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25",
+  "actualizado": "2026-09-26",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -934,7 +934,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-09-15",
+      "verificado": "2026-09-25",
       "confianza": "alta",
       "cuotas": 9,
       "fuentes": [
@@ -954,6 +954,12 @@
           "nivel": 1,
           "fecha": "2026-09-15",
           "nota": "Portada: \"Lunes y martes | Hasta 20% OFF + 9 cuotas cero interés | En deportes | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "Listado del 25/9 (33 tarjetas, entero): \"Hasta 20% off y 9 cuotas cero interés | Días seleccionados en Moov | Crédito\"; el día (lunes y martes) sale de la portada del 15/9"
         }
       ],
       "tope_publicado": false
@@ -5004,8 +5010,8 @@
       "vigencia_desde": "2026-04-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-09-13",
-      "confianza": "baja",
+      "verificado": "2026-09-25",
+      "confianza": "alta",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/",
@@ -5023,10 +5029,15 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "COTO DIGITAL | \"TODOS LOS LUNES\" | hasta 30% | 01/04/2026 al 31/12/2026 | campaña ONLINE | GENERAL 20% tope $15.000 por transacción ($20.000 plan sueldo) (lectura desde casa del 13/9, idéntica al 7/9). Estaba en baja por error desde el 8/9"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "tope_publicado": true,
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "tope_publicado": true
     },
     {
       "id": "coto-credicoop-lunes-30",
@@ -9614,7 +9625,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-15",
+      "verificado": "2026-09-25",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9644,6 +9655,12 @@
           "nivel": 2,
           "fecha": "2026-09-15",
           "nota": "Hasta 6 cuotas sin interés todos los días con crédito Visa/Master de paquete Supervielle, 29/06 al 30/09/2026"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "Farmaonline | todos los días | 6 CUOTAS · Crédito (listado de farmacias del banco, 25/9)"
         }
       ]
     },
@@ -11679,13 +11696,13 @@
       "descuento_pct": 20,
       "requisitos": "Con Visa Débito ICBC, en un pago, en sucursales Coto adheridas (CABA, GBA y principales ciudades del interior). Sin tope. No incluye electrodomésticos.",
       "fuente": "https://www.coto.com.ar/descuentos",
-      "confianza": "baja",
+      "confianza": "alta",
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-12-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-13",
+      "verificado": "2026-09-25",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
@@ -11703,10 +11720,15 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "COTO | jueves | hasta 20% | DEBITO | 01/07/2026 al 31/12/2026 | GENERAL 20% (lectura desde casa del 13/9, idéntica al 7/9). Estaba en baja por error desde el 8/9"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "tope_publicado": true,
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "tope_publicado": true
     },
     {
       "id": "cuotas-mp-coto-3",
@@ -17813,7 +17835,7 @@
       "zona": "Nacional",
       "vigencia_desde": null,
       "vigencia_hasta": null,
-      "confianza": "alta",
+      "confianza": "baja",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
       "verificado": "2026-09-15",
       "fuentes": [
@@ -17834,7 +17856,8 @@
           "fecha": "2026-09-15",
           "nota": "30% reintegro tope $9.000/usuario/semana, martes, Cabal por QR MODO en 1 pago, desde 01/11/2025 sin fecha de fin"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "bbva-farmaonline-lunes-10",
@@ -17855,7 +17878,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-09-30",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
       "verificado": "2026-09-15",
       "fuentes": [
@@ -17877,7 +17900,8 @@
           "nota": "10% reintegro tope $10.000/usuario/mes + hasta 3 cuotas, lunes, crédito BBVA por QR MODO, 01/07 al 30/09/2026"
         }
       ],
-      "cuotas": 3
+      "cuotas": 3,
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "yoy-farmaonline-jueves-20",
@@ -17898,7 +17922,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2025-12-01",
       "vigencia_hasta": "2026-09-30",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
       "verificado": "2026-09-15",
       "fuentes": [
@@ -17920,7 +17944,8 @@
           "nota": "20% + hasta 6 cuotas, jueves, YOY Mastercard crédito y Visa débito por MODO, tope $5.000/usuario/semana, 1/12/2025 al 30/09/2026"
         }
       ],
-      "cuotas": 6
+      "cuotas": 6,
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "mp-farmaonline-mar-jue-20",
@@ -17942,7 +17967,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-09-30",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
       "verificado": "2026-09-15",
       "fuentes": [
@@ -17963,7 +17988,8 @@
           "fecha": "2026-09-15",
           "nota": "20% tope $16.000 en compras >$80.000, martes y jueves, primera compra con TC Mercado Pago, 01/07 al 30/09/2026"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "mp-farmaonline-finde-15",
@@ -17985,7 +18011,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
       "verificado": "2026-09-15",
       "fuentes": [
@@ -18006,7 +18032,8 @@
           "fecha": "2026-09-15",
           "nota": "15% tope $12.000 en compras >$70.000, sábados y domingos, dinero en cuenta Mercado Pago, 01/08 al 30/09/2026"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "supervielle-farmaonline-jubilados-martes",
@@ -18027,7 +18054,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-11-30",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
       "verificado": "2026-09-15",
       "fuentes": [
@@ -18048,7 +18075,8 @@
           "fecha": "2026-09-15",
           "nota": "Jubilados Supervielle: 50% Visa débito (tope $6.000/cuenta/mes) + 50% por MODO (tope $6.000/cliente/mes), martes, 1/07 al 30/11/2026"
         }
-      ]
+      ],
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "santa_fe-farmaonline-10",
@@ -18075,7 +18103,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-09-30",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
       "verificado": "2026-09-15",
       "fuentes": [
@@ -18097,7 +18125,8 @@
           "nota": "10% reintegro tope $10.000/cuenta/mes + 3 cuotas, todos los días, crédito Visa/Master de Entre Ríos, San Juan, Santa Fe o Santa Cruz por MODO, 01/07 al 30/09/2026"
         }
       ],
-      "cuotas": 3
+      "cuotas": 3,
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "san_juan-farmaonline-10",
@@ -18124,7 +18153,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-09-30",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
       "verificado": "2026-09-15",
       "fuentes": [
@@ -18146,7 +18175,8 @@
           "nota": "10% reintegro tope $10.000/cuenta/mes + 3 cuotas, todos los días, crédito Visa/Master de Entre Ríos, San Juan, Santa Fe o Santa Cruz por MODO, 01/07 al 30/09/2026"
         }
       ],
-      "cuotas": 3
+      "cuotas": 3,
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "santa_cruz-farmaonline-10",
@@ -18173,7 +18203,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-09-30",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuente": "https://www.farmaonline.com/promociones-bancarias",
       "verificado": "2026-09-15",
       "fuentes": [
@@ -18195,7 +18225,8 @@
           "nota": "10% reintegro tope $10.000/cuenta/mes + 3 cuotas, todos los días, crédito Visa/Master de Entre Ríos, San Juan, Santa Fe o Santa Cruz por MODO, 01/07 al 30/09/2026"
         }
       ],
-      "cuotas": 3
+      "cuotas": 3,
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "modo-jumbo-martes-jueves-19",
@@ -20184,7 +20215,8 @@
         }
       ],
       "verificado": "2026-09-15",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "galicia-farmaonline-jueves-15",
@@ -20222,7 +20254,8 @@
         }
       ],
       "verificado": "2026-09-15",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "naranja-farmaonline-martes-20",
@@ -20260,7 +20293,8 @@
         }
       ],
       "verificado": "2026-09-15",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "cuotas-naranja_x-farmaonline-3",
@@ -20303,7 +20337,8 @@
         }
       ],
       "verificado": "2026-09-15",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "modo-farmaonline-martes-20",
@@ -20340,7 +20375,8 @@
         }
       ],
       "verificado": "2026-09-15",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "modo-farmaonline-lunes-15",
@@ -20377,7 +20413,8 @@
         }
       ],
       "verificado": "2026-09-15",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "id": "cuotas-mp-farmaonline-6",
@@ -20420,7 +20457,8 @@
         }
       ],
       "verificado": "2026-09-15",
-      "confianza": "alta"
+      "confianza": "baja",
+      "baja_motivo": "Regla de los 10 días: verificada por última vez el 15/9. El listado de Farmaonline (crudo/farmarket.txt) muestra solo títulos sin el banco de cada promo y cambió desde el 16/9 (salieron \"15% de reintegro a través de MODO todos los lunes\" y \"10% de reintegro en compras mayores a $70.000\", apareció \"20% de reintegro en compras mayores a $70.000\"), así que no se puede confirmar cuál sigue. No se sabe si venció: revivir leyendo la página con los logos de cada banco."
     },
     {
       "tope_monto": 20000,
@@ -22807,8 +22845,8 @@
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-coto-martes-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -22835,10 +22873,15 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 30,
@@ -22928,8 +22971,8 @@
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-coto-4to-finde-sep-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -22958,18 +23001,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 10000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-masgo-jueves-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -22996,18 +23044,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 15000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-la-anonima-jueves-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -23034,18 +23087,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 15000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-the-food-market-jue-dom-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -23076,18 +23134,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 10000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-paladini-viernes-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -23114,18 +23177,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "el banco renombró la entrada: PALADAR (antes PALADINI) | viernes | hasta 30% | via MODO | 12/08/2026 al 29/01/2027 | GENERAL 20% tope $10.000 por semana; EXCLUSIVE 30% tope $20.000"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 15,
       "tope_monto": 15000,
       "tope_periodo": "mensual",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-ypf-martes-sueldo-15",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -23152,18 +23220,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 6000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-farmacity-gtl-simplicity-viernes-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -23193,18 +23266,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 8000,
       "tope_periodo": "por compra",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-openfarma-miercoles-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -23232,18 +23310,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-farmaplus-jue-dom-online-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -23274,18 +23357,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 10,
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-perfumerias-10",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -23325,18 +23413,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 30,
       "tope_monto": 8000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-heladerias-modo-30",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -23372,18 +23465,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 30,
       "tope_monto": 8000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-atalaya-30",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -23416,18 +23514,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 30,
       "tope_monto": 20000,
       "tope_periodo": "mensual",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "icbc-chocorisimo-guapaletas-persicco-30",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -23462,10 +23565,15 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "descuento_pct": 30,
@@ -23533,8 +23641,8 @@
       "tope_monto": 15000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "comafi-makro-miercoles-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -23561,18 +23669,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 6000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "comafi-axion-lunes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -23599,18 +23712,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 6000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "comafi-ypf-sabado-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -23637,18 +23755,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 6000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "comafi-shell-domingo-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -23675,18 +23798,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 6000,
       "tope_periodo": "semanal",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "comafi-puma-viernes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -23713,18 +23841,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "descuento_pct": 15,
       "tope_monto": 10000,
       "tope_periodo": "mensual",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "comafi-farmacity-viernes-15",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -23739,7 +23872,7 @@
       "tope_publicado": true,
       "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard de Banco Comafi. Tope $10.000 por mes. Hasta 3 cuotas sin interés. En sucursales y en farmacity.com.",
       "vigencia_desde": "2026-08-07",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-12-31",
       "fuentes": [
         {
           "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
@@ -23752,18 +23885,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9: Farmacity y Farmacity.com | viernes | 15% + 3 cuotas | tope mensual $10.000 | el banco extendió la vigencia: 07/08/2026 al 31/12/2026 (antes 30/09)"
         }
       ],
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 10000,
       "tope_periodo": "mensual",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "comafi-simplicity-gtl-viernes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -23792,18 +23930,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9: Simplicity viernes 20% + cuotas tope mensual $10.000 hasta 30/09/2026; Get The Look igual pero hasta 31/12/2026"
         }
       ],
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "descuento_pct": 50,
       "tope_monto": 12000,
       "tope_periodo": "mensual",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "comafi-cinemacenter-50",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -23836,18 +23979,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "descuento_pct": 30,
       "tope_monto": 40000,
       "tope_periodo": "mensual",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "comafi-restaurantes-sabado-premium-30",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -23874,18 +24022,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 20000,
       "tope_periodo": "mensual",
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "comafi-petshops-mar-jue-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -23918,18 +24071,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "descuento_pct": 20,
       "tope_monto": 10000,
       "tope_periodo": "semanal",
       "zona": "San Luis",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "comafi-aiello-viernes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -23956,18 +24114,23 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "descuento_pct": 0,
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "cuotas-bbva-fravega-12",
       "medio": "bbva",
       "medio_nombre": "BBVA",
@@ -24000,18 +24163,23 @@
           "nivel": 2,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9: página de legales idéntica a la del 7/9. BBVA: hasta 12 cuotas, válida del 01 al 30 de septiembre de 2026"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9: el legal de este banco sigue en la página, válido del 01 al 30/09/2026, igual que el 13/9"
         }
       ],
-      "fuente": "https://www.fravega.com/e/promociones/",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura de Frávega desde la PC de Lucía; desde Actions Frávega contesta 403 (CloudFront) y el banco no la publica en ninguna fuente que leamos. No venció: revivir con `node tools/recolectar.js fravega` desde casa."
+      "fuente": "https://www.fravega.com/e/promociones/"
     },
     {
       "descuento_pct": 0,
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "cuotas-galicia-fravega-12",
       "medio": "galicia",
       "medio_nombre": "Banco Galicia",
@@ -24044,10 +24212,15 @@
           "nivel": 2,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9: página de legales idéntica a la del 7/9. GALICIA: hasta 12 cuotas, válida del 01 al 30 de septiembre de 2026"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9: el legal de este banco sigue en la página, válido del 01 al 30/09/2026, igual que el 13/9"
         }
       ],
-      "fuente": "https://www.fravega.com/e/promociones/",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura de Frávega desde la PC de Lucía; desde Actions Frávega contesta 403 (CloudFront) y el banco no la publica en ninguna fuente que leamos. No venció: revivir con `node tools/recolectar.js fravega` desde casa."
+      "fuente": "https://www.fravega.com/e/promociones/"
     },
     {
       "descuento_pct": 0,
@@ -24103,8 +24276,8 @@
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "cuotas-santander-fravega-12",
       "medio": "santander",
       "medio_nombre": "Santander",
@@ -24137,10 +24310,15 @@
           "nivel": 2,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9: página de legales idéntica a la del 7/9. SANTANDER: hasta 12 cuotas, válida del 01 al 30 de septiembre de 2026"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9: el legal de este banco sigue en la página, válido del 01 al 30/09/2026, igual que el 13/9"
         }
       ],
-      "fuente": "https://www.fravega.com/e/promociones/",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura de Frávega desde la PC de Lucía; desde Actions Frávega contesta 403 (CloudFront) y el banco no la publica en ninguna fuente que leamos. No venció: revivir con `node tools/recolectar.js fravega` desde casa."
+      "fuente": "https://www.fravega.com/e/promociones/"
     },
     {
       "descuento_pct": 0,
@@ -24196,8 +24374,8 @@
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "cuotas-patagonia-fravega-12",
       "medio": "patagonia",
       "medio_nombre": "Banco Patagonia",
@@ -24230,18 +24408,23 @@
           "nivel": 2,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9: página de legales idéntica a la del 7/9. BANCO PATAGONIA: hasta 12 cuotas, válida del 01 al 30 de septiembre de 2026"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9: el legal de este banco sigue en la página, válido del 01 al 30/09/2026, igual que el 13/9"
         }
       ],
-      "fuente": "https://www.fravega.com/e/promociones/",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura de Frávega desde la PC de Lucía; desde Actions Frávega contesta 403 (CloudFront) y el banco no la publica en ninguna fuente que leamos. No venció: revivir con `node tools/recolectar.js fravega` desde casa."
+      "fuente": "https://www.fravega.com/e/promociones/"
     },
     {
       "descuento_pct": 0,
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "cuotas-san_juan-fravega-12",
       "medio": "san_juan",
       "medio_nombre": "Banco San Juan",
@@ -24274,18 +24457,23 @@
           "nivel": 2,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9: página de legales idéntica a la del 7/9. BANCO DE SAN JUAN: hasta 12 cuotas, válida del 01 al 30 de septiembre de 2026"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9: el legal de este banco sigue en la página, válido del 01 al 30/09/2026, igual que el 13/9"
         }
       ],
-      "fuente": "https://www.fravega.com/e/promociones/",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura de Frávega desde la PC de Lucía; desde Actions Frávega contesta 403 (CloudFront) y el banco no la publica en ninguna fuente que leamos. No venció: revivir con `node tools/recolectar.js fravega` desde casa."
+      "fuente": "https://www.fravega.com/e/promociones/"
     },
     {
       "descuento_pct": 0,
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "cuotas-santa_fe-fravega-12",
       "medio": "santa_fe",
       "medio_nombre": "Banco Santa Fe",
@@ -24318,18 +24506,23 @@
           "nivel": 2,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9: página de legales idéntica a la del 7/9. BANCO DE SANTA FE: hasta 12 cuotas, válida del 01 al 30 de septiembre de 2026"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9: el legal de este banco sigue en la página, válido del 01 al 30/09/2026, igual que el 13/9"
         }
       ],
-      "fuente": "https://www.fravega.com/e/promociones/",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura de Frávega desde la PC de Lucía; desde Actions Frávega contesta 403 (CloudFront) y el banco no la publica en ninguna fuente que leamos. No venció: revivir con `node tools/recolectar.js fravega` desde casa."
+      "fuente": "https://www.fravega.com/e/promociones/"
     },
     {
       "descuento_pct": 0,
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "cuotas-santa_cruz-fravega-12",
       "medio": "santa_cruz",
       "medio_nombre": "Banco Santa Cruz",
@@ -24362,18 +24555,23 @@
           "nivel": 2,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9: página de legales idéntica a la del 7/9. BANCO DE SANTA CRUZ: hasta 12 cuotas, válida del 01 al 30 de septiembre de 2026"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9: el legal de este banco sigue en la página, válido del 01 al 30/09/2026, igual que el 13/9"
         }
       ],
-      "fuente": "https://www.fravega.com/e/promociones/",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura de Frávega desde la PC de Lucía; desde Actions Frávega contesta 403 (CloudFront) y el banco no la publica en ninguna fuente que leamos. No venció: revivir con `node tools/recolectar.js fravega` desde casa."
+      "fuente": "https://www.fravega.com/e/promociones/"
     },
     {
       "descuento_pct": 10,
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "id": "corrientes-fravega-viernes-10",
       "medio": "corrientes",
       "medio_nombre": "Banco de Corrientes",
@@ -24401,10 +24599,15 @@
           "nivel": 2,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9: página de legales idéntica a la del 7/9. BANCO DE CORRIENTES: 10% off y 6 cuotas los viernes, válida del 01 al 30 de septiembre de 2026"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9: el legal de este banco sigue en la página, válido del 01 al 30/09/2026, igual que el 13/9"
         }
       ],
-      "fuente": "https://www.fravega.com/e/promociones/",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura de Frávega desde la PC de Lucía; desde Actions Frávega contesta 403 (CloudFront) y el banco no la publica en ninguna fuente que leamos. No venció: revivir con `node tools/recolectar.js fravega` desde casa."
+      "fuente": "https://www.fravega.com/e/promociones/"
     },
     {
       "tope_monto": null,
@@ -24681,8 +24884,8 @@
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -24697,6 +24900,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-kromacolor-25",
@@ -24718,16 +24927,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope publicado. Del 7 al 14/9 la promo sube a 30% y 12 cuotas. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -24742,6 +24950,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-pinturerias-20-3c",
@@ -24766,16 +24980,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas sin interés con crédito). Sin tope de reintegro. En Colorshop, del 7 al 14/9 sube a 25% y 12 cuotas. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -24790,6 +25003,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-la-cardeuse-20",
@@ -24811,16 +25030,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope de reintegro. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -24835,6 +25053,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-colchones-10-6c",
@@ -24858,16 +25082,15 @@
       "requisitos": "10% pagando en 6 cuotas sin interés (solo 6) con crédito visa o mastercard icbc. Sin tope publicado. Si preferís más cuotas, hay 9 y 12 sin descuento.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -24882,6 +25105,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-colchones-12",
@@ -24906,16 +25135,15 @@
       "requisitos": "9 o 12 cuotas sin interés con crédito visa o mastercard icbc (Essen: 12 cuotas).",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -24930,6 +25158,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-pinturerias-9",
@@ -24953,16 +25187,15 @@
       "requisitos": "Hasta 9 cuotas sin interés con crédito visa o mastercard icbc. Del 7 al 14/9 hay 12 cuotas por la Semana de la Pintura.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -24977,6 +25210,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-electro-hogar-9",
@@ -25001,8 +25240,7 @@
       "requisitos": "9 cuotas sin interés con crédito visa o mastercard icbc. Garmin: los viernes además 20% de descuento.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
@@ -25049,8 +25287,8 @@
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25065,6 +25303,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-paruolo-viernes-15",
@@ -25080,16 +25324,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope publicado. Clientes Exclusive Banking: 20%.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2027-01-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": 30000,
       "tope_periodo": "por compra",
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25104,6 +25347,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-adidas-online-martes-25",
@@ -25119,16 +25368,15 @@
       "requisitos": "Solo en adidas.com.ar, los martes. 25% en el checkout con crédito visa o mastercard icbc, tope $30.000 por compra. Cuotas sin interés: 3 desde $89.999, 6 desde $149.999, 9 desde $179.999.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-27",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25143,6 +25391,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-rever-pass-jueves-25",
@@ -25158,16 +25412,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope de reintegro. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": 30000,
       "tope_periodo": "por compra",
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25182,6 +25435,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-moda-viernes-15-6c",
@@ -25206,16 +25465,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Tope $30.000 por compra. Clientes Exclusive Banking: 20%. En locales adheridos.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25230,6 +25488,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-la-pinta-viernes-15",
@@ -25245,16 +25509,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope publicado. Clientes Exclusive Banking: 20%.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25269,6 +25532,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-deportivas-9",
@@ -25295,16 +25564,15 @@
       "requisitos": "Hasta 9 cuotas sin interés con crédito visa o mastercard icbc, en locales y online.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25319,6 +25587,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-indumentaria-6",
@@ -25348,16 +25622,15 @@
       "requisitos": "Hasta 6 cuotas sin interés con crédito visa o mastercard icbc. Puma solo en locales; Mizuno solo online.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25372,6 +25645,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-skechers-hey-dude-finde-9",
@@ -25389,16 +25668,15 @@
       "requisitos": "Sábados y domingos, hasta 9 cuotas sin interés con crédito visa o mastercard icbc.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25413,6 +25691,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-baby-cottons-caro-cuore-3",
@@ -25435,16 +25719,15 @@
       "requisitos": "Hasta 3 cuotas sin interés con crédito visa o mastercard icbc.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25459,6 +25742,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-garmin-viernes-20",
@@ -25474,16 +25763,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (9 cuotas sin interés con crédito). Sin tope de reintegro. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25498,6 +25786,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-music-house-jueves-15",
@@ -25513,16 +25807,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope de reintegro. No vale pagando por Mercado Pago, Todo Pago ni transferencia.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25537,6 +25830,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-fravega-9",
@@ -25558,16 +25857,15 @@
       "requisitos": "Hasta 9 cuotas con crédito visa o mastercard icbc, en productos seleccionados.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2027-01-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura de Frávega desde la PC de Lucía; desde Actions Frávega contesta 403 (CloudFront) y el banco no la publica en ninguna fuente que leamos. No venció: revivir con `node tools/recolectar.js fravega` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25582,6 +25880,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "MOTOROLA (10/04 al 30/09) y PHI-DIGITAL (20/04 al 30/09) | todos los días | 6 cuotas sin interés. Bidcom y Gadnic pasaron a 9 cuotas y van en su propia promo"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-tecnologia-online-6",
@@ -25604,16 +25908,15 @@
       "requisitos": "6 cuotas sin interés con crédito Visa o Mastercard ICBC. No vale pagando por Mercado Pago ni Todo Pago.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25628,6 +25931,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-compragamer-12",
@@ -25649,16 +25958,15 @@
       "requisitos": "3, 6, 9 o 12 cuotas sin interés con crédito visa o mastercard icbc, comprando online en compragamer.com.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25673,6 +25981,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-honor-9",
@@ -25694,16 +26008,15 @@
       "requisitos": "Hasta 9 cuotas sin interés con crédito visa o mastercard icbc, en tiendas físicas.",
       "vigencia_desde": "2026-09-04",
       "vigencia_hasta": "2026-11-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25718,6 +26031,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-librerias-3",
@@ -25743,16 +26062,15 @@
       "requisitos": "Hasta 3 cuotas sin interés con crédito visa o mastercard icbc.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": 15000,
       "tope_periodo": "por compra",
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25767,6 +26085,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-woopy-15",
@@ -25788,16 +26112,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas sin interés con crédito). Tope $15.000 por compra. Con débito, solo clientes con paquete o sueldo en ICBC.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": 30000,
       "tope_periodo": "por compra",
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25812,6 +26135,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-jugueterias-viernes-15",
@@ -25832,16 +26161,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas sin interés con crédito). Tope $30.000 por compra. Clientes Exclusive Banking: 20%. En locales adheridos.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": 30000,
       "tope_periodo": "mensual",
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25856,6 +26184,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-creciendo-lun-jue-20",
@@ -25872,16 +26206,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Tope $30.000 por cuenta por mes. Clientes Exclusive Banking: 30% y tope $50.000.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "CABA",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25896,6 +26229,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-malba-entradas-20",
@@ -25916,16 +26255,15 @@
       "requisitos": "Entradas al museo. Con crédito Visa o Mastercard ICBC en un pago o Visa Débito ICBC. Sin tope. En la tienda del museo es 10%.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": 15000,
       "tope_periodo": "mensual",
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25940,6 +26278,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-colectivos-mastercard-nfc-50",
@@ -25960,16 +26304,15 @@
       "requisitos": "Pagando el pasaje de colectivo acercando la tarjeta de crédito Mastercard ICBC (NFC, física o en el celular). Tope $15.000 por cuenta por mes. No vale con SUBE.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": 30000,
       "tope_periodo": "por compra",
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -25984,6 +26327,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-shopgallery-online-10",
@@ -26005,16 +26354,15 @@
       "requisitos": "Solo online. Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Tope $30.000 por compra. En locales: los viernes 10% y 9 cuotas.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -26029,6 +26377,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-entradas-3",
@@ -26051,16 +26405,15 @@
       "requisitos": "Hasta 3 cuotas sin interés con crédito visa o mastercard icbc. Passline: en eventos especiales.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -26075,6 +26428,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-neumaticos-9",
@@ -26098,16 +26457,15 @@
       "requisitos": "9 cuotas sin interés con crédito visa o mastercard icbc (Michelin: 6 cuotas).",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": 8000,
       "tope_periodo": "mensual",
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -26122,6 +26480,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-puppis-lun-mie-20",
@@ -26138,16 +26502,15 @@
       "requisitos": "Pagando por MODO con crédito visa o mastercard icbc (hasta 3 cuotas sin interés) o Visa Débito ICBC (solo clientes con paquete o sueldo). Tope $8.000 por cuenta por mes.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2027-01-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": 5000,
       "tope_periodo": "por compra",
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -26162,6 +26525,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-natural-life-lun-vie-20",
@@ -26178,16 +26547,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas con crédito). Tope $5.000 por compra.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2027-01-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": 15000,
       "tope_periodo": "por compra",
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -26202,6 +26570,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-pet-company-20",
@@ -26219,16 +26593,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas sin interés con crédito). Tope $15.000 por compra.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2027-01-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -26243,6 +26616,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-zoocopet-25",
@@ -26264,16 +26643,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas sin interés con crédito). Sin tope de reintegro. Clientes Exclusive Banking: 35%.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": 5000,
       "tope_periodo": "por compra",
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -26288,6 +26666,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-delivery-pet-food-lunes-20",
@@ -26303,16 +26687,15 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 3 cuotas sin interés con crédito). Tope $5.000 por compra. De martes a domingo, 3 cuotas sin descuento.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2027-01-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -26327,6 +26710,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 por la API (282 entradas, 12 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tarjetas, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "icbc-leocan-mar-vie-10",
@@ -26343,8 +26732,7 @@
       "requisitos": "Con crédito Visa o Mastercard ICBC o Visa Débito ICBC (hasta 6 cuotas sin interés con crédito). Sin tope publicado.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2027-01-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "tope_monto": 30000,
@@ -26399,8 +26787,8 @@
       "tope_periodo": "mensual",
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -26415,6 +26803,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
       "id": "comafi-atalaya-20",
@@ -26435,16 +26829,15 @@
       "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (no Credial ni corporativas). Tope $30.000 por mes.",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -26459,6 +26852,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9: Farmacity, Farmacity.com y Get The Look 3 cuotas todos los días hasta 31/12/2026; Simplicity hasta 30/09/2026"
         }
       ],
       "id": "cuotas-comafi-farmacity-3",
@@ -26483,16 +26882,15 @@
       "requisitos": "Hasta 3 cuotas sin interés con crédito Visa o Mastercard de Banco Comafi, en sucursales y tienda online. Los viernes, además, hay descuento.",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -26507,6 +26905,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
       "id": "cuotas-comafi-soy-tu-farmacia-3",
@@ -26528,16 +26932,15 @@
       "requisitos": "Hasta 3 cuotas sin interés con crédito de Banco Comafi (cuentas Global, Classic, Premium y Único).",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-11-30",
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -26552,6 +26955,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
       "id": "cuotas-comafi-makro-3",
@@ -26573,16 +26982,15 @@
       "requisitos": "3 cuotas sin interés con crédito Visa o Mastercard de Banco Comafi (no Credial ni corporativas). Los miércoles conviene el 20% por MODO.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-11-30",
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -26597,6 +27005,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
       "id": "cuotas-comafi-decathlon-6",
@@ -26618,16 +27032,15 @@
       "requisitos": "Hasta 6 cuotas sin interés con crédito Visa o Mastercard de Banco Comafi (cuentas Global, Classic, Premium y Único).",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -26642,6 +27055,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
       "id": "cuotas-comafi-compragamer-6",
@@ -26663,16 +27082,15 @@
       "requisitos": "Hasta 6 cuotas sin interés con crédito Visa o Mastercard de Banco Comafi, en compragamer.com. Cuenta Único (Visa Signature/Mastercard Black): hasta 9.",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -26687,6 +27105,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "lectura desde casa del 13/9 (104 entradas en los 5 rubros): la entrada del banco es idéntica a la del 7/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 (todos los rubros): la entrada del banco sigue igual que el 13/9 en día, %, tope y medios"
         }
       ],
       "id": "cuotas-comafi-multitravel-6",
@@ -26708,8 +27132,7 @@
       "requisitos": "Hasta 6 cuotas sin interés con crédito Visa o Mastercard de Banco Comafi. Cuenta Único (Visa Signature/Mastercard Black): hasta 9.",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions Comafi queda en la verificación de Cloudflare y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js comafi` desde casa."
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "id": "cuotas-bna-jumbo-disco-vea-6",
@@ -27164,8 +27587,8 @@
       "tope_periodo": null,
       "tope_publicado": true,
       "zona": "Nacional",
-      "confianza": "baja",
-      "verificado": "2026-09-13",
+      "confianza": "alta",
+      "verificado": "2026-09-25",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -27174,6 +27597,12 @@
           "nivel": 1,
           "fecha": "2026-09-13",
           "nota": "BIDCOM y GADNIC | todos los días | hasta 9 cuotas sin interés (observación: incluye 2, 3, 4, 5, 6 y 9 pagos) | 06/09/2026 al 31/01/2027. El 7/9 decían 6 cuotas al 31/01"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-09-25",
+          "nota": "lectura desde casa del 25/9 por la API (274 entradas, 12 rubros): la entrada del banco sigue igual que el 13/9 en día, %, tarjetas, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-bidcom-gadnic-9",
@@ -27196,8 +27625,7 @@
       "requisitos": "Hasta 9 cuotas sin interés (2, 3, 4, 5, 6 o 9 pagos) con crédito Visa o Mastercard ICBC. No vale pagando por Mercado Pago ni Todo Pago.",
       "vigencia_desde": "2026-09-06",
       "vigencia_hasta": "2027-01-31",
-      "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "baja_motivo": "Regla de los 10 días: verificada por última vez el 13/9 con la lectura desde la PC de Lucía; desde Actions ICBC contesta 403 y ninguna otra fuente de hoy la nombra. No venció: revivir con `node tools/recolectar.js icbc` desde casa."
+      "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
       "id": "cuotas-icbc-pigmento-18-20-sep-6",
