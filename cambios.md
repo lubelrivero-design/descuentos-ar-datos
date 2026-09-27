@@ -1,5 +1,37 @@
 # Cambios
 
+## 2026-09-27 — 70 promos reconfirmadas antes de cumplir los 10 días (Día, Diarco, Supervielle, Patagonia, Easy); 2 altas (Comafi en Puppis, MODO en Carrefour los miércoles); Clarín 365 en Diarco pasa a `baja`
+
+**606 promos (eran 604): 2 altas, 70 confirmadas, 1 corregida (dato agregado), 1 a `baja` por los 10 días, 0 retiradas.** **Visibles hoy: 421 (ayer 421).** Ninguna visible lleva más de 10 días sin verificar.
+
+### El texto sí es de hoy, pero hubo que partir el recolector en tandas
+A las 07:33 el texto seguía en 25/9 (el cron de ayer y el de hoy no commitearon). Disparé la corrida completa y la corté enseguida porque ayer se canceló dos veces por el timeout de 25 min. La disparé **en tres tandas por el input `fuentes`** y cada una tardó 2 a 3 minutos: 07:36 (agenda + 11 más), 07:44 (27 más) y 07:46 (Macro). **No incluí icbc, comafi ni fravega**, que desde Actions se quedan en la verificación de Cloudflare; quedan con la lectura desde casa del 25/9. **Para Lucía:** como las tandas vuelan, lo que lleva la corrida completa al timeout parece ser la espera de esas tres fuentes bloqueadas y no Macro. Convendría sacarlas de la corrida automática o bajarles la espera.
+- Siguen sin leerse: **santander** (`ERROR: Timeout`, como siempre), **ypf** (`leido` sigue en 25/9, la URL de la receta está rota), **mcdonalds** y **musimundo** (`leido` en 27/8).
+
+### Reconfirmadas antes de que las apague la regla de los 10 días (verificadas el 16 y 17/9)
+- **Día (8)**, con los legales de hoy: MODO viernes y sábados (**agregué `compra_minima` $35.000**, que el legal pide y ya estaba en los requisitos), Credicoop miércoles, Columbia lunes y viernes, Banco del Sol martes, Ciudadanía Porteña, Sidecreer domingos (Entre Ríos), 3 cuotas los sábados y Banco de Corrientes. Todo igual: días, % y topes.
+- **Diarco (8)**: la página muestra solo las promos del día, así que hoy (domingo) trae Credicuotas, las 4 cuotas de Naranja X (el legal sigue diciendo agosto, igual que el 16/9) y las 3 cuotas de Mercado Pago. Las de jueves (Personal Pay, Credicoop general y haberes, Chubut) y Comafi de lunes a viernes las confirmé con **la lectura del jueves 24/9**, fechadas ese día. Comafi Diarco y Comafi Rappi (solo Único) suman además la lectura de Comafi desde casa del 25/9.
+- **Supervielle (18)**: listado del banco de hoy. Mismos días, % y topes (ChangoMás, Modo Market, El Puente, La Ilusión, Shell, farmacias jubilados 50%, Farmacity online, Átomo, Aiello, colectivos y Cabify con Mastercard, farmacias Mastercard lunes, MásGO lunes y domingo y cuotas en Easy, Blaisten y Coto Electro).
+- **Patagonia (21)** y **Easy (15)**: el texto de hoy es igual al del 17/9 que las verificó (en Patagonia solo cambió "La Esquina" → "Bodegón La Esquina"; en Easy, el orden del menú).
+
+### Altas
+- **`comafi-puppis-mar-jue-20`**: Comafi en Puppis, martes a jueves, 20% + 3 cuotas por MODO, tope $20.000 por mes, del 15/9 al 30/11 (lectura de Comafi desde casa del 25/9).
+- **`modo-carrefour-miercoles-10`**: MODO en Carrefour Hiper, Market y Express, 10% los miércoles 23 y 30/9, compra mínima $15.000, tope $10.000 por banco por mes. Lo dicen Carrefour (hoy), Comafi (25/9) y Supervielle (hoy). Le queda un solo día, el miércoles 30.
+
+### A `baja`
+- **`clarin365-diarco-barrio-miercoles-10`**: por la regla de los 10 días. Diarco la muestra solo los miércoles y desde el 16/9 no hubo lectura ningún miércoles. Puede seguir vigente: el miércoles 30 conviene mirarla.
+
+### No cargadas
+- **ICBC New Era** (viernes 20% + 6 cuotas, **sin tope**, hasta el 31/12): vale un solo día y es sin tope, así que pide una segunda fuente. **ICBC LBC Tech** (solo cuotas): queda para otro día.
+
+### Agenda del día
+Trabajadas las 8:
+- **fravega, comafi, icbc**: son la misma lectura desde casa del 25/9, que ayer se trabajó entera. Hoy saqué de ahí las altas de Puppis y Carrefour, y el respaldo de Comafi en Diarco y Rappi. New Era y LBC Tech quedaron (ver arriba).
+- **la-anonima**: `403 Forbidden` también hoy desde Actions. Nunca se pudo leer.
+- **vital**: la página carga, pero las promos no llegan al texto (solo aparecen los botones "Por día / Por medio de pago"). Hay que arreglar la receta: tendría que hacer clic en "Ver todos" o en cada día.
+- **maxiconsumo**: igual. Muestra los botones Lunes…Domingo y "LEGALES" sin contenido, porque las promos se abren con un clic. Hay que arreglar la receta.
+- **shell**: sigue el sorteo a Las Vegas (21/9 al 18/10), sin descuento. La promo de Galicia del día 10 queda como estaba.
+
 ## 2026-09-26 — Vuelven las 80 de ICBC, Comafi y Frávega con la lectura desde casa del 25/9; ⚠ 16 de Farmaonline pasan a `baja` por los 10 días; el recolector de hoy no llegó
 
 **604 promos (sin altas ni bajas por vencimiento): 81 revividas, 16 a `baja` por la regla de los 10 días, 1 corregida (vigencia), 1 confirmada.** **Visibles hoy: 421 (ayer 357).** Ninguna visible lleva más de 10 días sin verificar.
