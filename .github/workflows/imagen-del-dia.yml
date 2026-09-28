@@ -15,6 +15,12 @@ on:
 permissions:
   contents: write
 
+# Una imagen por vez: si la rutina sube datos dos veces seguidas, la segunda
+# corrida espera a que termine la primera en vez de pisarse con ella.
+concurrency:
+  group: imagen-del-dia
+  cancel-in-progress: false
+
 jobs:
   imagen:
     runs-on: ubuntu-latest
@@ -41,5 +47,16 @@ jobs:
             echo "La imagen es igual a la de ayer."
           else
             git commit -m "Imagen del $(cat hoy/fecha.txt)"
-            git push
+            # La rutina de la mañana a veces sube un segundo commit (cambios.md)
+            # un minuto después de los datos, y el push de la imagen chocaba
+            # con "fetch first" (25/9 y 28/9: la imagen del día no salía).
+            # Se trae lo nuevo y se reintenta. Solo tocamos hoy/, así que el
+            # rebase no puede tener conflictos.
+            for intento in 1 2 3 4 5; do
+              git pull --rebase -q && git push && exit 0
+              echo "Choque al subir (intento $intento), reintento en 10 s"
+              sleep 10
+            done
+            echo "::error::No se pudo subir la imagen después de 5 intentos."
+            exit 1
           fi
