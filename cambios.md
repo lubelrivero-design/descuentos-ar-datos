@@ -8,8 +8,8 @@
 A las 07:33 `crudo/` seguía en el 27/9. Disparé el recolector solo con las fuentes de la agenda que Actions puede leer (`yaguar ypf axion shell`) y llegó enseguida (`7fac6c5`, "Texto de las fuentes al 2026-09-28 07:34"). ICBC, Comafi y Frávega no pasan desde Actions: se usó la lectura desde casa que subió Lucía anoche (`cdb3ab0`, 27/9 20:01), así que **esas confirmaciones van fechadas 2026-09-27**. El resto de `crudo/` también es del 27/9.
 
 ### Reconfirmadas
-- **ICBC (54)**: el catálogo del 27/9 es idéntico al del 25/9, salvo **SHE The Market** (viernes 20%/15% + 3 cuotas), que venció el 25/9 y no teníamos cargada. Se sumó la fuente del 27/9 a las 54, excepto `icbc-coto-4to-finde-sep-20`, que ya venció (27/9).
-- **Comafi (21)**: mismas entradas que el 25/9 (el archivo trae menos líneas porque ya no repite la sección MODO, pero sin duplicados es el mismo listado).
+- **ICBC (53)**: el catálogo del 27/9 es idéntico al del 25/9, salvo **SHE The Market** (viernes 20%/15% + 3 cuotas), que venció el 25/9 y no teníamos cargada. Se sumó la fuente del 27/9 a las 54, excepto `icbc-coto-4to-finde-sep-20`, que ya venció (27/9).
+- **Comafi (22)**: mismas entradas que el 25/9 (el archivo trae menos líneas porque ya no repite la sección MODO, pero sin duplicados es el mismo listado).
 - **Frávega (8)**: el texto es idéntico al del 25/9; los legales de las cuotas siguen publicados, válidos al 30/9.
 - **ChangoMás (2)**, con el texto del 27/9: MásClub miércoles y jueves 15% sin tope y Columbia martes y sábados 20% (tope $10.000 semanal, vence el 30/9). Las hice hoy porque mañana cumplían 11 días.
 
