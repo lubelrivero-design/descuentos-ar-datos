@@ -1,5 +1,33 @@
 # Cambios
 
+## 2026-09-28 — 85 promos reconfirmadas (ICBC, Comafi y Frávega con la lectura desde casa del 27/9; MásClub y Columbia en ChangoMás); sin altas ni retiros
+
+**606 promos (igual que ayer): 0 altas, 85 confirmadas, 0 corregidas, 0 retiradas.** **Visibles hoy: 418 (ayer 421)**: las 3 que faltan no se retiraron, vencieron solas el fin de semana (ICBC 4.º finde en Coto y en ChangoMás, Santa Cruz en Diarco sábado y domingo). Ninguna visible lleva más de 10 días sin verificar.
+
+### El texto
+A las 07:33 `crudo/` seguía en el 27/9. Disparé el recolector solo con las fuentes de la agenda que Actions puede leer (`yaguar ypf axion shell`) y llegó enseguida (`7fac6c5`, "Texto de las fuentes al 2026-09-28 07:34"). ICBC, Comafi y Frávega no pasan desde Actions: se usó la lectura desde casa que subió Lucía anoche (`cdb3ab0`, 27/9 20:01), así que **esas confirmaciones van fechadas 2026-09-27**. El resto de `crudo/` también es del 27/9.
+
+### Reconfirmadas
+- **ICBC (54)**: el catálogo del 27/9 es idéntico al del 25/9, salvo **SHE The Market** (viernes 20%/15% + 3 cuotas), que venció el 25/9 y no teníamos cargada. Se sumó la fuente del 27/9 a las 54, excepto `icbc-coto-4to-finde-sep-20`, que ya venció (27/9).
+- **Comafi (21)**: mismas entradas que el 25/9 (el archivo trae menos líneas porque ya no repite la sección MODO, pero sin duplicados es el mismo listado).
+- **Frávega (8)**: el texto es idéntico al del 25/9; los legales de las cuotas siguen publicados, válidos al 30/9.
+- **ChangoMás (2)**, con el texto del 27/9: MásClub miércoles y jueves 15% sin tope y Columbia martes y sábados 20% (tope $10.000 semanal, vence el 30/9). Las hice hoy porque mañana cumplían 11 días.
+
+### No cargada (pide segunda fuente)
+- **Comafi en Coto, miércoles 30/9, 30% sin tope** con crédito Visa y Mastercard (general y Único/Black), en sucursales de CABA, Buenos Aires, Neuquén, Mendoza, Entre Ríos, Santa Fe y coto.com.ar. Apareció en la lectura del 27/9. Es de 30%, sin tope y de un solo día: pide cruce, y la página de Coto del 27/9 todavía no la muestra (solo trae el martes 30% por MODO). **Mañana o el miércoles, si Coto la publica, cargarla** (id sugerido `comafi-coto-30-sep-30`).
+
+### ⚠ Mañana se apagan por los 10 días si no se releen
+Verificadas el 18/9 y todavía visibles: `modo-changomas-lunes` (la pestaña "lunes" de ChangoMás vino vacía el 27/9, no la pude confirmar), `naranja-chevallier-10`, `cuotas-modo-fravega-9`, `brubank-burger-king-30` y sus variantes Plus/One, las 4 cuotas de Sodimac (BBVA, Provincia, Galicia, Naranja X) y las 5 cuotas de BPN Club. Conviene que la corrida de mañana mire **changomas, sodimac, bpn, brubank y naranja-x** aunque la agenda no las ponga.
+
+### Agenda del día
+Trabajadas las 8:
+- **fravega, comafi, icbc**: lectura desde casa del 27/9, entera (ver arriba).
+- **yaguar**: la página carga el cartel "Mes del almacenero" y el menú ("Promociones Bancarias" es un link), pero ninguna promo llega al texto. Hay que arreglar la receta para que entre a la sección de promociones bancarias.
+- **ypf**: `leido` de hoy, pero es el menú institucional de ypf.com, sin promociones. La URL de la receta sigue rota.
+- **axion**: solo títulos (Promoción combustible Super, Desafío redondo, pelotas, Coca-Cola, Lollapalooza) sin %, día ni banco. Nada cargable.
+- **shell**: sigue el sorteo a Las Vegas con V-Power (quedan 20 días), sin descuento. La promo de Galicia del día 10 queda como estaba.
+
+
 ## 2026-09-27 — 70 promos reconfirmadas antes de cumplir los 10 días (Día, Diarco, Supervielle, Patagonia, Easy); 2 altas (Comafi en Puppis, MODO en Carrefour los miércoles); Clarín 365 en Diarco pasa a `baja`
 
 **606 promos (eran 604): 2 altas, 70 confirmadas, 1 corregida (dato agregado), 1 a `baja` por los 10 días, 0 retiradas.** **Visibles hoy: 421 (ayer 421).** Ninguna visible lleva más de 10 días sin verificar.
