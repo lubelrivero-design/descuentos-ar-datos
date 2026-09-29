@@ -1,5 +1,46 @@
 # Cambios
 
+## 2026-09-29 — 70 promos reconfirmadas antes de cumplir los 10 días (Brubank, BPN, Sodimac, Chevallier, Frávega con MODO); 5 retiradas (4 de Brubank que el banco dejó de publicar, MODO lunes en ChangoMás); sin altas
+
+**606 promos (igual que ayer): 0 altas, 70 confirmadas, 0 corregidas, 5 retiradas.** **Visibles hoy: 412 (ayer 418)**: salen las 5 retiradas y `coto-credicoop-lunes-30`, que venció sola ayer. Ninguna visible lleva más de 10 días sin verificar.
+
+### El texto
+A las 07:33 `crudo/` seguía en el 28/9. Disparé el recolector en dos tandas por el input `fuentes`: primero las de la agenda que Actions puede leer (`farmacity la-anonima maxiconsumo shell`, llegó a las 07:34, `deba004`) y después las que sostenían promos que hoy cumplían 10 días (`changomas sodimac bpn brubank naranja-x burger-king modo`, 07:37, `463994f`). Todo lo confirmado hoy sale de esas lecturas del 29/9, salvo dos cosas fechadas a su día real: **Chevallier (Naranja X) con la lectura del 28/9** y **Frávega con la lectura desde casa del 27/9**.
+
+### Reconfirmadas
+- **Brubank (58)**: tarjeta por tarjeta contra el listado de hoy (Ultra, Plus y One): mismos %, días y topes. Hace falta porque el 30/9 cumplían 10 días casi todas (verificadas el 20/9). Incluye Burger King en los tres planes (Ultra 30% todos los días tope $6.000; Plus 30% viernes a domingo; One 20% lunes y viernes) y Coto jueves 30% sin tope con Plan Ultra.
+- **BPN Club de Beneficios (5)**: las campañas de lunes a viernes siguen en el filtro del sitio (53, 114, 356, 175 y 33 comercios con 6 cuotas).
+- **Sodimac (4)**: cuotas de BBVA, Provincia, Galicia y Naranja X, mismos montos mínimos, legales al 30/9.
+- **`naranja-chevallier-10`**: con la lectura del 28/9 (hoy la página de Naranja X vino con solo 3 tarjetas, otro maquetado).
+- **`cuotas-modo-fravega-9`**: el legal de MODO en Frávega (27/9) y el listado de MODO de hoy ("9 cuotas sin interés en Frávega online").
+- **`modo-changomas-martes-29-20`** (hoy): ChangoMás la sigue mostrando con el legal del martes 29/9.
+
+### Retiradas
+- **`brubank-natura-one-15`, `brubank-avon-one-15`, `brubank-vuena-plus-30`, `brubank-vuena-one-miercoles-20`** → hasta el 25/9. Motivo: Brubank las listó hasta el 25/9 y no aparecen el 27, 28 ni 29/9, con la página entera (75 promos). No es una lectura vacía: son tres días seguidos del mismo listado, idéntico entre sí.
+- **`modo-changomas-lunes`** → hasta el 21/9. Motivo: ChangoMás dejó de listar "Todos los lunes 20% con MODO" desde el 22/9 (el 19/9 estaba; el 22, 24, 25, 27, 28 y 29/9 la pestaña del lunes carga entera y no la trae). Además no quedan lunes en septiembre.
+
+### No cargada (sigue pidiendo segunda fuente)
+- **Comafi en Coto, miércoles 30/9, 30% sin tope**: el banco la sigue publicando (lectura del 27/9), pero la página de Coto del 28/9 no la muestra. Es de un solo día, sin tope y de 30%: sin cruce no va. Si mañana Coto la publica temprano, cargarla (`comafi-coto-30-sep-30`).
+
+### ⚠ Mañana se apagan por los 10 días si no se releen
+`bna-dia-lun-vie`, `macro-mcdonalds-nfc-20`, `cuotas-naranja_x-suavegom-14`, `cuotas-bna-jumbo-disco-vea-6`, `cuotas-comafi-jumbo-disco-vea-3` y `cuotas-comafi-jumbo-disco-vea-electro-12`. Conviene que mañana se mire **dia, macro, jumbo/disco/vea**. Ojo con Suavegom: el 28/9 Naranja X listó "Hasta 14 cuotas | Todos los días en **Suavestar**", no Suavegom; no la di por confirmada porque el nombre no coincide.
+
+### Fuentes con problemas
+- **Burger King**: hoy la página vino vacía (solo el pie de página). No se tocó nada.
+- **Naranja X**: hoy trajo solo 3 tarjetas (deportes, electro, viajes) en vez de las ~30 de siempre. No se retiró nada por eso.
+- **Frávega**: el 28/9 Actions no la pudo leer (bloqueo); sigue valiendo la lectura desde casa del 27/9.
+
+### Agenda del día
+Trabajadas las 7 que dio la agenda (hoy no trajo ninguna de "deuda"):
+- **fravega, comafi, icbc**: son la lectura desde casa del 27/9, trabajada entera ayer. Hoy saqué de ahí el legal de MODO en Frávega y volví a mirar la de Comafi en Coto del 30/9 (ver arriba). Nada nuevo.
+- **farmacity**: la URL de la receta está rota: la página dice `No encontramos resultados para "promociones-bancarias"` (también el 28/9). Hay que buscar la URL nueva de promos bancarias.
+- **la-anonima**: `403 Forbidden` desde Actions, como siempre.
+- **maxiconsumo**: solo los botones Lunes…Domingo y "LEGALES" sin contenido: la receta tiene que hacer clic en cada día.
+- **shell**: sigue el sorteo a Las Vegas con V-Power (quedan 19 días), sin descuento. La promo de Galicia del día 10 queda como estaba.
+
+Fuera de agenda: changomas, sodimac, bpn, brubank, naranja-x, modo y burger-king, para salvar las que cumplían 10 días.
+
+
 ## 2026-09-28 — 85 promos reconfirmadas (ICBC, Comafi y Frávega con la lectura desde casa del 27/9; MásClub y Columbia en ChangoMás); sin altas ni retiros
 
 **606 promos (igual que ayer): 0 altas, 85 confirmadas, 0 corregidas, 0 retiradas.** **Visibles hoy: 418 (ayer 421)**: las 3 que faltan no se retiraron, vencieron solas el fin de semana (ICBC 4.º finde en Coto y en ChangoMás, Santa Cruz en Diarco sábado y domingo). Ninguna visible lleva más de 10 días sin verificar.
