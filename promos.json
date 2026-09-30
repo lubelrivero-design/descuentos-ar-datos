@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29",
+  "actualizado": "2026-09-30",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -315,7 +315,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-09-19",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -340,6 +340,12 @@
           "nivel": 2,
           "fecha": "2026-09-19",
           "nota": "Día 19/9, \"Promoción bancaria: Modo, BNA\": lunes a viernes 01/01 al 30/09/2026, crédito Visa/MC y débito MC del BNA por MODO BNA+ con QR, tope $5.000 por semana y $20.000 por mes, solo jubilados ANSES que cobran en BNA. Igual."
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-09-30",
+          "nota": "Día 30/9, \"Promoción bancaria: Modo, BNA\": lunes a viernes del 01/01 al 30/09/2026, crédito Visa/MC y débito MC del BNA por MODO BNA+ con QR, tope $5.000 por semana. Igual."
         }
       ]
     },
@@ -942,7 +948,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "cuotas": 9,
       "fuentes": [
@@ -968,6 +974,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Listado del 25/9 (33 tarjetas, entero): \"Hasta 20% off y 9 cuotas cero interés | Días seleccionados en Moov | Crédito\"; el día (lunes y martes) sale de la portada del 15/9"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 20% off y 9 cuotas cero interés | Días seleccionados en Moov (el día sigue saliendo de la portada del 15/9) | Crédito\". Igual."
         }
       ],
       "tope_publicado": false
@@ -4205,7 +4217,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4230,6 +4242,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días en Megatone | Crédito\" (el 14/9 decía \"Especial | Hasta 15 cuotas\"; el cambio está desde el 17/9)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Megatone | Crédito\". Igual."
         }
       ]
     },
@@ -4259,7 +4277,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4284,6 +4302,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días en Naldo | Crédito\" (el 14/9 decía \"Especial | Hasta 15 cuotas\"; el cambio está desde el 17/9)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Naldo | Crédito\". Igual."
         }
       ]
     },
@@ -4305,7 +4329,7 @@
         "domingo"
       ],
       "descuento_pct": 0,
-      "cuotas": 14,
+      "cuotas": 12,
       "tope_monto": null,
       "tope_periodo": null,
       "requisitos": "Solo con tarjeta de credito Naranja X.",
@@ -4313,7 +4337,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4338,6 +4362,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Especial | Hasta 14 cuotas cero interés | Todos los días en On City | Crédito\" (el 14/9 decía \"Especial | Hasta 15 cuotas\"; el cambio está desde el 17/9)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9: \"Hasta 12 cuotas cero interés | Todos los días en On City | Crédito\". Bajó de 14 a 12: el 27/9 decía \"Especial | Hasta 14\", el 28/9 y el 30/9 dicen 12."
         }
       ]
     },
@@ -4367,7 +4397,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4392,6 +4422,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días en Cetrogar | Crédito\" (el 14/9 decía \"Especial | Hasta 15 cuotas\"; el cambio está desde el 17/9)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Cetrogar | Crédito\". Igual."
         }
       ]
     },
@@ -5392,7 +5428,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5429,6 +5465,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días en Fravega | Crédito\" (el 14/9 decía \"Especial | Hasta 15 cuotas\"; el cambio está desde el 17/9)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Fravega | Crédito\". Igual."
         }
       ]
     },
@@ -5458,7 +5500,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5483,6 +5525,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días en Simmons | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Simmons | Crédito\". Igual."
         }
       ]
     },
@@ -6877,7 +6925,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6903,6 +6951,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días en Samsung | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Samsung | Crédito\". Igual."
         }
       ]
     },
@@ -6931,7 +6985,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -6957,6 +7011,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días en La Cardeuse | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en La Cardeuse | Crédito\". Igual."
         }
       ]
     },
@@ -7058,7 +7118,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-23",
+      "verificado": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7084,6 +7144,12 @@
           "nivel": 1,
           "fecha": "2026-09-23",
           "nota": "\"Hasta 10% off y 6 cuotas cero interés | Todos los días en Andesmar | Crédito\"; el listado no publica tope"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Andesmar | Crédito\". Igual."
         }
       ]
     },
@@ -7113,7 +7179,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-28",
+      "verificado": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7145,6 +7211,12 @@
           "nivel": 1,
           "fecha": "2026-09-28",
           "nota": "Naranja X 28/09: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Chevallier | Crédito\". Igual. (El 29/9 la página vino con solo 3 tarjetas.)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Chevallier | Crédito\". Igual."
         }
       ]
     },
@@ -7174,7 +7246,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7194,6 +7266,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Plusmar | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Plusmar | Crédito\". Igual."
         }
       ]
     },
@@ -7222,7 +7300,7 @@
       "tope_publicado": false,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-09-27",
       "verificado": "2026-09-25",
       "tope_monto": null,
       "tope_periodo": null,
@@ -7250,7 +7328,8 @@
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en El Practico | Crédito\""
         }
-      ]
+      ],
+      "baja_motivo": "Naranja X la listó hasta el 27/9; el 28/9 (32 tarjetas) y el 30/9 (35 tarjetas, listado entero) ya no la trae."
     },
     {
       "id": "naranja-la-veloz-del-norte-10",
@@ -7278,7 +7357,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7304,6 +7383,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en La Veloz del Norte | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en La Veloz del Norte | Crédito\". Igual."
         }
       ]
     },
@@ -7333,7 +7418,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7359,6 +7444,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en General Urquiza Transportes | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en General Urquiza Transportes | Crédito\". Igual."
         }
       ]
     },
@@ -7388,7 +7479,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7414,6 +7505,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Flecha Bus | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Flecha Bus | Crédito\". Igual."
         }
       ]
     },
@@ -7436,7 +7533,7 @@
       "tope_publicado": false,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_hasta": "2026-09-28",
       "verificado": "2026-09-25",
       "tope_monto": null,
       "tope_periodo": null,
@@ -7464,7 +7561,8 @@
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"10% off y 9 cuotas cero interés | Los martes en Shopgallery | Crédito\""
         }
-      ]
+      ],
+      "baja_motivo": "Naranja X listó \"10% off y 9 cuotas | Los martes en Shopgallery\" hasta el 28/9; el 30/9 la tarjeta cambió a \"Hasta 25% off y 6 cuotas | Días seleccionados\", sin día publicado."
     },
     {
       "id": "ciudad-supermercado-la-ilusion-15",
@@ -9911,7 +10009,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "id": "cuotas-naranja_x-whirlpool-12",
       "medio": "naranja_x",
@@ -9956,16 +10054,22 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 12 cuotas cero interés | Todos los días en Whirlpool | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Whirlpool | Crédito\". Igual."
         }
       ]
     },
     {
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-14",
+      "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-14",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "id": "cuotas-naranja_x-suavestar-14",
       "medio": "naranja_x",
@@ -10004,9 +10108,14 @@
           "nivel": 1,
           "fecha": "2026-09-14",
           "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días en Suavestar | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X volvió a listarla el 27/9, 28/9 y 30/9 (listados enteros): \"Hasta 14 cuotas cero interés | Todos los días en Suavestar | Crédito\". Revivida."
         }
-      ],
-      "baja_motivo": "Naranja X la listó por última vez el 14/9; desde el 17/9 el listado viene entero (33 tarjetas, siete lecturas seguidas iguales, las del 15 y 16/9 vinieron rotas) y no la trae más."
+      ]
     },
     {
       "zona": "Nacional",
@@ -10014,7 +10123,7 @@
       "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "id": "cuotas-naranja_x-cannon-14",
       "medio": "naranja_x",
@@ -10059,6 +10168,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días en Cannon | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Cannon | Crédito\". Igual."
         }
       ]
     },
@@ -15077,7 +15192,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.macro.com.ar/macrobeneficios",
-      "verificado": "2026-09-19",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15101,6 +15216,12 @@
           "nivel": 1,
           "fecha": "2026-09-19",
           "nota": "API de Macro 19/9, bloque AR-0 (todo el país): \"MC DONALDS GOOGLE PAY APPLE PAY MODO NFC | Gastronomia | 20% | todos los dias | General | TC\". Igual (hay además 30% para segmento Selecta y 10% General)."
+        },
+        {
+          "url": "https://www.macro.com.ar/beneficios?d=Any",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "API de Macro 30/9: \"MC DONALDS GOOGLE PAY APPLE PAY MODO NFC | Gastronomia | 20% | todos los dias | General | TC\" (también 30% Selecta y 10% General). Igual."
         }
       ]
     },
@@ -20352,9 +20473,15 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 14 cuotas cero interés | Todos los días en Piero | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Piero | Crédito\". Igual."
         }
       ],
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta"
     },
     {
@@ -20401,9 +20528,15 @@
           "nivel": 1,
           "fecha": "2026-09-19",
           "nota": "Naranja X 19/9: \"Hasta 14 cuotas cero interés | Todos los días en Suavegom | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Suavegom | Crédito\". Igual."
         }
       ],
-      "verificado": "2026-09-19",
+      "verificado": "2026-09-30",
       "confianza": "alta"
     },
     {
@@ -20451,9 +20584,15 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en El Norte | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en El Norte | Crédito\". Igual."
         }
       ],
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta"
     },
     {
@@ -28451,9 +28590,15 @@
           "nivel": 2,
           "fecha": "2026-09-19",
           "nota": "Vea 19/9: misma tarjeta."
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-30",
+          "nota": "Jumbo 30/9: \"6 cuotas sin interés en productos seleccionados de electrodomésticos abonando con tarjetas de crédito Visa/Mastercard de Banco Nación\". Igual. (Disco y Vea vinieron livianas hoy y no la muestran.)"
         }
       ],
-      "verificado": "2026-09-19",
+      "verificado": "2026-09-30",
       "confianza": "alta"
     },
     {
@@ -28520,9 +28665,27 @@
           "nivel": 2,
           "fecha": "2026-09-19",
           "nota": "Vea 19/9: misma tarjeta."
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-30",
+          "nota": "Jumbo 30/9: \"válida todos los días desde el 01/12/25 hasta el 30/09/26 con crédito Global, Classic, Premium y ÚNICO de Banco Comafi; no por MercadoPago\". Igual."
+        },
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-30",
+          "nota": "Disco 30/9: \"válida todos los días desde el 01/12/25 hasta el 30/09/26 con crédito Global, Classic, Premium y ÚNICO de Banco Comafi; no por MercadoPago\". Igual."
+        },
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-30",
+          "nota": "Vea 30/9: \"válida todos los días desde el 01/12/25 hasta el 30/09/26 con crédito Global, Classic, Premium y ÚNICO de Banco Comafi; no por MercadoPago\". Igual."
         }
       ],
-      "verificado": "2026-09-19",
+      "verificado": "2026-09-30",
       "confianza": "alta"
     },
     {
@@ -28585,9 +28748,27 @@
           "nivel": 2,
           "fecha": "2026-09-19",
           "nota": "Vea 19/9: misma tarjeta."
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-30",
+          "nota": "Jumbo 30/9: \"válida viernes, sábados y domingos desde el 01/09/26 hasta el 30/09/26 con crédito Global, Classic, Premium y ÚNICO de Banco Comafi\". Igual."
+        },
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-30",
+          "nota": "Disco 30/9: \"válida viernes, sábados y domingos desde el 01/09/26 hasta el 30/09/26 con crédito Global, Classic, Premium y ÚNICO de Banco Comafi\". Igual."
+        },
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-09-30",
+          "nota": "Vea 30/9: \"válida viernes, sábados y domingos desde el 01/09/26 hasta el 30/09/26 con crédito Global, Classic, Premium y ÚNICO de Banco Comafi\". Igual."
         }
       ],
-      "verificado": "2026-09-19",
+      "verificado": "2026-09-30",
       "confianza": "alta"
     },
     {
@@ -29644,7 +29825,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-09-30",
       "fuente": "https://pampapromos.bancodelapampa.com.ar/PromoAlimentos",
-      "verificado": "2026-09-20",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -29652,6 +29833,12 @@
           "nivel": 1,
           "fecha": "2026-09-20",
           "nota": "PROMO ALIMENTOS: lunes, miércoles, viernes y sábados del 01/07/26 al 30/09/26, 25% en un pago con tarjetas de crédito de Paquetes Pampa; miércoles exclusivo QR Billetera Pampa, lun/vie/sáb tarjeta física o QR; reintegro $25.000 por semana; listado de 200 comercios de Santa Rosa y Toay (Cooperativa Obrera, Super Edison, Gabiand, carnicerías, panaderías, heladerías)"
+        },
+        {
+          "url": "https://pampapromos.bancodelapampa.com.ar/PromoAlimentos",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "PROMO ALIMENTOS 30/9: lunes, miércoles, viernes y sábados del 01/07/26 al 30/09/26, 25% en un pago con crédito de Paquetes Pampa; miércoles solo QR Billetera Pampa; reintegro $25.000 por semana. Igual."
         }
       ]
     },
@@ -29935,7 +30122,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-25",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -29943,6 +30130,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Especial | Hasta 14 cuotas cero interés | Todos los días en Casa del Audio | Crédito\" (en el listado desde el 17/9)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Especial | Hasta 14 cuotas cero interés | Todos los días en Casa del Audio | Crédito\". Igual."
         }
       ]
     },
@@ -29972,7 +30165,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-25",
       "vigencia_hasta": "2026-09-30",
-      "verificado": "2026-09-25",
+      "verificado": "2026-09-30",
       "confianza": "alta",
       "fuentes": [
         {
@@ -29980,6 +30173,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Especial | Hasta 10% off y 5 cuotas cero interés | Todos los días en Complot | Crédito\" (en el listado desde el 17/9)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-09-30",
+          "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Especial | Hasta 10% off y 5 cuotas cero interés | Todos los días en Complot | Crédito\". Igual."
         }
       ],
       "tope_publicado": false

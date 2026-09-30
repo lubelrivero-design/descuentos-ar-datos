@@ -1,5 +1,44 @@
 # Cambios
 
+## 2026-09-30 — 32 promos reconfirmadas (Naranja X entera, Día, Jumbo/Disco/Vea, La Pampa, Macro); On City baja de 14 a 12 cuotas; **Suavestar revivida**; 2 retiradas de Naranja X; sin altas
+
+**606 promos (igual que ayer): 0 altas, 30 confirmadas sin cambios, 1 corregida, 1 revivida, 2 retiradas.** **Visibles hoy: 408.** Ninguna visible lleva más de 10 días sin verificar: las 7 que hoy se apagaban (`bna-dia-lun-vie`, `macro-mcdonalds-nfc-20`, `cuotas-naranja_x-suavegom-14`, `cuotas-bna-jumbo-disco-vea-6`, `cuotas-comafi-jumbo-disco-vea-3`, `cuotas-comafi-jumbo-disco-vea-electro-12`, `banco_pampa-promo-alimentos-25`) quedaron releídas con texto de hoy.
+
+### ⚠ El recolector completo ya no entra en su tiempo
+A las 07:32 `crudo/` seguía en el 29/9. Disparé `recolectar.yml` completo y **se canceló a los 25 minutos** (`timeout-minutes: 25`), sin commitear nada. La corrida programada de ayer (29/9, 11:09) terminó igual, cancelada. **Hace falta subirle el timeout al workflow o partirlo en dos tandas**: con la corrida completa cancelada, todas las mañanas arrancamos con texto viejo. Hoy salí por el input `fuentes` en tres tandas (todo con `leido: 2026-09-30`): `vital yaguar ypf shell dia jumbo disco vea bna naranja-x pampa mcdonalds` (08:00), `macro` (08:02) y `coto` (la primera vez falló, seguramente por chocar el push con la de Macro; relanzada, 08:19). El resto de `crudo/` quedó con lecturas del 27 al 29/9 y de ahí no se confirmó nada.
+
+### ⚠ Revivida (para que la mire un humano)
+- **`cuotas-naranja_x-suavestar-14`**: se había retirado al 14/9 porque Naranja X dejó de listarla. Volvió a aparecer el 27/9, el 28/9 y hoy (listados enteros): "Hasta 14 cuotas cero interés | Todos los días en Suavestar | Crédito". Le puse vigencia hasta el 30/9, como las demás cuotas de Naranja X, para que entre al rollover de mañana. (Ojo: ayer se dudó si "Suavestar" era un error por "Suavegom"; hoy el listado trae **las dos** tarjetas, son comercios distintos.)
+
+### Corregida
+- **`cuotas-naranja_x-on-city-12`**: de 14 a **12 cuotas**. Naranja X decía "Especial | Hasta 14 cuotas" hasta el 27/9; el 28/9 y hoy dice "Hasta 12 cuotas cero interés | Todos los días en On City".
+
+### Retiradas
+- **`naranja-el-practico-10`** → hasta el 27/9. Motivo: Naranja X la listó hasta el 27/9 y no aparece el 28/9 (32 tarjetas) ni hoy (35 tarjetas, listado entero).
+- **`naranja-shopgallery-martes-10`** → hasta el 28/9. Motivo: la tarjeta "10% off y 9 cuotas | Los martes en Shopgallery" cambió hoy a "Hasta 25% off y 6 cuotas | Días seleccionados en Shopgallery". La nueva **no se cargó**: no dice qué día vale ni el tope.
+
+### Reconfirmadas
+- **Naranja X (21)**: listado de hoy entero (35 tarjetas): Megatone, Naldo, Cetrogar, Frávega, Simmons, Samsung, La Cardeuse, Whirlpool, Cannon, Piero, Suavegom, Casa del Audio, Complot, Moov (deportes), y los micros Andesmar, Chevallier, Plusmar, La Veloz del Norte, General Urquiza, Flecha Bus y El Norte. Mismas cuotas y %.
+- **Día**: BNA+ para jubilados, lunes a viernes al 30/9, tope $5.000 semanal (legal de hoy).
+- **Jumbo/Disco/Vea**: Comafi 3 cuotas todos los días y 12 cuotas en electro viernes a domingo (legales de hoy en las tres); BNA 6 cuotas en electro (hoy solo en Jumbo: Disco y Vea vinieron livianas, con martes y miércoles casi vacíos).
+- **Banco de La Pampa**: Promo Alimentos 25%, lunes/miércoles/viernes/sábado, reintegro $25.000 por semana, al 30/9.
+- **Macro**: McDonald's 20% con NFC / Google Pay / Apple Pay, todos los días (API de hoy).
+
+### No cargada (sigue sin segunda fuente)
+- **Comafi en Coto, miércoles 30/9, 30% sin tope**: Comafi la publica (lectura del 27/9), pero **la página de Coto de hoy tampoco la muestra** (solo trae la de Comafi con MODO de los martes). Es de un solo día, 30% y sin tope: sin cruce no va. Ya vence hoy.
+
+### Mañana es 1/10
+Arranca el rollover: casi todo vence hoy. Revisar todo con cuidado, sobre todo las cuotas de Naranja X, Jumbo/Disco/Vea y los legales que dicen "hasta el 30/09".
+
+### Agenda del día
+Trabajadas las 7 que dio la agenda (hoy tampoco trajo ninguna de "deuda"):
+- **fravega, comafi, icbc**: siguen siendo la lectura desde casa del 27/9, ya trabajada. Nada nuevo; de Comafi volví a cruzar la de Coto del 30/9 (arriba).
+- **vital**: solo carga los botones Lunes…Domingo, sin promos adentro. Igual que Maxiconsumo: la receta tiene que hacer clic en cada día.
+- **yaguar**: la URL `/promociones` devuelve la página de "¿No encontraste lo que buscabas?". El menú tiene una sección "Promociones Bancarias": hay que buscar esa URL.
+- **ypf**: la receta trae el menú institucional entero y nada de promos. La URL `ypf.com/promociones` no sirve; probablemente las promos estén en la App YPF / ServiClub.
+- **shell**: sigue el sorteo a Las Vegas con V-Power (termina el 18/10), sin descuento. La de Galicia del día 10 queda como estaba.
+
+
 ## 2026-09-29 — 70 promos reconfirmadas antes de cumplir los 10 días (Brubank, BPN, Sodimac, Chevallier, Frávega con MODO); 5 retiradas (4 de Brubank que el banco dejó de publicar, MODO lunes en ChangoMás); sin altas
 
 **606 promos (igual que ayer): 0 altas, 70 confirmadas, 0 corregidas, 5 retiradas.** **Visibles hoy: 412 (ayer 418)**: salen las 5 retiradas y `coto-credicoop-lunes-30`, que venció sola ayer. Ninguna visible lleva más de 10 días sin verificar.
