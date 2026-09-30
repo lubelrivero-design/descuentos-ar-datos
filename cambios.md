@@ -1,8 +1,8 @@
 # Cambios
 
-## 2026-09-30 — 32 promos reconfirmadas (Naranja X entera, Día, Jumbo/Disco/Vea, La Pampa, Macro); On City baja de 14 a 12 cuotas; **Suavestar revivida**; 2 retiradas de Naranja X; sin altas
+## 2026-09-30 — 27 promos reconfirmadas (Naranja X entera, Día, Jumbo/Disco/Vea, La Pampa, Macro); On City baja de 14 a 12 cuotas; **Suavestar revivida**; 2 retiradas de Naranja X; sin altas
 
-**606 promos (igual que ayer): 0 altas, 30 confirmadas sin cambios, 1 corregida, 1 revivida, 2 retiradas.** **Visibles hoy: 408.** Ninguna visible lleva más de 10 días sin verificar: las 7 que hoy se apagaban (`bna-dia-lun-vie`, `macro-mcdonalds-nfc-20`, `cuotas-naranja_x-suavegom-14`, `cuotas-bna-jumbo-disco-vea-6`, `cuotas-comafi-jumbo-disco-vea-3`, `cuotas-comafi-jumbo-disco-vea-electro-12`, `banco_pampa-promo-alimentos-25`) quedaron releídas con texto de hoy.
+**606 promos (igual que ayer): 0 altas, 27 confirmadas sin cambios, 1 corregida, 1 revivida, 2 retiradas.** **Visibles hoy: 408.** Ninguna visible lleva más de 10 días sin verificar: las 7 que hoy se apagaban (`bna-dia-lun-vie`, `macro-mcdonalds-nfc-20`, `cuotas-naranja_x-suavegom-14`, `cuotas-bna-jumbo-disco-vea-6`, `cuotas-comafi-jumbo-disco-vea-3`, `cuotas-comafi-jumbo-disco-vea-electro-12`, `banco_pampa-promo-alimentos-25`) quedaron releídas con texto de hoy.
 
 ### ⚠ El recolector completo ya no entra en su tiempo
 A las 07:32 `crudo/` seguía en el 29/9. Disparé `recolectar.yml` completo y **se canceló a los 25 minutos** (`timeout-minutes: 25`), sin commitear nada. La corrida programada de ayer (29/9, 11:09) terminó igual, cancelada. **Hace falta subirle el timeout al workflow o partirlo en dos tandas**: con la corrida completa cancelada, todas las mañanas arrancamos con texto viejo. Hoy salí por el input `fuentes` en tres tandas (todo con `leido: 2026-09-30`): `vital yaguar ypf shell dia jumbo disco vea bna naranja-x pampa mcdonalds` (08:00), `macro` (08:02) y `coto` (la primera vez falló, seguramente por chocar el push con la de Macro; relanzada, 08:19). El resto de `crudo/` quedó con lecturas del 27 al 29/9 y de ahí no se confirmó nada.
