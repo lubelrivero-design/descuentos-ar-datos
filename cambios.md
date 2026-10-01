@@ -1,5 +1,70 @@
 # Cambios
 
+## 2026-10-01 — Rollover de octubre: 258 promos estiradas con vigencia asumida, 201 ya confirmadas con legales de octubre; Banco Ciudad y Supervielle sacaron las promos MODO de supermercados; 10 revividas, 6 altas
+
+**612 promos (eran 606): 6 altas, 201 promos con fuente leída hoy (confirmadas o corregidas), unas 40 retiradas con motivo, 10 revividas.** **Visibles hoy: 396** (ayer 408). **84 visibles siguen con vigencia asumida** (cartel ámbar): son la cola de mañana.
+
+### Cómo se juntó el texto
+A las 07:33 `crudo/` seguía en el 30/9 (la corrida programada de ayer se canceló otra vez por el timeout de 25 minutos). Disparé `recolectar.yml` en tres tandas con el input `fuentes` y llegaron las tres (07:35, 07:39 y 07:42), todo con `leido: 2026-10-01`, salvo Frávega, Comafi e ICBC (lectura desde casa del 27/9), Santander, Maxiconsumo, Dr. Ahorro, Vital, Yaguar e YPF (no estaban en las tandas), y McDonald's y Musimundo (siguen trabados en el 27/8). **Sigue haciendo falta subirle el timeout al workflow o partirlo en tandas**: la corrida completa no entra en 25 minutos.
+
+### El rollover
+Como el 1/9: las 258 promos visibles que vencían el 30/9 se estiraron al 31/10 con `vigencia_asumida: "2026-10-01"`. Ninguna llevaba más de 10 días sin verificar, así que ninguna bajó a confianza baja por eso. Después se releyeron las fuentes del día y 174 de esas 258 quedaron confirmadas con texto de octubre (el auditor les borró la marca).
+
+### ⚠ DESTACADO — Supermercados: Ciudad y Supervielle cortaron la campaña MODO de septiembre
+- **Banco Ciudad** (catálogo completo por API, donde la ausencia sí cuenta): Supermercados pasó de 15 a 7 promos y desaparecieron los rubros Combustible y Delivery. Retiradas al 30/9: Disco, Jumbo, Día, Makro, Vea, ChangoMás, La Ilusión, DAR, Farmacity Online, Farmacias MODO, FarmaPlus Online, Perfumerías MODO (Juleriaque/Pigmento/Las Margaritas) y combustible de los domingos. Al 27/9 (estaban el 27 y no el 28 ni hoy): Showsport (2), Farmacia Santa Ana y Diarco Barrio.
+- **Supervielle** (página de supermercados entera, 28 tarjetas): retiradas al 30/9 ChangoMás lunes, La Ilusión, MásGO lunes y Farmacity online. En la de jubilados quedan solo ChangoMás y MásGO (Disco, Jumbo y Vea ya no).
+- **Ojo:** ChangoMás publica la campaña MODO de los lunes para octubre (5, 12, 19 y 26/10) y Credicoop todavía lista ChangoMás lunes y Disco viernes/sábado con MODO. O sea que la campaña sigue con algunos bancos y no con otros. Si mañana Ciudad o Supervielle las vuelven a cargar, hay que revivirlas.
+- La página de combustible de Supervielle vino vacía: **la de Shell domingo se dejó asumida**, no se retiró.
+
+### ⚠ Revividas (para que las mire un humano)
+- **`naranja-el-practico-10`**: Naranja X la vuelve a listar ("10% off y 6 cuotas, todos los días"). Se había retirado ayer.
+- **`cuotas-naranja_x-rosen-14`**: Rosen 14 cuotas, en el listado del 30/9 y de hoy. Se había retirado el 14/9.
+- **`cuenta-dni-nini`**: Mayorista Nini, martes de octubre, 15%, tope $20.000 por martes, solo Clave DNI.
+- **Banco San Juan, 4 de supermercados** (`san_juan-jumbo-jueves`, `-la-anonima-viernes`, `-makro-jueves`, `-vea-viernes`): el banco las publica de nuevo (lista completa 9 de 9), todas con MODO 20% y vigencia hasta el 31/10 o el 1/11.
+- **`modo-changomas-lunes`**: vuelve para los lunes 5 al 26/10 (20%, tope $25.000 por banco, mínimo $75.000).
+- **`cuotas-galicia-changomas-3`**: jueves a domingo, 3 cuotas, 01/10 al 31/12/2026.
+- **`cuotas-naranja_x-carrefour-4`**: 4 cuotas hasta el 31/10, con la zona que dice Carrefour (AMBA, Córdoba, Mendoza, Catamarca, San Luis y Resistencia).
+
+### Altas (6)
+- `cuotas-naranja_x-showsport-15`: Naranja X, 15 cuotas en Showsport.
+- `carrefour-banco-online-15`: 15% online en Carrefour con Mastercard Carrefour Banco (lun, mié, vie, sáb y dom de octubre, sin tope).
+- `cuotas-mp-carrefour-3`: 3 cuotas con crédito Mercado Pago por QR desde $150.000 en Carrefour.
+- `cuotas-naranja_x-changomas-4`: 4 cuotas Naranja X en ChangoMás, 01/10 al 31/12.
+- `cuotas-galicia-coto-mastercard-18` y `cuotas-galicia-coto-visa-amex-12`: cuotas Galicia en productos seleccionados de Coto en octubre.
+(No se cargaron por ser de un solo día sin segunda fuente: MP 20% en ChangoMás el 2/10, Credicoop 30% el 24/10, ICBC 20% el 24-25/10, Prex 30% en Día online el 5/10. Tampoco Credicuotas en ChangoMás, porque la tarjeta dice tope $6.000 y el legal $8.000, ni Bancor 4 cuotas, porque no dice zona.)
+
+### Correcciones
+- `cuotas-naranja_x-megatone-14`: de 14 a **12 cuotas**.
+- `cuotas-cencopay-easy-12`: ahora pide compras de más de $150.000 (en septiembre era sin mínimo).
+- `cuotas-cencopay-easy-24-online`: ahora es **solo sábados y domingos**, desde $350.000.
+- `cuotas-patagonia-easy-6`: es **sin mínimo** (el mínimo de $300.000 era de la de Macro).
+- `personalpay-dia-jueves`: ahora pide compra mínima de $20.000.
+- `cuenta-dni-petshop-sabado`: el legal dice tope de $8.000 "por sábado" pero también que se cuenta sobre el total del mes. Se cargó **$8.000 por mes**, que es lo menor.
+- Patagonia en Jumbo/Disco (3 promos): se sacó Vea, que no figura ni en el banco ni en vea.com.ar.
+- Cuenta DNI: Día y ChangoMás ahora valen hasta el 31/12, y se limpiaron los requisitos que decían "del 7 al 30 de septiembre". En Supermercados martes y miércoles se sacó "del interior bonaerense", porque el legal no lo dice.
+- Vigencias estiradas por legal: Pampa Promo Alimentos, Patagonia Carrefour y Patagonia La Anónima Río Negro hasta el 31/03/2027.
+
+### Retiradas por fuera de lo de arriba (motivo en cada `baja_motivo`)
+- **Cuenta DNI**: Garrafas, Toledo (dinero en cuenta y NFC) y **Cooperativa Obrera Lobos/La Plata**. Estaban el 28/9 y hoy no figuran en el listado completo de la API. La Cooperativa tenía legal hasta el 31/10: el banco la sacó antes.
+- **Patagonia**: Coto Digital jueves, con legal al 30/09.
+- **Grupo Petersen**: Santa Fe DAR, Kilbel y Alvear (legales vencidos); Santa Cruz DAR, Diarco, Disco, Vea y Jumbo (legales vencidos, lista completa 5 de 5); Farmaonline de Santa Fe, San Juan y Santa Cruz (legal al 30/09).
+- `modo-carrefour-miercoles-10`: era solo para el 23 y el 30/9.
+- `columbia-changomas-martes-sabado-20`: duplicaba a `columbia-changomas-mar-sab-20`.
+
+### Para que decida un humano
+- **`cuenta-dni-universidades`**: el banco dice tope **$6.000** por semana y tenemos $4.000 (sale de prensa, se decidió el 29/8). Lo dejé en $4.000, que es lo menor.
+- **`patagonia-changomas-sabado-singular`**: el banco dice Singular 30% con tope $20.000. ChangoMás dice 30% con tope $15.000 en la tarjeta, pero su legal dice 25% con tope $15.000 y nombra sábado y jueves a la vez. Quedó lo del banco (nivel 1).
+- **Coto no pone fecha en ningún descuento en %**, así que ninguna de Coto se confirmó para octubre. Hay cambios visibles sin fecha: Supervielle martes pasó de 25% a 30%, Comafi martes ahora tiene 35% y 30%, y Ciudad lunes dice "tope $30.000 por transacción" (lo tenemos semanal).
+- **Diarco sigue mostrando los legales de septiembre** (Personal Pay, Credicoop jueves, Chubut, Credicuotas, Mercado Pago). No se retiraron: quedan asumidas hasta que la página se actualice.
+- `cuenta-dni-sodimac`: la página de Sodimac dice 20% y el banco 10%. Quedó el 10%.
+- BPN vino con 189 comercios en vez de 800 (parece a medio actualizar); sus 5 promos de cuotas quedaron como estaban. Banco Santa Fe trajo solo la página 1 de 3.
+- `tools/validar.js` todavía dice "nadie confirmó que siga en septiembre" en la lista de asumidas: el mes está escrito a mano.
+
+### Agenda del día
+- **Trabajadas: axion, farmacity, la-anonima, shell.** Ninguna aportó: Axion solo trae títulos ("Promoción combustible Super", sin datos); en Farmacity la URL `/promociones-bancarias` da "No encontramos resultados" y hay que buscar la nueva; La Anónima da 403; Shell sigue con el sorteo de Las Vegas hasta el 18/10, sin descuento.
+- **No trabajadas: fravega, comafi, icbc.** Siguen siendo la lectura desde casa del 27/9, con legales al 30/09: no confirman octubre. Sus promos asumidas (34 de ICBC, 5 de Comafi y las de Frávega) quedan con el cartel.
+- Por ser día 1 se trabajaron además Ciudad, Naranja X, Supervielle, Galicia, Credicoop, Cuenta DNI, Brubank, Ualá, Jumbo/Disco/Vea, Coto, Carrefour, ChangoMás, Día, Easy, Sodimac, Patagonia, Petersen, Pampa y Macro. Burger King trajo por primera vez las bases de todas sus promos (39 KB, con varias bancarias): queda para mañana.
+
 ## 2026-09-30 — 27 promos reconfirmadas (Naranja X entera, Día, Jumbo/Disco/Vea, La Pampa, Macro); On City baja de 14 a 12 cuotas; **Suavestar revivida**; 2 retiradas de Naranja X; sin altas
 
 **606 promos (igual que ayer): 0 altas, 27 confirmadas sin cambios, 1 corregida, 1 revivida, 2 retiradas.** **Visibles hoy: 408.** Ninguna visible lleva más de 10 días sin verificar: las 7 que hoy se apagaban (`bna-dia-lun-vie`, `macro-mcdonalds-nfc-20`, `cuotas-naranja_x-suavegom-14`, `cuotas-bna-jumbo-disco-vea-6`, `cuotas-comafi-jumbo-disco-vea-3`, `cuotas-comafi-jumbo-disco-vea-electro-12`, `banco_pampa-promo-alimentos-25`) quedaron releídas con texto de hoy.
@@ -1270,7 +1335,7 @@ El sitio directo de Diarco (diarco.com.ar) hoy no mostró ninguna promoción ban
 ### Rotación de fin de mes — grupo Petersen (Santa Fe, San Juan, Santa Cruz)
 El listado de Banco Santa Fe pasó de 20 a 15 resultados: se cayeron ChangoMás, Día, Vea y Disco (los cuatro con vigencia hasta el 31/08 o antes) y aparecieron cinco comercios nuevos con vigencias que llegan hasta octubre — la rotación mensual típica de este grupo. San Juan y Santa Cruz siguen sin poder leerse (la receta de `petersen` solo trae el dominio de Santa Fe desde hace más de una semana; van 9 días sin verificar, mañana cumplen 10). Se dieron de baja las promos de esos dos bancos que ya tenían vigencia vencida (no hay forma de re-confirmarlas y ya pasó su fecha de fin, que salió del propio sitio del banco).
 
-### Altas (5)
+### Altas (6)
 Todos en Banco Santa Fe, nuevos en el listado de hoy, sin tope publicado: **La Reina** 25% lunes (hasta 02/10), **Supermercados DAR** 15% martes +10% adicional clientes (hasta 29/09), **Super Kilbel** 20% miércoles y jueves (hasta 30/09), **Super El Túnel** 25% jueves (hasta 31/08), **Alvear** 25% lunes y jueves (hasta 28/09).
 
 ### Correcciones (2)
