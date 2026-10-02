@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01",
+  "actualizado": "2026-10-02",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -1083,7 +1083,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1123,6 +1123,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: jueves del 01/10 al 31/10/2026 | 15% sin tope | ahora con mínimo de compra $20.000 (en septiembre era sin mínimo)"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-02",
+          "nota": "listado del 2/10: Supermercado Dia 15% Jueves"
         }
       ],
       "compra_minima": 20000
@@ -1146,7 +1152,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-09-22",
+      "verificado": "2026-10-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1181,9 +1187,14 @@
           "nivel": 1,
           "fecha": "2026-09-22",
           "nota": "listado: Supermercado La Reina 10% Sábado (el listado no muestra tope ni vigencia)"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-02",
+          "nota": "listado del 2/10: Supermercado La Reina 10% Sábado (el listado no muestra tope ni vigencia)"
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "personalpay-farmacia-central-oeste",
@@ -1268,7 +1279,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-09-22",
+      "verificado": "2026-10-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1303,9 +1314,14 @@
           "nivel": 1,
           "fecha": "2026-09-22",
           "nota": "listado: Farmalife 10% Todos los días (el listado no muestra tope ni vigencia)"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-02",
+          "nota": "listado del 2/10: Farmalife 10% Todos los días (el listado no muestra tope ni vigencia)"
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "personalpay-puma-sabado",
@@ -1386,7 +1402,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-09-22",
+      "verificado": "2026-10-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1421,9 +1437,14 @@
           "nivel": 1,
           "fecha": "2026-09-22",
           "nota": "listado: Taxi Premium 30% Lunes a Miércoles (el listado no muestra tope ni vigencia)"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-02",
+          "nota": "listado del 2/10: Taxi Premium 30% Lunes a Miércoles (el listado no muestra tope ni vigencia)"
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "personalpay-gobar",
@@ -1450,7 +1471,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-09-22",
+      "verificado": "2026-10-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1485,9 +1506,14 @@
           "nivel": 1,
           "fecha": "2026-09-22",
           "nota": "listado: Go Bar 15% Todos los días (el listado no muestra tope ni vigencia)"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-02",
+          "nota": "listado del 2/10: Go Bar 15% Todos los días (el listado no muestra tope ni vigencia)"
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "uala-changomas-jueves",
@@ -4716,9 +4742,10 @@
       "id": "cuotas-naranja_x-diarco-6",
       "medio": "naranja_x",
       "medio_nombre": "Naranja X",
-      "rubro": "supermercados",
+      "rubro": "mayoristas",
       "comercios": [
-        "Diarco"
+        "Diarco Barrio",
+        "Diarco Mayorista"
       ],
       "dias": [
         "lunes",
@@ -4733,12 +4760,12 @@
       "cuotas": 6,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Solo con tarjeta de credito Naranja X.",
-      "fuente": "https://www.naranjax.com/promociones",
+      "requisitos": "6 cuotas cero interés con tarjeta de crédito Naranja X, en productos seleccionados de electro y hogar. No vale con Naranja Visa, Mastercard ni Amex, ni pagando con billeteras virtuales.",
+      "fuente": "https://www.diarco.com.ar/promociones/",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "verificado": "2026-09-02",
+      "vigencia_desde": "2026-10-01",
+      "vigencia_hasta": "2026-10-31",
+      "verificado": "2026-10-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4750,9 +4777,14 @@
           "url": "https://www.diarco.com.ar/promociones/",
           "nivel": 2,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-02",
+          "nota": "REVIVIDA: Diarco 2/10: Naranja X todos los días, 6 cuotas cero interés en productos seleccionados de electro y hogar, Barrio y Mayorista, 01/10 al 31/10/26"
         }
-      ],
-      "baja_motivo": "Diarco: \"vigencia del 01/08/26 al 31/08/26\"; en septiembre publica 4 cuotas en Mayorista y Plan Zeta 3 cuotas en Barrio"
+      ]
     },
     {
       "id": "cuotas-modo-tiendamacro-24",
@@ -7518,7 +7550,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-02",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7562,6 +7594,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Chevallier | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-02",
+          "nota": "Naranja X 2/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Chevallier | Crédito\". Igual."
         }
       ]
     },
@@ -7713,7 +7751,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-30",
+      "verificado": "2026-10-02",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7745,9 +7783,14 @@
           "nivel": 1,
           "fecha": "2026-09-30",
           "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en La Veloz del Norte | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-02",
+          "nota": "Naranja X 2/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en La Veloz del Norte | Crédito\". Igual."
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "naranja-general-urquiza-10",
@@ -8629,7 +8672,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-24",
+      "verificado": "2026-10-02",
       "tope_monto": 7000,
       "tope_periodo": "semanal",
       "fuentes": [
@@ -8654,9 +8697,14 @@
           "nivel": 2,
           "fecha": "2026-09-24",
           "nota": "lectura del jueves 24/9: Personal Pay jueves y viernes, tope $7.000 por cliente por semana, tarjeta física prepaga"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-02",
+          "nota": "Diarco 2/10: Personal Pay jueves y viernes 20%, solo Diarco Barrio, tarjeta física prepaga, tope $7.000 por cliente por semana, 01/10 al 31/10/26"
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "personalpay-diarco-finde-15",
@@ -10034,9 +10082,10 @@
       "id": "cuotas-macro-diarco-6",
       "medio": "macro",
       "medio_nombre": "Banco Macro",
-      "rubro": "supermercados",
+      "rubro": "mayoristas",
       "comercios": [
-        "Diarco"
+        "Diarco Barrio",
+        "Diarco Mayorista"
       ],
       "dias": [
         "lunes",
@@ -10051,12 +10100,12 @@
       "cuotas": 6,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "En productos seleccionados, con tarjetas de crédito Macro. El listado no publica los días, se asume que aplica todos.",
+      "requisitos": "Hasta 6 cuotas sin interés con tarjetas de crédito Visa físicas de Banco Macro. Solo electro, muebles de exterior, camping, herramientas eléctricas, piscinas y bicicletas. No vale pagando con billeteras virtuales.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
-      "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-09-02",
+      "vigencia_desde": "2026-10-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "verificado": "2026-10-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10068,9 +10117,20 @@
           "url": "https://www.diarco.com.ar/promociones/",
           "nivel": 2,
           "fecha": "2026-08-29"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-02",
+          "nota": "REVIVIDA: Diarco 2/10: Banco Macro todos los días, 3 y 6 cuotas sin interés con Visa física, electro/muebles de exterior/camping/herramientas eléctricas/piscinas/bicicletas, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.macro.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-02",
+          "nota": "Macro 2/10: \"DIARCO PRODUCTOS SELECCIONADOS | Supermercados | hasta 6 cuotas sin interés | todos los dias\" (y otra de hasta 3)"
         }
-      ],
-      "baja_motivo": "Diarco: \"del 01/08/26 al 31/08/26\""
+      ]
     },
     {
       "id": "supervielle-shell-domingo",
@@ -10469,7 +10529,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-30",
+      "verificado": "2026-10-02",
       "confianza": "alta",
       "id": "cuotas-naranja_x-whirlpool-12",
       "medio": "naranja_x",
@@ -10520,9 +10580,14 @@
           "nivel": 1,
           "fecha": "2026-09-30",
           "nota": "Naranja X 30/9 (listado entero, 35 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Whirlpool | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-02",
+          "nota": "Naranja X 2/10: \"Hasta 12 cuotas cero interés | Todos los días en Whirlpool | Crédito\". Igual."
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "zona": "Nacional",
@@ -16234,7 +16299,7 @@
       "vigencia_desde": "2026-08-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16293,6 +16358,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-02",
+          "nota": "Diarco 2/10: Comafi lunes a viernes 20% por MODO, tope $15.000 por semana, Barrio y Mayorista, 01/10 al 31/10/26"
         }
       ],
       "tope_publicado": true
@@ -21067,7 +21138,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-02",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "cuotas-naranja_x-diarco-mayorista-4",
@@ -21121,9 +21192,14 @@
           "nivel": 2,
           "fecha": "2026-09-27",
           "nota": "sigue publicada \"4 cuotas cero interés · Naranja X · Todos los días\", solo Diarco Mayorista; el legal sigue diciendo 01/08/26 al 31/08/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-02",
+          "nota": "Diarco 2/10: Plan 4 cuotas cero interés Naranja X, todos los días, solo Diarco Mayorista, 01/10 al 31/10/26"
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "santa_cruz-diarco-finde-15",
@@ -21547,9 +21623,15 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en El Norte | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-02",
+          "nota": "Naranja X 2/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en El Norte | Crédito\". Igual."
         }
       ],
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-02",
       "confianza": "alta"
     },
     {
@@ -22521,7 +22603,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-02",
       "id": "cuotas-mp-diarco-3",
       "medio": "mercado_pago",
       "medio_nombre": "Mercado Pago",
@@ -22542,7 +22624,7 @@
       "descuento_pct": 0,
       "cuotas": 3,
       "compra_minima": 150000,
-      "requisitos": "Con la tarjeta de crédito de Mercado Pago pagando por QR de Mercado Pago, en compras desde $150.000. Todos los días de septiembre.",
+      "requisitos": "Con la tarjeta de crédito de Mercado Pago pagando por QR de Mercado Pago, en compras desde $150.000. Todos los días.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.diarco.com.ar/promociones/",
@@ -22570,9 +22652,14 @@
           "nivel": 2,
           "fecha": "2026-09-27",
           "nota": "3 cuotas sin interés con crédito Mercado Pago por QR, compras desde $150.000, 01/09 al 30/09/26, Barrio y Mayorista"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-02",
+          "nota": "Diarco 2/10: 3 cuotas sin interés con crédito Mercado Pago por QR, desde $150.000, Barrio y Mayorista, 01/10 al 31/10/26"
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "patagonia-jumbo-disco-viernes-25",
@@ -22644,7 +22731,7 @@
       "tope_monto": 20000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "30% pagando por NFC (acercando el celular o la tarjeta) con tarjeta de Banco Patagonia, los lunes. Vale igual para Clásica, Plus y Singular. Tope $20.000. Arranca el lunes 7 de septiembre.",
+      "requisitos": "30% pagando por NFC (acercando el celular o la tarjeta) con tarjeta de Banco Patagonia, los lunes. Vale igual para Clásica, Plus y Singular. Tope $20.000.",
       "vigencia_hasta": "2026-12-31",
       "fuentes": [
         {
@@ -30549,8 +30636,8 @@
       "tope_publicado": false,
       "requisitos": "Con tarjeta de credito Naranja X. La web no publica el tope.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-09-01",
-      "vigencia_hasta": "2026-09-14",
+      "vigencia_desde": "2026-10-01",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.naranjax.com/promociones",
       "fuentes": [
         {
@@ -30558,11 +30645,16 @@
           "nivel": 1,
           "fecha": "2026-09-14",
           "nota": "Naranja X: \"10% off y 6 cuotas cero interés | Todos los días en Cata | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-02",
+          "nota": "REVIVIDA: Naranja X 2/10: \"10% off y 6 cuotas cero interés | Todos los días en Cata | Crédito\" (se había retirado al 14/9)"
         }
       ],
-      "verificado": "2026-09-14",
-      "confianza": "alta",
-      "baja_motivo": "Naranja X la listó por última vez el 14/9; desde el 17/9 el listado viene entero (33 tarjetas, siete lecturas seguidas iguales, las del 15 y 16/9 vinieron rotas) y no la trae más."
+      "verificado": "2026-10-02",
+      "confianza": "alta"
     },
     {
       "id": "modo-farmaonline-14-20sep-10",
@@ -30644,7 +30736,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-24",
+      "verificado": "2026-10-01",
       "confianza": "alta",
       "comercios": [
         "Diarco Barrio",
@@ -30674,9 +30766,14 @@
           "nivel": 2,
           "fecha": "2026-09-24",
           "nota": "lectura del jueves 24/9: Credicoop cartera general jueves 20%, tope $7.000 por semana, QR MODO con Cabal Credicoop, 01/09 al 30/09/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-01",
+          "nota": "Diarco 1/10 (lectura de las 18:48): Credicoop cartera general jueves 20%, tope $7.000 por semana, QR MODO con Cabal Credicoop, 01/10 al 31/10/26"
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "credicoop-diarco-jueves-30-haberes",
@@ -30689,7 +30786,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-24",
+      "verificado": "2026-10-01",
       "confianza": "alta",
       "comercios": [
         "Diarco Barrio",
@@ -30719,9 +30816,14 @@
           "nivel": 2,
           "fecha": "2026-09-24",
           "nota": "lectura del jueves 24/9: Credicoop asalariados jueves, tope $10.500 por semana, 01/09 al 30/09/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-01",
+          "nota": "Diarco 1/10 (lectura de las 18:48): Credicoop asalariados jueves 30%, tope $10.500 por semana, QR MODO con Cabal Credicoop, 01/10 al 31/10/26"
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "chubut-diarco-mayorista-jueves-20",
@@ -30734,7 +30836,7 @@
       "zona": "Chubut",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-24",
+      "verificado": "2026-10-01",
       "confianza": "alta",
       "comercios": [
         "Diarco Mayorista"
@@ -30757,9 +30859,14 @@
           "nivel": 2,
           "fecha": "2026-09-24",
           "nota": "lectura del jueves 24/9: Banco Chubut Patagonia 365 jueves 20%, tope $10.000 por mes, solo Cdo. Rivadavia, El Bolsón, Esquel y Trelew, 01/09 al 30/09/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-01",
+          "nota": "Diarco 1/10 (lectura de las 18:48): Banco Chubut Patagonia 365 jueves 20%, tope $10.000 por cuenta por mes, solo Cdo. Rivadavia, El Bolsón, Esquel y Trelew, 01/10 al 31/10/26"
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "cuotas-bpn-club-lunes-6",
@@ -31865,6 +31972,186 @@
       "cuotas": 12,
       "vigencia_hasta": "2026-10-31",
       "requisitos": "Hasta 12 cuotas sin interés con tarjeta de crédito Visa o American Express Galicia, solo en productos seleccionados de electro, ferretería, automotor, bazar, decoración, jardinería, libros y muebles."
+    },
+    {
+      "verificado": "2026-10-02",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "id": "cuotas-naranja_x-diarco-barrio-3",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "mayoristas",
+      "comercios": [
+        "Diarco Barrio"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Plan Zeta: 3 cuotas cero interés con tarjeta de crédito Naranja X.",
+      "vigencia_desde": "2026-10-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-02",
+          "nota": "Diarco 2/10: \"Válido en Diarco Barrio | 3 cuotas cero interés | Naranja X - Todos los días\"; legal: Plan Zeta 3 cuotas, vigencia 01/10/26 al 31/10/26"
+        }
+      ]
+    },
+    {
+      "verificado": "2026-10-02",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "id": "cuotas-galicia-diarco-3",
+      "medio": "galicia",
+      "medio_nombre": "Banco Galicia",
+      "rubro": "mayoristas",
+      "comercios": [
+        "Diarco Barrio",
+        "Diarco Mayorista"
+      ],
+      "dias": [
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 3,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Hasta 3 cuotas sin interés con tarjetas de crédito Visa y Mastercard de Banco Galicia, de jueves a domingo, en productos seleccionados. No vale con Visa Business, Visa Rural ni débito.",
+      "vigencia_desde": "2026-10-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-02",
+          "nota": "Diarco 2/10: Banco Galicia jueves a domingos, 3 cuotas sin interés con crédito Visa y Mastercard, Barrio y Mayorista, 01/10 al 31/10/26"
+        }
+      ]
+    },
+    {
+      "verificado": "2026-10-02",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "id": "cuotas-galicia-diarco-electro-12",
+      "medio": "galicia",
+      "medio_nombre": "Banco Galicia",
+      "rubro": "mayoristas",
+      "comercios": [
+        "Diarco Barrio",
+        "Diarco Mayorista"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 12,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "6 y 12 cuotas sin interés con tarjetas de crédito físicas Visa y Mastercard de Banco Galicia, en productos seleccionados de electro y hogar (aires, lavarropas, heladeras, TV, celulares, colchones, entre otros). Hasta agotar stock. No vale con débito ni billeteras virtuales.",
+      "vigencia_desde": "2026-10-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-02",
+          "nota": "Diarco 2/10: Banco Galicia todos los días, 6 y 12 cuotas sin interés con crédito físico Visa y Mastercard, productos seleccionados de electro y hogar, 01/10 al 31/10/26"
+        }
+      ]
+    },
+    {
+      "verificado": "2026-10-02",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "id": "cuotas-bna-diarco-electro-12",
+      "medio": "bna_mas",
+      "medio_nombre": "BNA+",
+      "rubro": "mayoristas",
+      "comercios": [
+        "Diarco Barrio",
+        "Diarco Mayorista"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 12,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "6 y 12 cuotas sin interés con tarjetas de crédito Visa y Mastercard del Banco Nación, en productos seleccionados de electro y hogar (aires, lavarropas, heladeras, TV, celulares, colchones, entre otros). No vale pagando con MODO ni Mercado Pago.",
+      "vigencia_desde": "2026-10-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-02",
+          "nota": "Diarco 2/10: Banco Nación todos los días, 6 y 12 cuotas sin interés con crédito Visa y Mastercard del BNA, productos seleccionados de electro y hogar, 01/10 al 31/10/26"
+        }
+      ]
+    },
+    {
+      "verificado": "2026-10-02",
+      "confianza": "alta",
+      "zona": "Nacional",
+      "id": "patagonia-diarco-viernes-25",
+      "medio": "patagonia",
+      "medio_nombre": "Banco Patagonia",
+      "rubro": "mayoristas",
+      "comercios": [
+        "Diarco Barrio",
+        "Diarco Mayorista"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 25,
+      "tope_monto": 25000,
+      "tope_periodo": "mensual",
+      "tope_publicado": true,
+      "requisitos": "Con tarjetas de crédito Visa de Banco Patagonia, compras presenciales. Tope $25.000 en todo el mes. No vale por billeteras virtuales, salvo MODO, Google Pay y Apple Pay.",
+      "vigencia_desde": "2026-10-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-02",
+          "nota": "Diarco 2/10: Banco Patagonia todos los viernes 25% con crédito Visa del banco, tope por plazo de vigencia $25.000, presencial, 01/10 al 31/10/26"
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,48 @@
 # Cambios
 
+## 2026-10-02 — Diarco ya publica octubre: 4 altas de cuotas + Patagonia viernes, 2 revividas y 7 confirmadas; Personal Pay y Naranja X confirman 9 más; **Cata revivida**; sin bajas
+
+**617 promos (eran 612): 5 altas, 3 revividas, 21 confirmadas con texto de octubre, 0 retiradas.** **Asumidas (cartel ámbar): 72** (ayer 84).
+
+### Cómo se juntó el texto
+A las 07:32 `crudo/` seguía en el 1/10 (la corrida programada de hoy no apareció). Disparé `recolectar.yml` **completo** y esta vez entró: terminó a las 07:44, en 11 minutos, con `leido: 2026-10-02` en 40 de 45 fuentes. Quedaron con lectura vieja: Frávega, Comafi e ICBC (bloquean a GitHub, lectura desde casa del 27/9), BPN (no contestó, queda la del 1/10) y McDonald's y Musimundo (trabados en el 27/8). El arreglo del tope por fuente de ayer parece haber destrabado la corrida completa.
+
+### ⚠ Revividas (para que las mire un humano)
+- **`naranja-cata-10`**: Naranja X la vuelve a listar hoy ("10% off y 6 cuotas cero interés | Todos los días en Cata"). Se había retirado al 14/9 por ausencia. Ojo que el listado de Naranja X muestra ~33 tarjetas que **rotan** de un día a otro (Samsung, Essen, Complot o Falabella aparecen unos días sí y otros no), así que la ausencia en ese listado no es buena evidencia de baja.
+- **`cuotas-macro-diarco-6`**: Diarco publica Macro 3 y 6 cuotas con Visa física para octubre (solo electro, muebles de exterior, camping, herramientas eléctricas, piscinas y bicicletas), y el propio Macro lista "DIARCO PRODUCTOS SELECCIONADOS hasta 6 cuotas". Vigencia 01/10 al 31/10.
+- **`cuotas-naranja_x-diarco-6`**: Diarco publica Naranja X 6 cuotas cero interés en electro y hogar, 01/10 al 31/10.
+
+### Altas (5, todas de la página de Diarco con legal de octubre)
+- `patagonia-diarco-viernes-25`: Banco Patagonia, viernes 25% con crédito Visa, tope $25.000 en el mes.
+- `cuotas-galicia-diarco-3`: Galicia 3 cuotas, jueves a domingo.
+- `cuotas-galicia-diarco-electro-12`: Galicia 6 y 12 cuotas en electro y hogar.
+- `cuotas-bna-diarco-electro-12`: Banco Nación 6 y 12 cuotas en electro y hogar.
+- `cuotas-naranja_x-diarco-barrio-3`: Naranja X Plan Zeta 3 cuotas en Diarco Barrio.
+- **No se cargaron**: MODO 20% (Barrio, mínimo $35.000) y 15% (Mayorista) y billeteras por QR de Mercado Pago 15%, todas **solo el viernes 2/10 y el 9/10 y sin tope**: son de un día y sin tope, y no hay segunda fuente. Tampoco MODO viernes 20% en "sucursales seleccionadas" (Chilecito, Chos Malal, El Bolsón, Pehuajó, Rafaela, etc.): son diez sucursales de seis provincias y habría que cargar la zona sucursal por sucursal.
+
+### Confirmadas con texto de octubre
+- **Diarco**: Personal Pay jueves y viernes, Mercado Pago 3 cuotas, Comafi lunes a viernes, Naranja X 4 cuotas Mayorista (lectura de hoy); Credicoop jueves 20% y 30% asalariados y Banco Chubut jueves (lectura del jueves 1/10 a las 18:48, que ya traía los legales de octubre: hoy viernes la página no muestra las de los jueves).
+- **Personal Pay** (listado de hoy): La Reina sábado, Farmalife, Taxi Premium y Go Bar (y Día jueves, que ya estaba confirmada).
+- **Naranja X** (listado de hoy): Whirlpool 12 cuotas y La Veloz del Norte (además Chevallier y El Norte, que ya estaban).
+- Requisitos limpiados: `cuotas-mp-diarco-3` ya no dice "de septiembre" y `patagonia-la-anonima-lunes-nfc-30` ya no dice "arranca el 7 de septiembre".
+
+### Para que decida un humano
+- **`credicuotas-diarco-20`**: la tarjeta sigue publicada, pero el legal de Diarco todavía dice 01/09 al 30/09/2026. Queda asumida.
+- **Coto sigue sin fechas** en los descuentos en %, así que sus asumidas (Naranja X martes, TCI, Comunidad, Ciudadanía Porteña, jubilados, Supervielle y Comafi martes) siguen con cartel. Todas siguen figurando en la página. **`coto-supervielle-martes-25`: Coto dice 30% el 1/10 y hoy** (tenemos 25%). Es 30% sin tope con una sola fuente y sin fecha: no lo subí. Si el banco lo confirma, hay que corregirlo.
+- **`cuotas-naranja_x-showsport-15`**: ayer Naranja X decía "Hasta 15 cuotas, todos los días"; hoy dice "Hasta 10% off y 5 cuotas, días seleccionados". Puede ser la misma promo cambiada o la rotación. La dejé como estaba.
+- Naranja X hoy trae una tarjeta nueva, "Especial | Hasta 5 cuotas | Todos los días en In Store": no la cargué porque no sé qué comercio es ni dónde está.
+
+### Agenda del día
+- **Trabajadas (con texto de hoy): diarco, personal-pay, naranja-x, coto, maxiconsumo, vital, yaguar, shell.** Las cuatro nuevas o abandonadas no aportaron:
+  - **Maxiconsumo**: la página de promociones trae 18 botones "LEGALES" y nada más; las promos son imágenes y el texto está en los legales que se abren al hacer click. **La receta tendría que abrir cada legal.**
+  - **Vital**: el listado viene vacío (solo los filtros por día y medio de pago); las promos se cargan después o son imágenes. Hay que revisar la receta.
+  - **Yaguar**: bloqueo de Cloudflare ("Sorry, you have been blocked") desde GitHub.
+  - **Shell**: sigue solo el sorteo de Las Vegas (faltan 17 días), sin descuentos.
+- **dr-ahorro**: sigue el error 526 de Cloudflare (SSL de ellos), nada que leer.
+- **No trabajadas: fravega, comafi, icbc.** No se pudieron leer desde GitHub; la última lectura es la de casa del 27/9, con legales al 30/09, así que no confirman octubre. Sus asumidas (32 de ICBC, 3 de Comafi y las de cuotas de Frávega) siguen con el cartel. **Hace falta la lectura desde casa.**
+- `tools/validar.js` sigue diciendo "nadie confirmó que siga en septiembre" (el mes está escrito a mano en la línea 52).
+
+
 ## 2026-10-01 — Rollover de octubre: 258 promos estiradas con vigencia asumida, 201 ya confirmadas con legales de octubre; Banco Ciudad y Supervielle sacaron las promos MODO de supermercados; 10 revividas, 6 altas
 
 **612 promos (eran 606): 6 altas, 201 promos con fuente leída hoy (confirmadas o corregidas), unas 40 retiradas con motivo, 10 revividas.** **Visibles hoy: 396** (ayer 408). **84 visibles siguen con vigencia asumida** (cartel ámbar): son la cola de mañana.
