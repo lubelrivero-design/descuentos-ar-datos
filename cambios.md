@@ -2,7 +2,7 @@
 
 ## 2026-10-02 — Diarco ya publica octubre: 4 altas de cuotas + Patagonia viernes, 2 revividas y 7 confirmadas; Personal Pay y Naranja X confirman 9 más; **Cata revivida**; sin bajas
 
-**617 promos (eran 612): 5 altas, 3 revividas, 21 confirmadas con texto de octubre, 0 retiradas.** **Asumidas (cartel ámbar): 72** (ayer 84).
+**617 promos (eran 612): 5 altas, 3 revividas, 16 con fuente nueva de hoy (12 dejaron de estar asumidas), 0 retiradas.** **Asumidas (cartel ámbar): 72** (ayer 84).
 
 ### Cómo se juntó el texto
 A las 07:32 `crudo/` seguía en el 1/10 (la corrida programada de hoy no apareció). Disparé `recolectar.yml` **completo** y esta vez entró: terminó a las 07:44, en 11 minutos, con `leido: 2026-10-02` en 40 de 45 fuentes. Quedaron con lectura vieja: Frávega, Comafi e ICBC (bloquean a GitHub, lectura desde casa del 27/9), BPN (no contestó, queda la del 1/10) y McDonald's y Musimundo (trabados en el 27/8). El arreglo del tope por fuente de ayer parece haber destrabado la corrida completa.
