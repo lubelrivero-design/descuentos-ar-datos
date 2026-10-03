@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02",
+  "actualizado": "2026-10-03",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -82,7 +82,7 @@
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
       "verificado": "2026-09-22",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
@@ -114,7 +114,8 @@
           "nota": "martes de septiembre 2026, 15% sin tope con QR de Mercado Pago, presencial y Más Online (MP)"
         }
       ],
-      "vigencia_asumida": "2026-10-01"
+      "vigencia_asumida": "2026-10-01",
+      "baja_motivo": "3/10: la tarjeta de ChangoMás dice \"Todos los Martes 15% pagando con QR (MP)\" pero su legal dice \"pagos realizados los días viernes, sábados y domingos de octubre 2026\" con Mercado Pago. La fuente se contradice sobre el día; además llevaba 11 días sin verificar."
     },
     {
       "id": "mp-dia-miercoles",
@@ -741,7 +742,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.hipotecario.com.ar/alianzas-bh/changomas/",
-      "verificado": "2026-09-22",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -784,6 +785,12 @@
           "nivel": 2,
           "fecha": "2026-09-22",
           "nota": "martes 01/09 al 30/11/2026, 25% débito Visa Hipotecario con QR MODO desde App BH o MODO, tope mensual $10.000 ($30.000 Búho One, Sueldo, Emprendedor y Jubilado) (H)"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "ChangoMás 3/10: martes 25% con Visa débito Hipotecario por MODO/App BH, tope $10.000 mensual ($30.000 Búho One, Sueldo, Emprendedor y Jubilado); legal del 01/09/2026 al 30/11/2026."
         }
       ],
       "tope_publicado": true
@@ -1083,7 +1090,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1129,6 +1136,12 @@
           "nivel": 1,
           "fecha": "2026-10-02",
           "nota": "listado del 2/10: Supermercado Dia 15% Jueves"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Personal Pay 3/10, listado de beneficios: Supermercado Dia 15% Jueves."
         }
       ],
       "compra_minima": 20000
@@ -1152,7 +1165,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1193,6 +1206,12 @@
           "nivel": 1,
           "fecha": "2026-10-02",
           "nota": "listado del 2/10: Supermercado La Reina 10% Sábado (el listado no muestra tope ni vigencia)"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Personal Pay 3/10, listado de beneficios: Supermercado La Reina 10% Sábado."
         }
       ]
     },
@@ -1216,7 +1235,7 @@
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
       "verificado": "2026-09-22",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": false,
       "fuentes": [
         {
@@ -1252,7 +1271,8 @@
           "nota": "listado: Farmacia Central Oeste 20% Miércoles (el listado no muestra tope ni vigencia)"
         }
       ],
-      "vigencia_asumida": "2026-10-01"
+      "vigencia_asumida": "2026-10-01",
+      "baja_motivo": "3/10: lleva 11 días sin verificar (última lectura 22/9) y tiene la vigencia de octubre asumida. El recolector de Personal Pay solo lee la primera de 9 páginas del listado, así que no se la puede ver."
     },
     {
       "id": "personalpay-farmalife",
@@ -1279,7 +1299,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1320,6 +1340,12 @@
           "nivel": 1,
           "fecha": "2026-10-02",
           "nota": "listado del 2/10: Farmalife 10% Todos los días (el listado no muestra tope ni vigencia)"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Personal Pay 3/10, listado de beneficios: Farmalife 10% Todos los días."
         }
       ]
     },
@@ -1343,7 +1369,7 @@
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
       "verificado": "2026-09-22",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": false,
       "fuentes": [
         {
@@ -1379,7 +1405,8 @@
           "nota": "listado: Puma Energy 10% Sábado (el listado no muestra tope ni vigencia)"
         }
       ],
-      "vigencia_asumida": "2026-10-01"
+      "vigencia_asumida": "2026-10-01",
+      "baja_motivo": "3/10: lleva 11 días sin verificar (última lectura 22/9) y tiene la vigencia de octubre asumida. El recolector de Personal Pay solo lee la primera de 9 páginas del listado, así que no se la puede ver."
     },
     {
       "id": "personalpay-taxi-premium",
@@ -1402,7 +1429,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1443,6 +1470,12 @@
           "nivel": 1,
           "fecha": "2026-10-02",
           "nota": "listado del 2/10: Taxi Premium 30% Lunes a Miércoles (el listado no muestra tope ni vigencia)"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Personal Pay 3/10, listado de beneficios: Taxi Premium 30% Lunes a Miércoles."
         }
       ]
     },
@@ -1471,7 +1504,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1512,6 +1545,12 @@
           "nivel": 1,
           "fecha": "2026-10-02",
           "nota": "listado del 2/10: Go Bar 15% Todos los días (el listado no muestra tope ni vigencia)"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Personal Pay 3/10, listado de beneficios: Go Bar 15% Todos los días."
         }
       ]
     },
@@ -1563,7 +1602,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.coto.com.ar/descuentos",
-      "verificado": "2026-09-23",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1594,9 +1633,14 @@
           "nivel": 2,
           "fecha": "2026-09-23",
           "nota": "página de hoy (miércoles): mismas tarjetas que ayer, reordenadas por día"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "Coto 3/10, Digital y Sucursales: miércoles 15% siendo miembro de Comunidad Coto, todos los medios de pago, sin límite de reintegro. Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "galicia-transporte",
@@ -4415,7 +4459,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4452,6 +4496,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Megatone | Crédito\" (hasta el 30/9 eran 14)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 12 cuotas cero interés | Todos los días en Megatone | Crédito\""
         }
       ]
     },
@@ -4481,7 +4531,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4518,6 +4568,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Naldo | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 12 cuotas cero interés | Todos los días en Naldo | Crédito\""
         }
       ]
     },
@@ -4547,7 +4603,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4584,6 +4640,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en On City | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 12 cuotas cero interés | Todos los días en On City | Crédito\""
         }
       ]
     },
@@ -4613,7 +4675,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4650,6 +4712,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Cetrogar | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 12 cuotas cero interés | Todos los días en Cetrogar | Crédito\""
         }
       ]
     },
@@ -5432,7 +5500,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-09-23",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5469,9 +5537,14 @@
           "nivel": 2,
           "fecha": "2026-09-23",
           "nota": "página de hoy (miércoles): mismas tarjetas que ayer, reordenadas por día"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "Coto 3/10, Digital y Sucursales: martes 30% Naranja X crédito o débito Visa, tope $12.000 por semana Plan Épico (25%/$9.500 Turbo, 20%/$3.000 Inicial). Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "coto-supervielle-martes-20",
@@ -5522,7 +5595,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-09-23",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5553,9 +5626,14 @@
           "nivel": 2,
           "fecha": "2026-09-23",
           "nota": "página de hoy (miércoles): mismas tarjetas que ayer, reordenadas por día"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "Coto 3/10, Digital: martes 20% con crédito TCI, sin tope. Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "coto-columbia-jueves-30",
@@ -5671,7 +5749,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5720,6 +5798,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Fravega | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 12 cuotas cero interés | Todos los días en Fravega | Crédito\""
         }
       ]
     },
@@ -5749,7 +5833,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5786,6 +5870,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Simmons | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 12 cuotas cero interés | Todos los días en Simmons | Crédito\""
         }
       ]
     },
@@ -7344,7 +7434,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7382,6 +7472,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en La Cardeuse | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 12 cuotas cero interés | Todos los días en La Cardeuse | Crédito\""
         }
       ]
     },
@@ -7483,7 +7579,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7521,6 +7617,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Andesmar | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Andesmar | Crédito\""
         }
       ]
     },
@@ -7550,7 +7652,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-03",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7600,6 +7702,12 @@
           "nivel": 1,
           "fecha": "2026-10-02",
           "nota": "Naranja X 2/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Chevallier | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Chevallier | Crédito\""
         }
       ]
     },
@@ -7629,7 +7737,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7661,6 +7769,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Plusmar | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Plusmar | Crédito\""
         }
       ]
     },
@@ -7690,7 +7804,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7722,6 +7836,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "REVIVIDA: Naranja X 1/10 (33 tarjetas): \"10% off y 6 cuotas cero interés | Todos los días en El Practico | Crédito\" (se había retirado al 27/9 por no aparecer el 28 y 30/9)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"10% off y 6 cuotas cero interés | Todos los días en El Practico | Crédito\""
         }
       ]
     },
@@ -7818,7 +7938,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7856,6 +7976,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en General Urquiza Transportes | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en General Urquiza Transportes | Crédito\""
         }
       ]
     },
@@ -7885,7 +8011,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7923,6 +8049,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Flecha Bus | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Flecha Bus | Crédito\""
         }
       ]
     },
@@ -10529,7 +10661,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "id": "cuotas-naranja_x-whirlpool-12",
       "medio": "naranja_x",
@@ -10586,6 +10718,12 @@
           "nivel": 1,
           "fecha": "2026-10-02",
           "nota": "Naranja X 2/10: \"Hasta 12 cuotas cero interés | Todos los días en Whirlpool | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 12 cuotas cero interés | Todos los días en Whirlpool | Crédito\""
         }
       ]
     },
@@ -10595,7 +10733,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "id": "cuotas-naranja_x-suavestar-14",
       "medio": "naranja_x",
@@ -10646,6 +10784,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Suavestar | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 14 cuotas cero interés | Todos los días en Suavestar | Crédito\""
         }
       ]
     },
@@ -10655,7 +10799,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "id": "cuotas-naranja_x-cannon-14",
       "medio": "naranja_x",
@@ -10712,6 +10856,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Cannon | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 14 cuotas cero interés | Todos los días en Cannon | Crédito\""
         }
       ]
     },
@@ -10721,7 +10871,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "id": "cuotas-naranja_x-rosen-14",
       "medio": "naranja_x",
@@ -10766,6 +10916,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "REVIVIDA: Naranja X 1/10 (33 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Rosen | Crédito\" (también estaba el 30/9; se había retirado al 14/9)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 14 cuotas cero interés | Todos los días en Rosen | Crédito\""
         }
       ]
     },
@@ -12126,7 +12282,7 @@
       "vigencia_desde": "2026-02-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.modo.com.ar/promos/20-comafi-changomas-feb26",
-      "verificado": "2026-09-22",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -12163,6 +12319,12 @@
           "nivel": 2,
           "fecha": "2026-09-22",
           "nota": "martes 01/08 al 31/10/2026, 20% Visa/Mastercard crédito y Visa débito Comafi por MODO, tope $12.000 semanal ($15.000 Único Black) (CMF)"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "ChangoMás 3/10: martes 20% de reintegro con débito Visa y crédito Visa/Mastercard Comafi, tope $12.000 semanal ($15.000 Único Black)."
         }
       ]
     },
@@ -12374,7 +12536,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-23",
+      "verificado": "2026-10-03",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
@@ -12404,9 +12566,14 @@
           "nivel": 2,
           "fecha": "2026-09-23",
           "nota": "página de hoy (miércoles): mismas tarjetas que ayer, reordenadas por día"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "Coto 3/10, Sucursales: martes y jueves 15% programa Ciudadanía Porteña, sin tope. Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "coto-jubilados-jueves-15",
@@ -12428,7 +12595,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-23",
+      "verificado": "2026-10-03",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
@@ -12458,9 +12625,14 @@
           "nivel": 2,
           "fecha": "2026-09-23",
           "nota": "página de hoy (miércoles): mismas tarjetas que ayer, reordenadas por día"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "Coto 3/10, Sucursales: jueves 15% jubilados y pensionados presentando DNI, todos los medios, no online. Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "coto-icbc-jueves-25",
@@ -12572,7 +12744,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-23",
+      "verificado": "2026-10-03",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
@@ -12596,10 +12768,15 @@
           "nivel": 2,
           "fecha": "2026-09-23",
           "nota": "página de hoy (miércoles): mismas tarjetas que ayer, reordenadas por día"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "Coto 3/10, Sucursales, todos los días: 3 cuotas con crédito Mercado Pago por QR desde $150.000; 2 cuotas de $50.000 a $149.000; no online. Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
         }
       ],
-      "compra_minima": 150000,
-      "vigencia_asumida": "2026-10-01"
+      "compra_minima": 150000
     },
     {
       "id": "ciudad-dia-lunes-35",
@@ -14576,9 +14753,15 @@
           "nivel": 2,
           "fecha": "2026-09-22",
           "nota": "miércoles 20% con crédito Patagonia 365, tope $10.000 por cuenta por mes, vigente 01/08 al 31/10/2026; el legal dice BANCO DEL CHUBUT S.A., CUIT 30-50001299-0, Rawson (P365)"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "ChangoMás 3/10: miércoles 20% con crédito Patagonia 365, tope $10.000 mensual; legal vigente del 01/8/2026 al 31/10/2026."
         }
       ],
-      "verificado": "2026-09-22",
+      "verificado": "2026-10-03",
       "confianza": "alta"
     },
     {
@@ -15157,7 +15340,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-09-22",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "yoy-changomas-jueves",
@@ -15200,6 +15383,12 @@
           "nivel": 2,
           "fecha": "2026-09-22",
           "nota": "jueves 01/07 al 31/12/2026, 20% crédito Mastercard YOY y débito Visa YOY por MODO, tope $10.000 por cliente por semana (Y)"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "ChangoMás 3/10: jueves 20% de reintegro con crédito y débito Mastercard YOY, tope $10.000 semanal; legal del 01/07/2026 al 31/12/2026."
         }
       ]
     },
@@ -15810,7 +15999,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-09-23",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15865,9 +16054,14 @@
           "nivel": 2,
           "fecha": "2026-09-23",
           "nota": "lunes 01/07 al 30/09/2026, 25% de reintegro con Cencopay Cuenta, exclusivo presencial, tope $15.000"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "Jumbo 3/10, pestaña lunes: \"25% de reintegro, con tope de $15.000. Promoción válida con Cencopay Cuenta exclusivo presencial. Todos los lunes desde el 01/10/2026 al 31/10/2026\"."
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "cencopay-jumbo-disco-vea-miercoles-online-20",
@@ -20939,7 +21133,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
-      "verificado": "2026-09-22",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "masclub-masgo-20",
@@ -20976,6 +21170,12 @@
           "nivel": 2,
           "fecha": "2026-09-22",
           "nota": "miércoles y jueves 20% sin tope en MasGO para socios MásClub, 01/04 al 31/12/2026 (MC)"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "ChangoMás 3/10: \"Todos los Miércoles y Jueves - MasGo | 20% | Exclusivo MasGo ¡SIN TOPE! | Promoción exclusiva para socios de masclub\"."
         }
       ]
     },
@@ -21561,9 +21761,15 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Suavegom | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 14 cuotas cero interés | Todos los días en Suavegom | Crédito\""
         }
       ],
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "confianza": "alta"
     },
     {
@@ -21629,9 +21835,15 @@
           "nivel": 1,
           "fecha": "2026-10-02",
           "nota": "Naranja X 2/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en El Norte | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en El Norte | Crédito\""
         }
       ],
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-03",
       "confianza": "alta"
     },
     {
@@ -25927,7 +26139,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-23",
+      "verificado": "2026-10-03",
       "id": "comafi-coto-martes-30",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -25939,7 +26151,7 @@
         "martes"
       ],
       "tope_publicado": true,
-      "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (no Credial ni corporativas). Solo en sucursales. Es el 20% de la campaña de MODO en Coto más un 10% adicional de Comafi; el adicional es sin tope y vale hasta el 30/9.",
+      "requisitos": "Pagando con MODO desde la app de Comafi con crédito o débito del banco (no Credial ni corporativas). Solo en sucursales, en un pago, productos sin oferta. Sin tope. No acumula con la promo MODO de los martes.",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuentes": [
@@ -25978,10 +26190,15 @@
           "nivel": 2,
           "fecha": "2026-09-23",
           "nota": "página de hoy (miércoles): mismas tarjetas que ayer, reordenadas por día"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "Coto 3/10, Sucursales, martes: dos tarjetas de Comafi por MODO, una de 30% y otra de 35%, ambas sin tope y \"no acumula con promo Modo martes\". Se deja el 30% (el número menor) hasta que Comafi publique octubre. Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
         }
       ],
-      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
-      "vigencia_asumida": "2026-10-01"
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
     },
     {
       "descuento_pct": 20,
@@ -30584,11 +30801,11 @@
         "sabado",
         "domingo"
       ],
-      "descuento_pct": 10,
-      "cuotas": 12,
+      "descuento_pct": 0,
+      "cuotas": 18,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjeta de crédito Naranja X. La web no publica el tope.",
+      "requisitos": "Hasta 18 cuotas sin interés con tarjeta de crédito Naranja X.",
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
@@ -30605,12 +30822,16 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"Hasta 10% off y 12 cuotas cero interés | Todos los días en Essen | Crédito\" (el 14/9 decía \"Hasta 24 cuotas\"; cambió desde el 17/9)"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Hasta 18 cuotas cero interés | Todos los días en Essen | Crédito\". Ya no dice 10% off (el 25/9 decía 10% y 12 cuotas; el 14/9, 24 cuotas). Se pasó a solo cuotas."
         }
       ],
-      "verificado": "2026-09-25",
-      "confianza": "alta",
-      "tope_publicado": false,
-      "vigencia_asumida": "2026-10-01"
+      "verificado": "2026-10-03",
+      "confianza": "alta"
     },
     {
       "id": "naranja-cata-10",
@@ -31407,7 +31628,7 @@
       "vigencia_desde": "2026-08-16",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-09-22",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -31415,6 +31636,12 @@
           "nivel": 2,
           "fecha": "2026-09-22",
           "nota": "tarjeta (MODO-MG): \"Todos los domingos en MasGO 20% de reintegro desde APP MODO o app de bancos adheridos, tope $20.000 por cliente por mes, mínimo $30.000\"; legal: domingos 16/08 al 31/10/2026, presencial, tope por usuario por banco, acumulable"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-03",
+          "nota": "ChangoMás 3/10: domingos en MasGO 20% de reintegro desde MODO o app de bancos adheridos, tope $20.000 por cliente por mes y por banco, mínimo $30.000; legal del 16/08/2026 al 31/10/2026."
         }
       ]
     },
@@ -31551,7 +31778,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-25",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-03",
       "confianza": "alta",
       "fuentes": [
         {
@@ -31571,6 +31798,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Naranja X 1/10 (33 tarjetas): \"Especial | Hasta 14 cuotas cero interés | Todos los días en Casa del Audio | Crédito\". Igual"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "Naranja X 3/10: \"Especial | Hasta 14 cuotas cero interés | Todos los días en Casa del Audio | Crédito\""
         }
       ]
     },

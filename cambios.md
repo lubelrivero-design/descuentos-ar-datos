@@ -1,5 +1,45 @@
 # Cambios
 
+## 2026-10-03 — Coto ya actualizó sus tarjetas para octubre: 7 asumidas confirmadas; Naranja X confirma 20 y Essen pasa a 18 cuotas; ChangoMás confirma 6; 3 a confianza baja; sin altas ni retiros
+
+**617 promos (igual que ayer): 0 altas, 0 retiradas, 37 con fuente nueva de hoy, 3 pasadas a confianza baja.** **Visibles hoy: 339. Asumidas (cartel ámbar): 60** (ayer 72).
+
+### Cómo se juntó el texto
+A las 07:32 `crudo/` seguía en el 2/10. Disparé `recolectar.yml` **completo** y entró en 11 minutos (commit de las 07:44) con `leido: 2026-10-03` en 39 de 45 fuentes. Con lectura vieja: Frávega, Comafi e ICBC (desde casa, 27/9), BPN (1/10), Banco Patagonia (2/10) y McDonald's y Musimundo (trabados en el 27/8).
+
+### Confirmadas
+- **Coto (7 asumidas)**: Comunidad Coto miércoles 15%, Ciudadanía Porteña martes y jueves 15%, jubilados jueves 15%, TCI martes 20%, Naranja X martes 30% (tope $12.000 por semana Plan Épico), Mercado Pago 3 cuotas y Comafi martes 30%. Hasta ayer no las confirmábamos porque Coto no pone fechas. **Cambié el criterio:** Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30% desde el 1/10; apareció un Comafi 35%), así que la página está mantenida y lo que lista hoy vale hoy. Si a un humano no le cierra, alcanza con sacar la fuente del 3/10 de esas siete.
+- `comafi-coto-martes-30`: le saqué de `requisitos` el "el adicional vale hasta el 30/9", que el usuario leía en una promo de octubre.
+- **Naranja X (20)**: las de cuotas de electro y hogar (Casa del Audio, Cetrogar, Naldo, Megatone, On City, Frávega, Whirlpool, La Cardeuse, Simmons, Cannon, Suavegom, Suavestar, Rosen) y las de micros (General Urquiza, Andesmar, Plusmar, Flecha Bus, El Norte, El Práctico, Chevallier).
+- **`cuotas-naranja_x-essen-24` cambió**: Naranja X dice hoy "Hasta 18 cuotas cero interés" y ya no "10% off y 12 cuotas". Quedó como promo de solo cuotas (0%, 18 cuotas). Es la tercera versión del mes (24 cuotas el 14/9, 10% + 12 el 25/9).
+- **Personal Pay (5)**: Día jueves, La Reina sábado, Farmalife, Taxi Premium y Go Bar.
+- **Jumbo**: Cencopay Cuenta lunes 25%, tope $15.000, legal del 01/10 al 31/10 (asumida confirmada).
+- **ChangoMás (6, fuera de la agenda; las miré porque se iban a caer por llevar 11 días sin verificar)**: Hipotecario martes, Comafi martes, Patagonia 365 miércoles, YOY jueves, MásClub en MásGO miércoles y jueves, MODO domingos en MásGO. Todas con legal vigente en octubre.
+
+### Pasadas a confianza baja (dejan de mostrarse)
+- `mp-changomas-martes`: **ChangoMás se contradice.** La tarjeta dice "Todos los martes 15% pagando con QR" y el legal de abajo habla de "viernes, sábados y domingos de octubre 2026" con Mercado Pago, igual que la tarjeta de billeteras de los fines de semana. No se sabe qué día vale. Además llevaba 11 días sin verificar.
+- `personalpay-farmacia-central-oeste` y `personalpay-puma-sabado`: llevan 11 días sin verificar y tienen la vigencia asumida. No es que hayan desaparecido: **el recolector de Personal Pay solo lee la primera de las 9 páginas del listado** (12 tarjetas). Hay que hacer que la receta pase de página.
+
+### Para que decida un humano
+- **`coto-supervielle-martes-25`**: Coto dice **30%** desde el 1/10 (tres lecturas seguidas; en septiembre decía 25%). Es un 30% sin tope y el sitio de Supervielle no lo publica, así que no hay segunda fuente para subirlo. Sigue en 25% y asumida.
+- **Comafi en Coto los martes**: hoy hay dos tarjetas de Comafi por MODO, una de 30% y otra de 35%. Se dejó el 30% (el menor).
+- **Supervielle en Coto sábado y domingo** (MODO, crédito): 25% Identité con tope $15.000 y 20% cartera general con tope $10.000. Estaba el 30/9 y hoy, no el 2/10. No la cargué: Supervielle no la publica y no sé hasta cuándo vale.
+- **Coto viernes 25% y finde 20% "con todos los medios de pago dentro de la app"**: son las de Mercado Pago que se retiraron el 31/8 (`mp-coto-viernes`, `mp-coto-finde`), pero el texto no nombra la app (sale del logo). No las reviví.
+- **Jumbo**: el 40% en galletitas y cervezas de viernes y sábado (tope $15.000 por día) y BNA 6 cuotas siguen publicados, pero sin fecha y sin decir el medio de pago. Siguen asumidas.
+- **Naranja X, tarjetas que no tenemos**: Ibaceta 18 cuotas, Seven Sport y Exit 12, Sportotal 9, Riiing 9 (Día de la Madre), Sweet, In Store y On Sports 5, Punto Deportivo 8 y Shopgallery 25% (estas dos en "días seleccionados"). No las cargué porque el listado no dice zona ni vigencia. Showsport sigue diciendo "10% off y 5 cuotas, días seleccionados" y nosotros tenemos 15 cuotas todos los días: la dejé como estaba.
+
+### Agenda del día
+- **Trabajadas: coto, naranja-x, personal-pay, jumbo, ypf, axion, farmacity, shell.** Las cuatro nuevas o abandonadas no aportaron nada:
+  - **YPF**: `/promociones` contesta "Lo sentimos, esta página no está disponible en este momento". **Hay que buscarle otra URL** (¿App YPF o ServiClub?).
+  - **Axion**: la página trae solo los títulos ("Promoción combustible Super", "Desafío redondo", promos de pelotas y Lollapalooza); las bases están detrás de "Leer más". **La receta tendría que abrir "BBCC Promoción combustible Super".**
+  - **Farmacity**: `/promociones-bancarias` da "No encontramos resultados". **La URL quedó vieja.**
+  - **Shell**: sigue solo el sorteo de Shell Box, sin descuentos.
+- **dr-ahorro**: sigue el error 526 de Cloudflare.
+- **fravega, comafi, icbc**: sin lectura nueva (bloquean a GitHub; la de casa es del 27/9 con legales al 30/9). Sus asumidas siguen con cartel. **Hace falta la lectura desde casa.**
+- `tools/validar.js` sigue diciendo "nadie confirmó que siga en septiembre" (el mes está escrito a mano en la línea 52).
+
+
+
 ## 2026-10-02 — Diarco ya publica octubre: 4 altas de cuotas + Patagonia viernes, 2 revividas y 7 confirmadas; Personal Pay y Naranja X confirman 9 más; **Cata revivida**; sin bajas
 
 **617 promos (eran 612): 5 altas, 3 revividas, 16 con fuente nueva de hoy (12 dejaron de estar asumidas), 0 retiradas.** **Asumidas (cartel ámbar): 72** (ayer 84).
