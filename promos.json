@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-03",
+  "actualizado": "2026-10-04",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -321,7 +321,7 @@
       "requisitos": "Solo para jubilados y pensionados de ANSES que cobran en el Banco Nación. Pagando con MODO BNA+ escaneando el QR, con crédito Visa o Mastercard o débito Mastercard del banco. Tope $5.000 por semana y $20.000 por mes.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2026-09-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "verificado": "2026-09-30",
       "confianza": "alta",
@@ -356,7 +356,7 @@
           "nota": "Día 30/9, \"Promoción bancaria: Modo, BNA\": lunes a viernes del 01/01 al 30/09/2026, crédito Visa/MC y débito MC del BNA por MODO BNA+ con QR, tope $5.000 por semana. Igual."
         }
       ],
-      "vigencia_asumida": "2026-10-01"
+      "baja_motivo": "el legal que publica Día dice 01/01 al 30/09/2026 (solo jubilados que cobran por BNA) y al 4/10 no se renovó"
     },
     {
       "id": "bna-jubilados-extra",
@@ -510,7 +510,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "fuentes": [
         {
@@ -541,6 +541,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: viernes y sábados del 1/10 al 31/10/2026 | tope $20.000 por banco por mes | mínimo $35.000"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Día 4/10: MODO viernes y sábados del 1/10 al 31/10/2026, tope $20.000 por banco por mes, compras desde $35.000"
         }
       ],
       "compra_minima": 35000
@@ -855,7 +861,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "fuentes": [
         {
@@ -939,6 +945,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: martes de octubre 2026 | Plan Turbo 25% tope $9.500 por semana (ChangoMás: martes de septiembre y octubre)"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Día 4/10: Naranja X martes de octubre 2026: Inicial 20% tope $3.000, Turbo 25% tope $9.500, Épico 30% tope $12.000 por semana"
         }
       ]
     },
@@ -1090,7 +1102,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1142,6 +1154,12 @@
           "nivel": 1,
           "fecha": "2026-10-03",
           "nota": "Personal Pay 3/10, listado de beneficios: Supermercado Dia 15% Jueves."
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Día 4/10: Personal Pay jueves 01/10 al 31/10/2026, 15% sin tope, mínimo $20.000, una por jueves"
         }
       ],
       "compra_minima": 20000
@@ -2615,7 +2633,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-10-10",
       "vigencia_hasta": "2026-10-10",
-      "verificado": "2026-09-22",
+      "verificado": "2026-10-03",
       "fuentes": [
         {
           "url": "https://www.galicia.ar/personas/promociones/promocion-combustible",
@@ -2654,6 +2672,12 @@
           "nivel": 1,
           "fecha": "2026-09-22",
           "nota": "portada: \"Hasta 15% de ahorro en combustible. Los días 10 de cada mes, en YPF, Puma, Shell y Axion, pagando con MODO desde la App Galicia, con tu tarjeta Mastercard\". Se estira al 10/10 (cae sábado); el tope $15.000 mensual es el que publicó el legal del banco para el 10/9."
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-03",
+          "nota": "portada del 3/10 igual: \"Hasta 15% de ahorro en combustible. Los días 10 de cada mes, en YPF, Puma, Shell y Axion, pagando con MODO desde la App Galicia, con tu tarjeta Mastercard\""
         }
       ]
     },
@@ -4833,7 +4857,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4851,6 +4875,12 @@
           "nivel": 2,
           "fecha": "2026-10-02",
           "nota": "REVIVIDA: Diarco 2/10: Naranja X todos los días, 6 cuotas cero interés en productos seleccionados de electro y hogar, Barrio y Mayorista, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Diarco 4/10: Naranja X 6 cuotas cero interés en electro y hogar seleccionados, todos los días, 01/10 al 31/10/26"
         }
       ]
     },
@@ -5899,7 +5929,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-04",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -5967,6 +5997,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: lunes de octubre 2026 | 10% sin tope con Clave DNI"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Día 4/10: Cuenta DNI lunes de octubre 2026, 10% sin tope, Clave DNI / QR de la app"
         }
       ]
     },
@@ -5989,7 +6025,7 @@
       "vigencia_desde": "2026-09-07",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6027,6 +6063,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: lunes del 1/10 al 31/12/2026 | 20% NFC Visa sin tope"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Día 4/10: Cuenta DNI NFC con Visa crédito, lunes del 1/10 al 31/12/2026, 20% sin tope"
         }
       ]
     },
@@ -10091,7 +10133,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10123,6 +10165,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "listado de Credicoop del 1/10, pestaña miércoles: \"Supermercados | 25% de ahorro\" (DIA_Miercoles, presencial y virtual, MODO) (la tarjeta no trae vigencia)"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Día 4/10: Credicoop Cabal por MODO, miércoles de octubre, noviembre y diciembre 2026, tope $15.000 por miércoles"
         }
       ]
     },
@@ -10237,7 +10285,7 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10261,6 +10309,12 @@
           "nivel": 1,
           "fecha": "2026-10-02",
           "nota": "Macro 2/10: \"DIARCO PRODUCTOS SELECCIONADOS | Supermercados | hasta 6 cuotas sin interés | todos los dias\" (y otra de hasta 3)"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Diarco 4/10: Macro 3 y 6 cuotas con Visa física, solo electro, muebles de exterior, camping, herramientas eléctricas, piscinas y bicicletas, 01/10 al 31/10/26"
         }
       ]
     },
@@ -11039,7 +11093,7 @@
       "tope_monto": null,
       "tope_periodo": null,
       "verificado": "2026-09-23",
-      "confianza": "alta",
+      "confianza": "baja",
       "id": "coto-supervielle-martes-25",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -11084,7 +11138,8 @@
           "nota": "página de hoy (miércoles): mismas tarjetas que ayer, reordenadas por día"
         }
       ],
-      "vigencia_asumida": "2026-10-01"
+      "vigencia_asumida": "2026-10-01",
+      "baja_motivo": "4/10: lleva 11 días sin verificar (última 23/9). Coto publica 30% desde el 1/10 y Supervielle no la lista: hay que decidir el %."
     },
     {
       "zona": "Nacional",
@@ -12829,7 +12884,7 @@
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "confianza": "alta",
       "zona": "Nacional",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-04",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -12859,6 +12914,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: lunes y viernes del 01/10/2026 al 31/03/2027 | 20% | tope $10.000 por transacción"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Día 4/10: Banco Columbia lunes y viernes 20%, tope $10.000 por transacción, 01/10/2026 al 31/03/2027"
         }
       ]
     },
@@ -12882,7 +12943,7 @@
       "confianza": "alta",
       "zona": "Nacional",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-04",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -12912,6 +12973,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: martes del 01/10 al 30/11/2026 | 25% | tope $10.000 por mes"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Día 4/10: Banco del Sol débito Visa, martes del 01/10 al 30/11/2026, 25%"
         }
       ]
     },
@@ -12933,7 +13000,7 @@
       "vigencia_desde": "2026-01-01",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "confianza": "alta",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2026-09-30",
       "tope_monto": null,
       "tope_periodo": null,
       "verificado": "2026-09-27",
@@ -12962,7 +13029,7 @@
           "nota": "legal: lunes y jueves 01/01 al 30/09/2026, Tarjeta Ciudadanía Porteña, 15% sin tope, solo CABA"
         }
       ],
-      "vigencia_asumida": "2026-10-01"
+      "baja_motivo": "el legal que publica Día dice 01/01 al 30/09/2026 y al 4/10 no se renovó"
     },
     {
       "id": "sidecreer-dia-domingo-25",
@@ -12985,7 +13052,7 @@
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-04",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -13009,6 +13076,12 @@
           "nivel": 2,
           "fecha": "2026-09-27",
           "nota": "legal: domingos 01/07 al 30/11/2026, Entre Ríos, Sidecreer Black 25% tope $5.000 en 2 o 3 cuotas (Platinum 20%/$3.000, Verde 10%/$2.000)"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Día 4/10: Sidecreer domingos 01/07 al 30/11/2026 en Entre Ríos, 2 o 3 cuotas + 25% Black (tope $5.000)"
         }
       ]
     },
@@ -13033,7 +13106,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-04",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -13063,6 +13136,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: sábados del 01/01 al 31/10/2026 | 3 cuotas con Visa, Mastercard, Amex y Cabal"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Día 4/10: sábados del 01/01 al 31/10/2026, 3 cuotas sin interés"
         }
       ]
     },
@@ -15469,9 +15548,15 @@
           "nivel": 2,
           "fecha": "2026-09-27",
           "nota": "legal: miércoles y jueves 01/01 al 31/12/2026, Banco de Corrientes; 30% pagando desde +Banco, tope $20.000 por mes y por cuenta"
+        },
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Día 4/10: Banco de Corrientes miércoles y jueves, 30% por +Banco tope $20.000 por mes, 01/01 al 31/12/2026"
         }
       ],
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-04",
       "confianza": "alta"
     },
     {
@@ -16586,7 +16671,7 @@
       "requisitos": "Solo en la primera compra pagando con la línea de crédito de Credicuotas desde la app. No es un beneficio recurrente.",
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.diarco.com.ar/promociones/",
       "verificado": "2026-09-27",
       "confianza": "alta",
@@ -16625,7 +16710,7 @@
           "nota": "Credicuotas todos los días 20%, tope $8.000 en la primera compra con la línea de crédito, 01/09 al 30/09/2026 o primeros 10.000 clientes"
         }
       ],
-      "vigencia_asumida": "2026-10-01"
+      "baja_motivo": "el legal de Diarco dice 01/09 al 30/09/2026 (o primeros 10.000 clientes); al 4/10 la tarjeta sigue pero el legal no se renovó para octubre"
     },
     {
       "id": "brubank-rapanui-ultra-40",
@@ -21280,7 +21365,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "verificado": "2026-09-23",
-      "confianza": "alta",
+      "confianza": "baja",
       "tope_publicado": true,
       "id": "cencopay-disco-vea-40-galletitas",
       "medio": "cencopay",
@@ -21331,14 +21416,15 @@
           "nota": "viernes y sábados, 40% en galletitas, cervezas y más, tope $15.000 por día, presencial, no Express"
         }
       ],
-      "vigencia_asumida": "2026-10-01"
+      "vigencia_asumida": "2026-10-01",
+      "baja_motivo": "4/10: lleva 11 días sin verificar (última 23/9); las páginas de Jumbo/Disco/Vea del 3/10 no la muestran con fecha ni medio."
     },
     {
       "rubro": "mayoristas",
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "cuotas-naranja_x-diarco-mayorista-4",
@@ -21398,6 +21484,12 @@
           "nivel": 2,
           "fecha": "2026-10-02",
           "nota": "Diarco 2/10: Plan 4 cuotas cero interés Naranja X, todos los días, solo Diarco Mayorista, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Diarco 4/10: Naranja X plan 4 cuotas cero interés en Diarco Mayorista, todos los días, 01/10 al 31/10/26"
         }
       ]
     },
@@ -22815,7 +22907,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-04",
       "id": "cuotas-mp-diarco-3",
       "medio": "mercado_pago",
       "medio_nombre": "Mercado Pago",
@@ -22870,6 +22962,12 @@
           "nivel": 2,
           "fecha": "2026-10-02",
           "nota": "Diarco 2/10: 3 cuotas sin interés con crédito Mercado Pago por QR, desde $150.000, Barrio y Mayorista, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Diarco 4/10: 3 cuotas sin interés con tarjeta de crédito Mercado Pago por QR, desde $150.000, 01/10 al 31/10/26"
         }
       ]
     },
@@ -24504,7 +24602,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "id": "cuotas-bbva-sodimac-6",
       "medio": "bbva",
@@ -24541,6 +24639,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal de Sodimac del 1/10: \"6 CUOTAS SIN INTERES EN MONTOS SUPERIORES A $350,000, 3 CUOTAS ... SUPERIORES A $150,000 ... HASTA 31/10/2026 ... TARJETAS DE CRÉDITO BBVA\""
+        },
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Sodimac 4/10: BBVA 6 cuotas desde $350.000, 3 desde $150.000, 6 en camas y colchones, 12 y 9 en muebles de exterior/parrillas/camas; hasta 31/10/2026, registrados en GO"
         }
       ]
     },
@@ -24565,7 +24669,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "id": "cuotas-banco_provincia-sodimac-12",
       "medio": "banco_provincia",
@@ -24596,9 +24700,14 @@
           "nivel": 2,
           "fecha": "2026-09-29",
           "nota": "Sodimac 29/09: Banco Provincia 12 cuotas desde $700.000, 6 desde $350.000 y en colchones y sommiers, 4 desde $150.000; legal hasta 30/09/2026, CABA, GBA y PBA. Igual."
+        },
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Sodimac 4/10: Banco Provincia 12 cuotas desde $700.000, 6 desde $350.000 y en colchones y sommiers, 4 desde $150.000; legal hasta 31/10/2026, CABA, GBA y PBA"
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "rubro": "hogar",
@@ -24619,7 +24728,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2026-09-30",
       "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
       "verificado": "2026-09-29",
       "confianza": "alta",
@@ -24654,7 +24763,7 @@
           "nota": "Sodimac 29/09: Galicia 3 cuotas desde $150.000 (6 en colchones y sommiers), Visa/Mastercard/Amex Galicia, país, hasta 30/09/2026, salvo Patio Constructor. Igual."
         }
       ],
-      "vigencia_asumida": "2026-10-01"
+      "baja_motivo": "Sodimac la listó hasta el 29/9 con legal al 30/09/2026; desde el 1/10 (siete lecturas, página entera) ya no figura Galicia"
     },
     {
       "rubro": "hogar",
@@ -24677,7 +24786,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "id": "cuotas-naranja_x-sodimac-6",
       "medio": "naranja_x",
@@ -24714,6 +24823,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal de Sodimac del 1/10: \"plan 6 cuotas cero interés en todo Sodimac Homecenter ... tiendas y web ... válido hasta el 31/10/2026. No incluye patio de construcción\""
+        },
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Sodimac 4/10: Naranja X plan 6 cuotas cero interés en todo Sodimac, hasta 31/10/2026, sin patio de construcción"
         }
       ]
     },
@@ -24738,7 +24853,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "id": "cuotas-icbc-sodimac-6",
       "medio": "icbc",
@@ -24775,6 +24890,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal de Sodimac del 1/10: \"CARTERA DE CONSUMO. PROMOCION VÁLIDA HASTA EL 31/10/2026 INCLUSIVE ... TARJETAS EMITIDAS POR ICBC\""
+        },
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Sodimac 4/10: ICBC 3 cuotas en todo Homecenter y 6 cuotas, hasta 31/10/2026"
         }
       ]
     },
@@ -26872,7 +26993,7 @@
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "alta",
+      "confianza": "baja",
       "verificado": "2026-09-23",
       "id": "cuotas-macro-fravega-12",
       "medio": "macro",
@@ -26915,7 +27036,8 @@
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/",
-      "vigencia_asumida": "2026-10-01"
+      "vigencia_asumida": "2026-10-01",
+      "baja_motivo": "4/10: lleva 11 días sin verificar; la última lectura de Frávega (27/9, desde casa) trae el legal de Macro solo hasta el 30/9."
     },
     {
       "descuento_pct": 0,
@@ -26978,7 +27100,7 @@
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "confianza": "alta",
+      "confianza": "baja",
       "verificado": "2026-09-23",
       "id": "cuotas-credicoop-fravega-12",
       "medio": "credicoop",
@@ -27021,7 +27143,8 @@
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/",
-      "vigencia_asumida": "2026-10-01"
+      "vigencia_asumida": "2026-10-01",
+      "baja_motivo": "4/10: lleva 11 días sin verificar; Frávega no se pudo leer desde el 27/9 y Credicoop no la lista el 3/10."
     },
     {
       "descuento_pct": 0,
@@ -31506,7 +31629,7 @@
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.coto.com.ar/descuentos/index.asp",
       "verificado": "2026-09-23",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos/index.asp",
@@ -31556,7 +31679,8 @@
           "fecha": "2026-09-23",
           "nota": "página de hoy (miércoles): mismas tarjetas que ayer, reordenadas por día"
         }
-      ]
+      ],
+      "baja_motivo": "4/10: lleva 11 días sin verificar (última 23/9); los martes 20% en Coto que hoy aparecen son de bancos puntuales (ICBC, Comafi), no de MODO en general."
     },
     {
       "id": "cuenta-dni-supercoop-vie-sab-15",
@@ -31741,7 +31865,7 @@
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.beneficios.bancocredicoop.coop/coop/beneficios/?p=search",
       "verificado": "2026-09-23",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.beneficios.bancocredicoop.coop/coop/beneficios/?p=search",
@@ -31750,7 +31874,8 @@
           "nota": "página del miércoles: \"Supermercados | 10% de ahorro\", slug Carrefour_CABAL-VISA-MODO-LOCALES-ADHERIDOS; sin tope ni vigencia en el listado (vigencia asumida al 30/9 como el resto del catálogo)"
         }
       ],
-      "vigencia_asumida": "2026-10-01"
+      "vigencia_asumida": "2026-10-01",
+      "baja_motivo": "4/10: lleva 11 días sin verificar (última 23/9) y tiene la vigencia asumida; Carrefour del 3/10 no la muestra."
     },
     {
       "id": "cuotas-naranja_x-casa-del-audio-14",
@@ -32207,7 +32332,7 @@
       "requisitos": "Hasta 12 cuotas sin interés con tarjeta de crédito Visa o American Express Galicia, solo en productos seleccionados de electro, ferretería, automotor, bazar, decoración, jardinería, libros y muebles."
     },
     {
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "zona": "Nacional",
       "id": "cuotas-naranja_x-diarco-barrio-3",
@@ -32240,11 +32365,17 @@
           "nivel": 2,
           "fecha": "2026-10-02",
           "nota": "Diarco 2/10: \"Válido en Diarco Barrio | 3 cuotas cero interés | Naranja X - Todos los días\"; legal: Plan Zeta 3 cuotas, vigencia 01/10/26 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Diarco 4/10: Naranja X Plan Zeta 3 cuotas en Diarco Barrio, vigencia 01/10 al 31/10/26"
         }
       ]
     },
     {
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "zona": "Nacional",
       "id": "cuotas-galicia-diarco-3",
@@ -32275,11 +32406,17 @@
           "nivel": 2,
           "fecha": "2026-10-02",
           "nota": "Diarco 2/10: Banco Galicia jueves a domingos, 3 cuotas sin interés con crédito Visa y Mastercard, Barrio y Mayorista, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Diarco 4/10: Galicia 3 cuotas jueves a domingo, Visa y Mastercard crédito, 01/10 al 31/10/26"
         }
       ]
     },
     {
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "zona": "Nacional",
       "id": "cuotas-galicia-diarco-electro-12",
@@ -32313,11 +32450,17 @@
           "nivel": 2,
           "fecha": "2026-10-02",
           "nota": "Diarco 2/10: Banco Galicia todos los días, 6 y 12 cuotas sin interés con crédito físico Visa y Mastercard, productos seleccionados de electro y hogar, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Diarco 4/10: Galicia 6 y 12 cuotas en electro y hogar seleccionados, 01/10 al 31/10/26"
         }
       ]
     },
     {
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-04",
       "confianza": "alta",
       "zona": "Nacional",
       "id": "cuotas-bna-diarco-electro-12",
@@ -32351,6 +32494,12 @@
           "nivel": 2,
           "fecha": "2026-10-02",
           "nota": "Diarco 2/10: Banco Nación todos los días, 6 y 12 cuotas sin interés con crédito Visa y Mastercard del BNA, productos seleccionados de electro y hogar, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Diarco 4/10: Banco Nación 6 y 12 cuotas en electro y hogar seleccionados, Visa y Mastercard crédito, 01/10 al 31/10/26"
         }
       ]
     },
@@ -32375,7 +32524,7 @@
       "tope_publicado": true,
       "requisitos": "Con tarjetas de crédito Visa de Banco Patagonia, compras presenciales. Tope $25.000 en todo el mes. No vale por billeteras virtuales, salvo MODO, Google Pay y Apple Pay.",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2026-10-02",
       "fuente": "https://www.diarco.com.ar/promociones/",
       "fuentes": [
         {
@@ -32383,6 +32532,206 @@
           "nivel": 2,
           "fecha": "2026-10-02",
           "nota": "Diarco 2/10: Banco Patagonia todos los viernes 25% con crédito Visa del banco, tope por plazo de vigencia $25.000, presencial, 01/10 al 31/10/26"
+        }
+      ],
+      "baja_motivo": "Diarco la listó el 2/10 y ya no aparece el 3/10 ni el 4/10, con la página entera cargada; Banco Patagonia no la publica"
+    },
+    {
+      "rubro": "supermercados",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "acumulable": false,
+      "vigencia_desde": "2026-10-01",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "verificado": "2026-10-04",
+      "confianza": "alta",
+      "id": "modo-diarco-barrio-finde-20-oct",
+      "medio": "modo",
+      "medio_nombre": "MODO",
+      "comercios": [
+        "Diarco Barrio"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 20,
+      "compra_minima": 35000,
+      "zona": "AMBA",
+      "vigencia_hasta": "2026-10-31",
+      "requisitos": "Sábados y domingos, pagando con el QR de MODO desde la app MODO. Compra mínima de $35.000 en una sola compra. Sin tope: el descuento se hace en la caja. Solo sucursales Diarco Barrio (CABA y GBA). No incluye carnes, embutidos ni pollo, ni precios mayoristas. No se suma a otras promos bancarias.",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Diarco 4/10: Modo Diarco Barrio sábado y domingo 20%, sin tope, mínimo $35.000 por transacción, exclusivo billetera MODO, 01/10 al 31/10/26, sucursales de CABA y GBA"
+        }
+      ]
+    },
+    {
+      "rubro": "mayoristas",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "acumulable": false,
+      "vigencia_desde": "2026-10-01",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "verificado": "2026-10-04",
+      "confianza": "alta",
+      "id": "modo-diarco-mayorista-finde-15-oct",
+      "medio": "modo",
+      "medio_nombre": "MODO",
+      "comercios": [
+        "Diarco Mayorista"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "compra_minima": 100000,
+      "zona": "Nacional",
+      "vigencia_hasta": "2026-10-11",
+      "requisitos": "Sábados y domingos hasta el 11/10, pagando con el QR de MODO desde la app MODO. Compra mínima de $100.000 en una sola compra. En Pehuajó, Tres Arroyos, Trenque Lauquen, Chilecito, Junín de los Andes, Chos Malal, El Bolsón, Piedrabuena, Pico Truncado, Puerto Deseado y Rafaela el mínimo es $35.000 y vale todo octubre. Sin tope: el descuento se hace en la caja. No incluye carnes, embutidos ni pollo, ni precios mayoristas.",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Diarco 4/10: Modo Diarco Mayorista sábado y domingo 15%, sin tope; legal: mínimo $100.000 del 1/10 al 11/10/26 en la mayoría de las sucursales, $35.000 hasta el 31/10 en 11 sucursales del interior. La tarjeta dice 'sin mínimo' pero el legal pide $100.000: se cargó el legal"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "acumulable": false,
+      "vigencia_desde": "2026-10-01",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "verificado": "2026-10-04",
+      "confianza": "alta",
+      "id": "mp-diarco-barrio-finde-15-oct",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "comercios": [
+        "Diarco Barrio"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "compra_minima": 35000,
+      "zona": "AMBA",
+      "vigencia_hasta": "2026-10-31",
+      "requisitos": "Sábados y domingos, escaneando el QR de Mercado Pago (también con Cuenta DNI, Personal Pay, Naranja X y otras billeteras que lo lean; no con MODO). Compra mínima de $35.000 en una sola compra. Sin tope: el descuento se hace en la caja. Solo sucursales Diarco Barrio (CABA y GBA). No incluye carnes ni embutidos, ni precios mayoristas.",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Diarco 4/10: billeteras virtuales por QR de Mercado Pago sábado y domingo 15%, sin tope, mínimo $35.000, 01/10 al 31/10/26, sucursales Diarco Barrio, excluye MODO"
+        }
+      ]
+    },
+    {
+      "rubro": "mayoristas",
+      "tope_monto": null,
+      "tope_periodo": null,
+      "acumulable": false,
+      "vigencia_desde": "2026-10-01",
+      "fuente": "https://www.diarco.com.ar/promociones/",
+      "verificado": "2026-10-04",
+      "confianza": "alta",
+      "id": "mp-diarco-mayorista-finde-15-oct",
+      "medio": "mercado_pago",
+      "medio_nombre": "Mercado Pago",
+      "comercios": [
+        "Diarco Mayorista"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "compra_minima": 100000,
+      "zona": "Nacional",
+      "vigencia_hasta": "2026-10-11",
+      "requisitos": "Sábados y domingos hasta el 11/10, escaneando el QR de Mercado Pago (también con Cuenta DNI, Personal Pay, Naranja X y otras billeteras que lo lean; no con MODO). Compra mínima de $100.000 en una sola compra. Sin tope: el descuento se hace en la caja. No incluye carnes, embutidos ni pollo, ni precios mayoristas.",
+      "fuentes": [
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Diarco 4/10: billeteras por QR de Mercado Pago sábado y domingo 15% en Diarco Mayorista, sin tope, legal: mínimo $100.000, 01/10 al 11/10/26, excluye MODO (la tarjeta dice 'sin mínimo')"
+        }
+      ]
+    },
+    {
+      "id": "prex-dia-online-lunes-5-10",
+      "medio": "prex",
+      "medio_nombre": "Prex",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia online"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 20000,
+      "tope_periodo": "por compra",
+      "zona": "Nacional",
+      "requisitos": "Solo el lunes 5 de octubre, comprando en diaonline.supermercadosdia.com.ar o la app de Día con la Mastercard de Prex, eligiendo \"tarjeta de débito\" al pagar. Vale para la primera compra del día, una vez por usuario. Tope $20.000. Sirve con envío o retiro en tienda.",
+      "vigencia_desde": "2026-10-05",
+      "vigencia_hasta": "2026-10-05",
+      "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+      "verificado": "2026-10-04",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Día 4/10: legal Prex: 30% reintegro el lunes 05/10/2026 online, Mastercard Prex como débito, primera transacción, tope $20.000, una vez por usuario"
+        }
+      ]
+    },
+    {
+      "id": "cuotas-santander-sodimac-colchones-6",
+      "medio": "santander",
+      "medio_nombre": "Santander",
+      "rubro": "hogar",
+      "comercios": [
+        "Sodimac"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 6,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "zona": "Nacional",
+      "requisitos": "6 cuotas sin interés en colchones y sommiers con tarjeta de crédito Visa Santander, en tiendas Sodimac y sodimac.com.ar. No vale por billeteras virtuales ni en Patio Constructor.",
+      "vigencia_desde": "2026-10-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+      "verificado": "2026-10-04",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-10-04",
+          "nota": "Sodimac 4/10: Santander 6 cuotas en colchones y sommiers con Visa crédito, hasta 31/10/2026, tiendas y web, sin patio constructor ni billeteras"
         }
       ]
     }

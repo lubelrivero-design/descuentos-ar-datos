@@ -1,5 +1,56 @@
 # Cambios
 
+## 2026-10-04 — Diarco publica sus promos de billetera de octubre (4 altas); 5 retiradas porque su propio legal terminó el 30/9 o la fuente dejó de listarlas; 6 pasadas a confianza baja por llevar 11 días sin verificar
+
+**623 promos (eran 617): 6 altas, 5 retiradas, 24 con fuente nueva de hoy, 6 pasadas a confianza baja.** **Visibles hoy: 396. Asumidas (cartel ámbar): 50** (ayer 60).
+
+### Cómo se juntó el texto
+A las 07:32 `crudo/` seguía en el 3/10. Disparé `recolectar.yml` **solo con las 8 fuentes de la agenda** y entró en un minuto (commit de las 07:34) con `leido: 2026-10-04` en las ocho. El resto de `crudo/` quedó con la lectura del 3/10.
+
+### ⚠ Para que mire un humano
+- **Retiradas porque el legal que publica la propia fuente terminó el 30/9**, aunque la tarjeta siga en la página. Si alguien ve que el comercio las sigue aplicando, alcanza con revivirlas:
+  - `bna-dia-lun-vie` (BNA 5% de lunes a viernes en Día, solo jubilados que cobran por BNA): legal del 01/01 al 30/09/2026.
+  - `ciudadania-portena-dia-15` (Ciudadanía Porteña lunes y jueves en Día): legal del 01/01 al 30/09/2026.
+  - `credicuotas-diarco-20` (Credicuotas 20% en la primera compra en Diarco): legal del 01/09 al 30/09/2026.
+- **`patagonia-diarco-viernes-25` retirada (vigencia hasta el 2/10)**: se dio de alta el 2/10 y Diarco ya no la lista ni el 3/10 ni el 4/10, con la página entera (todas las demás tarjetas están). Banco Patagonia tampoco la publica. Si vuelve a aparecer, revivirla.
+- **`cuotas-galicia-sodimac-3` retirada (al 30/9)**: Sodimac la listó hasta el 29/9 con legal al 30/09/2026 y desde el 1/10, en siete lecturas seguidas, ya no figura Galicia.
+- **Diarco Mayorista (MODO y billeteras), la tarjeta y el legal se contradicen**: la tarjeta dice "sin mínimo de compra en estas sucursales" y el legal pide **$100.000** del 1/10 al 11/10. Cargué el legal (lo más exigente) y la vigencia al 11/10. En 11 sucursales del interior (Pehuajó, Tres Arroyos, Trenque Lauquen, Chilecito, Junín de los Andes, Chos Malal, El Bolsón, Piedrabuena, Pico Truncado, Puerto Deseado y Rafaela) el mínimo es $35.000 y vale todo octubre: va en `requisitos`.
+- **Cuenta DNI en Sodimac**: Sodimac publica "Lunes a Viernes +20% OFF adicional, tope $6.000, a cargo de Sodimac" hasta el 31/10, pero el legal no nombra días ni tope, y el banco publica miércoles 10% sin tope. Sigue la decisión del 1/10 (miércoles 10%, la del banco). No cargué la de lunes a viernes.
+- **Día, BNA viernes y sábados con BNA+ MODO y Mastercard** (01/10 al 31/12, tope $7.500 por mes, mínimo $35.000): el legal no dice el porcentaje (está en la imagen). No la cargué.
+- **Día, Mercado Pago 15%** en "productos o servicios seleccionados", mínimo $20.000, octubre: no dice qué días ni qué productos. No la cargué.
+
+### Altas (6)
+- `modo-diarco-barrio-finde-20-oct`: MODO, sábados y domingos 20% en Diarco Barrio (CABA y GBA), sin tope, mínimo $35.000, 1/10 al 31/10.
+- `modo-diarco-mayorista-finde-15-oct`: MODO, sábados y domingos 15% en Diarco Mayorista, sin tope, mínimo $100.000, hasta el 11/10.
+- `mp-diarco-barrio-finde-15-oct`: QR de Mercado Pago (y billeteras que lo leen, no MODO), sábados y domingos 15% en Diarco Barrio, sin tope, mínimo $35.000, todo octubre.
+- `mp-diarco-mayorista-finde-15-oct`: lo mismo en Diarco Mayorista, mínimo $100.000, hasta el 11/10.
+- `prex-dia-online-lunes-5-10`: Prex 30% en Día online **solo el lunes 5/10**, primera compra del día, tope $20.000 (igual a la del 7/9).
+- `cuotas-santander-sodimac-colchones-6`: Santander Visa 6 cuotas en colchones y sommiers en Sodimac, hasta el 31/10.
+
+### Confirmadas con la lectura de hoy
+- **Diarco (8)**: Naranja X 6 cuotas electro, Naranja X 4 cuotas Mayorista, Naranja X Plan Zeta 3 cuotas Barrio, Macro 3 y 6 cuotas, Mercado Pago 3 cuotas, Galicia 3 cuotas jueves a domingo, Galicia 6 y 12 en electro, BNA 6 y 12 en electro. Todas con legal de octubre.
+- **Día (11)**: MODO viernes y sábado, Naranja X martes, Personal Pay jueves, Cuenta DNI lunes 10% y NFC 20%, Credicoop miércoles, Columbia lunes y viernes, Banco del Sol martes, Sidecreer domingo, 3 cuotas los sábados, Banco de Corrientes miércoles y jueves.
+- **Sodimac (4)**: **Banco Provincia 12 cuotas** (asumida, legal hasta 31/10: confirmada), BBVA, Naranja X e ICBC.
+- `galicia-combustible-dia10`: la portada de Galicia del 3/10 sigue diciendo "los días 10 de cada mes". Fuente fechada al 3/10.
+
+### Pasadas a confianza baja (dejan de mostrarse; llevaban 11 días sin verificar)
+- `coto-supervielle-martes-25`: además, Coto dice 30% desde el 1/10 y Supervielle no la publica. Hay que decidir el %.
+- `modo-coto-martes-20`: los martes 20% en Coto que aparecen hoy son de bancos puntuales (ICBC, Comafi), no de MODO en general.
+- `cencopay-disco-vea-40-galletitas`, `credicoop-carrefour-miercoles-10`: las páginas del 3/10 no las muestran con fecha ni medio.
+- `cuotas-macro-fravega-12`, `cuotas-credicoop-fravega-12`: Frávega no se lee desde el 27/9 y ahí el legal de Macro llegaba solo al 30/9.
+
+### Agenda del día
+- **Trabajadas: diarco, dia, sodimac, naranja-x, la-anonima, maxiconsumo, vital, shell.** Las cuatro nuevas o abandonadas no aportaron nada:
+  - **Naranja X**: la página hoy se ubicó en "San Jose" y trajo **solo 3 tarjetas genéricas** (3 cuotas en súper, 12 en electro, 12 en viajes). Lectura incompleta: no confirmé ni retiré nada. Es la versión corta que sale día por medio (2,6 KB contra 3,5 KB).
+  - **La Anónima**: `403 Forbidden` (bloquea a GitHub).
+  - **Maxiconsumo**: la sección de promociones tiene 18 botones "LEGALES" sin abrir y el % está en imágenes. **La receta tendría que hacer click en cada "LEGALES".**
+  - **Vital**: trae el menú de días y sucursales pero ninguna tarjeta. **La receta tendría que elegir sucursal o esperar a que carguen.**
+  - **Shell**: sigue solo el sorteo de Shell V-Power a Las Vegas.
+- **supervielle-shell-domingo** (asumida): Supervielle la listó hasta el 28/9 y desde el 1/10 su sección de combustible viene **vacía** ("esta página no trajo ninguna tarjeta"). Puede ser una página que no cargó: queda asumida.
+- **dr-ahorro, fravega, comafi, icbc** (las de "leídas desde la PC de Lucía"): sin lectura nueva. Dr. Ahorro sigue con el error 526; Frávega, Comafi e ICBC siguen en la lectura del 27/9. **Hace falta la lectura desde casa**: 43 de las 50 asumidas son de ICBC, Frávega o Comafi.
+- `tools/validar.js` sigue diciendo "nadie confirmó que siga en septiembre" (el mes está escrito a mano).
+
+
 ## 2026-10-03 — Coto ya actualizó sus tarjetas para octubre: 7 asumidas confirmadas; Naranja X confirma 20 y Essen pasa a 18 cuotas; ChangoMás confirma 6; 3 a confianza baja; sin altas ni retiros
 
 **617 promos (igual que ayer): 0 altas, 0 retiradas, 37 con fuente nueva de hoy, 3 pasadas a confianza baja.** **Visibles hoy: 339. Asumidas (cartel ámbar): 60** (ayer 72).
