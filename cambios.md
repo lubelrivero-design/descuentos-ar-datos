@@ -1,5 +1,37 @@
 # Cambios
 
+## 2026-10-05 — Naranja X vino entera: confirma 22 y Complot pierde el 10% (queda en 5 cuotas); Showsport 15 cuotas retirada; Jumbo confirma BNA 6 cuotas y MODO confirma Frávega; sin altas
+
+**623 promos (igual que ayer): 0 altas, 1 retirada, 1 cambiada, 25 con fuente nueva de hoy.** **Visibles hoy: 335** (contando las que tienen días, confianza no baja y vigencia al día de hoy; con esa misma cuenta ayer eran 336 — el "396" de ayer salía de otra cuenta). **Asumidas (cartel ámbar): 47** (ayer 50).
+
+### Cómo se juntó el texto
+A las 07:33 `crudo/` seguía en el 4/10. Disparé `recolectar.yml` **solo con las 8 fuentes de la agenda** y entró en dos minutos (commit 9c379f9, 07:35) con `leido: 2026-10-05` en siete de las ocho. **Yaguar** sigue bloqueada ("Sorry, you have been blocked" / "Verificación de seguridad en curso"): lo último es del 3/10 y no trae nada. El resto de `crudo/` quedó con la lectura del 4/10.
+
+### ⚠ Para que mire un humano
+- **`naranja-complot-10` cambiada: ahora 0% y 5 cuotas (era 10% + 5 cuotas).** En septiembre Naranja X decía "Especial | Hasta 10% off y 5 cuotas cero interés | Todos los días en Complot". Del 1/10 al 4/10 no figuró, y hoy volvió como "Hasta 5 cuotas cero interés | Todos los días en Complot", **sin el 10%**. Cargué lo de hoy (fuente del emisor, de octubre). Sigue el id viejo para no romper nada.
+- **`cuotas-naranja_x-showsport-15` retirada (vigencia hasta el 1/10)**: Naranja X la listó el 1/10 como "Hasta 15 cuotas cero interés | Todos los días en Showsport"; desde el 2/10, en cuatro lecturas enteras seguidas, la tarjeta de Showsport dice "Hasta 10% off y 5 cuotas cero interés | **Días seleccionados**". No cargué la nueva porque no dice qué días. Si alguien ve en la app de Naranja X qué días son, se carga.
+
+### Confirmadas con la lectura de hoy
+- **Naranja X (22)**, listado entero de 39 tarjetas (3,8 KB, la versión larga): Cata 10% + 6 cuotas; Megatone, Naldo, Frávega, Cetrogar y On City 12 cuotas (hoy con el rótulo "Día de la madre"); Casa del Audio 14; Whirlpool 12; las siete de micros con 10% + 6 cuotas (General Urquiza, Chevallier, Flecha Bus, El Práctico, Plusmar, El Norte, La Veloz del Norte); Simmons y La Cardeuse 12; Suavestar, Piero, Rosen y Cannon 14; Essen 18.
+- **`cuotas-bna-jumbo-disco-vea-6`** (asumida → confirmada): Jumbo 5/10 la muestra de lunes a sábado, con el resto de la página ya en legales de octubre; Disco y Vea 4/10 también.
+- **`cuotas-modo-fravega-9`** (asumida → confirmada): el listado de MODO de hoy trae "9 cuotas sin interés en Frávega online" en Promos de financiación.
+
+### No cargadas (a propósito)
+- Naranja X lista tarjetas nuevas de cuotas "todos los días" en **Ibaceta (18), Riiing (14, antes 9), Seven Sport (12), Exit (12), Vallejo Calzados (9), Sportotal (9) y Selu Len (5)**, más Previsora del Paraná y Shopgallery en "días seleccionados". No las cargué: la página no dice en qué provincias están y la zona no se deduce. Sweet pasó de "5 cuotas" a "Plan Zeta": no la tenemos cargada.
+- **MODO** hoy trajo por primera vez en días las secciones enteras (Destacadas, Supermercados, Online, Financiación): 25% en Coto, 20% en ChangoMás, La Anónima, Basualdo, Cooperativa Obrera, etc. Son solo títulos, sin banco, día ni tope: no alcanzan para cargar ni para revivir `modo-coto-martes-20`.
+
+### Agenda del día
+- **Trabajadas: naranja-x, jumbo, modo, supervielle, ypf, axion, shell, yaguar.**
+  - **Supervielle**: igual que ayer; la sección de combustible y la de gastronomía siguen viniendo **vacías**. `supervielle-shell-domingo` queda asumida (puede ser página que no cargó).
+  - **Naranja X**: los asumidos `naranja-deportiva` (Moov), `cuotas-naranja_x-samsung-14` y `cuotas-naranja_x-falabella-telefonica-6` no figuran en ninguna lectura de octubre (la página muestra ~40 tarjetas y rota). No hay evidencia de baja: quedan asumidas.
+  - **YPF**: la receta trae solo el menú del sitio corporativo, ninguna promo. **Habría que apuntar la receta a otra URL** (App YPF / ServiClub).
+  - **Axion**: lista "Promoción combustible Super" y "Descuento Super" de Pan American, pero las bases están detrás de "LEER MÁS". **La receta tendría que abrir cada "LEER MÁS".**
+  - **Shell**: sigue solo el sorteo de Shell V-Power a Las Vegas (21/9 al 18/10). Nada de descuentos.
+  - **Yaguar**: bloqueada (ver arriba).
+- **dr-ahorro, fravega, comafi, icbc** (las "leídas desde la PC de Lucía"): sin lectura nueva. **Novedad: Dr. Ahorro ya no da error 526** (lectura del 4/10): el sitio carga, pero la receta cae en la portada de la tienda (productos y precios) y no en promociones bancarias. Habría que revisar la receta. Frávega, Comafi e ICBC siguen en el 27/9: **42 de las 47 asumidas son de ICBC, Frávega o Comafi y sólo se destraban con la lectura desde casa.**
+- `tools/validar.js` sigue diciendo "nadie confirmó que siga en septiembre" (el mes está escrito a mano en el script).
+
+
 ## 2026-10-04 — Diarco publica sus promos de billetera de octubre (4 altas); 5 retiradas porque su propio legal terminó el 30/9 o la fuente dejó de listarlas; 6 pasadas a confianza baja por llevar 11 días sin verificar
 
 **623 promos (eran 617): 6 altas, 5 retiradas, 24 con fuente nueva de hoy, 6 pasadas a confianza baja.** **Visibles hoy: 396. Asumidas (cartel ámbar): 50** (ayer 60).
