@@ -1,5 +1,38 @@
 # Cambios
 
+## 2026-10-06 — Naranja X sube a 14 cuotas en Frávega, Megatone, Naldo, Cetrogar y On City (Casa del Audio baja a 12); se retiran Supervielle Colectivos y Cabify 50% y el 10% de Cencopay en Easy los martes; Coto marca Supervielle martes en 30%
+
+**623 promos (0 altas, 3 retiradas, 7 cambiadas, 43 confirmadas con la lectura de hoy).** Visibles hoy: 391 (contando las que tienen días, confianza no baja y vigencia al día de hoy; con la misma cuenta, ayer daban 395). Asumidas (cartel ámbar): 46 (ayer 47).
+
+### Cómo se juntó el texto
+A las 07:33 `crudo/` seguía en el 5/10 (el cron de hoy no había corrido). Disparé `recolectar.yml` **solo con las 7 fuentes de la agenda que lee GitHub** y entró a las 07:36 (commit 7efcc92) con `leido: 2026-10-06` en las siete. El resto de `crudo/` quedó con la lectura del 5/10.
+
+### ⚠ Para que mire un humano
+- **`supervielle-colectivos-mastercard` (50%, tope $15.000) y `supervielle-cabify-mastercard` (50%, tope $4.000) retiradas, vigencia hasta el 30/9.** Supervielle las listó en transporte hasta el 28/9. Desde el 1/10, en seis lecturas seguidas con la página bien cargada (BiciTRAN Mendoza sí aparece), ya no figuran. Eran dos de las más altas de la app: si alguien las ve en la app de Supervielle, se reviven.
+- **`cencopay-easy-martes-10` retirada, vigencia hasta el 30/9.** El legal de septiembre decía "socios Club Easy, Cencopay crédito, martes, 10% sin mínimo". En octubre, en seis lecturas enteras, la tarjeta del martes dice "12 CSI y 10% Dto — en compras superiores a $150.000" y el legal de septiembre desapareció. No cargué la nueva porque su legal no viene en el texto (no dice con qué medio de pago es).
+- **Naranja X cambió las cuotas de cinco tarjetas de un día para el otro** (todas con el rótulo "Día de la madre"): Frávega, Megatone, Naldo, Cetrogar y On City pasaron de "hasta 12" a **"hasta 14"**; Casa del Audio de "hasta 14" a **"hasta 12"**. Cargué lo de hoy (es el emisor). Los ids quedaron con los números viejos para no romper nada. Puede ser algo de unos días por el Día de la Madre (18/10): mañana se ve si sigue.
+- **`coto-supervielle-martes-25`: corregida a 30%, pero sigue apagada (`baja`).** Coto la publica en 30% en todas las lecturas del 1/10 al 5/10 ("Pagando con MODO desde la app de Supervielle… sin tope… no acumula con promo MODO martes"); en septiembre era 25%. No la prendo porque es de 30% y tiene una sola fuente: la página de supermercados de Supervielle dejó de listar a Coto en octubre. Hace falta un segundo respaldo.
+- **De paso (no estaba en la agenda):** Coto lista Comafi martes en **30% y 35%** desde el 1/10; nosotros tenemos `comafi-coto-martes-30`. Hay que mirar si el 35% es de un segmento puntual antes de tocarla.
+
+### Confirmadas con la lectura de hoy
+- **Naranja X (16)**, listado de 35 tarjetas: Cata; Whirlpool; Simmons y La Cardeuse 12; Piero, Rosen, Suavegom y Suavestar 14; Essen 18; las siete de micros con 10% + 6 cuotas (Chevallier, La Veloz del Norte, Flecha Bus, El Norte, Plusmar, General Urquiza, El Práctico).
+- **Easy (14)**, legales de octubre en la página: Macro 3 y 6 cuotas; Naranja X 3 y 6; Patagonia 3 y 6; Tarjeta SOL 3 y 6; Cencopay 12 cuotas, 24 cuotas online de finde, Cuenta Digital jueves 15% y canastos 10%; Clarín 365 jueves; Club LA NACIÓN miércoles.
+- **Supervielle (13)**: Modo Market, El Puente, Jubilados ChangoMás/MásGO, Átomo, Aiello, MásGO domingo, Farmaonline 6 cuotas, farmacias Mastercard lunes, farmacias Jubilados 50%, Easy 6 y 9 cuotas, Blaisten 6, Coto Electro 18.
+
+### No cargadas (a propósito)
+- Naranja X trae tarjetas nuevas: **Shopgallery "hasta 25% + 6 cuotas, los martes"** (por primera vez con día), Oscar Barbieri 10 cuotas, Cero26 Web 15% + 9 cuotas, Punto Deportivo, In Store, On Sports y Sweet 5 cuotas, Exit y Seven Sport ahora "hasta 20% + 6 cuotas, días seleccionados". No las cargué: la página no dice en qué provincias están (y "días seleccionados" no es un día). Viajes Naranja X (25% + 24 cuotas fijas) no es sin interés.
+- Hoy no aparecen en Naranja X Complot, Cannon, Showsport-cuotas, Moov, Samsung ni Falabella: la página rota (~35-40 tarjetas). No hay evidencia de baja; las que estaban asumidas siguen asumidas.
+
+### Agenda del día
+- **Trabajadas: dr-ahorro, naranja-x, supervielle, easy, farmacity, la-anonima, maxiconsumo, shell.** No quedó ninguna.
+  - **Dr. Ahorro** (lectura desde la PC de Lucía del 5/10): trae la home de la tienda (productos, blog), ninguna promo bancaria. Nada que cargar; la receta debería apuntar a otra página o la sección ya no existe.
+  - **Supervielle**: igual que ayer. **Combustible y gastronomía siguen viniendo vacías** (seis días seguidos). `supervielle-shell-domingo` queda asumida; si mañana sigue vacía conviene revisar la receta.
+  - **Farmacity**: la URL `/promociones-bancarias` devuelve "No encontramos resultados" — **la página ya no existe; hay que buscarle URL nueva a la receta.**
+  - **La Anónima**: `403 Forbidden` (bloquea al runner de GitHub). Candidata a la lectura desde la PC de Lucía.
+  - **Maxiconsumo**: la página de promos de Moreno ahora trae 18 botones "LEGALES" y ningún texto de promo (son imágenes). **La receta tendría que abrir cada "LEGALES".**
+  - **Shell**: sigue solo el sorteo de V-Power a Las Vegas (hasta el 18/10). Nada de descuentos.
+
+
 ## 2026-10-05 — Naranja X vino entera: confirma 22 y Complot pierde el 10% (queda en 5 cuotas); Showsport 15 cuotas retirada; Jumbo confirma BNA 6 cuotas y MODO confirma Frávega; sin altas
 
 **623 promos (igual que ayer): 0 altas, 1 retirada, 1 cambiada, 25 con fuente nueva de hoy.** **Visibles hoy: 335** (contando las que tienen días, confianza no baja y vigencia al día de hoy; con esa misma cuenta ayer eran 336 — el "396" de ayer salía de otra cuenta). **Asumidas (cartel ámbar): 47** (ayer 50).
