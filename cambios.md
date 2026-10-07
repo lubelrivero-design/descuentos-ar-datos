@@ -1,5 +1,37 @@
 # Cambios
 
+## 2026-10-07 — Vuelve Aerolíneas Argentinas con Naranja X (6 cuotas); Naranja X y Supervielle confirman 33 promos; sin bajas
+
+**624 promos (1 alta, 0 retiradas, 0 cambiadas, 33 confirmadas con la lectura de hoy).** Visibles hoy: 333 (cuenta: con días, confianza no baja y vigencia que incluye hoy; con esa misma cuenta, el archivo de ayer daba 332 — el 391 de ayer salió de otra cuenta). Asumidas (cartel ámbar): 46, igual que ayer.
+
+### Cómo se juntó el texto
+A las 07:32 `crudo/` seguía en el 6/10 (el cron de hoy no había corrido). Disparé `recolectar.yml` **solo con las 6 fuentes de la agenda que lee GitHub** (naranja-x, supervielle, vital, yaguar, ypf, shell) y entró enseguida (commit cda09a2, `leido: 2026-10-07` en las seis). El resto de `crudo/` quedó con la lectura del 6/10.
+
+### ⚠ Para que mire un humano
+- **Alta: `cuotas-naranja_x-aerolineas-6`** (Aerolíneas Argentinas, hasta 6 cuotas sin interés, todos los días, crédito Naranja X). Teníamos retirada la de 9 cuotas "Especial" del 9 al 20/9; hoy reaparece por primera vez en octubre, ya sin el rótulo "Especial" y con 6 cuotas. La cargué como promo nueva (es el emisor) con vigencia hasta el 31/10 como el resto de Naranja X. Si mañana no está, puede ser otra promo corta.
+- **Moov (`naranja-deportiva`), Samsung 14 cuotas y Falabella Venta Telefónica siguen sin aparecer en Naranja X**: cero menciones en las 7 lecturas enteras de octubre (33-35 tarjetas cada una). El 30/9 Moov y Samsung estaban. La página rota (de ~50 comercios distintos en octubre, varios salen una sola vez), así que todavía no las retiro, pero ya es mucha ausencia: quedan asumidas y en 3 días pasan los 10 sin verificar. Falabella ya lleva 12.
+- **Shopgallery martes** sigue apareciendo como "Hasta 25% off y 6 cuotas | Los martes" (la nuestra, 10% + 9 cuotas, está retirada desde el 28/9). No la revivo: vale un solo día y "hasta 25%" depende del plan, así que pide segunda fuente.
+- **`supervielle-shell-domingo`**: la página de combustible de Supervielle vino vacía por **séptimo día seguido** (y gastronomía también). Ya no parece página lenta: **hay que revisar la receta de Supervielle para combustible y gastronomía**. La promo queda asumida.
+
+### Confirmadas con la lectura de hoy
+- **Naranja X (20)**: Naldo, Frávega, Megatone, Cetrogar y On City 14 cuotas ("Día de la madre", siguen en 14 como ayer); Casa del Audio 12; Whirlpool, Simmons y La Cardeuse 12; Cannon, Piero, Rosen, Suavegom y Suavestar 14; micros con 10% + 6 cuotas: Plusmar, Chevallier, La Veloz del Norte, El Norte, El Práctico y Andesmar.
+- **Supervielle (13)**: el texto vino idéntico al de ayer. Modo Market, El Puente, Jubilados ChangoMás/MásGO, farmacias Jubilados, Farmaonline 6 cuotas, Átomo, Aiello, farmacias Mastercard lunes, MásGO domingo, Easy 6 y 9 cuotas, Blaisten 6, Coto Electro 18.
+
+### No cargadas (a propósito)
+- Naranja X: Newsport Web (15% + 9 cuotas, Día de la madre), Ibaceta 18 cuotas, Oscar Barbieri 10 cuotas, Exit y Seven Sport (hasta 20% + 6, "días seleccionados"), Punto Deportivo, In Store, On Sports, Sweet, Showsport 5 cuotas ("días seleccionados"). Mismo criterio que ayer: sin día o sin provincia publicada. Viajes Naranja X (24 cuotas fijas) no es sin interés.
+
+### Agenda del día
+- **Trabajadas: dr-ahorro, naranja-x, supervielle, vital, yaguar, ypf, shell.** No quedó ninguna.
+  - **Dr. Ahorro** (lectura desde la PC de Lucía): igual que ayer, trae la home de la tienda (productos, 2x1), ninguna promo bancaria. La receta debería apuntar a otra página.
+  - **Vital**: la página de promociones bancarias carga solo el menú ("Por día / Por medio de pago") sin ninguna promo: las promos se cargan al tocar un día. **La receta tendría que hacer clic en cada día.**
+  - **Yaguar**: **bloqueado por Cloudflare** ("Sorry, you have been blocked") al runner de GitHub. Candidata a la lectura desde la PC de Lucía.
+  - **YPF**: `ypf.com/promociones` devuelve "Lo sentimos, esta página no está disponible". **La URL ya no existe; hay que buscarle otra** (probablemente App YPF / ServiClub).
+  - **Shell**: sigue solo el sorteo V-Power a Las Vegas (21/9 al 18/10). Nada de descuentos.
+
+### Auditoría
+`validar.js --arreglar` salió sin errores. Sigue marcando 95 promos con más de 10 días sin verificar (ICBC, Ciudad, Cuenta DNI garrafas, etc.): son de fuentes que no estaban hoy en la agenda.
+
+
 ## 2026-10-06 — Naranja X sube a 14 cuotas en Frávega, Megatone, Naldo, Cetrogar y On City (Casa del Audio baja a 12); se retiran Supervielle Colectivos y Cabify 50% y el 10% de Cencopay en Easy los martes; Coto marca Supervielle martes en 30%
 
 **623 promos (0 altas, 3 retiradas, 7 cambiadas, 43 confirmadas con la lectura de hoy).** Visibles hoy: 391 (contando las que tienen días, confianza no baja y vigencia al día de hoy; con la misma cuenta, ayer daban 395). Asumidas (cartel ámbar): 46 (ayer 47).

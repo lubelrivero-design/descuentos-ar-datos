@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06",
+  "actualizado": "2026-10-07",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -4483,7 +4483,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4538,6 +4538,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Megatone | Crédito\". CAMBIÓ: ayer decía hasta 12 cuotas."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Megatone | Crédito\". Igual."
         }
       ]
     },
@@ -4567,7 +4573,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4622,6 +4628,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Naldo | Crédito\". CAMBIÓ: ayer decía hasta 12 cuotas."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Naldo | Crédito\". Igual."
         }
       ]
     },
@@ -4651,7 +4663,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4706,6 +4718,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en On City | Crédito\". CAMBIÓ: ayer decía hasta 12 cuotas."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en On City | Crédito\". Igual."
         }
       ]
     },
@@ -4735,7 +4753,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4790,6 +4808,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Cetrogar | Crédito\". CAMBIÓ: ayer decía hasta 12 cuotas."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Cetrogar | Crédito\". Igual."
         }
       ]
     },
@@ -5832,7 +5856,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5899,6 +5923,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Fravega | Crédito\". CAMBIÓ: ayer decía hasta 12 cuotas."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Fravega | Crédito\". Igual."
         }
       ]
     },
@@ -5928,7 +5958,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5983,6 +6013,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Simmons | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Simmons | Crédito\". Igual."
         }
       ]
     },
@@ -7553,7 +7589,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7609,6 +7645,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en La Cardeuse | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en La Cardeuse | Crédito\". Igual."
         }
       ]
     },
@@ -7710,7 +7752,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-07",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7754,6 +7796,12 @@
           "nivel": 1,
           "fecha": "2026-10-03",
           "nota": "Naranja X 3/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Andesmar | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Andesmar | Crédito\". Igual."
         }
       ]
     },
@@ -7783,7 +7831,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7851,6 +7899,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Chevallier | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Chevallier | Crédito\". Igual."
         }
       ]
     },
@@ -7880,7 +7934,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7930,6 +7984,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Plusmar | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Plusmar | Crédito\". Igual."
         }
       ]
     },
@@ -7959,7 +8019,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -8009,6 +8069,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"10% off y 6 cuotas cero interés | Todos los días en El Practico | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"10% off y 6 cuotas cero interés | Todos los días en El Practico | Crédito\". Igual."
         }
       ]
     },
@@ -8038,7 +8104,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -8088,6 +8154,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en La Veloz del Norte | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en La Veloz del Norte | Crédito\". Igual."
         }
       ]
     },
@@ -9614,7 +9686,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9656,6 +9728,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -9741,7 +9819,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9783,6 +9861,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -9917,7 +10001,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9987,6 +10071,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -10563,7 +10653,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10599,6 +10689,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -10675,7 +10771,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10723,6 +10819,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -10906,7 +11008,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "id": "cuotas-naranja_x-whirlpool-12",
       "medio": "naranja_x",
@@ -10981,6 +11083,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Whirlpool | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 12 cuotas cero interés | Todos los días en Whirlpool | Crédito\". Igual."
         }
       ]
     },
@@ -10990,7 +11098,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "id": "cuotas-naranja_x-suavestar-14",
       "medio": "naranja_x",
@@ -11059,6 +11167,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Suavestar | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Suavestar | Crédito\". Igual."
         }
       ]
     },
@@ -11068,7 +11182,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-05",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "id": "cuotas-naranja_x-cannon-14",
       "medio": "naranja_x",
@@ -11137,6 +11251,12 @@
           "nivel": 1,
           "fecha": "2026-10-05",
           "nota": "Naranja X 5/10 (listado entero, 39 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Cannon | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Cannon | Crédito\". Igual."
         }
       ]
     },
@@ -11146,7 +11266,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "id": "cuotas-naranja_x-rosen-14",
       "medio": "naranja_x",
@@ -11209,6 +11329,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Rosen | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Rosen | Crédito\". Igual."
         }
       ]
     },
@@ -14931,7 +15057,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14973,6 +15099,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -14995,7 +15127,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15037,6 +15169,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -21376,7 +21514,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -21401,6 +21539,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -22062,9 +22206,15 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Piero | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Piero | Crédito\". Igual."
         }
       ],
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta"
     },
     {
@@ -22135,9 +22285,15 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Suavegom | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 14 cuotas cero interés | Todos los días en Suavegom | Crédito\". Igual."
         }
       ],
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta"
     },
     {
@@ -22221,9 +22377,15 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en El Norte | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en El Norte | Crédito\". Igual."
         }
       ],
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta"
     },
     {
@@ -22787,7 +22949,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "id": "supervielle-masgo-domingo",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -22833,6 +22995,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -22884,7 +23052,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "id": "cuotas-supervielle-easy-6",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -22937,6 +23105,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -22945,7 +23119,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "id": "cuotas-supervielle-easy-9-finde",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -22993,6 +23167,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -23001,7 +23181,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "id": "cuotas-supervielle-blaisten-6",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -23054,6 +23234,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -23062,7 +23248,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "id": "cuotas-supervielle-coto-electro-18",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -23110,6 +23296,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "listado del banco de hoy: misma tarjeta (día, %, tope) que el 5/10. Igual."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "listado del banco del 7/10: misma tarjeta (día, %, tope) que el 6/10. Igual."
         }
       ]
     },
@@ -32346,7 +32538,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-25",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-07",
       "confianza": "alta",
       "fuentes": [
         {
@@ -32384,6 +32576,12 @@
           "nivel": 1,
           "fecha": "2026-10-06",
           "nota": "Naranja X 6/10 (listado entero, 35 tarjetas): \"Día de la madre | Hasta 12 cuotas cero interés | Todos los días en Casa del Audio | Crédito\". CAMBIÓ: ayer decía hasta 14 cuotas."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10 (33 tarjetas): \"Día de la madre | Hasta 12 cuotas cero interés | Todos los días en Casa del Audio | Crédito\". Igual."
         }
       ]
     },
@@ -33200,6 +33398,43 @@
           "nota": "Sodimac 4/10: Santander 6 cuotas en colchones y sommiers con Visa crédito, hasta 31/10/2026, tiendas y web, sin patio constructor ni billeteras"
         }
       ]
+    },
+    {
+      "id": "cuotas-naranja_x-aerolineas-6",
+      "medio": "naranja_x",
+      "medio_nombre": "Naranja X",
+      "rubro": "viajes",
+      "comercios": [
+        "Aerolíneas Argentinas"
+      ],
+      "dias": [
+        "lunes",
+        "martes",
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 0,
+      "cuotas": 6,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Con tarjeta de crédito Naranja X.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-10-07",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.naranjax.com/promociones",
+      "fuentes": [
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-07",
+          "nota": "Naranja X 7/10: \"Hasta 6 cuotas cero interés | Todos los días en Aerolineas Argentinas | Crédito\". Sin rótulo \"Especial\" ni fecha de cierre."
+        }
+      ],
+      "verificado": "2026-10-07",
+      "confianza": "alta"
     }
   ]
 }
