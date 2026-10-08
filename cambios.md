@@ -1,5 +1,40 @@
 # Cambios
 
+## 2026-10-08 — Naranja X: Aerolíneas sube a 9 cuotas y Essen baja de 18 a 12; Naranja X y Supervielle confirman 32 promos; sin bajas
+
+**624 promos (0 altas, 0 retiradas, 2 cambiadas, 32 confirmadas con la lectura de hoy).** Visibles hoy: 333 (misma cuenta que ayer: con días, confianza no baja y vigencia que incluye hoy). Asumidas (cartel ámbar): 46, igual que ayer.
+
+### Cómo se juntó el texto
+A las 07:32 `crudo/` seguía en el 7/10 (el cron de hoy no había corrido). Disparé `recolectar.yml` **completo** (todas las fuentes) y llegó el commit ba3ce72 ("Texto de las fuentes al 2026-10-08 07:44"), con `leido: 2026-10-08` en 39 archivos. Quedan con lecturas viejas las que ya venían así (dos del 27/8, tres del 27/9 y una del 1/10).
+
+### Cambios
+- **`cuotas-naranja_x-aerolineas-6`** (Aerolíneas Argentinas, Naranja X): hoy dice "Hasta 15% off y **9 cuotas** cero interés | Todos los días". Ayer eran hasta 6 cuotas sin descuento. Le puse 9 cuotas y en los requisitos que según el plan puede sumar hasta 15%. El 15% **no** lo cargué como descuento porque es "hasta" y depende del plan. (El id sigue diciendo "-6" para no romper nada.)
+- **`cuotas-naranja_x-essen-24`** (Essen, Naranja X): baja de **18 a 12 cuotas** sin interés ("12 cuotas cero interés | Todos los días en Essen"). Ya venía cambiando: 24 el 14/9, 10% + 12 el 25/9, 18 del 3 al 6/10.
+
+### ⚠ Para que mire un humano
+- **Moov (`naranja-deportiva`), Samsung 14 cuotas y Falabella Venta Telefónica** siguen sin aparecer en Naranja X (8 lecturas de octubre, 33 tarjetas hoy). No las retiro porque la página rota, pero cada vez es más ausencia. Siguen asumidas.
+- **`supervielle-shell-domingo`**: la página de combustible de Supervielle vino vacía **por octavo día seguido** ("esta página no trajo ninguna tarjeta"; tenía la tarjeta de Shell hasta el 28/9). El resto del sitio carga bien. Puede que Supervielle no la haya renovado (Banco Ciudad también sacó combustible en octubre) o que la receta esté rota. **Hay que revisar la receta o mirar la página a mano.** Por ahora queda asumida.
+- **Auditoría: 189 promos con más de 10 días sin verificar** (ayer eran 95). El salto viene de todas las que se verificaron por última vez alrededor del 27/9 (ICBC, Ciudad, Frávega, etc.). Ninguna era de las fuentes de la agenda de hoy. Hay que ver si conviene que la agenda les dé más lugar a ICBC y Ciudad.
+
+### Confirmadas con la lectura de hoy
+- **Naranja X (19)**: Megatone, Naldo, On City, Cetrogar y Frávega 14 cuotas; Casa del Audio 12; Whirlpool, Simmons y La Cardeuse 12; Cannon, Piero, Rosen y Suavegom 14; micros con 10% + 6 cuotas: Plusmar, Chevallier, La Veloz del Norte, El Norte, El Práctico y Andesmar. Suavestar hoy no salió (estaba ayer); no la toco por eso solo.
+- **Supervielle (13)**: el texto vino idéntico al de ayer. Modo Market, El Puente, Jubilados ChangoMás/MásGO, farmacias Jubilados, Farmaonline 6 cuotas, Átomo, Aiello, farmacias Mastercard lunes, MásGO domingo, Easy 6 y 9 cuotas, Blaisten 6, Coto Electro 18.
+
+### No cargadas (a propósito)
+- Naranja X nuevas de hoy: **Castillo** (10 cuotas, "Día de la madre": no hay fuente que diga de qué provincia es la cadena) y **Cero26 Web** (15% + 9 cuotas, "Día de la madre", igual criterio que Newsport Web). Siguen afuera Ibaceta, Exit, Seven Sport, Sweet, Showsport, On Sports, In Store ("días seleccionados" o sin provincia) y Viajes Naranja X (cuotas fijas, no sin interés).
+
+### Agenda del día
+- **Trabajadas: dr-ahorro, naranja-x, supervielle, axion, farmacity, la-anonima, shell.** No quedó ninguna (la agenda trajo 7).
+  - **Dr. Ahorro**: igual que siempre, trae la home de la tienda (productos destacados, 2x1), ninguna promo bancaria. La receta debería apuntar a otra página.
+  - **Axion** (nunca aportó): la página de promociones lista bases y condiciones ("Descuento Super", "Promoción Combustible Super", Desafío Redondo, pelotas, Lollapalooza) pero **ningún dato de descuento** (ni %, ni día, ni medio de pago): los detalles están detrás de "LEER MÁS". La receta tendría que abrir cada una. Nada cargado.
+  - **Farmacity** (nunca aportó): `farmacity.com/promociones-bancarias` devuelve "No encontramos resultados para promociones-bancarias". **La URL ya no existe**: hay que buscarle otra.
+  - **La Anónima** (nunca aportó): **403 Forbidden** al runner de GitHub. Candidata a la lectura desde la PC de Lucía.
+  - **Shell**: sigue solo el sorteo V-Power a Las Vegas (21/9 al 18/10). Nada de descuentos.
+
+### Auditoría
+`validar.js --arreglar` salió sin errores y no cambió ninguna confianza. 46 asumidas, 189 sin verificar hace más de 10 días.
+
+
 ## 2026-10-07 — Vuelve Aerolíneas Argentinas con Naranja X (6 cuotas); Naranja X y Supervielle confirman 33 promos; sin bajas
 
 **624 promos (1 alta, 0 retiradas, 0 cambiadas, 33 confirmadas con la lectura de hoy).** Visibles hoy: 333 (cuenta: con días, confianza no baja y vigencia que incluye hoy; con esa misma cuenta, el archivo de ayer daba 332 — el 391 de ayer salió de otra cuenta). Asumidas (cartel ámbar): 46, igual que ayer.
