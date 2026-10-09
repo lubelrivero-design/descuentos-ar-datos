@@ -1,5 +1,35 @@
 # Cambios
 
+## 2026-10-09 — Naranja X y Supervielle confirman 34 promos; sin altas, sin bajas, sin cambios
+
+**624 promos (0 altas, 0 retiradas, 0 cambiadas, 34 confirmadas con la lectura de hoy).** Visibles hoy: 333 (con días, confianza no baja y vigencia que incluye hoy). Asumidas (cartel ámbar): 46, igual que ayer.
+
+### Cómo se juntó el texto
+A las 07:33 `crudo/` seguía en el 8/10 (el cron de hoy no había corrido). Disparé `recolectar.yml` **solo con las fuentes de la agenda** (naranja-x, supervielle, maxiconsumo, vital, yaguar, shell; dr-ahorro se lee desde la PC de Lucía) y llegó el commit 1fb9b57 ("Texto de las fuentes al 2026-10-09 07:35"), con `leido: 2026-10-09` en las seis. El resto de `crudo/` sigue con la lectura de ayer o anterior.
+
+### ⚠ Para que mire un humano
+- **Moov (`naranja-deportiva`), Samsung 14 cuotas y Falabella Venta Telefónica** siguen sin aparecer en Naranja X (9 lecturas de octubre ya). No las retiro porque la página rota, pero cada vez pesa más la ausencia. Siguen asumidas.
+- **`supervielle-shell-domingo`**: la página de combustible de Supervielle vino vacía **por noveno día seguido** ("esta página no trajo ninguna tarjeta"). El resto del sitio carga bien. Hay que revisar la receta o mirar la página a mano. Queda asumida.
+- **189 promos con más de 10 días sin verificar** (igual que ayer). Ninguna es de las fuentes de la agenda de hoy (son ICBC, Ciudad, Frávega, etc.). La agenda no las está trayendo: conviene darles lugar a ICBC y Ciudad.
+
+### Confirmadas con la lectura de hoy
+- **Naranja X (21)**, listado de 33 tarjetas: Megatone, Naldo, Frávega, Cetrogar y On City 14 cuotas; Casa del Audio, Whirlpool, Simmons, La Cardeuse y Essen 12; Piero, Suavegom, Suavestar y Cannon 14; Aerolíneas 9 cuotas (hasta 15%); micros 10% + 6 cuotas: Chevallier, El Norte, Flecha Bus, La Veloz del Norte, General Urquiza y Andesmar. Hoy no salieron Plusmar, El Práctico ni Rosen (sí ayer): es la rotación de la página, no las toco.
+- **Supervielle (13)**: texto idéntico al de ayer. Modo Market, El Puente, Jubilados ChangoMás/MásGO, farmacias Jubilados, Farmaonline 6 cuotas, Átomo, Aiello, farmacias Mastercard lunes, MásGO domingo, Easy 6 y 9 cuotas, Blaisten 6, Coto Electro 18.
+
+### No cargadas (a propósito)
+- Naranja X nuevas: **Frávega Online** ("Hasta 10% off y 14 cuotas"; ya tenemos Frávega 14 cuotas, y el "hasta 10%" depende del plan) y **Sport Line** (15% + 6 cuotas, "días seleccionados", sin provincia). Siguen afuera Ibaceta, Exit, Seven Sport, Sweet, Showsport, Sportotal, Cero26 Web, Newsport Web, Shopgallery y Viajes Naranja X, por los mismos motivos de ayer (sin provincia, sin día o cuotas fijas).
+
+### Agenda del día
+- **Trabajadas: naranja-x, supervielle, maxiconsumo, vital, yaguar, shell.** **Quedó: dr-ahorro** (no se puede releer desde GitHub; la lectura del 8/10 ya se trabajó ayer: home de la tienda, ninguna promo bancaria).
+  - **Maxiconsumo** (nunca aportó): la página de promociones de Moreno trae los días de la semana y 18 botones "LEGALES", pero **ningún texto de promo**: las promos son imágenes. La receta tendría que abrir los legales o leer el `alt` de las imágenes. Nada cargado.
+  - **Vital** (nunca aportó): "Conocé todas nuestras promociones bancarias" con filtros por día y medio de pago, pero **sin ninguna tarjeta en el texto** (se cargan aparte o son imágenes). La receta tendría que hacer clic en "Ver todos". Nada cargado.
+  - **Yaguar** (nunca aportó): **bloqueado por Cloudflare** ("Sorry, you have been blocked") al runner de GitHub. Candidata a la lectura desde la PC de Lucía.
+  - **Shell**: sigue solo el sorteo V-Power a Las Vegas (termina en 9 días). Nada de descuentos.
+
+### Auditoría
+`validar.js --arreglar` salió sin errores y no cambió ninguna confianza. 46 asumidas, 189 sin verificar hace más de 10 días.
+
+
 ## 2026-10-08 — Naranja X: Aerolíneas sube a 9 cuotas y Essen baja de 18 a 12; Naranja X y Supervielle confirman 32 promos; sin bajas
 
 **624 promos (0 altas, 0 retiradas, 2 cambiadas, 32 confirmadas con la lectura de hoy).** Visibles hoy: 333 (misma cuenta que ayer: con días, confianza no baja y vigencia que incluye hoy). Asumidas (cartel ámbar): 46, igual que ayer.
