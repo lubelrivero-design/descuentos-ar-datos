@@ -1,5 +1,38 @@
 # Cambios
 
+## 2026-10-10 — Naranja X y Supervielle confirman 34 promos; sin altas, sin bajas, sin cambios. YPF y Farmacity: URLs muertas
+
+**624 promos (0 altas, 0 retiradas, 0 cambiadas, 34 confirmadas con la lectura de hoy).** Asumidas (cartel ámbar): 46, igual que ayer.
+
+### Cómo se juntó el texto
+A las 07:33 `crudo/` seguía en el 9/10. Disparé `recolectar.yml` **solo con las fuentes de la agenda** (naranja-x, supervielle, ypf, axion, farmacity, shell; dr-ahorro se lee desde la PC de Lucía) y llegó el commit afb334f ("Texto de las fuentes al 2026-10-10 07:35") con `leido: 2026-10-10` en las seis. El resto de `crudo/` sigue con la lectura del 9/10 o anterior.
+
+Ojo con la lectura del cron de ayer a las 11:39 (c46e4fd): Naranja X vino con **solo 4 tarjetas y la ubicación en "Chicago"** ("Te mostramos las promociones de esta zona"). El runner de GitHub a veces cae geolocalizado afuera y Naranja X muestra otra portada. No la usé; la de hoy vino entera (33 tarjetas). Si se repite, a la receta le convendría fijar la ubicación.
+
+### ⚠ Para que mire un humano
+- **Moov (`naranja-deportiva`), Samsung 14 cuotas y Falabella Venta Telefónica** siguen sin aparecer en Naranja X (10 lecturas de octubre). No las retiro porque la página rota, pero ya es mucha ausencia. Siguen asumidas.
+- **`supervielle-shell-domingo`**: la página de combustible de Supervielle vino vacía **por décimo día seguido**. El resto del sitio carga bien. Hay que revisar la receta o mirar la página a mano. Queda asumida.
+- **247 promos con más de 10 días sin verificar** (ayer 189). No son de las fuentes de la agenda (ICBC, Ciudad, Frávega, etc.): la agenda no las trae. Conviene darles lugar a ICBC y Ciudad.
+- **YPF**: `ypf.com/promociones` devuelve "Lo sentimos, esta página no está disponible en este momento". **Farmacity**: `farmacity.com/promociones-bancarias` sigue dando "No encontramos resultados" (segunda vez). **Las dos recetas necesitan URL nueva.**
+
+### Confirmadas con la lectura de hoy
+- **Naranja X (21)**: Megatone, Naldo, On City, Cetrogar y Frávega 14 cuotas; Casa del Audio, Whirlpool, Simmons y La Cardeuse 12; Suavestar, Piero, Suavegom, Rosen y Cannon 14; Aerolíneas 9 cuotas; micros 10% + 6 cuotas: Plusmar, Andesmar, Chevallier, El Práctico, La Veloz del Norte y General Urquiza. Hoy no salieron Flecha Bus, El Norte ni Essen (sí ayer): rotación de la página, no las toco.
+- **Supervielle (13)**: texto idéntico al de ayer. Modo Market, El Puente, Jubilados ChangoMás/MásGO, farmacias Jubilados, Farmaonline 6 cuotas, Átomo, Aiello, farmacias Mastercard lunes, MásGO domingo, Easy 6 y 9 cuotas, Blaisten 6, Coto Electro 18.
+
+### No cargadas (a propósito)
+- Naranja X nuevas: **Tecno Compro** (hasta 9 cuotas, todos los días: no hay fuente que diga de qué provincia es la cadena) y **Punto Deportivo** (8 cuotas, "días seleccionados"). **Viajes Naranja X** cambió de "24 cuotas fijas" a "Hasta 25% off y 12 cuotas cero interés", pero es solo Plan Turbo y el % depende del plan: lo dejo afuera hasta verlo estable. Siguen afuera Ibaceta, Exit, Seven Sport, Sport Line, Sweet, Showsport, Newsport Web, Cero26 Web, Frávega Online y Shopgallery por los mismos motivos de días anteriores.
+
+### Agenda del día
+- **Trabajadas: naranja-x, supervielle, ypf, axion, farmacity, shell.** **Quedó: dr-ahorro** (no se relee desde GitHub; la lectura del 9/10 es la misma home de tienda con certificado roto, sin promos bancarias).
+  - **YPF** (nunca aportó): página caída ("no está disponible en este momento"). Nada cargado.
+  - **Axion** (nunca aportó): igual que el 8/10, solo títulos de bases y condiciones ("Descuento Super", Desafío Redondo, pelotas, Lollapalooza) sin %, día ni medio de pago; el detalle está detrás de "LEER MÁS". Nada cargado.
+  - **Farmacity** (nunca aportó): URL muerta. Nada cargado.
+  - **Shell**: sigue solo el sorteo V-Power a Las Vegas (faltan 8 días). Nada de descuentos.
+
+### Auditoría
+`validar.js --arreglar` salió sin errores y no cambió ninguna confianza. 46 asumidas, 247 sin verificar hace más de 10 días.
+
+
 ## 2026-10-09 — Naranja X y Supervielle confirman 34 promos; sin altas, sin bajas, sin cambios
 
 **624 promos (0 altas, 0 retiradas, 0 cambiadas, 34 confirmadas con la lectura de hoy).** Visibles hoy: 333 (con días, confianza no baja y vigencia que incluye hoy). Asumidas (cartel ámbar): 46, igual que ayer.
