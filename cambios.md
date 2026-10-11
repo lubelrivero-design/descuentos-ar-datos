@@ -25,7 +25,7 @@ A las 07:33 `crudo/` seguía en el 10/10. Disparé `recolectar.yml` completo (to
 - Siguen afuera Ibaceta (18 cuotas), Viajes Naranja X (Plan Turbo), Seven Sport, Exit, Sport Line, Punto Deportivo, Sweet, Showsport, Newsport Web y Cero26 Web por los motivos de días anteriores (sin provincia, sin día o % que depende del plan).
 
 ### Agenda del día
-- **Trabajadas las ocho: dr-ahorro, naranja-x, supervielle, la-anonima, maxiconsumo, vital, shell.** (La agenda trae siete nombres; dr-ahorro va aparte.)
+- **Trabajadas todas las de la agenda (hoy trajo siete): dr-ahorro, naranja-x, supervielle, la-anonima, maxiconsumo, vital, shell.** No quedó ninguna.
   - **Dr. Ahorro**: lectura del 10/10 (desde la PC de Lucía): home de la tienda online, productos y blog, ninguna promo bancaria. Nada cargado.
   - **La Anónima** (nunca aportó): **403 Forbidden** al runner de GitHub, igual en todas las lecturas desde el 24/9 por lo menos. Nunca se leyó. Candidata a la lectura desde la PC de Lucía.
   - **Maxiconsumo** (nunca aportó): igual que el 9/10, las promos son imágenes con botones "LEGALES", sin texto. Nada cargado.
