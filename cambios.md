@@ -1,5 +1,43 @@
 # Cambios
 
+## 2026-10-12 — Naranja X y Supervielle confirman 35 promos; Casa del Audio sube a 14 cuotas. Saltan a 396 las promos sin verificar hace más de 10 días
+
+**625 promos (0 altas, 0 retiradas, 1 cambiada, 35 confirmadas con la lectura de hoy).** Asumidas (cartel ámbar): 46, igual que ayer.
+
+### Cómo se juntó el texto
+A las 07:33 `crudo/` seguía en el 11/10 (el cron de hoy no había corrido). Disparé `recolectar.yml` completo y a las 07:45 llegó el commit 59fa953 ("Texto de las fuentes al 2026-10-12 07:45") con `leido: 2026-10-12` en 37 archivos. Quedaron con lectura vieja **Shell** (vino vacía, queda la del 11/10) y **Patagonia** (no contestó, queda la del 11/10), además de los de siempre (ICBC del 27/9 y otros que GitHub no puede leer).
+
+### ⚠ Para que mire un humano
+- **396 promos con más de 10 días sin verificar** (ayer 250). No es que se cayó nada hoy: las que se confirmaron por última vez el 1/10 cruzaron hoy la raya de los 10 días. Según el instructivo deberían pasar a `confianza: "baja"` y dejar de verse; no lo apliqué a mano (las corridas anteriores tampoco y `validar.js --arreglar` no lo hace solo), pero **es un recorte de más de la mitad de la app y conviene decidirlo con calma**. Siguen siendo sobre todo ICBC, Ciudad y Frávega.
+- **Moov (`naranja-deportiva`), Samsung 14 cuotas y Falabella Venta Telefónica**: 12 lecturas de octubre sin aparecer en Naranja X. Siguen asumidas.
+- **`supervielle-shell-domingo`**: la página de combustible de Supervielle vino vacía **por duodécimo día seguido** ("esta página no trajo ninguna tarjeta"). La receta necesita revisión.
+- **ICBC sostiene 32 de las 46 asumidas** y solo se lee desde la PC de Lucía (`node tools/recolectar.js icbc`).
+
+### Cambiada
+- **`cuotas-naranja_x-casa-del-audio-14`**: Naranja X hoy dice "Día de la madre | **Hasta 14** cuotas cero interés | Todos los días en Casa del Audio | Crédito"; del 9 al 11/10 decía hasta 12. Pasé `cuotas` a 14 y ajusté requisitos.
+
+### Confirmadas con la lectura de hoy
+- **Naranja X (22)**: Megatone, Naldo, On City, Cetrogar y Frávega 14 cuotas; Casa del Audio 14; Whirlpool, Simmons y La Cardeuse 12; Piero, Suavestar, Suavegom, Rosen y Cannon 14; Aerolíneas 9; Shopgallery martes 6; micros 10% + 6 cuotas: Andesmar, Chevallier, El Norte, Flecha Bus, Plusmar y El Práctico (estos dos volvieron hoy). Hoy no salieron General Urquiza ni La Veloz del Norte (ayer sí): rotación de la portada, no las toco.
+- **Supervielle (13)**: texto idéntico al de ayer. Modo Market, El Puente, Jubilados ChangoMás/MásGO, farmacias Jubilados, Farmaonline 6 cuotas, Átomo, Aiello, farmacias Mastercard lunes, MásGO domingo, Easy 6 y 9 cuotas, Blaisten 6, Coto Electro 18.
+
+### No cargadas (a propósito)
+- **Oscar Barbieri** (Naranja X, "Día de la madre | Hasta 14 cuotas | Todos los días"): aparece por primera vez. No la cargo: ninguna fuente dice la zona (es una cadena regional) y la regla es no deducirla.
+- **In Store** y **On Sports** ("Especial | Hasta 5 cuotas | Días seleccionados"): nuevas, pero sin día. Afuera.
+- **Viajes Naranja X (Plan Turbo)** cambió el texto a "Hasta 25% off y 20% off": sigue sin cargarse (el % depende del plan).
+- **Tienda Newsan** y **Cero26 Web / Punto Deportivo** no salieron hoy; no estaban cargadas.
+- Siguen afuera Ibaceta, Seven Sport, Exit, Sport Line, Sweet, Showsport y Newsport Web por los motivos de días anteriores.
+
+### Agenda del día
+- **Trabajadas todas las de la agenda (hoy trajo siete): dr-ahorro, naranja-x, supervielle, yaguar, ypf, axion, shell.** No quedó ninguna.
+  - **Dr. Ahorro**: lectura del 11/10 (desde la PC de Lucía): home de la tienda online, 2x1/combos/ofertas de productos, ninguna promo bancaria. Nada cargado.
+  - **Yaguar** (nunca aportó): sigue **bloqueado por Cloudflare** ("Sorry, you have been blocked") al runner de GitHub. Candidata a la PC de Lucía.
+  - **YPF** (nunca aportó): la receta trae solo el menú del sitio corporativo. **Hay que apuntarla a otra URL** (App YPF / ServiClub).
+  - **Axion** (nunca aportó): solo títulos de bases ("Descuento Super", "Promoción Combustible Super", Desafío Redondo, pelotas, Lollapalooza) sin %, día ni medio de pago. La receta tendría que abrir cada "LEER MÁS". Nada cargado.
+  - **Shell**: hoy vino vacía; la lectura del 11/10 es solo el sorteo V-Power. Sus promos no se tocan.
+
+### Auditoría
+`validar.js --arreglar` salió sin errores. 46 asumidas, 396 sin verificar hace más de 10 días.
+
 ## 2026-10-11 — Naranja X y Supervielle confirman 34 promos; vuelve Shopgallery los martes (6 cuotas); Aerolíneas pierde el "hasta 15%"
 
 **625 promos (1 alta, 0 retiradas, 1 cambiada, 34 confirmadas con la lectura de hoy).** Asumidas (cartel ámbar): 46, igual que ayer.
