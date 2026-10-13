@@ -1,5 +1,60 @@
 # Cambios
 
+## 2026-10-13 — Sale el cartel ámbar de 42 de las 46 promos asumidas: ICBC, Frávega y Comafi confirman 37 y se van 5 de ICBC que vencieron el 30/9. Revivo Macro y Credicoop en Frávega
+
+**626 promos (1 alta, 5 retiradas, 2 revividas, 8 cambiadas, ~70 confirmadas).** Asumidas (cartel ámbar): **4**, ayer 46. Visibles hoy: 330.
+
+### Cómo se juntó el texto
+A las 07:33 `crudo/` seguía en el 12/10. Disparé `recolectar.yml` completo y a las 07:44 llegó el commit 2f85551 con `leido: 2026-10-13` en 39 archivos. Además estaba sin trabajar la **lectura desde casa de Lucía del 12/10 a las 14:02** (ICBC, Comafi, Frávega y Macro, commit 0460371), que entró después de la corrida de ayer: la usé fechada al 12/10, que es su `leido:` real.
+
+### ⚠ Para que mire un humano
+- **Revividas: `cuotas-macro-fravega-12` y `cuotas-credicoop-fravega-12`.** Estaban apagadas desde el 4/10 por falta de verificación. Hoy las confirman tres lecturas: los legales de Frávega del 12/10 ("BANCO MACRO / CREDICOOP: HASTA 12 CUOTAS SIN INTERÉS, válida del 01/10/2026 al 31/10/2026") y las fuentes de los dos bancos del 13/10. Vuelven con confianza alta.
+- **ICBC Día de la Madre (viernes 16 y sábado 17/10)**: el catálogo trae una campaña grande: 25% + 6 cuotas, tope $40.000 por transacción (30% y $50.000 para Exclusive), en Simmons, Belmo, Topper, Crocs, Moov, Dexter, Stock Center, Salomon, Skechers, María Cher, Devré, Equus, Macowens, La Cardeuse y más; 10% + 6 cuotas en perfumerías y librerías (Rouge, MAC, Beauty 24, Parfumerie, Cúspide, Estación Libro). **No la cargué**: son dos días, decenas de comercios, y prefiero que se cargue con calma comercio por comercio antes que apurada. Si se quiere, hay que hacerlo antes del jueves.
+- **Siguen 362 promos con más de 10 días sin verificar** (ayer 396). Mismo tema de ayer, sin aplicar a mano.
+- **Moov (`naranja-deportiva`), Samsung 14 cuotas y Falabella Venta Telefónica**: 13 lecturas de octubre sin aparecer en Naranja X. Siguen asumidas.
+- **`supervielle-shell-domingo`**: la página de combustible de Supervielle vino vacía **por decimotercer día seguido**. La receta necesita revisión.
+
+### Retiradas (ICBC, catálogo completo por la API: acá la ausencia sí cuenta)
+El 27/9 las cinco figuraban con vigencia al **30/09/2026**, y la lectura del 12/10 (437 entradas, los 12 rubros) ya no las trae. `vigencia_hasta` = 30/9.
+- **`icbc-masgo-jueves-20`** — Más GO jueves. (ChangoMás jueves 30% sí sigue.)
+- **`icbc-openfarma-miercoles-20`** — Openfarma miércoles.
+- **`icbc-atalaya-30`** — Atalaya 30%.
+- **`icbc-woopy-15`** — Woopy.
+- **`icbc-colectivos-mastercard-nfc-50`** — 50% en colectivos con Mastercard NFC.
+
+### Cambiadas (ICBC)
+- **`icbc-perfumerias-10`**: quedan Juleriaque y Parfumerie (todos los días 10% + 6 cuotas, hasta 31/1/2027). Rouge, MAC y Beauty 24 ahora solo 16 y 17/10; La Prairie y Creed ya no están.
+- **`icbc-pinturerias-20-3c`**: sale Colorshop (vencía 30/9). Siguen Ámbito, Centro Pinturerías y Punto Pintura.
+- **`icbc-moda-viernes-15-6c`**: quedan Topper, Sport 78, Equus, Devré y Macowens. Salen Crocs, Chelsea Sneakers, Seven Sport, Top Sport y Exit (vencían 30/9).
+- **`cuotas-icbc-skechers-hey-dude-finde-9`**: sale Hey Dude; Skechers sigue.
+- **`cuotas-icbc-baby-cottons-caro-cuore-3`**: sube de 3 a **6 cuotas**.
+- **`cuotas-icbc-librerias-3`**: quedan Cúspide, Estación Libro y Eterna Cadencia. El Ateneo y Yenny pasaron a 10% + 6 cuotas (ver alta).
+- **`cuotas-icbc-entradas-3`**: sale Passline; Ticketway sigue.
+- **`cuotas-icbc-neumaticos-9`**: salen Pirelli y Michelin; Bridgestone sigue.
+- Además, a varias les puse la vigencia nueva que publica el banco (31/12, 31/1/2027, 31/3/2027).
+
+### Alta
+- **`icbc-el-ateneo-yenny-10`**: ICBC, El Ateneo y Yenny, todos los días 10% + hasta 6 cuotas con crédito, 10% con débito, sin tope, del 1/10/2026 al 31/3/2027.
+
+### Confirmadas
+- **ICBC (27 asumidas, contando las 8 cambiadas)**: La Anónima jueves, The Food Market, YPF martes (sueldo), Farmacity/GTL/Simplicity viernes, FarmaPlus, Kromacolor, La Cardeuse, colchones 10% y 12 cuotas, pinturerías 9 cuotas, electro hogar 9, Rever Pass, deportivas 9, indumentaria 6, Garmin viernes, tecnología online 6, Compra Gamer 12, Creciendo, Shopgallery web.
+- **Frávega (legales del 12/10, octubre)**: 12 cuotas con BBVA, Galicia, Macro, Santander, Credicoop, Patagonia, San Juan, Santa Fe, Santa Cruz; Banco de Corrientes viernes 10% + 6 cuotas.
+- **Comafi (12/10)**: Simplicity y Get The Look viernes 20% + 3 cuotas (tope $10.000 mensual) y 3 cuotas en Farmacity, GTL y Simplicity. Hasta 31/12.
+- **Naranja X (13/10, 23)**: Megatone, Naldo, On City, Cetrogar, Frávega y Casa del Audio 14; Whirlpool, Simmons y La Cardeuse 12; Suavestar, Suavegom, Rosen, Cannon y Piero 14; Aerolíneas 9; Shopgallery martes; micros Andesmar, Plusmar, El Práctico, El Norte, Cata, La Veloz del Norte y General Urquiza. Hoy no salieron Chevallier ni Flecha Bus: es la rotación de la portada, no las toco.
+- **Supervielle (13/10, 12)**: igual que ayer. **No confirmé `supervielle-farmacias-mastercard-lunes`**: hoy no aparece la tarjeta "Farmacias adheridas con Mastercard MODO, lunes 15%, tope $5.000" (ayer sí). Una sola ausencia no alcanza para retirarla: queda como estaba.
+
+### No cargadas (a propósito)
+- **Castillo** (Naranja X, "Día de la madre | Hasta 14 cuotas | Todos los días"): nueva, cadena regional, ninguna fuente dice la zona.
+- Siguen afuera Ibaceta (ahora 18 cuotas), Oscar Barbieri, In Store, On Sports, Seven Sport, Exit, Sport Line, Sweet, Showsport, Newsport Web, Cero26 Web y Viajes Naranja X por los motivos de días anteriores.
+
+### Agenda del día
+Trabajadas: **icbc, fravega, comafi** (las de la PC de Lucía, con la lectura del 12/10), **naranja-x, supervielle**, más **farmacity, la-anonima, maxiconsumo y shell**, que no dieron nada:
+- **farmacity**: la URL `/promociones-bancarias` devuelve "No encontramos resultados". La receta apunta a una página que ya no existe: hay que buscar la nueva.
+- **la-anonima**: "403 Forbidden", también desde GitHub. Probablemente tenga que ir por la PC de Lucía, como ICBC.
+- **maxiconsumo**: la página de promociones carga, pero las promos son imágenes: el texto solo trae los días y "LEGALES". Sin texto no se puede cargar nada; la receta tendría que leer el `alt` o el legal de cada imagen.
+- **shell**: solo está el sorteo "V-Power a Las Vegas" (21/9 al 18/10), que no es un descuento.
+- **dr-ahorro**: no la trabajé. Sigue con el error de certificado de su sitio (526) y no trae promos.
+
 ## 2026-10-12 — Naranja X y Supervielle confirman 35 promos; Casa del Audio sube a 14 cuotas. Saltan a 396 las promos sin verificar hace más de 10 días
 
 **625 promos (0 altas, 0 retiradas, 1 cambiada, 35 confirmadas con la lectura de hoy).** Asumidas (cartel ámbar): 46, igual que ayer.
