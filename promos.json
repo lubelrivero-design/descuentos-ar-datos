@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13",
+  "actualizado": "2026-10-14",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -4483,7 +4483,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4580,6 +4580,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Megatone | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 14 cuotas | Megatone'"
         }
       ]
     },
@@ -4609,7 +4615,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4706,6 +4712,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Naldo | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 14 cuotas | Naldo'"
         }
       ]
     },
@@ -4735,7 +4747,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4832,6 +4844,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en On City | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 14 cuotas | On City'"
         }
       ]
     },
@@ -4861,7 +4879,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4958,6 +4976,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Cetrogar | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 14 cuotas | Cetrogar'"
         }
       ]
     },
@@ -6000,7 +6024,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6109,6 +6133,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Fravega | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 14 cuotas | Fravega'"
         }
       ]
     },
@@ -6138,7 +6168,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6235,6 +6265,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 12 cuotas cero interés | Todos los días en Simmons | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 12 cuotas | Simmons'"
         }
       ]
     },
@@ -7805,7 +7841,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -7903,6 +7939,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 12 cuotas cero interés | Todos los días en La Cardeuse | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 12 cuotas | La Cardeuse'"
         }
       ]
     },
@@ -8004,7 +8046,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -8090,6 +8132,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Andesmar | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 10% off y 6 cuotas | Andesmar'"
         }
       ]
     },
@@ -8119,7 +8167,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -8223,6 +8271,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "Naranja X 12/10 (listado de 33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Chevallier | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 10% off y 6 cuotas | Chevallier'"
         }
       ]
     },
@@ -8252,7 +8306,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -8332,6 +8386,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Plusmar | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 10% off y 6 cuotas | Plusmar'"
         }
       ]
     },
@@ -8470,7 +8530,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -8556,6 +8616,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en La Veloz del Norte | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 10% off y 6 cuotas | La Veloz del Norte'"
         }
       ]
     },
@@ -8694,7 +8760,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -8768,6 +8834,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "Naranja X 12/10 (listado de 33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Flecha Bus | Crédito\". Igual."
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 10% off y 6 cuotas | Flecha Bus'"
         }
       ]
     },
@@ -8789,9 +8861,9 @@
       "confianza": "alta",
       "tope_publicado": false,
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-28",
-      "verificado": "2026-09-25",
+      "vigencia_desde": "2026-10-14",
+      "vigencia_hasta": "2026-10-31",
+      "verificado": "2026-10-14",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -8817,9 +8889,14 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "Naranja X: \"10% off y 9 cuotas cero interés | Los martes en Shopgallery | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: '10% off y 9 cuotas cero interés | Los martes en Shopgallery | Crédito'. Vuelve la promo que estuvo hasta el 28/9"
         }
-      ],
-      "baja_motivo": "Naranja X listó \"10% off y 9 cuotas | Los martes en Shopgallery\" hasta el 28/9; el 30/9 la tarjeta cambió a \"Hasta 25% off y 6 cuotas | Días seleccionados\", sin día publicado."
+      ]
     },
     {
       "id": "ciudad-supermercado-la-ilusion-15",
@@ -9854,10 +9931,10 @@
       "tope_periodo": "mensual",
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_desde": "2026-10-14",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9887,9 +9964,14 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "listado del banco de hoy: Changomás con MODO, lunes, 20%, tope $25.000"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10 (213 tarjetas): 'Changomás con MODO | lunes | 20% crédito y débito, tope $25.000'; Plan Sueldo 25% tope $30.000. Vuelve tras no figurar del 1/10 al 13/10"
         }
-      ],
-      "baja_motivo": "Supervielle no la lista el 1/10 (página de supermercados entera, 28 tarjetas; el 28/9 estaba). Ese mismo día Banco Ciudad sacó de su catálogo las mismas promos MODO de supermercados: terminó la campaña de septiembre"
+      ]
     },
     {
       "id": "supervielle-jumbo",
@@ -9908,10 +9990,10 @@
       "tope_periodo": "mensual",
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-10-14",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-02",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9923,9 +10005,14 @@
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: 'Jumbo con MODO | martes, jueves | 20%, tope $25.000'; Plan Sueldo 25% tope $30.000"
         }
-      ],
-      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
+      ]
     },
     {
       "id": "supervielle-disco",
@@ -9944,10 +10031,10 @@
       "tope_periodo": "mensual",
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-10-14",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-02",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9959,9 +10046,14 @@
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: 'Disco con MODO | viernes, sábado | 20%, tope $25.000'; Plan Sueldo 25% tope $30.000"
         }
-      ],
-      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
+      ]
     },
     {
       "id": "supervielle-vea",
@@ -9979,10 +10071,10 @@
       "tope_periodo": "mensual",
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-10-14",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-02",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -9994,9 +10086,14 @@
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: 'Vea con MODO | viernes | 20%, tope $25.000'; Plan Sueldo 25% tope $30.000"
         }
-      ],
-      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
+      ]
     },
     {
       "id": "supervielle-dia",
@@ -10015,10 +10112,10 @@
       "tope_periodo": "mensual",
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-10-14",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-02",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10030,9 +10127,14 @@
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: 'Dia con MODO | viernes, sábado | 20%, tope $20.000'"
         }
-      ],
-      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
+      ]
     },
     {
       "id": "supervielle-la-anonima",
@@ -10051,10 +10153,10 @@
       "tope_periodo": "mensual",
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-10-04",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-09-02",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10066,9 +10168,14 @@
           "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
           "nivel": 1,
           "fecha": "2026-08-30"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: 'La Anónima con MODO | viernes, sábado | 20%, tope $15.000'. La tarjeta figura igual en todas las lecturas desde el 4/10; había quedado apagada desde agosto"
         }
-      ],
-      "baja_motivo": "Supervielle no la lista en septiembre: en su página de supermercados solo quedan las promos de jubilados (tampoco estaba el 30/08)"
+      ]
     },
     {
       "id": "supervielle-libertad",
@@ -10124,7 +10231,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10208,6 +10315,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Supervielle 13/10: la tarjeta sigue igual que el 12/10 en día, %, tope y medio de pago"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: Modo Market con MODO | martes | 20% tope $15.000; Plan Sueldo 25% tope $25.000"
         }
       ]
     },
@@ -10293,7 +10406,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10377,6 +10490,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Supervielle 13/10: la tarjeta sigue igual que el 12/10 en día, %, tope y medio de pago"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: El Puente con MODO | jue, vie, sáb | 20% tope $8.000"
         }
       ]
     },
@@ -10511,7 +10630,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10623,6 +10742,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Supervielle 13/10: la tarjeta sigue igual que el 12/10 en día, %, tope y medio de pago"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: ChangoMás Jubilados y MásGO Jubilados | martes | 20% débito tope $25.000"
         }
       ]
     },
@@ -11152,7 +11277,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11176,9 +11301,14 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "listado del banco de hoy: Shell con MODO, domingo, 10% débito, tope $10.000"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/combustible",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: Shell con MODO | domingo | 10% débito tope $10.000. Primera vez en octubre que la página de combustible trae tarjetas"
         }
-      ],
-      "vigencia_asumida": "2026-10-01"
+      ]
     },
     {
       "id": "supervielle-farmacias-jubilados",
@@ -11199,7 +11329,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11277,6 +11407,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Supervielle 13/10: la tarjeta sigue igual que el 12/10 en día, %, tope y medio de pago"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: Todas las farmacias Jubilados | martes | 50% débito tope $6.000"
         }
       ]
     },
@@ -11353,7 +11489,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11443,6 +11579,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Supervielle 13/10: la tarjeta sigue igual que el 12/10 en día, %, tope y medio de pago"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: Farmaonline | todos los días | 6 cuotas crédito"
         }
       ]
     },
@@ -11626,7 +11768,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "id": "cuotas-naranja_x-whirlpool-12",
       "medio": "naranja_x",
@@ -11743,6 +11885,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 12 cuotas cero interés | Todos los días en Whirlpool | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 12 cuotas | Whirlpool'"
         }
       ]
     },
@@ -11752,7 +11900,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "id": "cuotas-naranja_x-suavestar-14",
       "medio": "naranja_x",
@@ -11857,6 +12005,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 14 cuotas cero interés | Todos los días en Suavestar | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 14 cuotas | Suavestar'"
         }
       ]
     },
@@ -11866,7 +12020,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "id": "cuotas-naranja_x-cannon-14",
       "medio": "naranja_x",
@@ -11977,6 +12131,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 14 cuotas cero interés | Todos los días en Cannon | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 14 cuotas | Cannon'"
         }
       ]
     },
@@ -11986,7 +12146,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "id": "cuotas-naranja_x-rosen-14",
       "medio": "naranja_x",
@@ -12085,6 +12245,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 14 cuotas cero interés | Todos los días en Rosen | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 14 cuotas | Rosen'"
         }
       ]
     },
@@ -12197,12 +12363,12 @@
     },
     {
       "zona": "Nacional",
-      "vigencia_desde": "2026-09-01",
+      "vigencia_desde": "2026-10-14",
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-05",
-      "confianza": "baja",
+      "verificado": "2026-10-14",
+      "confianza": "alta",
       "id": "coto-supervielle-martes-25",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -12251,9 +12417,14 @@
           "nivel": 2,
           "fecha": "2026-10-05",
           "nota": "Coto, sucursales, martes: \"30% DE DESCUENTO Exclusivo en sucursales. Pagando con MODO desde la app de Supervielle con tarjetas de débito y crédito del banco. No acumula con promo Modo martes. Sin tope. En compras presenciales en un pago. Productos sin oferta\". Igual en todas las lecturas del 1/10 al 5/10. CAMBIÓ: en septiembre era 25%."
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: 'COTO con MODO | martes | 30% crédito y débito' (sin tope en la tarjeta). Coincide con lo que publica Coto: segundo respaldo"
         }
-      ],
-      "baja_motivo": "6/10: corregida a 30% según Coto (todas las lecturas del 1/10 al 5/10). Queda apagada porque es de 30% y la única fuente es Coto: la página de supermercados de Supervielle dejó de listar a Coto en octubre. Se prende cuando aparezca un segundo respaldo."
+      ]
     },
     {
       "zona": "Nacional",
@@ -15807,7 +15978,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15891,6 +16062,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Supervielle 13/10: la tarjeta sigue igual que el 12/10 en día, %, tope y medio de pago"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: Atomo con MODO | martes | 20% tope $15.000"
         }
       ]
     },
@@ -15913,7 +16090,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15997,6 +16174,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Supervielle 13/10: la tarjeta sigue igual que el 12/10 en día, %, tope y medio de pago"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: Aiello con MODO | martes | 20% tope $15.000"
         }
       ]
     },
@@ -22291,10 +22474,10 @@
       "tope_periodo": "sin_aclarar",
       "requisitos": "Pagando con tarjeta de crédito Mastercard de Supervielle, todos los días. Tope de reintegro $4.000.",
       "zona": "Nacional",
-      "vigencia_desde": null,
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_desde": "2026-10-14",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/transporte",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -22313,9 +22496,14 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "listado del banco de hoy: Cabify con Mastercard, todos los días, 50% crédito, tope $4.000"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/transporte",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: 'Cabify con Mastercard | todos los días | 50% crédito, tope $4.000'. Igual que hasta el 28/9"
         }
-      ],
-      "baja_motivo": "Supervielle la listó en transporte hasta el 28/9; desde el 1/10, en seis lecturas seguidas con la página bien cargada (trae BiciTRAN Mendoza), ya no figura."
+      ]
     },
     {
       "id": "supervielle-farmacias-mastercard-lunes",
@@ -22334,7 +22522,7 @@
       "requisitos": "Pagando con tarjeta de crédito Mastercard de Supervielle por MODO, los lunes. Tope de reintegro $5.000.",
       "zona": "Nacional",
       "vigencia_desde": null,
-      "vigencia_hasta": null,
+      "vigencia_hasta": "2026-10-12",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/farmacia",
       "verificado": "2026-10-12",
       "confianza": "alta",
@@ -22398,7 +22586,8 @@
           "fecha": "2026-10-12",
           "nota": "Supervielle 12/10: texto del listado idéntico al del 11/10 (mismo día, %, tope y tarjeta)."
         }
-      ]
+      ],
+      "baja_motivo": "Supervielle la listó hasta el 12/10 ('Farmacias adheridas con Mastercard MODO, lunes 15%, tope $5.000'); el 13/10 y el 14/10, con la página de farmacias bien cargada, ya no figura."
     },
     {
       "rubro": "supermercados",
@@ -23100,9 +23289,15 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 14 cuotas cero interés | Todos los días en Piero | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 14 cuotas | Piero'"
         }
       ],
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta"
     },
     {
@@ -23215,9 +23410,15 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 14 cuotas cero interés | Todos los días en Suavegom | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 14 cuotas | Suavegom'"
         }
       ],
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta"
     },
     {
@@ -23337,9 +23538,15 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 10% off y 6 cuotas cero interés | Todos los días en El Norte | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 10% off y 6 cuotas | El Norte'"
         }
       ],
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta"
     },
     {
@@ -23903,7 +24110,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "id": "supervielle-masgo-domingo",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -23991,6 +24198,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Supervielle 13/10: la tarjeta sigue igual que el 12/10 en día, %, tope y medio de pago"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: MásGO con MODO | domingo | 20% tope $20.000"
         }
       ]
     },
@@ -23999,7 +24212,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-14",
       "id": "supervielle-masgo-lunes",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -24012,8 +24225,8 @@
       ],
       "descuento_pct": 20,
       "requisitos": "Pagando con MODO con tarjetas Supervielle, crédito o débito. Si cobrás el sueldo en el banco es 25%, con tope de $30.000.",
-      "vigencia_desde": "2026-09-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_desde": "2026-10-14",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
       "fuentes": [
         {
@@ -24033,16 +24246,21 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "listado del banco de hoy: MásGO con MODO, lunes, 20%, tope $25.000"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: 'MásGO con MODO | lunes | 20%, tope $25.000'; Plan Sueldo 25% tope $30.000. Vuelve tras no figurar del 1/10 al 13/10"
         }
-      ],
-      "baja_motivo": "Supervielle no la lista el 1/10 (página de supermercados entera, 28 tarjetas; el 28/9 estaba). Ese mismo día Banco Ciudad sacó de su catálogo las mismas promos MODO de supermercados: terminó la campaña de septiembre"
+      ]
     },
     {
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "id": "cuotas-supervielle-easy-6",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -24137,6 +24355,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Supervielle 13/10: la tarjeta sigue igual que el 12/10 en día, %, tope y medio de pago"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: Easy | todos los días | 6 cuotas"
         }
       ]
     },
@@ -24145,7 +24369,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "id": "cuotas-supervielle-easy-9-finde",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -24235,6 +24459,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Supervielle 13/10: la tarjeta sigue igual que el 12/10 en día, %, tope y medio de pago"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: Easy | sábado y domingo | 9 cuotas"
         }
       ]
     },
@@ -24243,7 +24473,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "id": "cuotas-supervielle-blaisten-6",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -24338,6 +24568,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Supervielle 13/10: la tarjeta sigue igual que el 12/10 en día, %, tope y medio de pago"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: Blaisten | todos los días | 6 cuotas"
         }
       ]
     },
@@ -24346,7 +24582,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "id": "cuotas-supervielle-coto-electro-18",
       "medio": "supervielle",
       "medio_nombre": "Supervielle",
@@ -24436,6 +24672,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Supervielle 13/10: la tarjeta sigue igual que el 12/10 en día, %, tope y medio de pago"
+        },
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/hogar",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: COTO Electro | sábado y domingo | 18 cuotas"
         }
       ]
     },
@@ -33000,9 +33242,15 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"10% off y 6 cuotas cero interés | Todos los días en Cata | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: '10% off y 6 cuotas | Todos los días en Cata'"
         }
       ],
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta"
     },
     {
@@ -33908,7 +34156,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-25",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta",
       "fuentes": [
         {
@@ -33988,6 +34236,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Día de la madre | Hasta 14 cuotas cero interés | Todos los días en Casa del Audio | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 14 cuotas | Casa del Audio'"
         }
       ]
     },
@@ -34873,9 +35127,15 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Naranja X 13/10: \"Hasta 9 cuotas cero interés | Todos los días en Aerolineas Argentinas | Crédito\""
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Naranja X 14/10: 'Hasta 9 cuotas | Aerolineas Argentinas'"
         }
       ],
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-14",
       "confianza": "alta"
     },
     {
@@ -34896,7 +35156,7 @@
       "requisitos": "Los martes, 6 cuotas sin interés con tarjeta de crédito Naranja X. Según tu plan Naranja X puede sumar hasta 25% de descuento.",
       "zona": "Nacional",
       "vigencia_desde": "2026-10-11",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2026-10-13",
       "fuente": "https://www.naranjax.com/promociones",
       "fuentes": [
         {
@@ -34919,7 +35179,8 @@
         }
       ],
       "verificado": "2026-10-13",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Naranja X la listó como 'Hasta 25% off y 6 cuotas | Los martes en Shopgallery' del 6/10 al 13/10; el 14/10 la misma tarjeta pasó a '10% off y 9 cuotas | Los martes' (ver naranja-shopgallery-martes-10)."
     },
     {
       "id": "icbc-el-ateneo-yenny-10",
@@ -34957,6 +35218,82 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): EL ATENEO y YENNY todos los días 10% + hasta 6 cuotas crédito, 10% débito, SIN TOPE DE REINTEGRO, República Argentina, 01/10/2026 al 31/03/2027"
+        }
+      ]
+    },
+    {
+      "id": "supervielle-jubilados-cencosud",
+      "medio": "supervielle",
+      "medio_nombre": "Supervielle",
+      "rubro": "supermercados",
+      "comercios": [
+        "Disco",
+        "Jumbo",
+        "Vea"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 25000,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Solo para jubilados y pensionados que cobran en el banco, pagando con tarjeta de débito Supervielle. Tope de reintegro $25.000.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-10-14",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+      "verificado": "2026-10-14",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.supervielle.com.ar/personas/beneficios/descuentos/supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-14",
+          "nota": "Supervielle 14/10: 'Disco - Jubilados', 'Jumbo - Jubilados', 'Vea - Jubilados' | martes | 20% débito | tope $25.000"
+        }
+      ]
+    },
+    {
+      "id": "comafi-dia-madre-indumentaria-20",
+      "medio": "comafi",
+      "medio_nombre": "Banco Comafi",
+      "rubro": "indumentaria",
+      "comercios": [
+        "Moov",
+        "Dexter",
+        "Stock Center",
+        "Montagne",
+        "Lázaro",
+        "Paula Cahen D'Anvers",
+        "Koxis",
+        "Ver",
+        "Compañía del Sol"
+      ],
+      "dias": [
+        "miercoles",
+        "jueves",
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "cuotas": 6,
+      "tope_monto": 30000,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Día de la Madre, del miércoles 14 al sábado 17/10. Con tarjeta de crédito Visa o Mastercard de Banco Comafi (cuentas Ahorro, Global o Classic): 20% + hasta 6 cuotas sin interés, tope $30.000 de reintegro por toda la promoción. Cuentas Premium/Platinum: 25% + 9 cuotas. Cuentas Único (Visa Signature / Mastercard Black): 30% + 12 cuotas, tope $100.000. No vale pagando con Mercado Pago ni otras billeteras (MODO sí). Excluye Credial, Business y Corporativas. El reintegro llega en el resumen.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-10-14",
+      "vigencia_hasta": "2026-10-17",
+      "fuente": "https://www.promocionescomafi.com/beneficios.aspx",
+      "verificado": "2026-10-12",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10, 'promos del mes': Día de la Madre 14/10 al 17/10/2026 en Compañía del Sol, Ver, Dexter, Moov, Stock Center, Lázaro, Paula Cahen D'Anvers, Koxis y Montagne. Ahorro/Global/Classic 20% + 6 cuotas, tope $30.000 total; Premium/Platinum 25% + 9 cuotas (tope 'xx', sin publicar); Único 30% + 12 cuotas, tope $100.000"
         }
       ]
     }

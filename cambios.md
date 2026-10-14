@@ -1,5 +1,53 @@
 # Cambios
 
+## 2026-10-14 — Supervielle relanza a mitad de mes sus promos MODO de supermercados: revivo 9 (ChangoMás, MásGO, Jumbo, Disco, Vea, Día, La Anónima, Coto martes y Cabify). Se confirma Shell domingo y sale el cartel ámbar. Alta Comafi Día de la Madre
+
+**628 promos (2 altas, 10 revividas, 2 retiradas, ~35 confirmadas).** Asumidas (cartel ámbar): **3**, ayer 4.
+
+### Cómo se juntó el texto
+A las 07:33 `crudo/` seguía en el 13/10. Disparé `recolectar.yml` completo y a las 07:46 llegó el commit d502599 con `leido: 2026-10-14` en 36 archivos. Hoy no contestaron **Macro, MODO y Patagonia** (queda la lectura del 13/10) y **BPN** (queda la del **1/10**: hace dos semanas que no se puede leer). ICBC, Comafi y Frávega siguen en la lectura desde casa del 12/10. No borré nada de ninguna.
+
+### ⚠ Para que mire un humano
+- **Revividas de Supervielle (estaban dadas de baja).** Hoy la página de supermercados pasó de 184 a 213 tarjetas y volvieron las promos MODO que se habían ido el 1/10. Las revivo con vigencia hasta el 31/10 (la tarjeta no dice fecha de fin, igual que las otras de Supervielle):
+  - `supervielle-changomas` y `supervielle-masgo-lunes` (lunes 20%, tope $25.000; Plan Sueldo 25%, $30.000)
+  - `supervielle-jumbo` (martes y jueves), `supervielle-disco` (viernes y sábado), `supervielle-vea` (viernes): 20%, tope $25.000; Plan Sueldo 25%, $30.000
+  - `supervielle-dia` (viernes y sábado, 20%, tope $20.000)
+  - `supervielle-la-anonima` (viernes y sábado, 20%, tope $15.000): **esta figuraba en Supervielle todos los días desde por lo menos el 4/10** y nadie la había prendido. Le puse vigencia desde el 4/10.
+  - `coto-supervielle-martes-25` (Coto martes 30% con MODO, sin tope): estaba apagada esperando un segundo respaldo; hoy lo da Supervielle, además de Coto. La prendí (confianza alta).
+  - `supervielle-cabify-mastercard` (50%, tope $4.000, todos los días): igual que hasta el 28/9.
+- **No revivo, a propósito:**
+  - `supervielle-coto-nfc-jueves` (Coto jueves 30% con Visa débito NFC): vuelve a aparecer en Supervielle, pero es 30% y Coto hoy no la nombra. Hace falta segunda fuente.
+  - `supervielle-colectivos-mastercard`: volvió, pero ahora dice **100%** con tope $25.000 (antes 50% y $15.000). Un 100% con una sola fuente no lo cargo. Tampoco cargo "Colectivos del interior MODO VQR 60%, tope $10.000".
+  - `supervielle-toledo-miercoles` (30%, tope $12.000), `supervielle-toledo-viernes` (15%) y `supervielle-la-ilusion` (lunes 15%, $7.500): volvieron, pero las teníamos con zona "Nacional" y Toledo es de la costa bonaerense (Cuenta DNI la tiene como Provincia de Buenos Aires). Hay que corregir la zona antes de prenderlas.
+  - Nuevas en Supervielle sin cargar: Carrefour miércoles 10% ($10.000), Makro jueves 20% ($20.000), Nini jueves 20% ($20.000), Diarco Barrio/Pueblo/Mayorista sábado y domingo 15-20% sin tope en la tarjeta, Aiello 3 cuotas. Falta confirmar zona (y el "sin tope" de Diarco).
+- **Comafi Día de la Madre, del miércoles 14 al sábado 17/10**: cargué el escalón básico (ver Alta). Los otros dos escalones van en `requisitos`.
+- **Siguen 371 promos con más de 10 días sin verificar** (ayer 362). Mismo tema de los días anteriores, sin aplicar a mano.
+- **Moov (`naranja-deportiva`), Samsung 14 cuotas y Falabella Venta Telefónica**: 14 lecturas de octubre sin aparecer en Naranja X. Siguen asumidas.
+
+### Retiradas
+- **`supervielle-farmacias-mastercard-lunes`** — Supervielle la listó hasta el 12/10; el 13/10 y hoy, con la página de farmacias bien cargada, ya no está. `vigencia_hasta` = 12/10.
+- **`cuotas-naranja_x-shopgallery-martes-6`** — la tarjeta de Shopgallery martes cambió hoy de "Hasta 25% off y 6 cuotas" a "10% off y 9 cuotas". `vigencia_hasta` = 13/10 (último martes). La reemplaza `naranja-shopgallery-martes-10`, que revivo (era la misma promo que estuvo hasta el 28/9).
+
+### Altas
+- **`comafi-dia-madre-indumentaria-20`**: Banco Comafi, Día de la Madre, 14 al 17/10, en Moov, Dexter, Stock Center, Montagne, Lázaro, Paula Cahen D'Anvers, Koxis, Ver y Compañía del Sol. Crédito Comafi cuentas Ahorro/Global/Classic: 20% + 6 cuotas, tope $30.000 por toda la promo. Premium/Platinum 25% + 9 cuotas (tope sin publicar: la página dice "xx"); Único 30% + 12 cuotas, tope $100.000. Fuente: lectura desde casa del 12/10.
+- **`supervielle-jubilados-cencosud`**: Supervielle, jubilados, martes 20% con débito en Disco, Jumbo y Vea, tope $25.000.
+
+### Confirmadas
+- **Supervielle (14/10)**: Shell domingo 10% débito, tope $10.000 (**primera vez en octubre que la página de combustible trajo algo: sale el cartel ámbar**), Modo Market, El Puente, jubilados ChangoMás/MásGO, farmacias jubilados, Farmaonline 6 cuotas, Átomo, Aiello, MásGO domingo, Easy 6 y 9 cuotas, Blaisten 6, Coto Electro 18.
+- **Naranja X (14/10, 22)**: Cata, Cetrogar, Casa del Audio, Naldo, Frávega, Megatone y On City 14; Whirlpool, Simmons y La Cardeuse 12; Suavestar, Suavegom, Piero, Rosen y Cannon 14; Aerolíneas 9; micros Plusmar, Flecha Bus, El Norte, La Veloz del Norte, Andesmar y Chevallier. Hoy no salieron El Práctico ni General Urquiza: rotación de la portada, no las toco.
+
+### No cargadas (a propósito)
+- Naranja X nuevas: **Tecno Compro** (14 cuotas), **Previsora del Paraná** (Plan Zeta, días seleccionados) y **Punto Deportivo** (8 cuotas viernes y sábados): cadenas regionales, ninguna fuente dice la zona. Siguen afuera Ibaceta, Castillo, Exit, Seven Sport, Sweet, Sport Line, Cero26 Web, Newsport Web, Showsport y Viajes Naranja X por los motivos de días anteriores.
+
+### Agenda del día
+Trabajadas: **naranja-x, supervielle, comafi** (la lectura del 12/10: salió la campaña Día de la Madre), **vital, yaguar, ypf, shell, dr-ahorro**. Sin trabajar de nuevo: **icbc y fravega** (no hay lectura nueva desde casa; ayer se trabajó entera la del 12/10).
+- **vital**: la página de promociones carga pero vacía: solo el menú de días y medios de pago, ninguna tarjeta. La receta tiene que esperar a que carguen las promos (o clickear un día).
+- **yaguar**: bloqueo de Cloudflare ("Sorry, you have been blocked"). Candidata a la PC de Lucía.
+- **ypf**: `/promociones` dice "Lo sentimos, esta página no está disponible". Hay que buscar la URL nueva.
+- **shell**: solo el sorteo V-Power Las Vegas (hasta el 18/10), no es descuento.
+- **dr-ahorro**: **ya no da el error 526**: el sitio carga, pero `/promociones` devuelve la portada (productos y blog), sin promos bancarias. Hay que actualizar la cabecera y buscar la página de medios de pago ("Formas de pago" aparece en el pie).
+
+
 ## 2026-10-13 — Sale el cartel ámbar de 42 de las 46 promos asumidas: ICBC, Frávega y Comafi confirman 37 y se van 5 de ICBC que vencieron el 30/9. Revivo Macro y Credicoop en Frávega
 
 **626 promos (1 alta, 5 retiradas, 2 revividas, 8 cambiadas, ~70 confirmadas).** Asumidas (cartel ámbar): **4**, ayer 46. Visibles hoy: 330.
