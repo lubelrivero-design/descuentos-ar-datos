@@ -1,5 +1,38 @@
 # Cambios
 
+## 2026-10-15 — Cargo la campaña Día de la Madre de ICBC (viernes 16 y sábado 17, 25% + 6 cuotas en ~160 marcas). Salen las 3 últimas asumidas de Naranja X: no aparecen en ninguna lectura de octubre. Naranja X cambió el maquetado
+
+**631 promos (3 altas, 3 retiradas).** Asumidas (cartel ámbar): **0**, ayer 3.
+
+### Cómo se juntó el texto
+A las 07:33 `crudo/` seguía en el 14/10. Disparé `recolectar.yml` completo y a las 07:46 llegó el commit 18f61c7 con `leido: 2026-10-15`. Hoy no contestaron **Macro** (queda la del 14/10), **Patagonia** (la del 13/10) y **BPN** (sigue en la del **1/10**: dos semanas sin poder leerla). ICBC, Comafi y Frávega siguen en la lectura desde casa del 12/10. McDonald's y Musimundo siguen en la del 27/8. No borré nada de ninguna.
+
+### ⚠ Para que mire un humano
+- **Naranja X cambió el maquetado (o la receta se rompió).** La lectura de hoy no trae el listado de tarjetas (ayer 35): solo el menú, seis banners de portada y la ubicación puesta en **"Chicago"** ("Te mostramos las promociones de esta zona"). Parece que la página geolocaliza al runner de GitHub y muestra otra cosa. **No retiré nada por esta lectura.** Hay que revisar la receta de `naranja-x` en `tools/recolectar.js` (fijar una ubicación argentina antes de leer). Banners que sí se ven, sin comercios ni días, no cargados: 14 cuotas del 12 al 18/10 en "seleccionados" de electro, On City y Naldo; Plan Z 3 cuotas en supermercados; **15% + 9 cuotas, tope $30.000, indumentaria deportiva, del 12 al 18/10** (no dice en qué comercios); cupón de vuelos a Brasil.
+- **ICBC Día de la Madre cargada a último momento** (la campaña es mañana y pasado; el 13/10 se había dejado para cargar con calma). Va del catálogo completo leído desde casa el 12/10, escalón GENERAL. Revisar si algún nombre de marca quedó mal escrito (los pasé de mayúsculas a mano/automático).
+- **Siguen 400 promos con más de 10 días sin verificar** (ayer 371). Muchas son de fuentes que se leen todos los días (BNA, MODO, Hipotecario): la agenda no las pone y nadie las relee. Sin aplicar a mano, igual que días anteriores.
+
+### Altas
+- **`icbc-dia-madre-indumentaria-25`**, **`icbc-dia-madre-hogar-25`** y **`icbc-dia-madre-varios-25`**: ICBC, viernes 16 y sábado 17/10. Crédito Visa/Mastercard ICBC (hasta 6 cuotas sin interés) o Visa débito: 25%, tope $40.000 por compra; Exclusive Banking 30%, tope $50.000 (40% con sueldo en ICBC, según el legal). Sin MODO.
+  - Indumentaria: 144 marcas (Akiabara, Ayres, Bensimon, Crocs, Devré, Dexter, Grimoldi, Kevingston, Levi's, Moov, Paula Cahen D'Anvers, Stock Center, Topper, Vans, etc.).
+  - Hogar: Arredo, Bedtime, Belmo, Blanquería Brelia, Blossom, Home Collection, La Cardeuse, Lagom, Simmons, Springwall.
+  - Varios: Citykids, Graco Store, Somos los Juguetes, Simone, Tune.
+- **No cargué, a propósito:** el escalón de **10% + 6 cuotas "sin tope de reintegro"** en perfumerías, belleza y librerías (Rouge, MAC, Natura, L'Occitane, Cúspide, Estación Libro, etc.), Tustanoski y algunos de "varios": promete **sin tope** y no hay segunda fuente. **Tecno Compro**: misma duda de zona que ya se tuvo con Naranja X.
+
+### Retiradas
+- **`naranja-deportiva`** (Moov lunes y martes 20% + 9 cuotas) — Naranja X la listó hasta el 30/9; ninguna de las ~16 lecturas completas de octubre la trae, y la portada de hoy muestra otra promo de deportes (15%, del 12 al 18/10). `vigencia_hasta` = 30/9.
+- **`cuotas-naranja_x-samsung-14`** — listada hasta el 30/9, ausente en todo octubre. `vigencia_hasta` = 30/9.
+- **`cuotas-naranja_x-falabella-telefonica-6`** — listada hasta el 28/9, ausente en todo octubre. `vigencia_hasta` = 30/9.
+
+### Agenda del día
+Trabajadas: **icbc** (lectura del 12/10: campaña Día de la Madre), **naranja-x** (lectura de hoy rota; las bajas salen de las lecturas de octubre), **axion, farmacity, la-anonima, shell, dr-ahorro**. Sin trabajar de nuevo: **comafi y fravega** (no hay lectura nueva desde casa; la del 12/10 ya se trabajó entera el 13 y 14/10).
+- **axion**: la página de promociones solo tiene bases de "Descuento Super", pelotas, Coca-Cola y Lollapalooza; ninguna promo bancaria. La receta debería abrir "BBCC Promoción Combustible Super" para ver si hay un descuento con medio de pago.
+- **farmacity**: `/promociones-bancarias` da "No encontramos resultados": la URL ya no existe. Hay que buscar la nueva.
+- **la-anonima**: 403 Forbidden desde GitHub. Candidata a la PC de Lucía.
+- **shell**: solo el sorteo V-Power Las Vegas (hasta el 18/10), no es descuento.
+- **dr-ahorro**: sigue devolviendo la portada (productos y blog); la cabecera todavía dice "error 526", hay que actualizarla y apuntar a "Formas de pago".
+
+
 ## 2026-10-14 — Supervielle relanza a mitad de mes sus promos MODO de supermercados: revivo 9 (ChangoMás, MásGO, Jumbo, Disco, Vea, Día, La Anónima, Coto martes y Cabify). Se confirma Shell domingo y sale el cartel ámbar. Alta Comafi Día de la Madre
 
 **628 promos (2 altas, 10 revividas, 2 retiradas, ~35 confirmadas).** Asumidas (cartel ámbar): **3**, ayer 4.
