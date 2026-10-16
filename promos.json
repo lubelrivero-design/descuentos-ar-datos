@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15",
+  "actualizado": "2026-10-16",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -260,7 +260,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "fuentes": [
         {
@@ -297,6 +297,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: miércoles de octubre 2026 | 35% | crédito BNA por MODO BNA+ | tope $15.000 semanal"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: miércoles 35% crédito Visa/Mastercard, tope $15.000 semanal, todos los miércoles de octubre (N1)"
         }
       ]
     },
@@ -442,7 +448,7 @@
       "vigencia_desde": "2026-10-05",
       "vigencia_hasta": "2026-10-26",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "fuentes": [
         {
@@ -485,6 +491,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "REVIVIDA: (MD-29) \"Todos los lunes | 20% ... Tope $25.000 mensual por banco. Mínimo $75.000\"; legal: lunes 5, 12, 19 y 26 de octubre de 2026"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: lunes 20% con MODO o app de bancos adheridos, tope $25.000 mensual por banco, mínimo $75.000 (MD-29)"
         }
       ],
       "compra_minima": 75000,
@@ -748,7 +760,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.hipotecario.com.ar/alianzas-bh/changomas/",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "fuentes": [
         {
@@ -797,6 +809,12 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "ChangoMás 3/10: martes 25% con Visa débito Hipotecario por MODO/App BH, tope $10.000 mensual ($30.000 Búho One, Sueldo, Emprendedor y Jubilado); legal del 01/09/2026 al 30/11/2026."
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: martes 25% Visa débito por MODO/App BH, tope $10.000 mensual (Búho One/Sueldo/Jubilado $30.000), 01/09 al 30/11/2026 (H)"
         }
       ],
       "tope_publicado": true
@@ -861,7 +879,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-10-04",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "fuentes": [
         {
@@ -951,6 +969,12 @@
           "nivel": 2,
           "fecha": "2026-10-04",
           "nota": "Día 4/10: Naranja X martes de octubre 2026: Inicial 20% tope $3.000, Turbo 25% tope $9.500, Épico 30% tope $12.000 por semana"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: martes 25% Plan Turbo crédito Naranja X o débito Visa, tope $9.500 semanal, martes de septiembre y octubre (NX)"
         }
       ]
     },
@@ -7663,7 +7687,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
@@ -7681,6 +7705,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "REVIVIDA: (G4) jueves a domingos, 3 cuotas Galicia, 01/10 al 31/12/2026, solo presencial"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: jueves a domingo 3 cuotas sin interés presencial Visa/Mastercard/Amex, 01/10 al 31/12/2026 (G4)"
         }
       ]
     },
@@ -11673,7 +11703,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11710,6 +11740,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "ChangoMás sábados 07/03 al 31/12/2026 | 15% tope $10.000"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: sábados 15% Clásica y Plus crédito, tope $10.000 mensual, 01/06 al 31/12/2026 (P1)"
         }
       ]
     },
@@ -13622,7 +13658,7 @@
       "vigencia_desde": "2026-02-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.modo.com.ar/promos/20-comafi-changomas-feb26",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13665,6 +13701,12 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "ChangoMás 3/10: martes 20% de reintegro con débito Visa y crédito Visa/Mastercard Comafi, tope $12.000 semanal ($15.000 Único Black)."
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: martes 20% débito Visa y crédito Visa/Mastercard, tope $12.000 semanal (Único Black $15.000) (CMF)"
         }
       ]
     },
@@ -16231,9 +16273,15 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "ChangoMás 3/10: miércoles 20% con crédito Patagonia 365, tope $10.000 mensual; legal vigente del 01/8/2026 al 31/10/2026."
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: miércoles 20% crédito Patagonia 365 (Banco del Chubut), tope $10.000 mensual, 01/08 al 31/10/2026 (P365)"
         }
       ],
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-15",
       "confianza": "alta"
     },
     {
@@ -16287,9 +16335,15 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: viernes, sábados y domingos de octubre 2026 | 15% sin tope"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: viernes, sábados y domingos de octubre 15% sin tope con QR de Mercado Pago (BV)"
         }
       ],
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "confianza": "alta"
     },
     {
@@ -16431,9 +16485,15 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: jueves de octubre 2026 | 20% sin tope con Cuenta DNI; NFC 01/10 al 31/12/2026"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: jueves de octubre 20% sin tope con Cuenta DNI, sucursales de Buenos Aires, CABA y Viedma (CDNI)"
         }
       ],
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "acumulable": false
     },
@@ -16446,7 +16506,7 @@
       "vigencia_desde": "2026-04-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "masclub-changomas",
@@ -16491,6 +16551,12 @@
           "nivel": 2,
           "fecha": "2026-09-27",
           "nota": "ChangoMás 27/9: Miércoles y Jueves 15% presencial y online sin tope, socios MásClub, 01/04 al 31/12/2026 (MC). Igual."
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: miércoles y jueves 15% socios masclub, sin tope (MC)"
         }
       ]
     },
@@ -16503,7 +16569,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "changomas-anses",
@@ -16553,6 +16619,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: del 01/10 al 31/10/2026 | 10% ANSES | tope $12.000 por compra y $50.000 por mes"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: todos los días 10% beneficiarios ANSES, tope $12.000 por transacción (A)"
         }
       ]
     },
@@ -16565,7 +16637,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "changomas-empleados-publicos",
@@ -16615,6 +16687,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: del 01/10 al 31/10/2026 | 10% empleados municipales y provinciales | tope $12.000"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: todos los días 10% empleados municipales y provinciales, tope $12.000 por transacción, excluye Luján (EM)"
         }
       ]
     },
@@ -16627,7 +16705,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "credicoop-changomas-jueves-cabal",
@@ -16676,6 +16754,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: jueves del 01/10 al 31/12/2026 | 30% | tope $9.000 semanal"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: jueves 30% Cabal Credicoop con QR MODO, tope $9.000 semanal (C1)"
         }
       ]
     },
@@ -16690,7 +16774,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "icbc-changomas-jueves-general",
@@ -16739,6 +16823,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: jueves del 01/07 al 31/12/2026 | 20% tope $10.000 por semana (sueldo 30% tope $15.000)"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: jueves 20% crédito y débito, tope $10.000 semanal, 01/07 al 31/12/2026 (IC3)"
         }
       ]
     },
@@ -16751,7 +16841,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "patagonia-changomas-sabado-singular",
@@ -16800,6 +16890,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "ChangoMás sábados al 31/12/2026 | Singular 30% tope $20.000"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: sábados Singular 30%, la tarjeta dice tope $15.000 mensual (P3); sigue la diferencia con el banco ($20.000)"
         }
       ]
     },
@@ -16812,7 +16908,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "yoy-changomas-jueves",
@@ -16861,6 +16957,12 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "ChangoMás 3/10: jueves 20% de reintegro con crédito y débito Mastercard YOY, tope $10.000 semanal; legal del 01/07/2026 al 31/12/2026."
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: jueves 20% crédito y débito Mastercard, tope $10.000 semanal (Y)"
         }
       ]
     },
@@ -17234,9 +17336,9 @@
       "requisitos": "En un pago con tarjeta de crédito Visa o Mastercard de Banco Columbia. Tope $10.000 por semana por cuenta. Vale en sucursales y en MásOnline, también Autocenter y Farmacia ChangoMás.",
       "zona": "Nacional",
       "vigencia_desde": "2026-04-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2027-03-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "fuentes": [
         {
@@ -17274,6 +17376,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: martes y sábados del 01/10/2026 al 31/03/2027 | 20% | tope $10.000"
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: martes y sábados 20% crédito Visa/Mastercard Columbia, tope $10.000 semanal, 01/10/2026 al 31/03/2027 (BC)"
         }
       ]
     },
@@ -34545,7 +34653,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-10-01",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-15",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -34555,6 +34663,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "(NX2) \"4 CUOTAS SIN INTERÉS. PROMOCIÓN VÁLIDA EN TODA LA COMPRA EN LA VIGENCIA 01/10/2026 AL 31/12/2026, SOLO PAGANDO CON TARJETA NARANJA X\""
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-15",
+          "nota": "ChangoMás 15/10: todos los días 4 cuotas sin interés Naranja, todo el país (NX2)"
         }
       ],
       "id": "cuotas-naranja_x-changomas-4",

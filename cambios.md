@@ -1,5 +1,31 @@
 # Cambios
 
+## 2026-10-16 — Las fuentes de la agenda no aportaron nada (bloqueos y páginas vacías). Aprovecho la lectura completa de ChangoMás del 15/10 para reconfirmar 19 promos que llevaban más de 10 días sin verificar
+
+**631 promos (0 altas, 0 retiradas, 19 confirmadas).** Asumidas (cartel ámbar): **0**, igual que ayer.
+
+### Cómo se juntó el texto
+A las 07:33 `crudo/` seguía en el 15/10. Disparé `recolectar.yml` solo con las fuentes de la agenda que se leen desde GitHub (`maxiconsumo vital yaguar shell`) y a las 07:34 llegó el commit 57117ab con `leido: 2026-10-16` en esas cuatro. El resto de `crudo/` es del 15/10 (Macro, Patagonia y BPN siguen con lecturas viejas; BPN del **1/10**). ICBC, Comafi y Frávega siguen en la lectura desde casa del 12/10; McDonald's y Musimundo en la del 27/8. No borré nada de ninguna.
+
+### ⚠ Para que mire un humano
+- **Las recetas de las fuentes "nuevas" siguen sin servir**, hace varios días:
+  - **maxiconsumo**: la página de Moreno carga, con las pestañas de día y 18 botones "LEGALES", pero las promos son imágenes: no hay texto de ninguna. Habría que sacar el `alt` de las imágenes o abrir cada "LEGALES".
+  - **vital**: sigue cargando vacía (solo el menú de días y medios de pago). La receta tiene que clickear un día o esperar a que carguen las tarjetas.
+  - **yaguar**: bloqueo de Cloudflare otra vez. Candidata a la PC de Lucía.
+- **Siguen 384 promos con más de 10 días sin verificar** (ayer 403; bajó por las 19 de ChangoMás). Muchas son de BNA, MODO e Hipotecario, que se leen todos los días pero la agenda no las pone.
+- **Banco Patagonia Singular en ChangoMás (sábados 30%)**: ChangoMás sigue diciendo tope $15.000 y el banco $20.000. Se mantiene lo del banco, como hasta ahora.
+
+### Confirmadas (ChangoMás, lectura del 15/10, fechadas a ese día)
+BNA miércoles 35%, MODO lunes 20%, Hipotecario martes 25%, Naranja X martes Plan Turbo 25%, Galicia 3 cuotas jueves a domingo, Patagonia sábados 15% y Singular 30%, Comafi martes 20%, Banco del Chubut miércoles 20%, QR Mercado Pago finde 15%, Cuenta DNI jueves 20%, masclub miércoles y jueves 15%, ANSES y empleados públicos 10%, Credicoop Cabal jueves 30%, ICBC jueves 20%, YOY jueves 20%, Columbia martes y sábados 20% (el legal nuevo la estira hasta el **31/3/2027**: le corrí la vigencia) y Naranja X 4 cuotas.
+
+### Vistas en ChangoMás y no cargadas (quedan para otro día, falta chequear si ya las tenemos bajo MásGO u otro id)
+Patagonia Plus sábados 20% ($10.000), ICBC Cuenta Sueldo jueves 30% ($15.000), ICBC y YOY cuarto finde del mes (24 y 25/10, 20%, $15.000), Credicoop Cabal sábado 24/10 30% ($13.500), Ciudad MásGO jueves 35% ($20.000), Sol jueves 20% (provincias del NOA y Córdoba), Banco de Córdoba 4 cuotas, Mercado Pago 2 y 3 cuotas con QR, Cuenta DNI NFC jueves 20% sin tope (sin tope: necesita segunda fuente), Supervielle 3 cuotas.
+
+### Agenda del día
+Trabajadas: **maxiconsumo, vital, yaguar, shell** (lecturas de hoy). Sin trabajar de nuevo: **dr-ahorro, fravega, comafi, icbc** (no hay lectura nueva: Dr. Ahorro sigue dando la portada con productos, y las otras tres siguen en la lectura desde casa del 12/10, que ya se trabajó entera entre el 13 y el 15/10; la campaña Día de la Madre de ICBC que se cargó ayer vale hoy y mañana).
+- **shell**: solo el sorteo V-Power Las Vegas (termina el 18/10), no es descuento.
+
+
 ## 2026-10-15 — Cargo la campaña Día de la Madre de ICBC (viernes 16 y sábado 17, 25% + 6 cuotas en ~160 marcas). Salen las 3 últimas asumidas de Naranja X: no aparecen en ninguna lectura de octubre. Naranja X cambió el maquetado
 
 **631 promos (3 altas, 3 retiradas).** Asumidas (cartel ámbar): **0**, ayer 3.
