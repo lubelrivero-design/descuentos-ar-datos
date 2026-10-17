@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16",
+  "actualizado": "2026-10-17",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -5674,7 +5674,7 @@
       "vigencia_desde": "2026-04-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5705,6 +5705,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "tope_publicado": true
@@ -14065,7 +14071,7 @@
       "vigencia_hasta": "2026-12-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
@@ -14095,6 +14101,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "tope_publicado": true
@@ -18079,7 +18091,7 @@
       "vigencia_desde": "2026-08-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-10-02",
+      "verificado": "2026-10-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18144,6 +18156,12 @@
           "nivel": 2,
           "fecha": "2026-10-02",
           "nota": "Diarco 2/10: Comafi lunes a viernes 20% por MODO, tope $15.000 por semana, Barrio y Mayorista, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "tope_publicado": true
@@ -26929,9 +26947,9 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2027-01-31",
       "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
-      "verificado": "2026-10-04",
+      "verificado": "2026-10-12",
       "confianza": "alta",
       "id": "cuotas-icbc-sodimac-6",
       "medio": "icbc",
@@ -26974,6 +26992,12 @@
           "nivel": 2,
           "fecha": "2026-10-04",
           "nota": "Sodimac 4/10: ICBC 3 cuotas en todo Homecenter y 6 cuotas, hasta 31/10/2026"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura del 12/10: SODIMAC todos los días, hasta 6 cuotas sin interés Visa/Master, vigencia 01/10/2026 al 31/01/2027 (antes hasta 31/10)"
         }
       ]
     },
@@ -27516,7 +27540,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "icbc-coto-martes-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -27555,6 +27579,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -27863,7 +27893,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "icbc-paladini-viernes-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -27902,6 +27932,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -28204,7 +28240,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "icbc-heladerias-modo-30",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -28252,6 +28288,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -28324,7 +28366,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "icbc-chocorisimo-guapaletas-persicco-30",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -28371,17 +28413,23 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
     },
     {
-      "descuento_pct": 30,
+      "descuento_pct": 35,
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-17",
       "id": "comafi-coto-martes-30",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28393,8 +28441,8 @@
         "martes"
       ],
       "tope_publicado": true,
-      "requisitos": "Pagando con MODO desde la app de Comafi con crédito o débito del banco (no Credial ni corporativas). Solo en sucursales, en un pago, productos sin oferta. Sin tope. No acumula con la promo MODO de los martes.",
-      "vigencia_desde": "2026-09-01",
+      "requisitos": "Pagando con MODO desde la app de Comafi con crédito Visa o Mastercard o Visa débito del banco (no Credial, Business ni corporativas). Solo en sucursales, en un pago, productos sin oferta. Sin tope. Es el 25% de MODO más 10% adicional de Comafi.",
+      "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-10-31",
       "fuentes": [
         {
@@ -28438,6 +28486,24 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "Coto 3/10, Sucursales, martes: dos tarjetas de Comafi por MODO, una de 30% y otra de 35%, ambas sin tope y \"no acumula con promo Modo martes\". Se deja el 30% (el número menor) hasta que Comafi publique octubre. Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura del 12/10: Coto martes 10% adicional Comafi por MODO, del 01/10 al 31/10/2026, SIN TOPE, \"adicional al 25% de la campaña MODO, totalizando un 35%\", compras presenciales"
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-16",
+          "nota": "Coto 16/10, sucursales, martes: \"35% pagando con MODO desde la app de Comafi con débito y crédito del banco, sin tope, un pago, productos sin oferta\". Ya no aparece la tarjeta de 30%."
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-17",
+          "nota": "Coto 17/10: la misma tarjeta de 35% Comafi por MODO, sin tope, sucursales, martes"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28448,7 +28514,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "comafi-makro-miercoles-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28462,7 +28528,7 @@
       "tope_publicado": true,
       "requisitos": "Pagando a través de MODO con crédito Visa o Mastercard o Visa Débito de Banco Comafi (no Credial ni corporativas). Tope $15.000 por semana.",
       "vigencia_desde": "2026-09-02",
-      "vigencia_hasta": "2026-11-30",
+      "vigencia_hasta": "2026-10-31",
       "fuentes": [
         {
           "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
@@ -28487,6 +28553,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura del 12/10: Makro miércoles 20% MODO, tope semanal $15.000, desde 02/09 hasta 31/10/2026 (teníamos hasta 30/11: corregido)"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28497,7 +28569,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "comafi-axion-lunes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28536,6 +28608,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28546,7 +28624,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "comafi-ypf-sabado-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28585,6 +28663,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28595,7 +28679,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "comafi-shell-domingo-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28634,6 +28718,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28644,7 +28734,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "comafi-puma-viernes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28683,6 +28773,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28693,7 +28789,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "comafi-farmacity-viernes-15",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28733,6 +28829,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28800,7 +28902,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "comafi-cinemacenter-50",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28845,6 +28947,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28904,7 +29012,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "comafi-petshops-mar-jue-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28949,6 +29057,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28959,7 +29073,7 @@
       "tope_periodo": "semanal",
       "zona": "San Luis",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "id": "comafi-aiello-viernes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28998,6 +29112,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -30369,7 +30489,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30396,6 +30516,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "icbc-paruolo-viernes-15",
@@ -30419,7 +30545,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30446,6 +30572,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "icbc-adidas-online-martes-25",
@@ -30585,7 +30717,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30612,6 +30744,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "icbc-la-pinta-viernes-15",
@@ -30948,7 +31086,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30975,6 +31113,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "icbc-music-house-jueves-15",
@@ -30998,7 +31142,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31025,6 +31169,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-fravega-9",
@@ -31179,7 +31329,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31206,6 +31356,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-honor-9",
@@ -31362,7 +31518,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31389,6 +31545,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "icbc-jugueterias-viernes-15",
@@ -31474,7 +31636,7 @@
       "tope_publicado": true,
       "zona": "CABA",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31501,6 +31663,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "icbc-malba-entradas-20",
@@ -31777,7 +31945,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31804,6 +31972,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "icbc-puppis-lun-mie-20",
@@ -31828,7 +32002,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31855,6 +32029,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "icbc-natural-life-lun-vie-20",
@@ -31879,7 +32059,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31906,6 +32086,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "icbc-pet-company-20",
@@ -31931,7 +32117,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31958,6 +32144,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "icbc-zoocopet-25",
@@ -31987,7 +32179,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -32014,6 +32206,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "icbc-delivery-pet-food-lunes-20",
@@ -32037,7 +32235,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -32064,6 +32262,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "icbc-leocan-mar-vie-10",
@@ -32088,7 +32292,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32121,6 +32325,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "comafi-rappi-unico-30",
@@ -32148,7 +32358,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32175,6 +32385,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "comafi-atalaya-20",
@@ -32268,7 +32484,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32295,6 +32511,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "cuotas-comafi-soy-tu-farmacia-3",
@@ -32380,7 +32602,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32407,6 +32629,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "cuotas-comafi-decathlon-6",
@@ -32436,7 +32664,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32463,6 +32691,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "cuotas-comafi-compragamer-6",
@@ -32492,7 +32726,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32519,6 +32753,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "cuotas-comafi-multitravel-6",
@@ -33104,7 +33344,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -33125,6 +33365,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (catálogo completo por la API): idéntica al 25/9 salvo SHE The Market (venció el 25/9); esta entrada sigue igual en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ],
       "id": "cuotas-icbc-bidcom-gadnic-9",
@@ -34463,7 +34709,7 @@
       "vigencia_desde": "2026-09-15",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-12",
       "confianza": "alta",
       "fuentes": [
         {
@@ -34477,6 +34723,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-12",
+          "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
         }
       ]
     },

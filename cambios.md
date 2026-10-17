@@ -1,5 +1,40 @@
 # Cambios
 
+## 2026-10-17 — Las fuentes de la agenda que se leen desde GitHub siguieron sin aportar. Con el catálogo de ICBC y Comafi leído desde casa el 12/10 reconfirmo 40 promos que llevaban 20 días sin verificar. Comafi en Coto los martes pasa de 30% a 35%
+
+**631 promos (0 altas, 0 retiradas, 40 reconfirmadas, 3 corregidas).** Asumidas (cartel ámbar): **0**, igual que ayer.
+
+### Cómo se juntó el texto
+A las 07:33 `crudo/` seguía en el 16/10. Disparé `recolectar.yml` completo y a las 07:46 llegó el commit 8935b23 con `leido: 2026-10-17` en 38 fuentes. No contestaron **Macro** (queda la del 16/10) y **BPN** (sigue en la del **1/10**: más de dos semanas sin poder leerla). ICBC, Comafi y Frávega siguen en la lectura desde casa del 12/10; McDonald's y Musimundo en la del 27/8. No borré nada de ninguna.
+
+### ⚠ Para que mire un humano
+- **`comafi-coto-martes-30` ahora es 35%.** Comafi publica para octubre un 10% adicional al 25% de la campaña MODO de Coto, "totalizando un 35%", sin tope, en sucursales, del 1 al 31/10. Coto lo confirma en su página (16 y 17/10: "35% pagando con MODO desde la app de Comafi, sin tope"), y ya no muestra la tarjeta de 30%. Dos fuentes que coinciden, así que lo cambié (el id quedó con "-30" para no romper nada).
+- **Las recetas de las cuatro fuentes "nuevas" y la abandonada siguen sin servir** (igual que los días anteriores): ver la sección de la agenda.
+- **Siguen 358 promos con más de 10 días sin verificar** (ayer 384). Muchas son de BNA, MODO, Hipotecario y ChangoMás: se leen todos los días pero la agenda no las pone.
+- **Comafi en Jumbo, Disco y Vea (3 cuotas todos los días)**: el catálogo del 12/10 lo lista, pero el legal que trae pegado es el de Diarco (lunes a viernes, tope semanal): el recolector parece mezclar los detalles en esas tarjetas. No lo sumé como fuente.
+- **`cuotas-comafi-makro-3`**: Comafi la listaba hasta la lectura del 27/9 y en la del 12/10 ya no está (solo queda Makro miércoles 20%). No la retiré porque Comafi no se lee por API sino por la portada de cada rubro; si la próxima lectura desde casa tampoco la trae, retirarla al 30/9.
+
+### Correcciones
+- **`comafi-coto-martes-30`**: 30% → **35%**, sin tope, vigencia desde el 1/10 (ver arriba).
+- **`comafi-makro-miercoles-20`**: la vigencia decía hasta el 30/11; el legal de Comafi dice **hasta el 31/10/2026**. Corregida.
+- **`cuotas-icbc-sodimac-6`**: ICBC renovó Sodimac 6 cuotas: ahora va del 1/10/2026 al **31/1/2027** (teníamos hasta el 31/10).
+
+### Reconfirmadas (catálogo desde casa del 12/10, fechadas a ese día)
+- **ICBC (21)**: Coto Digital lunes 20%, Coto jueves débito 20%, Coto martes MODO 20%, Paladar viernes, heladerías MODO 30% (Freddo, Havanna, Lucciano's, Rapanui), Chocorísimo/Guapaletas/Persicco 30%, Paruolo, Adidas online martes, La Pinta, Music House, Frávega 9 cuotas, Honor 9 cuotas, jugueterías viernes 15%, Malba, Puppis, Natural Life, Pet Company, Zoocopet, Delivery Pet Food, Leocan, Bidcom/Gadnic 9 cuotas.
+- **Comafi (16)**: Diarco, Axion lunes, YPF sábado, Shell domingo, Puma viernes, Farmacity viernes 15% + cuotas, Cinemacenter 50%, pet shops martes a jueves, Aiello viernes, Rappi Único 30%, Atalaya, Soy Tu Farmacia 3 cuotas, Decathlon 6 cuotas, Compra Gamer 6 cuotas, Multitravel 6 cuotas, Puppis martes a jueves.
+
+### Vistas y no cargadas
+- **Comafi Coto Digital martes 35%** (online, tope $15.000 por compra; $25.000 con cuenta Único), del 1 al 31/10. Es 35% y la única fuente es el banco: necesita una segunda antes de cargarla.
+
+### Agenda del día
+Trabajadas: **icbc y comafi** (con la lectura desde casa del 12/10, que ya se había usado del 13 al 15/10 para las altas pero no para reconfirmar las viejas), **ypf, axion, farmacity, shell, dr-ahorro** (lecturas de hoy, sin promos). Sin trabajar: **fravega** (no hay lectura nueva desde el 12/10 y sus 14 promos están verificadas entre el 12 y el 14/10).
+- **ypf**: la receta lee `ypf.com/promociones` y solo devuelve el menú institucional (inversores, sustentabilidad); no hay ni una promo. Hay que buscar la URL real (probablemente la de la app YPF / Serviclub).
+- **axion**: lo mismo de siempre: bases de "Descuento Super", pelotas, Coca-Cola, Lollapalooza. Ninguna promo bancaria.
+- **farmacity**: `/promociones-bancarias` sigue dando "No encontramos resultados": la URL no existe más.
+- **shell**: solo el sorteo V-Power Las Vegas (termina mañana, 18/10). No es descuento.
+- **dr-ahorro**: sigue devolviendo la portada con productos. La cabecera todavía dice "error 526"; habría que actualizarla y apuntar la receta a "Formas de pago".
+
+
 ## 2026-10-16 — Las fuentes de la agenda no aportaron nada (bloqueos y páginas vacías). Aprovecho la lectura completa de ChangoMás del 15/10 para reconfirmar 19 promos que llevaban más de 10 días sin verificar
 
 **631 promos (0 altas, 0 retiradas, 19 confirmadas).** Asumidas (cartel ámbar): **0**, igual que ayer.
