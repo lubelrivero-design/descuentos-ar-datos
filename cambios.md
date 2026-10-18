@@ -1,5 +1,29 @@
 # Cambios
 
+## 2026-10-18 — Banco Ciudad había vuelto a publicar 9 promos que retiramos el 1/10 (Día, Disco, Jumbo, Vea, Makro, ChangoMás, Diarco y combustible) y nadie lo vio en 10 días: revividas. Coto martes con Ciudad pasa de 20% a 25%
+
+**631 promos (9 revividas, 0 retiradas, 27 reconfirmadas, 1 corregida).** Asumidas (cartel ámbar): **0**. Sin verificar hace más de 10 días: **321** (ayer 358).
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` seguía en el 17/10. Disparé `recolectar.yml` completo y a las 07:53 llegó el commit 9087823 con `leido: 2026-10-18` en 38 fuentes. No contestó **Macro** (queda la del 17/10) y **BPN** sigue en la del **1/10**. ICBC, Comafi y Frávega siguen en la lectura desde casa del 12/10; McDonald's y Musimundo en la del 27/8. No borré nada de ninguna.
+
+### ⚠ Para que mire un humano
+- **Revividas 9 promos de Banco Ciudad.** El 1/10 las retiramos porque no estaban en el catálogo completo de la API (Supermercados había bajado de 15 a 7). Pero **desde la lectura del 8/10 volvieron** (Supermercados pasó a 17 y hoy 16), con el mismo día, % y tope que antes, y ninguna corrida lo había notado. Las revivo con vigencia desde el día en que reaparecieron hasta el 31/10:
+  - `ciudad-dia-20` (vie y sáb 20%, tope $20.000/mes), `ciudad-disco-20` (vie y sáb 20%, $25.000/mes), `ciudad-jumbo-20` (mar y jue 20%, $25.000/mes), `ciudad-supermercados-vea-20` (vie 20%, $25.000/mes), `ciudad-makro-20` (jue 20%, $20.000/mes), `ciudad-changomas-20` (lun 20%, $25.000), `ciudad-diarco-barrio-20` (sáb y dom 20%, sin tope), `ciudad-diarco-pueblo-15` (sáb y dom 15%, sin tope; el banco publica dos tarjetas con mínimo $35.000 y $100.000) — todas desde el 8/10.
+  - `ciudad-estaciones-de-servicio-adheridas-10` (YPF, Shell y Axion, domingos 10%, $10.000/mes) — volvió el **6/10**. Hay además una tarjeta de **20%** para quien cobra el sueldo o la jubilación en el Ciudad: la dejé anotada en requisitos, no como promo aparte.
+- **`ciudad-coto-20`: martes 20% → 25%**, sin tope, solo sucursales. El catálogo de Ciudad dice 25% desde la lectura del 14/10 (hasta el 13/10 decía 20%). La única fuente es el banco (Coto no muestra esa tarjeta); como la de 20% también se sostenía solo con el banco, la actualicé. El id quedó con "-20" para no romper nada.
+- **Lección para la regla de ausencia**: en Ciudad la ausencia sí cuenta, pero también la reaparición. Convendría que `cruzar.js` o `validar.js` avise cuando una promo retirada vuelve a estar en el catálogo de Ciudad/ICBC.
+
+### Reconfirmadas (catálogo completo de Ciudad de hoy, igual a lo cargado)
+Mayorista Nini, Paradiñeiro online, Farmacias ABC, Farmaonline, farmacias jubilados lunes 30%, Farmacity/Get The Look/Simplicity miércoles 35% Mastercard, MásGO domingo 20% y jueves 35% Mastercard, Coto lunes 25%, Nutrican, cafés vie a dom 35%, The Food Market lunes 35%, cines sábado 50%, Casa del Audio, Arredo, Alpinestars, deportivas y calzado martes, perfumerías martes, librerías y jugueterías viernes, y las cuotas de Frávega, Casa del Audio, Samsung, On City, Almundo, Plataforma 10 y bicicleterías (27 en total).
+
+### Vistas en Ciudad y no cargadas
+- **Cordiez** (lunes 20%, $20.000/mes) y **El Puente** (lunes 20%): sin fuente que diga la provincia de cada cadena, no se cargan.
+- **Coto 18 cuotas sábados y domingos** (electro, hogar y deco, Visa y Mastercard del Ciudad): queda para otro día.
+
+### Agenda del día
+Trabajadas (lecturas de hoy, ninguna aportó): **la-anonima** (403 Forbidden), **maxiconsumo** (hoy ni siquiera trae los botones "LEGALES": solo el menú de categorías), **vital** (vacía, igual que siempre), **shell** (solo el sorteo V-Power, que termina hoy; la promo `galicia-combustible-dia10` no aparece ahí), **dr-ahorro** (la portada con productos). Sin trabajar: **fravega, comafi, icbc** (no hay lectura nueva desde el 12/10, ya trabajadas ayer). En vez de releer esas, usé el tiempo en el catálogo de Ciudad, que tenía 67 promos con más de 10 días sin verificar.
+
 ## 2026-10-17 — Las fuentes de la agenda que se leen desde GitHub siguieron sin aportar. Con el catálogo de ICBC y Comafi leído desde casa el 12/10 reconfirmo 40 promos que llevaban 20 días sin verificar. Comafi en Coto los martes pasa de 30% a 35%
 
 **631 promos (0 altas, 0 retiradas, 40 reconfirmadas, 3 corregidas).** Asumidas (cartel ámbar): **0**, igual que ayer.

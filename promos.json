@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17",
+  "actualizado": "2026-10-18",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -2880,10 +2880,10 @@
       "tope_periodo": "mensual",
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $25.000 por mes. Compra mínima $100.000. Vale en tiendas físicas y online.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_desde": "2026-10-08",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-25",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -2926,9 +2926,14 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "catálogo completo de la API del banco: Disco | viernes, sabado | 20% | tope $25.000 mensual: igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: Disco | viernes, sabado | 20% | tope $25.000 mensual | mínimo $100.000 | físicas y online. Volvió al catálogo el 8/10"
         }
-      ],
-      "baja_motivo": "no está en el catálogo completo de Banco Ciudad del 1/10 (API, todos los rubros; Supermercados pasó de 15 a 7 promos). El 28/9 sí estaba. El banco no la publica más: no se renovó para octubre"
+      ]
     },
     {
       "id": "ciudad-jumbo-20",
@@ -2947,10 +2952,10 @@
       "tope_periodo": "mensual",
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $25.000 por mes. Compra mínima $100.000. Vale en tiendas físicas y online.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_desde": "2026-10-08",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-25",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -2993,9 +2998,14 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "catálogo completo de la API del banco: Jumbo | martes, jueves | 20% | tope $25.000 mensual: igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: Jumbo | martes, jueves | 20% | tope $25.000 mensual | mínimo $100.000 | físicas y online. Volvió al catálogo el 8/10"
         }
-      ],
-      "baja_motivo": "no está en el catálogo completo de Banco Ciudad del 1/10 (API, todos los rubros; Supermercados pasó de 15 a 7 promos). El 28/9 sí estaba. El banco no la publica más: no se renovó para octubre"
+      ]
     },
     {
       "id": "ciudad-supermercados-toledo-30",
@@ -3133,10 +3143,10 @@
       "tope_periodo": "mensual",
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $20.000 por mes. Compra mínima $35.000. Vale en sucursales y tienda online.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_desde": "2026-10-08",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-25",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -3173,9 +3183,14 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "catálogo completo de la API del banco: Dia | viernes, sabado | 20% | tope $20.000 mensual: igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: Dia | viernes, sabado | 20% | tope $20.000 mensual | mínimo $35.000 | sucursales y online. Volvió al catálogo el 8/10"
         }
-      ],
-      "baja_motivo": "no está en el catálogo completo de Banco Ciudad del 1/10 (API, todos los rubros; Supermercados pasó de 15 a 7 promos). El 28/9 sí estaba. El banco no la publica más: no se renovó para octubre"
+      ]
     },
     {
       "id": "ciudad-makro-20",
@@ -3193,10 +3208,10 @@
       "tope_periodo": "mensual",
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $20.000 por mes. Solo en tiendas físicas.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_desde": "2026-10-08",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-25",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -3239,9 +3254,14 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "catálogo completo de la API del banco: Makro | jueves | 20% | tope $20.000 mensual: igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: Makro | jueves | 20% | tope $20.000 mensual | solo físicas. Volvió al catálogo el 8/10"
         }
-      ],
-      "baja_motivo": "no está en el catálogo completo de Banco Ciudad del 1/10 (API, todos los rubros; Supermercados pasó de 15 a 7 promos). El 28/9 sí estaba. El banco no la publica más: no se renovó para octubre"
+      ]
     },
     {
       "id": "ciudad-supermercados-vea-20",
@@ -3259,10 +3279,10 @@
       "tope_periodo": "mensual",
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $25.000 por mes. Compra mínima $100.000. Vale en tiendas físicas y online.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_desde": "2026-10-08",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-25",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -3305,9 +3325,14 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "catálogo completo de la API del banco: Supermercados Vea | viernes | 20% | tope $25.000 mensual: igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: Vea | viernes | 20% | tope $25.000 mensual | mínimo $100.000 | físicas y online. Volvió al catálogo el 8/10"
         }
-      ],
-      "baja_motivo": "no está en el catálogo completo de Banco Ciudad del 1/10 (API, todos los rubros; Supermercados pasó de 15 a 7 promos). El 28/9 sí estaba. El banco no la publica más: no se renovó para octubre"
+      ]
     },
     {
       "id": "ciudad-diarco-pueblo-15",
@@ -3324,14 +3349,14 @@
       "descuento_pct": 15,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Con tarjetas del Banco Ciudad. Chequea que la sucursal este adherida.",
+      "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Sin tope de reintegro. Compra mínima $35.000 ($100.000 en algunas sucursales). Solo en sucursales adheridas, no vale online.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-08-31",
+      "vigencia_desde": "2026-10-08",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-08",
+      "verificado": "2026-10-18",
       "confianza": "alta",
-      "tope_publicado": false,
+      "tope_publicado": true,
       "fuentes": [
         {
           "url": "https://www.bancociudad.com.ar/beneficios/",
@@ -3348,9 +3373,14 @@
           "nivel": 1,
           "fecha": "2026-09-08",
           "nota": "AUSENTE en el catálogo completo (API, todos los rubros)"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: Diarco Pueblo | sabado, domingo | 15% | sin tope | dos tarjetas: mínimo $35.000 y mínimo $100.000 | no online. Volvió al catálogo el 8/10"
         }
-      ],
-      "baja_motivo": "El catálogo completo de Banco Ciudad (API del banco, todos los rubros, leído el 2026-09-08) no la lista: el banco no la publica más. Era de agosto (última vez vista el 30-31/8) y nadie la confirmó en septiembre."
+      ]
     },
     {
       "id": "ciudad-diarco-barrio-20",
@@ -3369,10 +3399,10 @@
       "tope_periodo": null,
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Sin tope de reintegro. Compra mínima $35.000. Solo en sucursales.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-27",
+      "vigencia_desde": "2026-10-08",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-25",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -3409,9 +3439,14 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "catálogo completo de la API del banco: Diarco Barrio | sabado, domingo | 20% | sin tope publicado: igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: Diarco Barrio | sabado, domingo | 20% | sin tope | mínimo $35.000 | no online. Volvió al catálogo el 8/10"
         }
-      ],
-      "baja_motivo": "Banco Ciudad la listó en su catálogo completo hasta el 27/9; no está el 28/9 ni el 1/10 (API, todos los rubros)"
+      ]
     },
     {
       "id": "ciudad-changomas-20",
@@ -3429,10 +3464,10 @@
       "tope_periodo": "sin_aclarar",
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Tope $25.000 por cliente (el banco no dice el período). Compra mínima $75.000. Solo en tiendas físicas.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_desde": "2026-10-08",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-25",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -3475,9 +3510,14 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "catálogo completo de la API del banco: ChangoMás | lunes | 20% | tope $25.000 sin_aclarar: igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: ChangoMás | lunes | 20% | tope $25.000 por cliente | mínimo $75.000 | solo físicas. Volvió al catálogo el 8/10"
         }
-      ],
-      "baja_motivo": "no está en el catálogo completo de Banco Ciudad del 1/10 (API, todos los rubros; Supermercados pasó de 15 a 7 promos). El 28/9 sí estaba. El banco no la publica más: no se renovó para octubre"
+      ]
     },
     {
       "id": "ciudad-la-anonima-20",
@@ -3541,7 +3581,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -3584,6 +3624,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Mayorista Nini | jueves | 20% | tope $20.000 mensual. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ]
     },
@@ -3646,7 +3692,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -3695,6 +3741,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Farmacias Paradiñeiro Online | mar, jue, sáb, dom | 20% | tope $12.500 mensual | online. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ]
     },
@@ -3951,7 +4003,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "cuotas": 6,
       "tope_publicado": true,
@@ -4001,6 +4053,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Farmacias ABC | lunes | 20% + 6 cuotas | tope $10.000 mensual. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ]
     },
@@ -4020,12 +4078,12 @@
       "descuento_pct": 10,
       "tope_monto": 10000,
       "tope_periodo": "mensual",
-      "requisitos": "En estaciones YPF, Shell y Axion, pagando con QR MODO desde Buepp o App Ciudad con tarjeta de crédito Visa o Mastercard del Ciudad. Tope $10.000 por mes.",
+      "requisitos": "En estaciones YPF, Shell y Axion, pagando con QR MODO desde Buepp o App Ciudad con tarjeta de crédito Visa o Mastercard del Ciudad. Tope $10.000 por mes. Si cobrás el sueldo o la jubilación en el Ciudad, el descuento es del 20%.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-30",
+      "vigencia_desde": "2026-10-06",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-09-25",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "tope_publicado": true,
       "fuentes": [
@@ -4051,9 +4109,14 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "catálogo completo de la API del banco: YPF, Shell, Axion | domingo | 10% | tope $10.000 mensual: igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: Combustible | domingo | 10% | YPF, Shell y Axion | tope $10.000 mensual | crédito Visa/Mastercard por MODO. Volvió al catálogo el 6/10; hay otra tarjeta de 20% para plan sueldo y jubilados"
         }
-      ],
-      "baja_motivo": "el rubro Combustible desapareció del catálogo completo de Banco Ciudad del 1/10 (el 28/9 estaba: YPF, Shell y Axion los domingos). No se renovó para octubre"
+      ]
     },
     {
       "id": "ciudad-wico-combustible-15",
@@ -4111,7 +4174,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4171,6 +4234,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Frávega | todos los días | 18 cuotas. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ]
     },
@@ -4200,7 +4269,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4247,6 +4316,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Casa del Audio | todos los días | 18 cuotas. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ]
     },
@@ -4276,7 +4351,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4324,6 +4399,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Samsung | todos los días | hasta 18 cuotas. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ]
     },
@@ -4353,7 +4434,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4401,6 +4482,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Almundo | todos los días | 6 cuotas. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ]
     },
@@ -4430,7 +4517,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -4478,6 +4565,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Plataforma 10 | todos los días | 3 cuotas online. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ]
     },
@@ -9274,7 +9367,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "tope_monto": 8000,
       "tope_periodo": "mensual",
       "fuentes": [
@@ -9323,6 +9416,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Nutrican | viernes | 20% | tope $8.000 mensual. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ]
     },
@@ -9382,7 +9481,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-09-25",
+      "verificado": "2026-10-18",
       "tope_monto": 10000,
       "tope_periodo": "por compra",
       "fuentes": [
@@ -9442,6 +9541,12 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "catálogo completo de la API del banco: Farmaonline | viernes | 10% + 6 cuotas | tope $10.000 por compra: igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
       "cuotas": 6
@@ -12541,11 +12646,11 @@
     },
     {
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
+      "vigencia_desde": "2026-10-14",
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "id": "ciudad-coto-20",
       "medio": "ciudad",
@@ -12557,7 +12662,7 @@
       "dias": [
         "martes"
       ],
-      "descuento_pct": 20,
+      "descuento_pct": 25,
       "tope_publicado": true,
       "requisitos": "Pagando con QR MODO desde App Ciudad o Buepp con tarjetas del Ciudad. Sin tope de reintegro. Solo en sucursales, no vale en la tienda online. Aplican exclusiones.",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
@@ -12601,6 +12706,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Coto | martes | 20% | sin tope | no online. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: Coto | martes | 25% | SIN TOPE | no online. Desde la lectura del 14/10 dice 25% (hasta el 13/10 decía 20%)"
         }
       ]
     },
@@ -12610,7 +12721,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": 20000,
       "tope_periodo": "sin_aclarar",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "id": "ciudad-masgo-20",
       "medio": "ciudad",
@@ -12672,6 +12783,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): MásGO | domingo | 20% | tope $20.000 | mínimo $30.000. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ]
     },
@@ -12718,7 +12835,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": 30000,
       "tope_periodo": "sin_aclarar",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "id": "ciudad-casa-del-audio-20",
       "medio": "ciudad",
@@ -12776,6 +12893,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Casa del Audio | vie, sáb, dom | 25% | tope $30.000. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
       "tope_publicado": true
@@ -13321,7 +13444,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "id": "ciudad-deportivas-martes-15",
       "medio": "ciudad",
@@ -13392,6 +13515,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Dexter, Stock Center, Moov, Montagne y otras | martes | 15% + 10 cuotas | sin tope. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
       "tope_publicado": true
@@ -13402,7 +13531,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "id": "ciudad-calzado-martes-10",
       "medio": "ciudad",
@@ -13467,6 +13596,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Hush Puppies, Grimoldi, Vans, CAT | martes | 10% + 10 cuotas | sin tope. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
       "tope_publicado": true
@@ -13477,7 +13612,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": 15000,
       "tope_periodo": "mensual",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "id": "ciudad-librerias-jugueterias-viernes-20",
       "medio": "ciudad",
@@ -13580,6 +13715,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): El Ateneo, Cúspide y otras | viernes | 20% + 3 cuotas | tope $15.000 mensual. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
       "tope_publicado": true
@@ -22720,7 +22861,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "ciudad-coto-lunes-25",
@@ -22779,6 +22920,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Coto | lunes | 25% | tope $30.000 por semana. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ]
     },
@@ -23276,7 +23423,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -23302,6 +23449,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Arredo | vie y sáb | 20% + 12 cuotas | sin tope. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ]
     },
@@ -23831,9 +23984,15 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): On City | todos los días | 18 cuotas. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta"
     },
     {
@@ -23889,9 +24048,15 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Juleriaque, Rouge, Beauty 24 | martes | 10% + 10 cuotas | sin tope. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta"
     },
     {
@@ -23946,9 +24111,15 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Alpinestars | sáb y dom | 15% + 10 cuotas | tope $50.000 por compra. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "confianza": "alta"
     },
     {
@@ -27046,7 +27217,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "id": "ciudad-cines-sabado-50",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -27079,6 +27250,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Cines | sábado | 50% | tope $10.000 mensual. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
       "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
@@ -27089,7 +27266,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "id": "ciudad-mastercard-masgo-jueves-35",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -27128,6 +27305,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10: Mas Go | jueves | 35% Mastercard | tope $20.000 mensual. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
       "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
@@ -27138,7 +27321,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "id": "ciudad-mastercard-farmacity-gtl-simplicity-miercoles-35",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -27173,6 +27356,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Farmacity, GTL y Simplicity | miércoles | 35% Mastercard | tope $15.000 mensual. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
       "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
@@ -27183,7 +27372,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "id": "ciudad-mastercard-cafes-vie-dom-35",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -27220,6 +27409,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Tostado, Café Martínez, Le Pain Quotidien | vie a dom 7 a 12 hs | 35% Mastercard | tope $10.000 semanal. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
       "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
@@ -27230,7 +27425,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "id": "ciudad-mastercard-the-food-market-lunes-35",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -27263,6 +27458,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): The Food Market | lunes | 35% Mastercard | tope $20.000 mensual. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
       "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
@@ -27409,7 +27610,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "id": "ciudad-farmacias-jubilados-lunes-30",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -27442,6 +27643,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Farmacias Jubilados | lunes | 30% débito | tope $10.000 mensual. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
       "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
@@ -27452,7 +27659,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-18",
       "id": "cuotas-ciudad-bicicleterias-24",
       "medio": "ciudad",
       "medio_nombre": "Banco Ciudad",
@@ -27530,6 +27737,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Bicicleterías (42) | todos los días | 24 cuotas. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
         }
       ],
       "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
