@@ -1,5 +1,35 @@
 # Cambios
 
+## 2026-10-19 — Con la lectura desde casa de anoche (ICBC, Comafi, Frávega) reconfirmo 87 promos; ChangoMás jueves con ICBC se estira hasta el 31/12. Sin altas ni bajas
+
+**631 promos (0 altas, 0 retiradas, 87 reconfirmadas, 1 corregida).** Asumidas (cartel ámbar): **0**. Sin verificar hace más de 10 días: **318** (ayer 321).
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` seguía en el 18/10. Disparé `recolectar.yml` completo y a las 07:54 llegó el commit de550bd con `leido: 2026-10-19` en 38 fuentes. Además estaba la lectura desde casa del 18/10 a las 20:05 (commit 2dba50e) de **ICBC, Comafi, Frávega y Macro**, que es la que trabajé hoy. Siguen viejas: **BPN** (la del **1/10**, ya van 18 días), **McDonald's y Musimundo** (27/8). No borré nada de ninguna.
+
+### ⚠ Para que mire un humano
+- **El catálogo de ICBC del 18/10 trae muchas menos tarjetas que el del 12/10** (249 contra 438; Moda bajó de 183 a 42, Belleza de 43 a 26, Librería de 14 a 6). Están los 12 rubros, así que la regla dice que la ausencia cuenta, pero **las 51 promos de ICBC que cargamos siguen todas ahí**, con el mismo día, % y tope. Lo que desapareció es sobre todo la campaña del Día de la Madre (16 y 17/10), que ya venció. No retiré nada.
+- **`cuotas-comafi-makro-3` volvió**: en la lectura del 12/10 no estaba y ayer se pensaba retirar; la del 18/10 la trae de nuevo (3 cuotas todos los días, 01/09 al 31/10). Queda reconfirmada.
+- **Comafi en Jumbo, Disco y Vea (3 cuotas)**: el legal sigue mezclado con el de Diarco, igual que el 12/10. No lo sumé como fuente.
+
+### Correcciones
+- **`icbc-changomas-jueves-general`**: vigencia hasta el 31/10 → **31/12/2026**. ICBC (18/10) dice 01/10 al 31/12 y ChangoMás ya decía hasta el 31/12. Igual: jueves 20%, tope $10.000 por semana (sueldo en ICBC: tope $15.000).
+
+### Reconfirmadas (lecturas desde casa del 18/10, fechadas a ese día)
+- **ICBC (51)**: todas las vigentes: Coto (lunes digital, martes MODO, jueves débito), ChangoMás jueves, La Anónima, The Food Market, Paladar, YPF martes sueldo, Farmacity/GTL/Simplicity, FarmaPlus, perfumerías, heladerías y Chocorísimo/Guapaletas/Persicco, pinturerías, La Cardeuse, colchones, Sodimac, electro, Paruolo, Adidas online, Rever Pass, moda viernes, La Pinta, deportivas, indumentaria, Skechers, Baby Cottons, Garmin, Music House, Frávega, tecnología online, Compra Gamer, Honor, librerías, jugueterías, Creciendo, Malba, Shopgallery, entradas, neumáticos, pet shops (Puppis, Natural Life, Pet Company, Zoocopet, Delivery Pet Food, Leocan), Bidcom/Gadnic, El Ateneo/Yenny.
+- **Comafi (23)**: ChangoMás, Diarco, Coto 35%, Makro miércoles y 3 cuotas, Axion, YPF, Shell, Puma, Farmacity, Simplicity/GTL, Cinemacenter, restaurantes sábados, pet shops, Puppis, Aiello, Rappi Único, Atalaya, Soy Tu Farmacia, Decathlon, Compra Gamer, Multitravel.
+- **Frávega (13)**: los legales de octubre son los mismos que el 12/10: Ciudad 18 cuotas, MODO 12, Naranja X 14, BBVA, Galicia, Macro, Santander, Credicoop, Patagonia, San Juan, Santa Fe y Santa Cruz 12, Corrientes viernes 10% + 6.
+
+### Vistas y no cargadas
+- Comafi: Tienda Nova, Alvear, Cereales El Diamante, Cordiez, Pingüino, Toledo, Cooperativa Obrera, Pezcalandia, Coquitos, Farmacia Selma, Tuluka, Apple Pay (subte, colectivos, peajes y desayunos 50%/20%), Taxi premium. Hoy no me puse con las altas: o necesitan la provincia de la cadena (no se deduce) o son 50% y piden segunda fuente.
+- Frávega: BNA "hasta 20 cuotas" (el legal no da vigencia) y Banco de Entre Ríos (el legal dice "del 01/10/26 al 31/09/2026", una fecha que no existe).
+
+### Agenda del día
+Trabajadas: **icbc, comafi, fravega** (lectura desde casa del 18/10, enteras), **yaguar** ("Sorry, you have been blocked": nos bloquea), **ypf** (sigue devolviendo solo el menú institucional, sin promos), **axion** (lo de siempre: Descuento Super de Pan American, pelotas, Coca-Cola, Lollapalooza; ninguna bancaria), **shell** (el sorteo de Las Vegas ya se hizo: "Estamos validando ganadores"; no hay descuentos). Sin trabajar: **dr-ahorro** (la agenda la pone como leída desde casa, pero no vino en la lectura de anoche y la de GitHub sigue trayendo solo la portada con productos). **Macro** vino en la lectura de anoche (2.455 comercios) pero no estaba en la agenda: no cargué nada nuevo de ahí.
+- Sigue pendiente arreglar las recetas de **ypf** (buscar la URL de la app/Serviclub), **yaguar** (bloqueo) y **dr-ahorro** (apuntar a "Formas de pago"). Que la agenda las ponga una y otra vez sin que puedan aportar es tiempo perdido.
+- De las 318 sin verificar hace más de 10 días, las que más pesan son de **Patagonia (22), Cuenta DNI (21), Galicia (10) y Naranja X (9)**.
+
+
 ## 2026-10-18 — Banco Ciudad había vuelto a publicar 9 promos que retiramos el 1/10 (Día, Disco, Jumbo, Vea, Makro, ChangoMás, Diarco y combustible) y nadie lo vio en 10 días: revividas. Coto martes con Ciudad pasa de 20% a 25%
 
 **631 promos (9 revividas, 0 retiradas, 27 reconfirmadas, 1 corregida).** Asumidas (cartel ámbar): **0**. Sin verificar hace más de 10 días: **321** (ayer 358).

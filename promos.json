@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18",
+  "actualizado": "2026-10-19",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -4240,6 +4240,12 @@
           "nivel": 1,
           "fecha": "2026-10-18",
           "nota": "catálogo completo de la API del banco: igual a lo cargado (día, %, cuotas y tope)"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: Banco Ciudad hasta 18 cuotas, del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ]
     },
@@ -5447,7 +5453,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-05",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5496,6 +5502,12 @@
           "nivel": 3,
           "fecha": "2026-10-05",
           "nota": "listado de MODO 5/10, sección \"Promos de financiación\": \"9 cuotas sin interés en Frávega online\" (solo el título)."
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: MODO hasta 12 cuotas, del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ]
     },
@@ -5767,7 +5779,7 @@
       "vigencia_desde": "2026-04-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5804,6 +5816,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "tope_publicado": true
@@ -6147,7 +6165,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.naranjax.com/promociones",
-      "verificado": "2026-10-14",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6262,6 +6280,12 @@
           "nivel": 1,
           "fecha": "2026-10-14",
           "nota": "Naranja X 14/10: 'Hasta 14 cuotas | Fravega'"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: Naranja X hasta 14 cuotas, del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ]
     },
@@ -13805,7 +13829,7 @@
       "vigencia_desde": "2026-02-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.modo.com.ar/promos/20-comafi-changomas-feb26",
-      "verificado": "2026-10-15",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13854,6 +13878,12 @@
           "nivel": 2,
           "fecha": "2026-10-15",
           "nota": "ChangoMás 15/10: martes 20% débito Visa y crédito Visa/Mastercard, tope $12.000 semanal (Único Black $15.000) (CMF)"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: martes 20% MODO, tope semanal $12.000 ($15.000 Único/Black), 04/08 al 31/10/2026"
         }
       ]
     },
@@ -14212,7 +14242,7 @@
       "vigencia_hasta": "2026-12-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
@@ -14248,6 +14278,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "tope_publicado": true
@@ -16925,9 +16961,9 @@
       ],
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
-      "verificado": "2026-10-15",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "icbc-changomas-jueves-general",
@@ -16982,6 +17018,12 @@
           "nivel": 2,
           "fecha": "2026-10-15",
           "nota": "ChangoMás 15/10: jueves 20% crédito y débito, tope $10.000 semanal, 01/07 al 31/12/2026 (IC3)"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: ChangoMás e Hiper ChangoMás jueves por MODO, GENERAL 20% tope $10.000 por semana (sueldo $15.000), vigencia 01/10 al 31/12/2026 (coincide con masonline: hasta 31/12)"
         }
       ]
     },
@@ -18232,7 +18274,7 @@
       "vigencia_desde": "2026-08-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18303,6 +18345,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: Diarco Barrio y Mayorista, lunes a viernes 20% MODO, tope semanal $15.000, 03/08 al 31/10/2026"
         }
       ],
       "tope_publicado": true
@@ -27120,7 +27168,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2027-01-31",
       "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "id": "cuotas-icbc-sodimac-6",
       "medio": "icbc",
@@ -27169,6 +27217,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura del 12/10: SODIMAC todos los días, hasta 6 cuotas sin interés Visa/Master, vigencia 01/10/2026 al 31/01/2027 (antes hasta 31/10)"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ]
     },
@@ -27753,7 +27807,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "icbc-coto-martes-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -27798,6 +27852,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -27992,7 +28052,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "icbc-la-anonima-jueves-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -28037,6 +28097,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): LA ANONIMA jueves 20% débito vía MODO, tope $15.000 por semana, 01/10 al 31/12/2026"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -28047,7 +28113,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "icbc-the-food-market-jue-dom-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -28096,6 +28162,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): THE FOOD MARKET jueves a domingo, GENERAL 20% + 3 cuotas, tope $15.000 por semana, vía MODO, 01/10/2026 al 31/03/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -28106,7 +28178,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "icbc-paladini-viernes-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -28151,6 +28223,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -28161,7 +28239,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "icbc-ypf-martes-sueldo-15",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -28206,6 +28284,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): YPF martes 15%, tope $15.000 por cuenta por mes, exclusivo sueldo en ICBC, vía MODO, 01/10 al 31/10/2026"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -28216,7 +28300,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "icbc-farmacity-gtl-simplicity-viernes-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -28264,6 +28348,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): FARMACITY.COM, GET THE LOOK y SIMPLICITY viernes 20% + 3 cuotas, tope $6.000 por semana, vía MODO, 01/10/2026 al 31/03/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -28331,7 +28421,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "icbc-farmaplus-jue-dom-online-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -28380,6 +28470,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): FARMAPLUS jueves a domingo 20% + 3 cuotas, online, 01/10/2026 al 31/01/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -28390,7 +28486,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "icbc-perfumerias-10",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -28443,6 +28539,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): JULERIAQUE y PARFUMERIE siguen todos los días 10% + 6 cuotas vía MODO (01/10/2026 al 31/01/2027). ROUGE, MAC y BEAUTY 24 quedan solo 16 y 17/10 (Día de la Madre); LA PRAIRIE y CREED ya no están (vencían 30/09)"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -28453,7 +28555,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "icbc-heladerias-modo-30",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -28507,6 +28609,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -28579,7 +28687,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "icbc-chocorisimo-guapaletas-persicco-30",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -28632,6 +28740,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -28642,7 +28756,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-17",
+      "verificado": "2026-10-18",
       "id": "comafi-coto-martes-30",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28717,6 +28831,12 @@
           "nivel": 2,
           "fecha": "2026-10-17",
           "nota": "Coto 17/10: la misma tarjeta de 35% Comafi por MODO, sin tope, sucursales, martes"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: Coto martes 35% (25% MODO + 10% Comafi), 06/10 al 31/10/2026, sin tope publicado"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28727,7 +28847,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "comafi-makro-miercoles-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28772,6 +28892,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura del 12/10: Makro miércoles 20% MODO, tope semanal $15.000, desde 02/09 hasta 31/10/2026 (teníamos hasta 30/11: corregido)"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: miércoles 20% MODO, tope semanal $15.000, 02/09 al 31/10/2026"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28782,7 +28908,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "comafi-axion-lunes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28827,6 +28953,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: lunes 20% MODO, tope semanal $6.000 ($10.000 Único/Black), 07/09 al 30/11/2026"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28837,7 +28969,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "comafi-ypf-sabado-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28882,6 +29014,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: sábados 20% MODO, tope semanal $6.000 ($10.000 Único/Black), 05/09 al 30/11/2026"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28892,7 +29030,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "comafi-shell-domingo-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28937,6 +29075,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: domingos 20% MODO, tope semanal $6.000 ($10.000 Único/Black), 06/09 al 30/11/2026"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28947,7 +29091,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "comafi-puma-viernes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28992,6 +29136,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: viernes 20% MODO, tope semanal $6.000 ($10.000 Único/Black), 04/09 al 30/11/2026"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -29002,7 +29152,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "comafi-farmacity-viernes-15",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -29048,6 +29198,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: Farmacity y farmacity.com viernes 15% + 3 cuotas MODO, tope mensual $10.000, 07/08 al 31/12/2026"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -29058,7 +29214,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "comafi-simplicity-gtl-viernes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -29105,6 +29261,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10: GET THE LOOK (desde 07/08) y SIMPLICITY (desde 02/10) los viernes 20% + 3 cuotas vía MODO, crédito Visa/Mastercard Comafi, tope mensual $10.000, hasta 31/12/2026"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: Simplicity (02/10 al 31/12) y Get The Look (07/08 al 31/12) viernes 20% + 3 cuotas MODO, tope mensual $10.000"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -29115,7 +29277,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "comafi-cinemacenter-50",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -29166,6 +29328,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: 50% todos los días, tope mensual $12.000, 01/08 al 31/10/2026"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -29176,7 +29344,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-18",
       "id": "comafi-restaurantes-sabado-premium-30",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -29215,6 +29383,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: Restaurantes sábados 30% MODO (+5% Mastercard), tope mensual $40.000 ($50.000 Único/Black), 01/08 al 31/10/2026"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -29225,7 +29399,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "comafi-petshops-mar-jue-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -29276,6 +29450,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: Delivery Pet Food, Natural Life, Leocan, Zoocopet: martes a jueves 20% + 3 cuotas MODO, tope mensual $20.000, 01/09 al 30/11/2026"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -29286,7 +29466,7 @@
       "tope_periodo": "semanal",
       "zona": "San Luis",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "comafi-aiello-viernes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -29331,6 +29511,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: viernes 20% MODO, tope semanal $10.000, 07/08 al 31/10/2026"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -29341,7 +29527,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "cuotas-bbva-fravega-12",
       "medio": "bbva",
       "medio_nombre": "BBVA",
@@ -29392,6 +29578,12 @@
           "nivel": 2,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10: \"Promoción BBVA: HASTA 12 CUOTAS SIN INTERÉS (válida del 01/10/2026 al 31/10/2026)\", productos seleccionados"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: BBVA hasta 12 cuotas (con MODO), del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/"
@@ -29402,7 +29594,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "cuotas-galicia-fravega-12",
       "medio": "galicia",
       "medio_nombre": "Banco Galicia",
@@ -29453,6 +29645,12 @@
           "nivel": 2,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10: \"Promoción GALICIA: HASTA 12 CUOTAS SIN INTERÉS (válida del 01/10/2026 al 31/10/2026)\", productos seleccionados"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: Galicia hasta 12 cuotas, del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/"
@@ -29463,7 +29661,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-18",
       "id": "cuotas-macro-fravega-12",
       "medio": "macro",
       "medio_nombre": "Banco Macro",
@@ -29514,6 +29712,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "API del banco 13/10: FRAVEGA | Electro y Tecnologia | 2 a 12 cuotas sin interés | todos los días | General | TC"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: Macro hasta 12 cuotas, del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/"
@@ -29524,7 +29728,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "cuotas-santander-fravega-12",
       "medio": "santander",
       "medio_nombre": "Santander",
@@ -29575,6 +29779,12 @@
           "nivel": 2,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10: \"Promoción SANTANDER: HASTA 12 CUOTAS SIN INTERÉS (válida del 01/10/2026 al 31/10/2026)\", productos seleccionados"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: Santander hasta 12 cuotas, del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/"
@@ -29585,7 +29795,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-13",
+      "verificado": "2026-10-18",
       "id": "cuotas-credicoop-fravega-12",
       "medio": "credicoop",
       "medio_nombre": "Banco Credicoop",
@@ -29636,6 +29846,12 @@
           "nivel": 1,
           "fecha": "2026-10-13",
           "nota": "Credicoop 13/10: tarjeta \"Electro | Hasta 12 cuotas\", todos los días, slug Fravega_12-cuotas-todos-los-dias-CABAL-MODO"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: Credicoop (Cabal) hasta 12 cuotas, del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/"
@@ -29646,7 +29862,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "cuotas-patagonia-fravega-12",
       "medio": "patagonia",
       "medio_nombre": "Banco Patagonia",
@@ -29697,6 +29913,12 @@
           "nivel": 2,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10: \"Promoción PATAGONIA: HASTA 12 CUOTAS SIN INTERÉS (válida del 01/10/2026 al 31/10/2026)\", productos seleccionados"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: Patagonia hasta 12 cuotas, del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/"
@@ -29707,7 +29929,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "cuotas-san_juan-fravega-12",
       "medio": "san_juan",
       "medio_nombre": "Banco San Juan",
@@ -29758,6 +29980,12 @@
           "nivel": 2,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10: \"Promoción BANCO DE SAN JUAN: HASTA 12 CUOTAS SIN INTERÉS (válida del 01/10/2026 al 31/10/2026)\", productos seleccionados"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: Banco San Juan hasta 12 cuotas, del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/"
@@ -29768,7 +29996,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "cuotas-santa_fe-fravega-12",
       "medio": "santa_fe",
       "medio_nombre": "Banco Santa Fe",
@@ -29819,6 +30047,12 @@
           "nivel": 2,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10: \"Promoción BANCO DE SANTA FE: HASTA 12 CUOTAS SIN INTERÉS (válida del 01/10/2026 al 31/10/2026)\", productos seleccionados"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: Banco Santa Fe hasta 12 cuotas, del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/"
@@ -29829,7 +30063,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "cuotas-santa_cruz-fravega-12",
       "medio": "santa_cruz",
       "medio_nombre": "Banco Santa Cruz",
@@ -29880,6 +30114,12 @@
           "nivel": 2,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10: \"Promoción BANCO DE SANTA CRUZ: HASTA 12 CUOTAS SIN INTERÉS (válida del 01/10/2026 al 31/10/2026)\", productos seleccionados"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: Banco Santa Cruz hasta 12 cuotas, del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/"
@@ -29890,7 +30130,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "id": "corrientes-fravega-viernes-10",
       "medio": "corrientes",
       "medio_nombre": "Banco de Corrientes",
@@ -29936,6 +30176,12 @@
           "nivel": 2,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10: Banco de Corrientes 10% OFF y hasta 6 cuotas sin interés, solo viernes, crédito Visa del banco, sin tope de reintegro, 01/10 al 31/10/2026"
+        },
+        {
+          "url": "https://www.fravega.com/e/promociones/",
+          "nivel": 2,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10, legales de Frávega: Banco de Corrientes viernes 10% + 6 cuotas, Visa crédito, sin tope, del 01/10 al 31/10/2026 (iguales a los del 12/10)"
         }
       ],
       "fuente": "https://www.fravega.com/e/promociones/"
@@ -30216,7 +30462,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30249,6 +30495,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): KROMACOLOR todos los días 25% + 6 cuotas, 01/10/2026 al 31/01/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-kromacolor-25",
@@ -30278,7 +30530,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30311,6 +30563,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): AMBITO, CENTRO PINTURERIAS y PUNTO PINTURA todos los días 20% + 3 cuotas, 01/10/2026 al 31/01/2027. COLORSHOP ya no está (vencía 30/09)"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-pinturerias-20-3c",
@@ -30342,7 +30600,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30375,6 +30633,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): LA CARDEUSE todos los días 20% + 6 cuotas, 01/10/2026 al 31/01/2027 (aparte, 16 y 17/10 Día de la Madre 25%)"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-la-cardeuse-20",
@@ -30404,7 +30668,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30437,6 +30701,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): SIMMONS, SIMMONS CASA y BELMO todos los días 10% + 6 cuotas, 01/10 al 31/10/2026"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-colchones-10-6c",
@@ -30468,7 +30738,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30501,6 +30771,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): SIMMONS, SIMMONS CASA, BELMO 12 cuotas al 31/10/2026; ESSEN ALUMINIO 12 cuotas al 31/01/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-colchones-12",
@@ -30533,7 +30809,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30566,6 +30842,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): PINTURERÍAS PISANO, REX y PRESTIGIO todos los días 9 cuotas, 01/10/2026 al 31/01/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-pinturerias-9",
@@ -30597,7 +30879,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30630,6 +30912,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): WHIRLPOOL STORE, KITCHENAID STORE, HP 9 cuotas todos los días; GARMIN 9 cuotas (viernes además 20%), 01/10/2026 al 31/01/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-electro-hogar-9",
@@ -30702,7 +30990,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30735,6 +31023,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-paruolo-viernes-15",
@@ -30758,7 +31052,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30791,6 +31085,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-adidas-online-martes-25",
@@ -30814,7 +31114,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30847,6 +31147,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): REVER PASS jueves 25% + 6 cuotas, 01/10/2026 al 31/01/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-rever-pass-jueves-25",
@@ -30870,7 +31176,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30903,6 +31209,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): viernes GENERAL 15% + 6 cuotas tope $30.000 por transacción: TOPPER y SPORT 78 (al 30/10), EQUUS, DEVRE, MACOWENS (al 31/01/2027). CROCS, CHELSEA SNEAKERS, SEVEN SPORT, TOP SPORT y EXIT SKATE SHOP ya no están (vencían 30/09)"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-moda-viernes-15-6c",
@@ -30930,7 +31242,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -30963,6 +31275,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-la-pinta-viernes-15",
@@ -30986,7 +31304,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31019,6 +31337,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): NIKE, DEXTER, MOOV, STOCK CENTER, SALOMON, WILSON todos los días 9 cuotas, 01/10/2026 al 31/03/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-deportivas-9",
@@ -31053,7 +31377,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31086,6 +31410,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): ADIDAS, PUMA, DECATHLON (al 31/10), RAPSODIA, MARIA CHER (al 30/11), CHAMPION, UNDER ARMOUR, MIZUNO todos los días 6 cuotas"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-indumentaria-6",
@@ -31123,7 +31453,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31156,6 +31486,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): SKECHERS sábado y domingo 9 cuotas, 01/10/2026 al 31/03/2027. HEY DUDE ya no está (vencía 30/09)"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-skechers-hey-dude-finde-9",
@@ -31180,7 +31516,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31213,6 +31549,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): BABY COTTONS y CARO CUORE todos los días HASTA 6 cuotas (antes 3), 01/10/2026 al 31/03/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-baby-cottons-caro-cuore-3",
@@ -31243,7 +31585,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31276,6 +31618,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): GARMIN viernes 20% + 9 cuotas, 01/10/2026 al 31/01/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-garmin-viernes-20",
@@ -31299,7 +31647,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31332,6 +31680,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-music-house-jueves-15",
@@ -31355,7 +31709,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31388,6 +31742,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-fravega-9",
@@ -31417,7 +31777,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31450,6 +31810,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): MOTOROLA hasta 9 cuotas y PHI-DIGITAL 6 cuotas, todos los días, 01/10/2026 al 31/01/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-tecnologia-online-6",
@@ -31480,7 +31846,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31513,6 +31879,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): COMPRAGAMER todos los días 12 cuotas, 01/09/2026 al 30/09/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-compragamer-12",
@@ -31542,7 +31914,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31575,6 +31947,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-honor-9",
@@ -31604,7 +31982,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31637,6 +32015,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): CÚSPIDE, ESTACION LIBRO y ETERNA CADENCIA 3 cuotas todos los días (01/10/2026 al 31/03/2027). EL ATENEO y YENNY pasaron a 10% + 6 cuotas: van en su propia promo"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-librerias-3",
@@ -31731,7 +32115,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31764,6 +32148,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-jugueterias-viernes-15",
@@ -31792,7 +32182,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31825,6 +32215,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): CRECIENDO lunes y jueves, GENERAL 20% + 6 cuotas tope $30.000 por mes, 01/10/2026 al 31/03/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-creciendo-lun-jue-20",
@@ -31849,7 +32245,7 @@
       "tope_publicado": true,
       "zona": "CABA",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -31882,6 +32278,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-malba-entradas-20",
@@ -31972,7 +32374,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -32005,6 +32407,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): SHOPGALLERY WEB todos los días 10% + 6 cuotas, tope $30.000 por transacción, 01/10/2026 al 31/01/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-shopgallery-online-10",
@@ -32034,7 +32442,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -32067,6 +32475,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): TICKETWAY todos los días 3 cuotas, al 31/12/2026. PASSLINE ya no está (vencía 30/09)"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-entradas-3",
@@ -32096,7 +32510,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -32129,6 +32543,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): BRIDGESTONE ARGENTINA todos los días 9 cuotas, 01/10/2026 al 31/03/2027. PIRELLI y MICHELIN ya no están (vencían 30/09)"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-neumaticos-9",
@@ -32158,7 +32578,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -32191,6 +32611,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-puppis-lun-mie-20",
@@ -32215,7 +32641,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -32248,6 +32674,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-natural-life-lun-vie-20",
@@ -32272,7 +32704,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -32305,6 +32737,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-pet-company-20",
@@ -32330,7 +32768,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -32363,6 +32801,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-zoocopet-25",
@@ -32392,7 +32836,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -32425,6 +32869,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-delivery-pet-food-lunes-20",
@@ -32448,7 +32898,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -32481,6 +32931,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "icbc-leocan-mar-vie-10",
@@ -32505,7 +32961,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32544,6 +33000,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: Rappi domingo a viernes 30% (solo Único/Black), tope mensual $30.000, 02/08 al 31/10/2026"
         }
       ],
       "id": "comafi-rappi-unico-30",
@@ -32571,7 +33033,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32604,6 +33066,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: todos los días 20% MODO, tope mensual $30.000, 01/08 al 31/10/2026"
         }
       ],
       "id": "comafi-atalaya-20",
@@ -32632,7 +33100,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32665,6 +33133,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10: FARMACITY, FARMACITY.COM, GET THE LOOK y SIMPLICITY todos los días hasta 3 cuotas con crédito Visa/Mastercard Comafi, hasta 31/12/2026"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: Farmacity, farmacity.com, Get The Look y Simplicity: 3 cuotas todos los días, hasta 31/12/2026"
         }
       ],
       "id": "cuotas-comafi-farmacity-3",
@@ -32697,7 +33171,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32730,6 +33204,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: 3 cuotas todos los días, 01/09 al 30/11/2026"
         }
       ],
       "id": "cuotas-comafi-soy-tu-farmacia-3",
@@ -32759,7 +33239,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-09-27",
+      "verificado": "2026-10-18",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32786,6 +33266,12 @@
           "nivel": 1,
           "fecha": "2026-09-27",
           "nota": "lectura desde casa del 27/9 (todos los rubros): la entrada del banco sigue igual que el 25/9 en día, %, tope, medios y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: Makro 3 cuotas todos los días, 01/09 al 31/10/2026: volvió a aparecer (en la lectura del 12/10 no estaba)"
         }
       ],
       "id": "cuotas-comafi-makro-3",
@@ -32815,7 +33301,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32848,6 +33334,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: 6 cuotas todos los días, 01/08 al 31/10/2026"
         }
       ],
       "id": "cuotas-comafi-decathlon-6",
@@ -32877,7 +33369,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32910,6 +33402,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: 6 cuotas todos los días (9 Único/Black), 01/08 al 31/10/2026"
         }
       ],
       "id": "cuotas-comafi-compragamer-6",
@@ -32939,7 +33437,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -32972,6 +33470,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: 6 cuotas todos los días (9 Único/Black), 01/08 al 31/10/2026"
         }
       ],
       "id": "cuotas-comafi-multitravel-6",
@@ -33557,7 +34061,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "medio": "icbc",
       "medio_nombre": "ICBC",
       "fuentes": [
@@ -33584,6 +34088,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ],
       "id": "cuotas-icbc-bidcom-gadnic-9",
@@ -34922,7 +35432,7 @@
       "vigencia_desde": "2026-09-15",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -34942,6 +35452,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 (catálogo completo): misma entrada en día, %, tope y vigencia"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10: martes a jueves 20% + 3 cuotas MODO, tope mensual $20.000, 15/09 al 30/11/2026"
         }
       ]
     },
@@ -35789,7 +36305,7 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2027-03-31",
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super",
-      "verificado": "2026-10-12",
+      "verificado": "2026-10-18",
       "confianza": "alta",
       "fuentes": [
         {
@@ -35797,6 +36313,12 @@
           "nivel": 1,
           "fecha": "2026-10-12",
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo, 437 entradas, 12 rubros): EL ATENEO y YENNY todos los días 10% + hasta 6 cuotas crédito, 10% débito, SIN TOPE DE REINTEGRO, República Argentina, 01/10/2026 al 31/03/2027"
+        },
+        {
+          "url": "https://www.beneficios.icbc.com.ar/promo/super",
+          "nivel": 1,
+          "fecha": "2026-10-18",
+          "nota": "lectura desde casa del 18/10 (API completa, 12 rubros): misma tarjeta que la cargada en día, %, cuotas y tope del segmento GENERAL"
         }
       ]
     },
