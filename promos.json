@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19",
+  "actualizado": "2026-10-20",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -11772,7 +11772,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2027-03-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -11815,6 +11815,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: miércoles de octubre 2026 | 15% tope $10.000 por mes (Clásica)"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Carrefour miércoles 01/04/2026 al 31/03/2027: Clásica 15% tope $10.000 (Plus 20% $15.000, Singular 30% $20.000). Igual."
         }
       ]
     },
@@ -13829,7 +13835,7 @@
       "vigencia_desde": "2026-02-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.modo.com.ar/promos/20-comafi-changomas-feb26",
-      "verificado": "2026-10-18",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -13884,6 +13890,12 @@
           "nivel": 1,
           "fecha": "2026-10-18",
           "nota": "lectura desde casa del 18/10: martes 20% MODO, tope semanal $12.000 ($15.000 Único/Black), 04/08 al 31/10/2026"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado de Comafi 20/10 leído desde GitHub (solo títulos, sin legal): \"Changomas 20% MODO los martes\". Igual que la lectura completa del 18/10."
         }
       ]
     },
@@ -15131,7 +15143,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "id": "brubank-axion-30",
       "rubro": "combustible",
@@ -15198,6 +15210,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "página de beneficios de Brubank del 1/10: \"30% de reintegro | Axion Energy | Tope $6.000 | Todos los días\""
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 30% en Axion Energy, todos los días, tope $6.000. Igual."
         }
       ]
     },
@@ -15210,7 +15228,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "id": "brubank-ypf-lunes-10",
       "rubro": "combustible",
@@ -15271,6 +15289,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "página de beneficios de Brubank del 1/10: \"10% de reintegro | App YPF | Tope $6.000 | Todos los lunes\""
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 10% en YPF, lunes, tope $6.000. Igual."
         }
       ]
     },
@@ -15283,7 +15307,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "id": "brubank-farmacity-30",
       "rubro": "farmacia",
@@ -15350,6 +15374,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "página de beneficios de Brubank del 1/10: \"30% de reintegro | Farmacity | Tope $6.000 | Todos los días\""
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 30% en Farmacity, todos los días, tope $6.000. Igual."
         }
       ]
     },
@@ -15362,7 +15392,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "id": "brubank-cabify-40",
       "rubro": "transporte",
@@ -15429,6 +15459,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "página de beneficios de Brubank del 1/10: \"40% de reintegro | Cabify | Tope $6.000 | Todos los días\""
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 40% en Cabify, todos los días, tope $6.000. Igual."
         }
       ]
     },
@@ -15441,7 +15477,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "id": "brubank-taxi-premium-40",
       "rubro": "transporte",
@@ -15508,6 +15544,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "página de beneficios de Brubank del 1/10: \"40% de reintegro | Taxi Premium | Tope $6.000 | Todos los días\""
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 40% en Taxi Premium, todos los días, tope $6.000. Igual."
         }
       ]
     },
@@ -15520,7 +15562,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "id": "brubank-burger-king-30",
       "rubro": "gastronomia",
@@ -15587,6 +15629,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "página de beneficios de Brubank del 1/10: \"30% de reintegro | Burger King | Tope $6.000 | Todos los días\""
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 30% en Burger King, todos los días, tope $6.000. Igual."
         }
       ]
     },
@@ -15599,7 +15647,7 @@
       "tope_monto": 6000,
       "tope_periodo": "mensual",
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "id": "brubank-freddo-40",
       "rubro": "gastronomia",
@@ -15666,6 +15714,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "página de beneficios de Brubank del 1/10: \"40% de reintegro | Freddo | Tope $6.000 | Todos los días\""
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 40% en Freddo, todos los días, tope $6.000. Igual."
         }
       ]
     },
@@ -17970,7 +18024,7 @@
       "vigencia_desde": "2026-04-04",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18022,6 +18076,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Disco y Jumbo sábados 04/04 al 31/10/2026 | Singular 30% tope $20.000 (Vea no figura)"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Disco y Jumbo sábados 04/04 al 31/10/2026: Singular 30% tope $20.000. Igual."
         }
       ]
     },
@@ -18274,7 +18334,7 @@
       "vigencia_desde": "2026-08-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-10-18",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18351,6 +18411,12 @@
           "nivel": 1,
           "fecha": "2026-10-18",
           "nota": "lectura desde casa del 18/10: Diarco Barrio y Mayorista, lunes a viernes 20% MODO, tope semanal $15.000, 03/08 al 31/10/2026"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado de Comafi 20/10 leído desde GitHub (solo títulos, sin legal): \"Diarco Barrio y Diarco Mayorista 20% MODO de lunes a viernes\". Igual que la lectura completa del 18/10."
         }
       ],
       "tope_publicado": true
@@ -18446,7 +18512,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18481,6 +18547,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Ultra: \"40% | Rapanui | Tope de reintegro: $6.000 | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 40% en Rapanui, todos los días, tope $6.000. Igual."
         }
       ]
     },
@@ -18510,7 +18582,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18545,6 +18617,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Ultra: \"50% | Cerini | Tope de reintegro: $50.000 | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 50% en Cerini, todos los días, tope $50.000. Igual."
         }
       ]
     },
@@ -18574,7 +18652,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18609,6 +18687,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Ultra: \"40% | Le Pain Quotidien | Tope de reintegro: $6.000 | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 40% en Le Pain Quotidien, todos los días, tope $6.000. Igual."
         }
       ]
     },
@@ -18638,7 +18722,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18673,6 +18757,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Ultra: \"30% | Simplicity | Tope de reintegro: $6.000 | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 30% en Simplicity, todos los días, tope $6.000. Igual."
         }
       ]
     },
@@ -18698,7 +18788,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18733,6 +18823,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"20% | Axion Energy | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 20% en Axion Energy, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -18758,7 +18854,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18805,6 +18901,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Burger King | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Burger King, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -18830,7 +18932,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18865,6 +18967,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Cabify | sin tope publicado | Viernes, sábados y domingos.\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Cabify, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -18890,7 +18998,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18925,6 +19033,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Cervelar | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Cervelar, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -18954,7 +19068,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18989,6 +19103,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"50% | Cerini | sin tope publicado | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 50% en Cerini, todos los días. Igual."
         }
       ]
     },
@@ -19014,7 +19134,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19049,6 +19169,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Farmacity | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Farmacity, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -19074,7 +19200,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19109,6 +19235,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Le Pain Quotidien | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Le Pain Quotidien, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -19134,7 +19266,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19169,6 +19301,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Simplicity | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Simplicity, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -19192,7 +19330,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19227,6 +19365,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"10% | App YPF | sin tope publicado | Lunes\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 10% en App YPF, lunes. Igual."
         }
       ]
     },
@@ -19252,7 +19396,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19287,6 +19431,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Rapanui | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Rapanui, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -19316,7 +19466,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19351,6 +19501,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"40% | Taxi Premium | sin tope publicado | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 40% en Taxi Premium, todos los días. Igual."
         }
       ]
     },
@@ -19374,7 +19530,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19409,6 +19565,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"10% | Axion Energy | sin tope publicado | Martes\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 10% en Axion Energy, martes. Igual."
         }
       ]
     },
@@ -19433,7 +19595,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19480,6 +19642,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | Burger King | sin tope publicado | Lunes y viernes\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 20% en Burger King, lunes, viernes. Igual."
         }
       ]
     },
@@ -19503,7 +19671,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19538,6 +19706,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | Cervelar | sin tope publicado | Miércoles\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 20% en Cervelar, miercoles. Igual."
         }
       ]
     },
@@ -19567,7 +19741,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19602,6 +19776,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"30% | Taxi Premium | sin tope publicado | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 30% en Taxi Premium, todos los días. Igual."
         }
       ]
     },
@@ -19625,7 +19805,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19660,6 +19840,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | Farmacity | sin tope publicado | Viernes\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 20% en Farmacity, viernes. Igual."
         }
       ]
     },
@@ -19683,7 +19869,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19718,6 +19904,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | LPQ | sin tope publicado | Miércoles\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 20% en Le Pain Quotidien, miercoles. Igual."
         }
       ]
     },
@@ -19741,7 +19933,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19776,6 +19968,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | Simplicity | sin tope publicado | Viernes\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 20% en Simplicity, viernes. Igual."
         }
       ]
     },
@@ -19799,7 +19997,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19834,6 +20032,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"10% | App YPF | sin tope publicado | Lunes\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 10% en App YPF, lunes. Igual."
         }
       ]
     },
@@ -19857,7 +20061,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19892,6 +20096,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | Freddo | sin tope publicado | Miércoles\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 20% en Freddo, miercoles. Igual."
         }
       ]
     },
@@ -19915,7 +20125,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19945,6 +20155,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | Rapanui | sin tope publicado | Miércoles\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 20% en Rapanui, miercoles. Igual."
         }
       ]
     },
@@ -19973,7 +20189,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -20003,6 +20219,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Ultra: \"30% | The Food Market | Tope de reintegro: $6.000 | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 30% en The Food Market, todos los días, tope $6.000. Igual."
         }
       ]
     },
@@ -20028,7 +20250,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -20058,6 +20280,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Get The Look | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Get The Look, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -20083,7 +20311,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -20113,6 +20341,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | The Food Market | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en The Food Market, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -20192,7 +20426,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -20222,6 +20456,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"50% | Kusta Barber | sin tope publicado | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 50% en Kusta Barber, todos los días. Igual."
         }
       ]
     },
@@ -20247,7 +20487,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -20277,6 +20517,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Deniro | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Deniro, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -20302,7 +20548,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -20332,6 +20578,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Molina | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Molina, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -20358,7 +20610,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -20388,6 +20640,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"30% | Eyelit | sin tope publicado | Jueves a domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 30% en Eyelit, jueves, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -20411,7 +20669,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -20441,6 +20699,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | Get The Look | sin tope publicado | Viernes\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 20% en Get The Look, viernes. Igual."
         }
       ]
     },
@@ -20465,7 +20729,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -20495,6 +20759,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"15% | Mala Peluquería | sin tope publicado | Domingo y lunes\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 15% en Mala Peluquería, domingo, lunes. Igual."
         }
       ]
     },
@@ -20518,7 +20788,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -20543,6 +20813,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | The Food Market | sin tope publicado | Viernes\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 20% en The Food Market, viernes. Igual."
         }
       ]
     },
@@ -20726,7 +21002,7 @@
       "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, todos los días.",
       "zona": "Nacional",
       "vigencia_desde": null,
-      "vigencia_hasta": null,
+      "vigencia_hasta": "2026-10-05",
       "fuente": "https://www.brubank.com/beneficios",
       "verificado": "2026-09-29",
       "confianza": "alta",
@@ -20759,7 +21035,8 @@
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | Nic | sin tope publicado | Todos los días\". Igual."
         }
-      ]
+      ],
+      "baja_motivo": "Brubank la sacó de su página de beneficios: estaba hasta la lectura del 5/10 y desde el 6/10 no figura más (15 lecturas seguidas, página completa)."
     },
     {
       "id": "brubank-deniro-one-miercoles-20",
@@ -20781,7 +21058,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -20811,6 +21088,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | Deniro | sin tope publicado | Miércoles\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 20% en Deniro, miercoles. Igual."
         }
       ]
     },
@@ -20834,7 +21117,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -20864,6 +21147,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | Molina | sin tope publicado | Miércoles\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 20% en Molina, miercoles. Igual."
         }
       ]
     },
@@ -20891,7 +21180,7 @@
       "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, todos los días.",
       "zona": "Nacional",
       "vigencia_desde": null,
-      "vigencia_hasta": null,
+      "vigencia_hasta": "2026-10-05",
       "fuente": "https://www.brubank.com/beneficios",
       "verificado": "2026-09-29",
       "confianza": "alta",
@@ -20924,7 +21213,8 @@
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"45% | Educación IT | sin tope publicado | Todos los días\". Igual."
         }
-      ]
+      ],
+      "baja_motivo": "Brubank la sacó de su página de beneficios: estaba hasta la lectura del 5/10 y desde el 6/10 no figura más (15 lecturas seguidas, página completa)."
     },
     {
       "id": "brubank-bairesit-one-15",
@@ -20950,7 +21240,7 @@
       "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, todos los días.",
       "zona": "Nacional",
       "vigencia_desde": null,
-      "vigencia_hasta": null,
+      "vigencia_hasta": "2026-10-05",
       "fuente": "https://www.brubank.com/beneficios",
       "verificado": "2026-09-29",
       "confianza": "alta",
@@ -20983,7 +21273,8 @@
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"15% | Baires IT | sin tope publicado | Todos los días\". Igual."
         }
-      ]
+      ],
+      "baja_motivo": "Brubank la sacó de su página de beneficios: estaba hasta la lectura del 5/10 y desde el 6/10 no figura más (15 lecturas seguidas, página completa)."
     },
     {
       "id": "brubank-lossiloshotel-one-10",
@@ -21011,7 +21302,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -21041,6 +21332,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"10% | Los Silos Hotel | sin tope publicado | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 10% en Los Silos Hotel, todos los días. Igual."
         }
       ]
     },
@@ -21070,7 +21367,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -21100,6 +21397,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"10% | Melincue Resort | sin tope publicado | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 10% en Melincue Resort, todos los días. Igual."
         }
       ]
     },
@@ -21129,7 +21432,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -21159,6 +21462,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"10% | Biomac | sin tope publicado | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 10% en Biomac, todos los días. Igual."
         }
       ]
     },
@@ -21182,7 +21491,7 @@
       "vigencia_desde": "2026-04-04",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -21229,6 +21538,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Disco y Jumbo sábados al 31/10/2026, plan sueldo y jubilados | 35% tope $25.000 (Vea no figura)"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Disco y Jumbo sábados 04/04 al 31/10/2026, plan sueldo y jubilados: Singular 35% tope $25.000. Igual."
         }
       ]
     },
@@ -21252,7 +21567,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -21299,6 +21614,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Disco y Jumbo viernes 05/06 al 31/10/2026 | 30% tope $40.000 (Vea no figura)"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Disco y Jumbo viernes 05/06 al 31/10/2026: Singular 30% tope $40.000. Igual."
         }
       ]
     },
@@ -21324,7 +21645,7 @@
       "vigencia_desde": null,
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -21349,6 +21670,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Freddo | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Freddo, viernes, sabado, domingo. Igual."
         }
       ]
     },
@@ -25209,7 +25536,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-06-05",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "supermercados",
       "comercios": [
@@ -25249,6 +25576,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Disco y Jumbo viernes al 31/10/2026 | 25% tope $20.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Disco y Jumbo viernes 05/06 al 31/10/2026: Clásica/Plus 25% tope $20.000. Igual."
         }
       ]
     },
@@ -25259,7 +25592,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-07",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "supermercados",
       "comercios": [
@@ -25298,6 +25631,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "La Anónima lunes 07/09 al 31/12/2026, NFC | 30% tope $20.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: La Anónima lunes, exclusivo NFC, 07/09 al 31/12/2026: 30% tope $20.000. Igual."
         }
       ]
     },
@@ -25308,7 +25647,7 @@
       "zona": "Río Negro",
       "vigencia_desde": "2026-04-02",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "supermercados",
       "comercios": [
@@ -25347,6 +25686,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "La Anónima jueves del 02/04/2026 al 31/03/2027, exclusivo Río Negro | 15% tope $10.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercados.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: La Anónima jueves, solo Río Negro, 02/04/2026 al 31/03/2027: Clásica 15% tope $10.000. Igual."
         }
       ]
     },
@@ -25357,7 +25702,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-01-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/combustibles.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "combustible",
       "comercios": [
@@ -25396,6 +25741,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Combustible jueves 01/01 al 31/10/2026 | 20% tope $10.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/combustibles.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Combustible jueves 01/01 al 31/10/2026: Singular 20% tope $10.000. Igual."
         }
       ]
     },
@@ -25406,7 +25757,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "gastronomia",
       "comercios": [
@@ -25451,6 +25802,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Havanna todos los días al 31/12/2026, NFC | 30% tope $20.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Havanna todos los días, exclusivo NFC, 01/07 al 31/12/2026: 30% tope $20.000. Igual."
         }
       ]
     },
@@ -25461,7 +25818,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "gastronomia",
       "comercios": [
@@ -25503,6 +25860,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Freddo/Atalaya/Rapanui sáb y dom al 31/12/2026 | 15% tope $10.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Freddo, Atalaya y Rapanui sábados y domingos al 31/12/2026: Clásica/Plus 15% tope $10.000 (Singular 25% $15.000). Igual."
         }
       ]
     },
@@ -25513,7 +25876,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "gastronomia",
       "comercios": [
@@ -25558,6 +25921,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Kansas todos los días al 31/10/2026 | 15% tope $10.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Kansas todos los días al 31/10/2026: Clásica/Plus 15% tope $10.000. Igual."
         }
       ]
     },
@@ -25568,7 +25937,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "gastronomia",
       "comercios": [
@@ -25613,6 +25982,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Rock And Fellers al 31/10/2026 | 20% tope $15.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Rock And Fellers todos los días al 31/10/2026: Clásica/Plus 20% tope $15.000. Igual."
         }
       ]
     },
@@ -25623,7 +25998,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "gastronomia",
       "comercios": [
@@ -25670,6 +26045,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Negroni/Demuru/La Pulpería al 31/12/2026 | 25% tope $40.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/gastronomia.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Negroni, Demuru y La Pulpería todos los días 26/01 al 31/12/2026: Clásica/Plus 25% tope $40.000. Igual."
         }
       ]
     },
@@ -25680,7 +26061,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-01-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "indumentaria",
       "comercios": [
@@ -25725,6 +26106,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "indumentaria jueves al 31/12/2026 | 15% + 3 cuotas tope $10.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Macowens, Devre, Chelsea, Exit, Top Sport y Seven Sport jueves al 31/12/2026: Clásica/Plus 15% + hasta 3 cuotas, tope $10.000. Igual."
         }
       ]
     },
@@ -25735,7 +26122,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-03-12",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "indumentaria",
       "comercios": [
@@ -25775,6 +26162,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Adidas jueves al 31/10/2026 | 15% + 3 cuotas tope $10.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Adidas jueves 12/03 al 31/10/2026: Clásica/Plus 15% + 3 cuotas tope $10.000. Igual."
         }
       ]
     },
@@ -25785,7 +26178,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-03-13",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "indumentaria",
       "comercios": [
@@ -25825,6 +26218,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Adidas viernes Amex al 31/10/2026 | 25% tope $20.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Adidas viernes, exclusivo Amex, 13/03 al 31/10/2026: Clásica/Plus 25% + 3 cuotas tope $20.000. Igual."
         }
       ]
     },
@@ -25835,7 +26234,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-01-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "librerias",
       "comercios": [
@@ -25881,6 +26280,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Cúspide al 31/12/2026 | 10% + 3 cuotas tope $5.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Cúspide todos los días 01/01 al 31/12/2026: 10% + hasta 3 cuotas, tope $5.000. Igual."
         }
       ]
     },
@@ -25891,7 +26296,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2025-07-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "mascotas",
       "comercios": [
@@ -25936,6 +26341,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Nutrican al 31/12/2026 | 20% tope $10.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Nutrican todos los días al 31/12/2026: Clásica/Plus 20% tope $10.000. Igual."
         }
       ]
     },
@@ -25946,7 +26357,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-07-01",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "mascotas",
       "comercios": [
@@ -25985,6 +26396,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Tienda de Mascotas jueves al 31/12/2026 | 20% tope $10.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Tienda De Mascotas jueves 01/07 al 31/12/2026: Clásica/Plus 20% tope $10.000. Igual."
         }
       ]
     },
@@ -25995,7 +26412,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-04",
       "fuente": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "rubro": "espectaculos",
       "comercios": [
@@ -26034,6 +26451,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "Cines, teatros y espectáculos viernes 04/09/2026 al 31/01/2027, Visa NFC | 25% tope $15.000"
+        },
+        {
+          "url": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/modo.html",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado del banco 20/10: Cines, teatros y espectáculos viernes, Visa NFC, 04/09/2026 al 31/01/2027: 25% tope $15.000. Igual."
         }
       ]
     },
@@ -26294,7 +26717,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -26333,6 +26756,12 @@
           "nivel": 2,
           "fecha": "2026-10-06",
           "nota": "Easy 6/10, legal de la página: Patagonia, 3 cuotas presenciales, 1/9 al 31/12. Igual."
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "legal en Easy 20/10: 3 cuotas sin interés con todas las tarjetas de crédito Patagonia, 01/09 al 31/12/2026. Igual."
         }
       ]
     },
@@ -26355,7 +26784,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.easy.com.ar/medios-de-pago?type=por-dia&day=1",
-      "verificado": "2026-10-06",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -26394,6 +26823,12 @@
           "nivel": 2,
           "fecha": "2026-10-06",
           "nota": "Easy 6/10, legal de la página: Patagonia, 6 cuotas sin mínimo, presencial y online, 1/9 al 31/12. Igual."
+        },
+        {
+          "url": "https://www.easy.com.ar/medios-de-pago",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "legal en Easy 20/10: 6 cuotas sin interés con todas las tarjetas de crédito Patagonia, 01/09 al 31/12/2026. Igual."
         }
       ]
     },
@@ -28756,7 +29191,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-18",
+      "verificado": "2026-10-20",
       "id": "comafi-coto-martes-30",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28837,6 +29272,12 @@
           "nivel": 1,
           "fecha": "2026-10-18",
           "nota": "lectura desde casa del 18/10: Coto martes 35% (25% MODO + 10% Comafi), 06/10 al 31/10/2026, sin tope publicado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado de Comafi 20/10 leído desde GitHub (solo títulos, sin legal): \"Coto 35% los martes\". Igual que la lectura completa del 18/10."
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -28847,7 +29288,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-18",
+      "verificado": "2026-10-20",
       "id": "comafi-makro-miercoles-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -28898,6 +29339,12 @@
           "nivel": 1,
           "fecha": "2026-10-18",
           "nota": "lectura desde casa del 18/10: miércoles 20% MODO, tope semanal $15.000, 02/09 al 31/10/2026"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado de Comafi 20/10 leído desde GitHub (solo títulos, sin legal): \"Makro 20% MODO los miércoles\". Igual que la lectura completa del 18/10."
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -29399,7 +29846,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-18",
+      "verificado": "2026-10-20",
       "id": "comafi-petshops-mar-jue-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -29456,6 +29903,12 @@
           "nivel": 1,
           "fecha": "2026-10-18",
           "nota": "lectura desde casa del 18/10: Delivery Pet Food, Natural Life, Leocan, Zoocopet: martes a jueves 20% + 3 cuotas MODO, tope mensual $20.000, 01/09 al 30/11/2026"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado de Comafi 20/10 leído desde GitHub (solo títulos, sin legal): \"Delivery Pet Food, Natural Life, Leocan y Zoocopet 20% y cuotas MODO de martes a jueves\". Igual que la lectura completa del 18/10."
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -29466,7 +29919,7 @@
       "tope_periodo": "semanal",
       "zona": "San Luis",
       "confianza": "alta",
-      "verificado": "2026-10-18",
+      "verificado": "2026-10-20",
       "id": "comafi-aiello-viernes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -29517,6 +29970,12 @@
           "nivel": 1,
           "fecha": "2026-10-18",
           "nota": "lectura desde casa del 18/10: viernes 20% MODO, tope semanal $10.000, 07/08 al 31/10/2026"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado de Comafi 20/10 leído desde GitHub (solo títulos, sin legal): \"Aiello 20% MODO los viernes\". Igual que la lectura completa del 18/10."
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -32961,7 +33420,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-18",
+      "verificado": "2026-10-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -33006,6 +33465,12 @@
           "nivel": 1,
           "fecha": "2026-10-18",
           "nota": "lectura desde casa del 18/10: Rappi domingo a viernes 30% (solo Único/Black), tope mensual $30.000, 02/08 al 31/10/2026"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado de Comafi 20/10 leído desde GitHub (solo títulos, sin legal): \"Rappi (solo Único/Black) 30% lun a vie y domingos\". Igual que la lectura completa del 18/10."
         }
       ],
       "id": "comafi-rappi-unico-30",
@@ -33239,7 +33704,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-18",
+      "verificado": "2026-10-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -33272,6 +33737,12 @@
           "nivel": 1,
           "fecha": "2026-10-18",
           "nota": "lectura desde casa del 18/10: Makro 3 cuotas todos los días, 01/09 al 31/10/2026: volvió a aparecer (en la lectura del 12/10 no estaba)"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado de Comafi 20/10 leído desde GitHub (solo títulos, sin legal): \"Makro 3 cuotas todos los días\". Igual que la lectura completa del 18/10."
         }
       ],
       "id": "cuotas-comafi-makro-3",
@@ -33679,9 +34150,15 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "Jumbo, Disco y Vea 1/10: \"3 Cuotas sin Interés ... todos los días desde el 01/12/25 hasta el 31/10/26 ... Banco Comafi\""
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado de Comafi 20/10 leído desde GitHub (solo títulos, sin legal): \"Vea, Disco y Jumbo 3 cuotas todos los días\". Igual que la lectura completa del 18/10."
         }
       ],
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta"
     },
     {
@@ -33798,7 +34275,7 @@
       "vigencia_desde": "2026-09-04",
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -33818,6 +34295,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Ultra: \"40% | Chungo | Tope de reintegro: $6.000 | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 40% en Chungo, todos los días, tope $6.000. Igual."
         }
       ]
     },
@@ -33842,7 +34325,7 @@
       "vigencia_desde": "2026-09-04",
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -33862,6 +34345,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Chungo | sin tope publicado | Viernes, sábados y domingos\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Chungo, viernes, sabado, domingo. Igual."
         }
       ],
       "tope_publicado": false
@@ -33885,7 +34374,7 @@
       "vigencia_desde": "2026-09-04",
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -33905,6 +34394,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"20% | Chungo | sin tope publicado | Miércoles\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 20% en Chungo, miercoles. Igual."
         }
       ],
       "tope_publicado": false
@@ -33934,7 +34429,7 @@
       "vigencia_desde": "2026-09-04",
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -33954,6 +34449,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Ultra: \"40% | Lucciano’s | Tope de reintegro: $6.000 | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 40% en Lucciano's, todos los días, tope $6.000. Igual."
         }
       ]
     },
@@ -33982,7 +34483,7 @@
       "vigencia_desde": "2026-09-04",
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -34002,6 +34503,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Plus: \"30% | Lucciano’s | sin tope publicado | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Plus: 30% en Lucciano's, todos los días. Igual."
         }
       ],
       "tope_publicado": false
@@ -34031,7 +34538,7 @@
       "vigencia_desde": "2026-09-04",
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -34051,6 +34558,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan One: \"30% | Lucciano’s | sin tope publicado | Todos los días\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 30% en Lucciano's, todos los días. Igual."
         }
       ],
       "tope_publicado": false
@@ -34874,7 +35387,7 @@
       "vigencia_desde": "2026-09-20",
       "vigencia_hasta": null,
       "fuente": "https://www.brubank.com/beneficios",
-      "verificado": "2026-09-29",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -34888,6 +35401,12 @@
           "nivel": 1,
           "fecha": "2026-09-29",
           "nota": "brubank.com 29/09, tramo Plan Ultra: \"30% descuento | COTO | Sin tope | Todos los jueves\". Igual."
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan Ultra: 30% en Coto, jueves. Igual."
         }
       ]
     },
@@ -35432,7 +35951,7 @@
       "vigencia_desde": "2026-09-15",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx",
-      "verificado": "2026-10-18",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -35458,6 +35977,12 @@
           "nivel": 1,
           "fecha": "2026-10-18",
           "nota": "lectura desde casa del 18/10: martes a jueves 20% + 3 cuotas MODO, tope mensual $20.000, 15/09 al 30/11/2026"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "listado de Comafi 20/10 leído desde GitHub (solo títulos, sin legal): \"Puppis 20% y cuotas MODO de martes a jueves\". Igual que la lectura completa del 18/10."
         }
       ]
     },
@@ -36654,6 +37179,45 @@
           "nota": "lectura desde casa del 12/10 por la API (catálogo completo), campaña DIA DE LA MADRE, rubro niños, varios y tecnología: viernes y sábado 16 y 17/10/2026, GENERAL 25% + hasta 6 cuotas sin interés, tope $40.000 por transacción; EXCLUSIVE BANKING 30% tope $50.000 (legal: 40% con sueldo). Crédito Visa/Master y débito Visa, sin MODO."
         }
       ]
+    },
+    {
+      "id": "brubank-cabify-one-15",
+      "medio": "brubank",
+      "medio_nombre": "Brubank Plan One",
+      "rubro": "transporte",
+      "comercios": [
+        "Cabify"
+      ],
+      "dias": [
+        "viernes",
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tu Plan One, pagando con tarjeta de crédito Brubank, viernes, sábados y domingos.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-10-06",
+      "vigencia_hasta": null,
+      "fuente": "https://www.brubank.com/beneficios",
+      "verificado": "2026-10-20",
+      "fuentes": [
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-06",
+          "nota": "aparece en el tramo Plan One: \"15% de reintegro · Cabify · Viernes, sábados y domingos\" (sin tope publicado)"
+        },
+        {
+          "url": "https://www.brubank.com/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "brubank.com 20/10, tramo Plan One: 15% Cabify vie, sáb y dom, sin tope publicado. Igual desde el 6/10."
+        }
+      ],
+      "confianza": "alta"
     }
   ]
 }

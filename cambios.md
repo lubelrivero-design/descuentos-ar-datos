@@ -1,5 +1,33 @@
 # Cambios
 
+## 2026-10-20 — Brubank sacó de su página Nic, Educación IT y Baires IT el 6/10 y nadie lo había visto: retiradas. Suma Cabify 15% con Plan One. Reconfirmo 87 promos de Patagonia, Brubank y Comafi que llevaban hasta 3 semanas sin verificar
+
+**632 promos (1 alta, 3 retiradas, 87 reconfirmadas).** Asumidas (cartel ámbar): **0**. Sin verificar hace más de 10 días: **241** (ayer 319).
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` seguía en el 19/10. Disparé `recolectar.yml` completo y a las 07:53 llegó el commit 915f01e con `leido: 2026-10-20` en 39 fuentes. No contestaron **Macro** (queda la del 19/10) ni **BPN** (sigue en la del **1/10**: ya van 19 días). ICBC y Frávega siguen en la lectura desde casa del 18/10; McDonald's y Musimundo en la del 27/8. No borré nada de ninguna.
+
+### ⚠ Para que mire un humano
+- **Retiradas 3 promos de Brubank Plan One** (`vigencia_hasta` 5/10): `brubank-nic-one-20` (Nic 20%), `brubank-educacionit-one-45` (Educación IT 45%) y `brubank-bairesit-one-15` (Baires IT 15%). **Motivo:** figuraban en brubank.com hasta la lectura del 5/10 y desde el 6/10 no están más, en 15 lecturas seguidas con la página entera (747 líneas todos los días, idéntica del 6 al 20/10). Ese mismo día Brubank también sacó ACF, Multipoint, CUI, Open Park, Mundo Bienestar y Celeste, que no teníamos cargadas.
+- **Comafi se leyó en parte desde GitHub por primera vez**: hoy pasó Cloudflare en Supermercados (los títulos, sin el legal) y en los otros cuatro rubros se quedó en "Verificación de seguridad en curso". **Ojo: esa lectura parcial pisó en `crudo/comafi.txt` la lectura completa desde casa del 18/10** (165 KB → 5 KB). La completa sigue en el historial (commit 2dba50e). Convendría que el recolector no pise una lectura completa con una parcial.
+
+### Alta
+- **`brubank-cabify-one-15`**: Cabify 15% de reintegro con Plan One, viernes, sábados y domingos, sin tope publicado. Está en brubank.com desde el 6/10.
+
+### Reconfirmadas (lecturas de hoy)
+- **Brubank (55)**: todas las vigentes de los tres planes (Ultra, Plus y One), igual que lo cargado: Axion, YPF, Farmacity, Simplicity, Get The Look, Cabify, Taxi Premium, Burger King, Freddo, Rapanui, Cerini, Le Pain Quotidien, The Food Market, Chungo, Lucciano's, Coto jueves 30% Ultra, Cervelar, Kusta Barber, Deniro, Molina, Eyelit, Mala Peluquería, Los Silos, Melincué, Biomac. Llevaban desde el 29/9 y el 1/10 sin verificar.
+- **Patagonia (22)**: Carrefour miércoles, Jumbo/Disco sábados (30% y 35% plan sueldo) y viernes (25% y 30% Singular), La Anónima lunes NFC y jueves Río Negro, combustible jueves, Havanna NFC, heladerías del finde, Kansas, Rock and Fellers, Negroni/Demuru/La Pulpería, indumentaria jueves, Adidas jueves y viernes Amex, Cúspide, Nutrican, Tienda de Mascotas, cines viernes NFC, y las 3 y 6 cuotas en Easy (legal en easy.com.ar). Todo igual: día, %, tope y vigencia. Venían desde el 1/10.
+- **Comafi (10)**, con el listado de supermercados de hoy (solo títulos): ChangoMás, Diarco, Coto 35%, Makro miércoles y 3 cuotas, pet shops, Puppis, Aiello, Rappi Único y las 3 cuotas en Jumbo/Disco/Vea (ésta venía desde el 1/10).
+
+### Vistas y no cargadas
+- Brubank: Cucina D'Onore y Tucson (Ultra 30%, tope $30.000), La Cabrera y Rock & Feller's Ultra (30%, $30.000), Club Newman 50%, Alto Parque 25%, Enter The Exit 25%, Matter 20%, Playmobil 15%, Selma 10%. La página no da vigencia ni zona; quedan para otro día.
+
+### Agenda del día
+Trabajadas (lecturas de hoy, ninguna aportó): **farmacity** (la URL ya no existe: "No encontramos resultados para promociones-bancarias"; hay que buscarle la nueva), **la-anonima** (403 Forbidden, igual que siempre), **maxiconsumo** (solo el menú de categorías, sin legales), **shell** (sigue el sorteo V-Power, ya hecho; no hay descuentos), **dr-ahorro** (la portada con productos). **comafi**: ver arriba (supermercados de hoy, el resto no pasó). Sin trabajar: **icbc** y **fravega** (no hay lectura desde casa nueva después del 18/10, ya se trabajaron enteras ayer).
+- En vez de releer esas, usé el tiempo en la deuda: Patagonia y Brubank eran los dos bancos con más promos sin verificar (22 y 58), y los dos se leen bien todos los días desde GitHub.
+- Siguen pendientes las recetas de **farmacity** (URL nueva), **ypf**, **yaguar** y **dr-ahorro**. Lo que más pesa ahora de lo sin verificar: **Cuenta DNI (21)**, **Cualquiera (12)**, **Naranja X (11)** y **Galicia (10)**.
+
+
 ## 2026-10-19 — Con la lectura desde casa de anoche (ICBC, Comafi, Frávega) reconfirmo 87 promos; ChangoMás jueves con ICBC se estira hasta el 31/12. Sin altas ni bajas
 
 **631 promos (0 altas, 0 retiradas, 87 reconfirmadas, 1 corregida).** Asumidas (cartel ámbar): **0**. Sin verificar hace más de 10 días: **318** (ayer 321).
