@@ -23,7 +23,7 @@ A las 07:41 `crudo/` seguía en el 20/10. Como la agenda de hoy solo tenía cuat
 ### Agenda del día
 Trabajadas (lecturas de hoy, ninguna aportó): **vital** (solo el selector de sucursales y "Cajas Navideñas", ninguna promo), **yaguar** ("Sorry, you have been blocked", igual que siempre), **ypf** ("Lo sentimos, esta página no está disponible"), **shell** (sigue el sorteo V-Power, terminado el 18/10; no hay descuentos). **dr-ahorro**: la lectura del 20/10 es la portada con productos, sin medios de pago. Sin trabajar: **icbc** y **fravega** (no hay lectura desde casa nueva después del 18/10, ya se trabajaron enteras el 19) y **comafi** (la parcial del 20/10 ya se trabajó ayer).
 - Como cinco de las ocho no tenían nada que leer, usé el tiempo en la deuda: Cuenta DNI era el medio con más promos sin verificar (21) y Carrefour/Coto respaldan a varios medios a la vez.
-- Siguen pendientes las recetas de **ypf**, **yaguar**, **vital**, **farmacity** (URL nueva) y **dr-ahorro**. Lo que más pesa ahora de lo sin verificar: **Naranja X (10)**, **Cualquiera (5)**, **Cencopay (7)**, **Personal Pay (6)**, **Credicoop (6)** y **Macro (6)**.
+- Siguen pendientes las recetas de **ypf**, **yaguar**, **vital**, **farmacity** (URL nueva) y **dr-ahorro**. Lo que más pesa ahora de lo sin verificar: **Naranja X (9)**, **Cencopay (7)**, **Personal Pay (6)**, **Credicoop (6)** y **Macro (6)**.
 
 
 ## 2026-10-20 — Brubank sacó de su página Nic, Educación IT y Baires IT el 6/10 y nadie lo había visto: retiradas. Suma Cabify 15% con Plan One. Reconfirmo 87 promos de Patagonia, Brubank y Comafi que llevaban hasta 3 semanas sin verificar
