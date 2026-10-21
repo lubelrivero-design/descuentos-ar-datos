@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20",
+  "actualizado": "2026-10-21",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -1644,7 +1644,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.coto.com.ar/descuentos",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1681,6 +1681,12 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "Coto 3/10, Digital y Sucursales: miércoles 15% siendo miembro de Comunidad Coto, todos los medios de pago, sin límite de reintegro. Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "miércoles 15% Comunidad Coto, sin límite, solo sucursales"
         }
       ]
     },
@@ -1743,7 +1749,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.lanacion.com.ar/economia/cuenta-dni-en-agosto-2026-como-y-cuando-son-las-promociones-de-carnicerias-nid09082026/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1805,6 +1811,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): comerciosdebarrio-1068: lunes a viernes de octubre 2026 | 20% | tope $6.000 por semana y por persona | excluye pet shops, veterinarias y gastronomía"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "lunes a viernes 20%, tope $6.000 por semana, octubre"
         }
       ]
     },
@@ -1913,7 +1925,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1975,6 +1987,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): especialgastronomia-1070: sáb y dom de octubre 2026 | 25% | tope $8.000 por semana"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "sábados y domingos 25%, tope $8.000 por semana, octubre"
         }
       ]
     },
@@ -2003,7 +2021,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -2059,6 +2077,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): feriasymercados-1061: todos los días de octubre 2026 | 40% | tope $6.000 por semana"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "todos los días 40%, tope $6.000 por semana, octubre"
         }
       ]
     },
@@ -2087,7 +2111,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.infobae.com/economia/2026/08/01/cuenta-dni-uno-por-uno-todos-los-descuentos-y-las-promociones-para-aprovechar-en-agosto-2026/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -2135,6 +2159,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): beneficiouniversidades-1064: todos los días de octubre 2026 | 40% | el banco dice tope $6.000 por semana (tenemos $4.000, se deja el menor; ver cambios.md)"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "todos los días 40%, el legal dice tope $6.000 por semana (cargado $4.000, ver cambios.md), octubre"
         }
       ]
     },
@@ -2158,7 +2188,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -2200,6 +2230,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): supermercados_martesymiercoles-1052: martes y miércoles de octubre 2026 | 15% | tope $6.000 por semana | mínimo $30.000"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "martes y miércoles 15%, tope $6.000 por semana, mínimo $30.000, octubre"
         }
       ]
     },
@@ -2368,7 +2404,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "tope_publicado": false,
       "fuentes": [
         {
@@ -2413,6 +2449,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "destacados de la página de promos de Galicia del 1/10: \"JUMBO | Hasta 20% de ahorro | Martes y jueves\" (sin fecha de vigencia en la tarjeta)"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "portada: Jumbo hasta 20%, martes y jueves"
         }
       ]
     },
@@ -2442,7 +2484,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "tope_publicado": false,
       "fuentes": [
         {
@@ -2487,6 +2529,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "destacados de la página de promos de Galicia del 1/10: \"STARBUCKS | Hasta 25% de ahorro | Todos los días\" (sin fecha de vigencia en la tarjeta)"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "portada: Starbucks hasta 25%, todos los días"
         }
       ]
     },
@@ -2510,7 +2558,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "cuotas": 3,
       "tope_publicado": false,
       "fuentes": [
@@ -2556,6 +2604,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "destacados de la página de promos de Galicia del 1/10: \"MIMO & CO. | Hasta 25% de ahorro y 3 cuotas sin interés | Viernes\" (sin fecha de vigencia en la tarjeta)"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "portada: Mimo & Co hasta 25% y 3 cuotas, viernes"
         }
       ]
     },
@@ -2579,14 +2633,13 @@
       "descuento_pct": 20,
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Es \"hasta\" ese porcentaje. La web de Galicia no publica el tope. Suma 3 cuotas sin interes.",
+      "requisitos": "Es \"hasta\" ese porcentaje. La web de Galicia no publica el tope. Con Tarjetas Galicia.",
       "fuente": "https://www.galicia.ar/personas/promociones",
       "confianza": "alta",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
-      "cuotas": 3,
+      "verificado": "2026-10-20",
       "tope_publicado": false,
       "fuentes": [
         {
@@ -2631,6 +2684,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "destacados de la página de promos de Galicia del 1/10: \"CCKONEX | Hasta 20% de ahorro | Todos los días\" (sin fecha de vigencia en la tarjeta)"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "portada: CCKonex hasta 20%, todos los días (ya no menciona cuotas, desde el 1/10)"
         }
       ]
     },
@@ -5609,7 +5668,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5654,6 +5713,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "destacados de la página de promos de Galicia del 1/10: \"BRIDGESTONE | Hasta 12 cuotas sin interés | Todos los días\" (sin fecha de vigencia en la tarjeta)"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "portada: Bridgestone hasta 12 cuotas, todos los días"
         }
       ]
     },
@@ -5683,7 +5748,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5728,6 +5793,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "destacados de la página de promos de Galicia del 1/10: \"REX | Hasta 6 cuotas sin interés | Todos los días\" (sin fecha de vigencia en la tarjeta)"
+        },
+        {
+          "url": "https://www.galicia.ar/personas/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "portada: Rex hasta 6 cuotas, todos los días"
         }
       ]
     },
@@ -5916,7 +5987,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5959,6 +6030,12 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "Coto 3/10, Digital y Sucursales: martes 30% Naranja X crédito o débito Visa, tope $12.000 por semana Plan Épico (25%/$9.500 Turbo, 20%/$3.000 Inicial). Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "martes 30% Plan Épico, tope $12.000 por semana (Turbo 25% $9.500, Inicial 20% $3.000)"
         }
       ]
     },
@@ -6011,7 +6088,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.coto.com.ar/",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6048,6 +6125,12 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "Coto 3/10, Digital: martes 20% con crédito TCI, sin tope. Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "martes 20% con crédito TCI, sin tope"
         }
       ]
     },
@@ -6441,7 +6524,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
-      "verificado": "2026-10-04",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
@@ -6515,6 +6598,12 @@
           "nivel": 2,
           "fecha": "2026-10-04",
           "nota": "Día 4/10: Cuenta DNI lunes de octubre 2026, 10% sin tope, Clave DNI / QR de la app"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "lunes 10% sin tope con dinero en cuenta, 1/10 al 31/12"
         }
       ]
     },
@@ -6537,7 +6626,7 @@
       "vigencia_desde": "2026-09-07",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
-      "verificado": "2026-10-04",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -6581,6 +6670,12 @@
           "nivel": 2,
           "fecha": "2026-10-04",
           "nota": "Día 4/10: Cuenta DNI NFC con Visa crédito, lunes del 1/10 al 31/12/2026, 20% sin tope"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "lunes 20% sin tope con Visa crédito NFC, 1/10 al 31/12"
         }
       ]
     },
@@ -6605,7 +6700,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-29",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -6666,6 +6761,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): beneficio_librerias-561: lunes y martes del 1/9 al 29/12/2026 | 10% sin tope"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "lunes y martes 10% sin tope, 1/9 al 29/12"
         }
       ]
     },
@@ -6689,7 +6790,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -6731,6 +6832,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): REVIVIDA: nini-1077: martes de octubre 2026 | 15% | tope $20.000 por martes y por persona | solo Clave DNI"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "martes 15%, tope $20.000 por martes, octubre"
         }
       ],
       "tope_publicado": true
@@ -6863,7 +6970,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -6924,6 +7031,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): marcasdestacadas-1063: todos los días de octubre 2026 | 30% | tope $15.000 por mes"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "todos los días 30%, tope $15.000 por mes, octubre"
         }
       ]
     },
@@ -6948,7 +7061,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -7009,6 +7122,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): especialypf-1065: sáb y dom de octubre 2026 | 25% | tope $8.000 por semana"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "sábados y domingos 25%, tope $8.000 por semana, octubre"
         }
       ]
     },
@@ -7033,7 +7152,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -7094,6 +7213,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): farmaciasyperfumerias-1046: miércoles y jueves del 1/9 al 31/12/2026 | 10% sin tope"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "miércoles y jueves 10% sin tope, 1/9 al 31/12"
         }
       ]
     },
@@ -7117,7 +7242,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
@@ -7184,6 +7309,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): sodimac-1067: miércoles del 1 al 31/10/2026 | 10% sin tope (la página de Sodimac dice 20%; se deja el 10% del banco)"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "miércoles 10% sin tope, octubre"
         }
       ]
     },
@@ -7207,7 +7338,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -7248,6 +7379,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): laanonima-1074: miércoles de octubre 2026 | 10% | tope $5.000 por miércoles | mínimo $25.000"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "miércoles 10%, tope $5.000 por miércoles, octubre"
         }
       ]
     },
@@ -7271,7 +7408,7 @@
       "confianza": "alta",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -7312,6 +7449,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): josimar-1048: miércoles de septiembre y octubre 2026 | 10% | tope $6.000 por miércoles"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "miércoles 10%, tope $6.000, septiembre y octubre"
         }
       ]
     },
@@ -7342,7 +7485,7 @@
       "tope_periodo": null,
       "vigencia_desde": "2026-06-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.lanacion.com.ar/economia/promociones-y-ofertas-de-cuenta-dni-en-agosto-2026-todos-los-beneficios-para-hacer-compras-con-nid30072026/",
@@ -7399,6 +7542,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): tarjeteaconcuentadni-519: 1/6 al 31/10/2026 | hasta 3 cuotas con Visa o Mastercard crédito del Provincia"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "3 cuotas sin interés todos los días, 1/6 al 31/10"
         }
       ]
     },
@@ -7525,7 +7674,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -7555,6 +7704,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: viernes hasta el 31/10/2026 | 10% sin tope con dinero en cuenta | Carrefour Maxi"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "viernes 10% dinero en cuenta MP, sin tope, solo Maxi, hasta 31/10"
         }
       ],
       "tope_publicado": true
@@ -7718,7 +7873,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -7748,6 +7903,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: lunes y miércoles de octubre, hasta el 31/10/2026 | 6 cuotas sin tarjeta"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "lunes y miércoles de octubre, 6 cuotas sin tarjeta MP"
         }
       ]
     },
@@ -12437,7 +12598,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "baja",
       "id": "cuotas-naranja_x-carrefour-4",
       "medio": "naranja_x",
@@ -12470,6 +12631,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "todos los días hasta el 31/10/2026 | plan 4 cuotas Naranja X | tiendas de AMBA, Mendoza, Córdoba, Catamarca, San Luis y Resistencia; no vale online"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "4 cuotas Naranja X todos los días hasta 31/10 (AMBA, Córdoba, Mendoza, Catamarca, San Luis, Resistencia)"
         }
       ]
     },
@@ -14107,7 +14274,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
@@ -14143,6 +14310,12 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "Coto 3/10, Sucursales: martes y jueves 15% programa Ciudadanía Porteña, sin tope. Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "martes y jueves 15% Ciudadanía Porteña, sin tope, solo sucursales"
         }
       ]
     },
@@ -14166,7 +14339,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
@@ -14202,6 +14375,12 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "Coto 3/10, Sucursales: jueves 15% jubilados y pensionados presentando DNI, todos los medios, no online. Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "jueves 15% jubilados con DNI, solo sucursales"
         }
       ]
     },
@@ -14327,7 +14506,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.coto.com.ar/descuentos",
@@ -14357,6 +14536,12 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "Coto 3/10, Sucursales, todos los días: 3 cuotas con crédito Mercado Pago por QR desde $150.000; 2 cuotas de $50.000 a $149.000; no online. Coto cambió sus tarjetas al arrancar octubre (Supervielle martes pasó de 25% a 30%, apareció Comafi 35%), así que la página está al día."
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "3 cuotas con crédito Mercado Pago por QR, todos los días, solo sucursales"
         }
       ],
       "compra_minima": 150000
@@ -14723,7 +14908,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -14753,6 +14938,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: martes hasta el 31/10/2026 | 20% sin tope | no vale en Maxi"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "martes de octubre 20% crédito Carrefour Banco, sin tope, no Maxi"
         }
       ]
     },
@@ -14776,7 +14967,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -14806,6 +14997,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: jueves de octubre 2026, online | 20% | tope $10.000 por semana"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "jueves de octubre 20% online, tope $10.000 por semana"
         }
       ]
     },
@@ -14829,7 +15026,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -14859,6 +15056,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: viernes de octubre 2026 | 15% sin tope | Cuenta Digital"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "viernes de octubre 15% Cuenta Digital, sin tope, no Maxi"
         }
       ]
     },
@@ -14883,7 +15086,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -14913,6 +15116,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: lunes y martes hasta el 31/10/2026 | 15% sin tope | Carrefour Maxi"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "lunes y martes 15% crédito Carrefour Banco, solo Maxi, sin tope, hasta 31/10"
         }
       ]
     },
@@ -14937,7 +15146,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -14967,6 +15176,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: sábados y domingos de octubre 2026 | 10% sin tope | Cuenta Digital"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "sábados y domingos 10% Cuenta Digital, sin tope, octubre"
         }
       ]
     },
@@ -14992,7 +15207,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -15022,6 +15237,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: sábados y domingos del 1 al 31/10/2026 | 3 cuotas"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "sábados y domingos 3 cuotas crédito Carrefour Banco, 1 al 31/10"
         }
       ]
     },
@@ -15047,7 +15268,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -15077,6 +15298,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: lunes a miércoles de octubre 2026 | 10% | tope $35.000 por mes"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "lunes a miércoles 10% Mi Carrefour ANSES/60+, tope $35.000 por mes, hasta 31/10"
         }
       ]
     },
@@ -15100,7 +15327,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -15131,6 +15358,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: jueves de octubre 2026, online | 10% | tope $8.000 por semana"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "jueves de octubre 10% online cualquier medio, tope $8.000 por semana"
         }
       ]
     },
@@ -16650,9 +16883,15 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: miércoles hasta el 31/10/2026 | 10% sin tope | mínimo $15.000"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "miércoles 10% sin tope, mínimo $15.000, octubre"
         }
       ],
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta"
     },
     {
@@ -17312,7 +17551,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "mp-carrefour-jueves-15",
@@ -17350,6 +17589,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: jueves hasta el 31/10/2026 | 15% sin tope | mínimo $15.000 | no vale en Maxi"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "jueves 15% dinero en cuenta MP, sin tope, mínimo $15.000, hasta 31/10"
         }
       ]
     },
@@ -17362,7 +17607,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "carrefour-empleados-publicos-15",
@@ -17406,6 +17651,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: jueves hasta el 31/10/2026 | 15% | tope $20.000 mensual"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "jueves 15% empleados públicos, tope $20.000 por mes, hasta 31/10"
         }
       ]
     },
@@ -17430,7 +17681,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -17450,6 +17701,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: miércoles hasta el 31/10/2026 | 15% | tope $20.000 mensual"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "miércoles 15% empleados públicos, tope $20.000 por mes, hasta 31/10"
         }
       ]
     },
@@ -17462,7 +17719,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "id": "club-lanacion-carrefour-10",
       "medio": "cualquiera",
@@ -17510,6 +17767,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: martes a domingos de octubre 2026 | 10% sin tope"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "martes a domingo de octubre 10% Club LN online entrega inmediata, sin tope"
         }
       ]
     },
@@ -17532,7 +17795,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -17564,6 +17827,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: lunes hasta el 31/10/2026 | 15% sin tope | no vale en Maxi"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "lunes 15% Club LN, sin tope, hasta 31/10"
         }
       ]
     },
@@ -17654,7 +17923,7 @@
       "vigencia_desde": "2026-08-13",
       "vigencia_hasta": "2026-12-11",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -17700,6 +17969,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): mostaza-1030: jueves y viernes del 13/8 al 11/12/2026 | 25% | tope $8.000 por semana"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "jueves y viernes 25%, tope $8.000 por semana, 13/8 al 11/12"
         }
       ]
     },
@@ -17723,7 +17998,7 @@
       "vigencia_desde": "2026-08-13",
       "vigencia_hasta": "2026-12-11",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -17769,6 +18044,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): mostaza-1030: 30% NFC Visa | tope $15.000 por semana | al 11/12/2026"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "jueves y viernes 30% NFC, tope $15.000 por semana, 13/8 al 11/12"
         }
       ]
     },
@@ -22844,9 +23125,15 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): petshopyvet-1071: sábados de octubre 2026 | 30% | tope $8.000 \"por sábado\" pero \"considerando el total de compras realizadas en el mes\" (ejemplo: $60.000 en el mes → $8.000): se carga mensual, el menor"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "sábados 30%, tope $8.000 (el legal dice por sábado y después lo cuenta en el mes), octubre"
         }
       ],
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta"
     },
     {
@@ -23360,7 +23647,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "mp-carrefour-credito-lunes-15",
@@ -23402,6 +23689,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: lunes hasta el 31/10/2026 | 15% con crédito MP | tope $15.000 mensual"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "lunes 15% crédito MP, tope $15.000 por mes, hasta 31/10"
         }
       ]
     },
@@ -35551,7 +35844,7 @@
       "vigencia_desde": "2026-09-18",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "fuentes": [
         {
@@ -35577,6 +35870,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "legal de Cuenta DNI del 1/10 (API): supercoop-1058: viernes y sábados del 18/9 al 31/10/2026 | 15% sin tope | Clave DNI"
+        },
+        {
+          "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+          "nivel": 1,
+          "fecha": "2026-10-20",
+          "nota": "viernes y sábados 15% sin tope, 18/9 al 31/10"
         }
       ]
     },
@@ -36087,7 +36386,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-10-01",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -36097,6 +36396,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "\"MASTERCARD DE CARREFOUR BANCO. VÁLIDO TODOS LOS LUNES, MIÉRCOLES, VIERNES, SÁBADOS Y DOMINGOS DE OCTUBRE 2026 PARA LAS COMPRAS ONLINE ... UN (1) PAGO, SIN TOPE\""
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "lun, mié, vie, sáb y dom 15% online crédito Carrefour Banco, sin tope, octubre"
         }
       ],
       "id": "carrefour-banco-online-15",
@@ -36121,7 +36426,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-10-01",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -36131,6 +36436,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "\"Todos los días de Octubre | 3cuotas\" | \"HASTA EL 31/10/2026. 3 CUOTAS SIN INTERÉS ... A PARTIR DE LOS $150.000 PAGANDO CON QR DE MERCADO PAGO\""
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "3 cuotas con crédito MP por QR desde $150.000, hasta 31/10"
         }
       ],
       "id": "cuotas-mp-carrefour-3",
@@ -36204,7 +36515,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-10-01",
       "fuente": "https://www.coto.com.ar/descuentos/index.asp",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -36214,6 +36525,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "\"3-6-9-12-18 cuotas sin interés con tarjetas de crédito MasterCard del Banco Galicia | Prod. Seleccionados Ferretería, automotor, Bazar, decoracion, Jardineria, Libros, Muebles. Del 01/10 al 31/10/2026\""
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "3-6-9-12-18 cuotas con Mastercard Galicia, todos los días"
         }
       ],
       "id": "cuotas-galicia-coto-mastercard-18",
@@ -36242,7 +36559,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-10-01",
       "fuente": "https://www.coto.com.ar/descuentos/index.asp",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-20",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -36252,6 +36569,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "\"3-6-9-12 cuotas sin interés con tarjetas de crédito visa, y American express del Banco Galicia | Prod. Seleccionados Eletro, Ferretería ... Del 01/10 al 31/10/2026\""
+        },
+        {
+          "url": "https://www.coto.com.ar/descuentos/index.asp",
+          "nivel": 2,
+          "fecha": "2026-10-20",
+          "nota": "3-6-9-12 cuotas con Visa y Amex Galicia, todos los días"
         }
       ],
       "id": "cuotas-galicia-coto-visa-amex-12",

@@ -1,5 +1,31 @@
 # Cambios
 
+## 2026-10-21 — Sin altas ni bajas. Reconfirmo 54 promos que llevaban hasta 3 semanas sin verificar (Cuenta DNI, Carrefour, Coto, Galicia). Galicia ya no ofrece cuotas en el Konex: se las saco
+
+**632 promos (0 altas, 0 retiradas, 54 reconfirmadas, 1 corregida).** Asumidas (cartel ámbar): **0**. Sin verificar hace más de 10 días: **188** (ayer 241).
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` seguía en el 20/10. Como la agenda de hoy solo tenía cuatro fuentes que se leen desde GitHub (vital, yaguar, ypf, shell), disparé `recolectar.yml` solo con esas y a las 07:42 (hora del commit d2f3135) llegaron con `leido: 2026-10-21`. Todo lo demás lo trabajé con la lectura completa del 20/10 (commit 915f01e), **fechada al 20/10**, no a hoy. ICBC y Frávega siguen en la lectura desde casa del 18/10; Comafi en la parcial del 20/10; BPN en la del 1/10. No borré nada de ninguna.
+
+### ⚠ Para que mire un humano
+- **`cuenta-dni-universidades`**: el legal de octubre del Banco Provincia sigue diciendo **tope $6.000 por semana** y nosotros mostramos **$4.000** (sale de una nota de prensa de agosto). Lo dejé como estaba porque así se decidió el 29/8, pero ya son dos meses de la fuente oficial diciendo otra cosa: convendría subirlo a $6.000.
+- **`cuenta-dni-petshop-sabado`**: el legal se contradice solo: dice "tope $8.000 POR SÁBADO" y en la misma oración explica que se cuenta "en el mes". Queda como mensual, que es lo más prudente.
+
+### Corrección
+- **`galicia-konex`**: le saqué las **3 cuotas sin interés**. La portada de Galicia dice solo "Hasta 20% de ahorro" desde el 1/10 (lo revisé en las lecturas del 1, 2, 3 y 20/10); las cuotas eran de septiembre. Se mantiene el 20% todos los días.
+
+### Reconfirmadas (lecturas del 20/10)
+- **Cuenta DNI (21)**, con el legal completo de la API del banco: cercanía, gastronomía, ferias, universidades, súper del interior mar/mié, Día lunes 10% y 20% NFC, librerías, Nini, marcas destacadas, YPF Full, farmacias, Sodimac, La Anónima, Josimar, 3 cuotas, Carrefour miércoles, Mostaza 25% y 30% NFC, pet shops sábado, Supercoop. Todo igual: día, %, tope y vigencia.
+- **Carrefour (19)**, con los legales de su página: Carrefour Banco (martes 20%, jueves 20% online, viernes 15%, Maxi lun/mar 15%, finde 10%, 3 cuotas finde, online 15%), Mercado Pago (Maxi viernes, jueves 15%, crédito lunes 15%, 6 cuotas lun/mié, 3 cuotas desde $150.000), ANSES/60+, 10% online jueves, empleados públicos jueves y miércoles, Club LA NACION lunes y martes a domingo, y las 4 cuotas de Naranja X.
+- **Coto (8)**, con su página de descuentos: Naranja X martes 30% Épico (tope $12.000/semana), TCI martes 20%, Comunidad Coto miércoles, Ciudadanía Porteña mar/jue, jubilados jueves, 3 cuotas Mercado Pago y las 18 y 12 cuotas de Galicia.
+- **Galicia (6)**, con la portada: Jumbo mar/jue, Starbucks, Mimo & Co, CCKonex, Bridgestone 12 cuotas, Rex 6 cuotas.
+
+### Agenda del día
+Trabajadas (lecturas de hoy, ninguna aportó): **vital** (solo el selector de sucursales y "Cajas Navideñas", ninguna promo), **yaguar** ("Sorry, you have been blocked", igual que siempre), **ypf** ("Lo sentimos, esta página no está disponible"), **shell** (sigue el sorteo V-Power, terminado el 18/10; no hay descuentos). **dr-ahorro**: la lectura del 20/10 es la portada con productos, sin medios de pago. Sin trabajar: **icbc** y **fravega** (no hay lectura desde casa nueva después del 18/10, ya se trabajaron enteras el 19) y **comafi** (la parcial del 20/10 ya se trabajó ayer).
+- Como cinco de las ocho no tenían nada que leer, usé el tiempo en la deuda: Cuenta DNI era el medio con más promos sin verificar (21) y Carrefour/Coto respaldan a varios medios a la vez.
+- Siguen pendientes las recetas de **ypf**, **yaguar**, **vital**, **farmacity** (URL nueva) y **dr-ahorro**. Lo que más pesa ahora de lo sin verificar: **Naranja X (10)**, **Cualquiera (5)**, **Cencopay (7)**, **Personal Pay (6)**, **Credicoop (6)** y **Macro (6)**.
+
+
 ## 2026-10-20 — Brubank sacó de su página Nic, Educación IT y Baires IT el 6/10 y nadie lo había visto: retiradas. Suma Cabify 15% con Plan One. Reconfirmo 87 promos de Patagonia, Brubank y Comafi que llevaban hasta 3 semanas sin verificar
 
 **632 promos (1 alta, 3 retiradas, 87 reconfirmadas).** Asumidas (cartel ámbar): **0**. Sin verificar hace más de 10 días: **241** (ayer 319).
