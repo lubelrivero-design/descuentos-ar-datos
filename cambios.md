@@ -1,5 +1,36 @@
 # Cambios
 
+## 2026-10-22 — Revivo 3 promos que Diarco y Credicoop volvieron a publicar (Patagonia viernes en Diarco, Clarín 365 miércoles en Diarco Barrio, Credicoop miércoles en Carrefour). Sumo los dos descuentos de Diarco Club. Reconfirmo 38 promos de Diarco, Día y Easy que llevaban desde el 1 al 6/10 sin verificar
+
+**634 promos (2 altas, 3 revividas, 0 retiradas, 38 reconfirmadas, 3 con vigencia estirada por su legal).** Visibles: **406**. Asumidas (cartel ámbar): **0**. Sin verificar hace más de 10 días: **150** (ayer 188).
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` seguía en el 21/10. Disparé `recolectar.yml` completo y a las 07:51 llegó el commit con `leido: 2026-10-22` en 40 fuentes. No contestaron **ICBC** (vino vacía) ni **Frávega** (bloqueo), que siguen en la lectura desde casa del 18/10, ni **BPN**, que sigue en la del **1/10** (ya van 21 días). McDonald's y Musimundo siguen en la del 27/8. No borré nada de ninguna.
+
+### ⚠ Para que mire un humano
+- **Revivida `patagonia-diarco-viernes-25`** (Banco Patagonia, Visa crédito, viernes 25%, tope $25.000 en el mes, 1 al 31/10). Se había retirado el 2/10 porque "no aparecía el 3 y el 4/10", pero **Diarco no muestra siempre la misma página**: arma una versión distinta según el día (la de los viernes trae Patagonia, Personal Pay y MODO; la de los jueves, Credicoop y Chubut; la del finde, MODO y Mercado Pago; otras veces la de los lunes, con Diarco Club). El 3 y 4/10 eran sábado y domingo. La promo volvió a salir entera, con su legal hasta el 31/10, en la lectura del viernes 16/10. **Ojo con retirar promos de Diarco por ausencia**: hay que comparar contra una lectura del mismo tipo de página, no contra la del día anterior.
+- **Revivida `clarin365-diarco-barrio-miercoles-10`** (Clarín 365, miércoles 10% + 5% con Diarco Club, solo Barrio, mínimo $25.000, sin tope). Estaba apagada por la regla de los 10 días porque nadie había leído Diarco un miércoles; las lecturas de los miércoles 14 y 21/10 la traen con el legal completo. El legal no da fecha de fin (queda sin `vigencia_hasta`, como estaba).
+- **Revivida `credicoop-carrefour-miercoles-10`** (Credicoop, Carrefour miércoles 10% con MODO). La página de beneficios de Credicoop la vuelve a listar desde el 21/10 (slug nuevo `Carrefour_Miercoles-10%-CABAL-VISA-MODO`, primera vez en octubre) y hoy de nuevo. Solo trae el título: el banco no publica tope ni vigencia; queda hasta el 31/10 con "tope sin publicar". Carrefour no la muestra en su página.
+
+### Altas (Diarco, legal en su página)
+- **`diarco-club-lun-vie-10`**: socios de Diarco Club, lunes a viernes 10% en Barrio y Mayorista, compra mínima $25.000, tope $6.000 por semana, con cualquier medio de pago. Está publicada todos los días desde el 2/10 (en la página figura como "Bonda 10%", pero el legal dice Diarco Club). Sin fecha de fin en el legal.
+- **`diarco-club-barrio-lunes-15`**: socios de Diarco Club, lunes 15% solo en Diarco Barrio, mínimo $25.000, sin tope. Sin fecha de fin en el legal.
+
+### Reconfirmadas
+- **Diarco (18)**, cada una con la lectura que trae su día (fechadas a esa lectura, no a hoy): las de todos los días con la de hoy (Naranja X 6, 4 y 3 cuotas, Macro 3/6 cuotas, Mercado Pago 3 cuotas, Galicia y Nación 6/12 cuotas en electro, Comafi lunes a viernes); las de los jueves con la del 15/10 (Personal Pay, Credicoop 20% y 30% haberes, Chubut en Patagonia); las del finde con la del 18/10 (MODO 20% y billeteras 15% en Barrio, Galicia 3 cuotas jue-dom). Credicoop (nivel 1, hoy) respalda además sus promos de jueves y de fin de semana en Diarco, Diarco Pueblo y Diarco Mayorista.
+- **Día (8)**, con los legales de hoy: Personal Pay jueves, Credicoop miércoles, MODO viernes y sábado, 3 cuotas los sábados, Banco Columbia, Banco del Sol, Sidecreer (Entre Ríos) y Banco de Corrientes. **Vigencias estiradas por su propio legal:** Banco Columbia hasta el **31/3/2027**, Banco del Sol hasta el **30/11** y Credicoop miércoles hasta el **31/12** (dice "miércoles de octubre, noviembre y diciembre").
+- **Easy (12)**, con los legales de hoy: Macro 3 y 6 cuotas, Naranja X 3 y 6, Tarjeta SOL 3 y 6, Cencopay (12 cuotas, 24 online finde, Cuenta Digital jueves 15%, canastos 10%), Clarín 365 + Cencopay jueves y Club LA NACIÓN miércoles. Todo igual.
+
+### Vistas y no cargadas
+- Diarco: MODO 20% y billeteras 15% "solo el viernes 16/10" (valían un día), MODO viernes 20% y Diarco Club lunes 15% en una lista de sucursales del interior (Chilecito, Chos Malal, El Bolsón, etc.: habría que cargarlas por zona), Credicuotas 20% (el legal dice septiembre).
+- Easy: Naranja X 12 cuotas desde $600.000, Tarjeta SOL 9 y 12 cuotas el finde desde $600.000, Patagonia 365 12 cuotas, Confiable martes/jueves, Tuya en Easy Resistencia y un reintegro de Amex Platinum/Centurion desde hoy hasta el 30/11. Quedan para otro día.
+
+### Agenda del día
+Trabajadas (lecturas de hoy, ninguna aportó): **axion** (solo las bases de "Descuento Super", cortadas, y promos de pelotas y Lollapalooza; nada cargable), **farmacity** (la URL sigue dando "No encontramos resultados"; solo el cartel "hasta 6 cuotas en seleccionados"), **la-anonima** (403 Forbidden, igual que siempre), **shell** (sigue el sorteo V-Power, terminado el 18/10), **dr-ahorro** (sigue el error de certificado), **comafi** (igual que ayer: Cloudflare frenó los cinco rubros, sin legales). Sin trabajar: **icbc** y **fravega** (no hay lectura desde casa nueva después del 18/10, ya se trabajaron enteras el 19).
+- Como seis de las ocho no tenían nada que leer, usé el tiempo en la deuda: Diarco, Día y Easy respaldan a muchos medios a la vez (Naranja X, Credicoop, Macro, Cencopay, Personal Pay, MODO).
+- Siguen pendientes las recetas de **farmacity** (URL nueva), **ypf**, **yaguar**, **vital** y **dr-ahorro**. Lo que más pesa ahora de lo sin verificar: **Buepp (5)**, **San Juan (5)**, **BPN (5, fuente caída hace 21 días)**, **Personal Pay (4)** y **Naranja X (4)**.
+
+
 ## 2026-10-21 — Sin altas ni bajas. Reconfirmo 54 promos que llevaban hasta 3 semanas sin verificar (Cuenta DNI, Carrefour, Coto, Galicia). Galicia ya no ofrece cuotas en el Konex: se las saco
 
 **632 promos (0 altas, 0 retiradas, 54 reconfirmadas, 1 corregida).** Asumidas (cartel ámbar): **0**. Sin verificar hace más de 10 días: **188** (ayer 241).
