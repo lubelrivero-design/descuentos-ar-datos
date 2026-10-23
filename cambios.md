@@ -1,5 +1,32 @@
 # Cambios
 
+## 2026-10-23 — Sin altas ni bajas. Reconfirmo 15 promos que llevaban de 18 a 22 días sin verificar (Jumbo, Disco, Vea, Sodimac, Carrefour, Ciudad, MasGO). Naranja X en Sodimac cambió de tarjeta esta semana: queda como estaba, para mirar
+
+**634 promos (0 altas, 0 retiradas, 15 reconfirmadas, 0 corregidas).** Visibles: **406**. Asumidas (cartel ámbar): **0**. Sin verificar hace más de 10 días: **140** (ayer 150; 45 de ellas siguen visibles, ahora 30).
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` seguía en el 22/10. Disparé `recolectar.yml` primero solo con las cuatro fuentes de la agenda que se leen desde GitHub (maxiconsumo, vital, yaguar, shell: llegaron 07:42) y después completo: a las 07:54 llegó el commit d314bb0 con `leido: 2026-10-23` en 39 fuentes. **Macro** no contestó hoy (300 s) y quedó en la lectura del 22/10; **ICBC** y **Frávega** siguen en la lectura desde casa del 18/10; **BPN** en la del **1/10** (22 días); McDonald's y Musimundo en la del 27/8. No borré nada de ninguna.
+
+### Para que mire un humano
+- **Naranja X en Sodimac (`cuotas-naranja_x-sodimac-6`)**: hasta el 16/10 la tarjeta decía "Plan Z 6 cuotas en todo Sodimac, válido hasta el 31/10/2026". Esta semana la reemplazaron por una que dice **"19 al 23 de octubre": 6 cuotas Plan Z y 9 cuotas (excluye obra gruesa), legal del 19/10 al 23/10/2026**. Hoy las 6 cuotas valen igual, así que no la toqué ni la retiré, pero tampoco la reconfirmo: no sé si el lunes vuelve la de hasta el 31/10. No cargué las 9 cuotas (vencen hoy).
+
+### Reconfirmadas (fuentes de hoy, sumadas a `fuentes[]` con lo que se vio)
+- **Jumbo/Disco/Vea (9)**: Hipotecario martes 25% débito (tope $15.000/mes), MODO martes y jueves 20% en Jumbo y viernes y sábados en Disco (compras desde $100.000), Macro 3 cuotas online jueves a domingo, Comafi 12 cuotas en electro viernes a domingo, Nación 6 cuotas en electros, Naranja X 3 cuotas Plan Z, Cencopay Cuenta lunes 25% (tope $15.000; hoy solo lo muestra Jumbo) y Cencopay jueves 25% en galletitas y más en Vea. Todo igual a lo cargado, todo hasta el 31/10.
+- **Sodimac (3)**: BBVA 6/3 cuotas, Banco Provincia 12/6/4 cuotas (CABA, GBA y PBA) y Santander 6 cuotas en colchones. Igual, hasta el 31/10.
+- **Carrefour (1)**: BNA+ jubilados 5% lunes a viernes, tope $5.000/semana y $20.000/mes, hasta el 31/10.
+- **Banco Ciudad (1)**: Buepp 25% en The Food Market todos los días, tope $10.000/mes (catálogo completo de la API).
+- **ChangoMás (1)**: MasClub 20% en MasGO miércoles y jueves, sin tope, hasta el 31/12.
+
+### Vistas y no cargadas
+- **Comafi** (supermercados, la única sección que pasa Cloudflare) lista Tienda Nova, Alvear, Cereales El Diamante, Cooperativa Obrera, CORDIEZ, Pingüino, Toledo, Pezcalandia, Coquitos y dos Coto con MODO (10% y 25% martes), pero **sin detalle**: no hay tope, vigencia ni zona. Sin zona no se carga.
+- **MODO domingo 20% en MasGO** y las Personal Pay viejas (La Reina, Farmalife, Taxi Premium, Go Bar) no aparecen en ninguna fuente de hoy; ChangoMás rota tarjetas, así que no las retiro por ausencia.
+
+### Agenda del día
+Trabajadas (todas leídas, ninguna aportó): **maxiconsumo** (las promos son imágenes; el texto solo dice "LEGALES" y el pie general), **vital** (la página de promociones bancarias no arma el contenido: solo los nombres de los días), **yaguar** (Cloudflare "you have been blocked", como siempre), **shell** (sigue solo el sorteo V-Power, terminado el 18/10; la única promo con fuente Shell, `galicia-combustible-dia10`, ya venció el 10/10), **dr-ahorro** (ahora carga la página, pero es la tienda: productos y precios, ninguna promo bancaria), **comafi** (igual que ayer: solo supermercados, sin legales; ver arriba). Sin trabajar: **icbc** y **fravega** (no hay lectura desde casa nueva después del 18/10, ya se trabajaron enteras).
+- Con las ocho sin material, usé el tiempo en la deuda de lo sin verificar (Cencosud, Sodimac, Carrefour, Ciudad, ChangoMás).
+- Siguen pendientes recetas para **maxiconsumo** (habría que leer el `alt` de las imágenes o los legales que abren con "LEGALES"), **vital** (esperar a que cargue la grilla por día), **yaguar**, **farmacity**, **ypf** y **dr-ahorro** (la URL `/promociones` cae en la home de la tienda). Lo que más pesa de lo visible sin verificar: **Buepp (4)**, **San Juan (5)**, **BPN (5, fuente caída hace 22 días)**, **Personal Pay (4)**, **Santa Cruz (3)**.
+
+
 ## 2026-10-22 — Revivo 3 promos que Diarco y Credicoop volvieron a publicar (Patagonia viernes en Diarco, Clarín 365 miércoles en Diarco Barrio, Credicoop miércoles en Carrefour). Sumo los dos descuentos de Diarco Club. Reconfirmo 38 promos de Diarco, Día y Easy que llevaban desde el 1 al 6/10 sin verificar
 
 **634 promos (2 altas, 3 revividas, 0 retiradas, 38 reconfirmadas, 3 con vigencia estirada por su legal).** Visibles: **406**. Asumidas (cartel ámbar): **0**. Sin verificar hace más de 10 días: **150** (ayer 188).

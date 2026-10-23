@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22",
+  "actualizado": "2026-10-23",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -389,7 +389,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-23",
       "confianza": "alta",
       "fuentes": [
         {
@@ -426,6 +426,12 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "legal del 1/10: lunes a viernes hasta el 31/10/2026 | 5% jubilados BNA | tope $5.000 por semana y $20.000 por mes (en ChangoMás hoy no aparece)"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "lunes a viernes 5% para jubilados que cobran por BNA, crédito Visa/Master en 1 pago por MODO o BNA+, tope $5.000 por semana y $20.000 por mes, no online, hasta 31/10/2026"
         }
       ]
     },
@@ -680,7 +686,7 @@
       "vigencia_desde": "2026-01-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-23",
       "confianza": "alta",
       "fuentes": [
         {
@@ -743,6 +749,18 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "Jumbo y Disco 1/10: \"TODOS LOS MARTES DESDE EL 01/01/2026 HASTA EL 31/10/2026 25% ... débito – Desde App Hipotecario o App Modo. TOPE $15.000 (por cliente, durante el mes)\""
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "martes 25% con débito Visa desde App Hipotecario o MODO, presencial, tope $15.000 por mes, del 01/01 al 31/10/2026: igual a lo cargado"
+        },
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "misma tarjeta y legal que en Jumbo"
         }
       ],
       "tope_publicado": true
@@ -8043,7 +8061,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-23",
       "fuentes": [
         {
           "url": "https://www.iprofesional.com/finanzas/461581-que-supermercados-ofrecen-descuentos-de-hasta-35-por-ciento-durante-agosto-de-2026",
@@ -8084,6 +8102,18 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "Jumbo y Disco 1/10: \"3 Cuotas sin interés | Abonando con Tarjeta de Crédito Naranja X | Plan Z\", \"DESDE EL 01/08/2026 AL 31/10/2026\""
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "3 cuotas sin interés con crédito Naranja X Plan Z, presencial y web, 01/08 al 31/10/2026: igual a lo cargado"
+        },
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "misma tarjeta y legal"
         }
       ]
     },
@@ -13623,7 +13653,7 @@
       "vigencia_hasta": "2026-10-31",
       "tope_monto": 10000,
       "tope_periodo": "mensual",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-23",
       "confianza": "alta",
       "id": "ciudad-the-food-market-25",
       "medio": "buepp",
@@ -13668,6 +13698,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): The Food Market | todos los días | 25% Buepp | tope $10.000 mensual. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-23",
+          "nota": "catálogo completo (API del banco): The Food Market todos los días 25% con Buepp, locales físicos, tope $10.000 mensual: igual a lo cargado"
         }
       ]
     },
@@ -18181,7 +18217,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.jumbo.com.ar/descuentos-del-dia",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-23",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18242,6 +18278,12 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "Jumbo 3/10, pestaña lunes: \"25% de reintegro, con tope de $15.000. Promoción válida con Cencopay Cuenta exclusivo presencial. Todos los lunes desde el 01/10/2026 al 31/10/2026\"."
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "lunes 25% de reintegro con Cencopay Cuenta, tope $15.000, exclusivo presencial, 01/10 al 31/10/2026: igual a lo cargado"
         }
       ]
     },
@@ -22495,9 +22537,15 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "Jumbo 1/10: \"martes y jueves, del 01/06/2026 al 31/10/2026 ... billetera MODO\", 20% en compras de $100.000 o más"
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "martes y jueves 20% con MODO en compras desde $100.000, débito o crédito en 1 pago, del 01/06 al 31/10/2026: igual a lo cargado"
         }
       ],
-      "verificado": "2026-10-01"
+      "verificado": "2026-10-23"
     },
     {
       "id": "modo-disco-viernes-sabado-20",
@@ -22550,9 +22598,15 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "Disco 1/10: \"Viernes y Sábados, del 01/06/2026 al 31/10/2026 ... billetera MODO\""
+        },
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "viernes y sábados 20% con MODO en compras desde $100.000, débito o crédito en 1 pago, del 01/06 al 31/10/2026: igual a lo cargado"
         }
       ],
-      "verificado": "2026-10-01"
+      "verificado": "2026-10-23"
     },
     {
       "id": "modo-vea-viernes-20",
@@ -22713,9 +22767,27 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "Jumbo, Disco y Vea 1/10: \"CARTERA DE CONSUMO ... hasta el 31/10/2026 ... Jueves, Viernes, Sábado y Domingo en compras Online ... excluye electro ... Banco Macro\""
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "jueves a domingo 3 cuotas sin interés online con crédito Visa/Master/Amex Macro, excluye electro, 01/12/2025 al 31/10/2026"
+        },
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "mismo legal"
+        },
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "mismo legal"
         }
       ],
-      "verificado": "2026-10-01"
+      "verificado": "2026-10-23"
     },
     {
       "id": "clarin365-cencopay-jumbo-lunes-20",
@@ -22796,9 +22868,15 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "Vea 1/10: \"LOS DÍAS JUEVES DEL 01/10/2026 AL 31/10/2026 ... CENCOPAY. 25% y 3 CUOTAS ... GALLETITAS, CHOCOLATES, GOLOSINAS...\""
+        },
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "jueves 25% + 3 cuotas con crédito Cencopay en galletitas, chocolates, golosinas, conservas, 01/10 al 31/10/2026: igual a lo cargado"
         }
       ],
-      "verificado": "2026-10-01"
+      "verificado": "2026-10-23"
     },
     {
       "id": "santa_fe-la-reina-lunes",
@@ -23686,7 +23764,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-23",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "masclub-masgo-20",
@@ -23729,6 +23807,12 @@
           "nivel": 2,
           "fecha": "2026-10-03",
           "nota": "ChangoMás 3/10: \"Todos los Miércoles y Jueves - MasGo | 20% | Exclusivo MasGo ¡SIN TOPE! | Promoción exclusiva para socios de masclub\"."
+        },
+        {
+          "url": "https://www.masonline.com.ar/promociones-bancarias",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "miércoles y jueves 20% en MasGO para socios MasClub, sin tope, del 01/04 al 31/12/2026: igual a lo cargado"
         }
       ]
     },
@@ -27819,7 +27903,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
-      "verificado": "2026-10-04",
+      "verificado": "2026-10-23",
       "confianza": "alta",
       "id": "cuotas-bbva-sodimac-6",
       "medio": "bbva",
@@ -27862,6 +27946,12 @@
           "nivel": 2,
           "fecha": "2026-10-04",
           "nota": "Sodimac 4/10: BBVA 6 cuotas desde $350.000, 3 desde $150.000, 6 en camas y colchones, 12 y 9 en muebles de exterior/parrillas/camas; hasta 31/10/2026, registrados en GO"
+        },
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "6 cuotas desde $350.000 y 3 desde $150.000 con crédito BBVA registrado en GO; 9 y 6 en camas y colchones; hasta 31/10/2026: igual a lo cargado"
         }
       ]
     },
@@ -27886,7 +27976,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
-      "verificado": "2026-10-04",
+      "verificado": "2026-10-23",
       "confianza": "alta",
       "id": "cuotas-banco_provincia-sodimac-12",
       "medio": "banco_provincia",
@@ -27923,6 +28013,12 @@
           "nivel": 2,
           "fecha": "2026-10-04",
           "nota": "Sodimac 4/10: Banco Provincia 12 cuotas desde $700.000, 6 desde $350.000 y en colchones y sommiers, 4 desde $150.000; legal hasta 31/10/2026, CABA, GBA y PBA"
+        },
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "12 cuotas desde $700.000, 6 desde $350.000, 4 desde $150.000, 6 en colchones sin mínimo; CABA, GBA y PBA; hasta 31/10/2026: igual a lo cargado"
         }
       ]
     },
@@ -34524,9 +34620,27 @@
           "nivel": 2,
           "fecha": "2026-10-04",
           "nota": "Vea 4/10: misma tarjeta."
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "6 cuotas sin interés en electros seleccionados con crédito Visa/Mastercard Banco Nación"
+        },
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "misma tarjeta"
+        },
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "misma tarjeta"
         }
       ],
-      "verificado": "2026-10-05",
+      "verificado": "2026-10-23",
       "confianza": "alta"
     },
     {
@@ -34712,9 +34826,27 @@
           "nivel": 2,
           "fecha": "2026-10-01",
           "nota": "Jumbo, Disco y Vea 1/10 (viernes): \"viernes, sábados y domingos desde el 01/09/26 hasta el 31/10/26 ... Banco Comafi\""
+        },
+        {
+          "url": "https://www.jumbo.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "viernes a domingo 12 cuotas en electro (no pequeños electros) con crédito Comafi, 01/09 al 31/10/2026"
+        },
+        {
+          "url": "https://www.disco.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "mismo legal"
+        },
+        {
+          "url": "https://www.vea.com.ar/descuentos-del-dia?type=por-dia&day=1",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "mismo legal"
         }
       ],
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-23",
       "confianza": "alta"
     },
     {
@@ -37245,7 +37377,7 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
-      "verificado": "2026-10-04",
+      "verificado": "2026-10-23",
       "confianza": "alta",
       "fuentes": [
         {
@@ -37253,6 +37385,12 @@
           "nivel": 2,
           "fecha": "2026-10-04",
           "nota": "Sodimac 4/10: Santander 6 cuotas en colchones y sommiers con Visa crédito, hasta 31/10/2026, tiendas y web, sin patio constructor ni billeteras"
+        },
+        {
+          "url": "https://www.sodimac.com.ar/sodimac-ar/content/Financiacion/",
+          "nivel": 2,
+          "fecha": "2026-10-23",
+          "nota": "6 cuotas en colchones y sommiers con crédito Visa Santander, hasta 31/10/2026: igual a lo cargado"
         }
       ]
     },
