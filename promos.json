@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23",
+  "actualizado": "2026-10-24",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -1237,7 +1237,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1284,6 +1284,12 @@
           "nivel": 1,
           "fecha": "2026-10-03",
           "nota": "Personal Pay 3/10, listado de beneficios: Supermercado La Reina 10% Sábado."
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Personal Pay 24/10, listado de beneficios: Supermercado La Reina 10% Sábado. Igual"
         }
       ]
     },
@@ -1371,7 +1377,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1418,6 +1424,12 @@
           "nivel": 1,
           "fecha": "2026-10-03",
           "nota": "Personal Pay 3/10, listado de beneficios: Farmalife 10% Todos los días."
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Personal Pay 24/10, listado de beneficios: Farmalife 10% Todos los días. Igual"
         }
       ]
     },
@@ -1501,7 +1513,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1548,6 +1560,12 @@
           "nivel": 1,
           "fecha": "2026-10-03",
           "nota": "Personal Pay 3/10, listado de beneficios: Taxi Premium 30% Lunes a Miércoles."
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Personal Pay 24/10, listado de beneficios: Taxi Premium 30% Lunes a Miércoles. Igual"
         }
       ]
     },
@@ -1576,7 +1594,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-10-03",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1623,6 +1641,12 @@
           "nivel": 1,
           "fecha": "2026-10-03",
           "nota": "Personal Pay 3/10, listado de beneficios: Go Bar 15% Todos los días."
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Personal Pay 24/10, listado de beneficios: Go Bar 15% Todos los días. Igual"
         }
       ]
     },
@@ -10188,7 +10212,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancociudad.com.ar/beneficios/",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "fuentes": [
         {
@@ -10225,6 +10249,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Comercios Vecinos (225 comercios) | todos los días | 30% Buepp. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "catálogo completo de la API del banco del 24/10: Comercios Vecinos, 30% todos los días con Buepp, entre ellos los siete que listamos. Igual"
         }
       ]
     },
@@ -14201,7 +14231,7 @@
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.uala.com.ar/promociones/colectivos",
       "verificado": "2026-10-01",
-      "confianza": "alta",
+      "confianza": "baja",
       "fuentes": [
         {
           "url": "https://www.uala.com.ar/promociones/colectivos",
@@ -14230,8 +14260,15 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "página de promos de Ualá del 1/10: \"50% de reintegro en colectivos pagando con Contactless\" (el tope no figura en el listado)"
+        },
+        {
+          "url": "https://www.uala.com.ar/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "listado de Ualá del 24/10: \"100% de reintegro en colectivos pagando con Contactless\" (prepaga y crédito). Desde el 7/10 dice 100%, no 50%; el listado no muestra tope ni vigencia"
         }
-      ]
+      ],
+      "baja_motivo": "NO venció: desde el 7/10 Ualá lista \"100% de reintegro en colectivos\" en vez del 50% cargado, y no publica en el listado el tope ni la vigencia nuevos. Apagada hasta leer la página de la promo"
     },
     {
       "id": "supervielle-coto-nfc-jueves",
@@ -16072,7 +16109,7 @@
       "vigencia_desde": "2026-04-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16122,6 +16159,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "30% La Gallega todos los viernes, 01/04 al 31/12/2026 (el banco no publica tope)"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"EXCLUSIVO CUENTAS | 30% en Supermercados la Gallega | Viernes | 01/04 al 31/12/2026\". Igual"
         }
       ]
     },
@@ -16146,7 +16189,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-11-01",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16159,6 +16202,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "REVIVIDA: Banco San Juan 1/10: 20% Jumbo MODO martes y jueves, 01/08 al 01/11/2026 (hoy la lista trae 9 de 9)"
+        },
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"20% de descuento en JUMBO | Todos los Jueves y Martes | 01/08/2026 al 01/11/2026\", con MODO. Igual a lo cargado"
         }
       ]
     },
@@ -16183,7 +16232,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16196,6 +16245,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "REVIVIDA: Banco San Juan 1/10: 20% La Anónima MODO viernes y sábado, 01/09 al 31/10/2026"
+        },
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"20% en La Anonima - Modo | Viernes y Sábado | 01/09 al 31/10/2026\". Igual"
         }
       ]
     },
@@ -16219,7 +16274,7 @@
       "vigencia_desde": "2026-06-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16232,6 +16287,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "REVIVIDA: Banco San Juan 1/10: 20% Makro MODO jueves, 01/06 al 31/10/2026"
+        },
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"20% en Supermercado Makro | Jueves | 01/06 al 31/10/2026\", con MODO. Igual"
         }
       ]
     },
@@ -16255,7 +16316,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16268,6 +16329,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "REVIVIDA: Banco San Juan 1/10: 20% Vea MODO viernes, 01/08 al 31/10/2026"
+        },
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"20% en Vea - Modo | Viernes | 01/08 al 31/10/2026\". Igual"
         }
       ]
     },
@@ -16323,7 +16390,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16354,6 +16421,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "20% La Anónima MODO viernes y sábado, 01/06 al 31/10/2026"
+        },
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"20% en La Anonima - Modo | Viernes y Sábado | 01/06 al 31/10/2026\". Igual"
         }
       ]
     },
@@ -16375,9 +16448,9 @@
       "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
       "zona": "Santa Cruz",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-29",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
-      "verificado": "2026-09-25",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "fuentes": [
         {
@@ -16402,9 +16475,14 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "\"15% de descuento en SUPERMERCADOS DAR - MODO | Todos los Martes | Desde el 01/07/2026 hasta el 29/09/2026\""
+        },
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"Pagando con QR MODO | 15% en SUPERMERCADOS DAR - MODO | Todos los Martes | 01/06/2026 al 31/10/2026\": el banco la volvió a publicar con vigencia nueva"
         }
-      ],
-      "baja_motivo": "legal hasta el 29/09/2026; el 1/10 la lista completa (5 de 5) no la trae"
+      ]
     },
     {
       "id": "santa_cruz-disco-viernes",
@@ -24076,7 +24154,7 @@
       "requisitos": "Pagando con MODO desde la app del banco. El banco no publica el tope.",
       "zona": "Santa Cruz",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-09-27",
+      "vigencia_hasta": "2026-11-01",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
       "fuentes": [
         {
@@ -24096,11 +24174,16 @@
           "nivel": 1,
           "fecha": "2026-09-25",
           "nota": "\"15% de descuento en Diarco - Modo | Todos los Sábado y Domingo | Desde el 01/08/2026 hasta el 27/09/2026\""
+        },
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"15% en Diarco - Modo | Sábado y Domingo | 01/08/2026 al 01/11/2026\": el banco estiró la vigencia"
         }
       ],
-      "verificado": "2026-09-25",
-      "confianza": "alta",
-      "baja_motivo": "legal hasta el 27/09/2026; el 1/10 la lista completa (5 de 5) no la trae"
+      "verificado": "2026-10-24",
+      "confianza": "alta"
     },
     {
       "rubro": "supermercados",
@@ -24112,7 +24195,7 @@
       "tope_periodo": null,
       "tope_publicado": false,
       "requisitos": "Pagando con MODO desde la app del banco. El banco no publica el tope.",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "id": "santa_cruz-market-sur-viernes",
       "medio": "santa_cruz",
@@ -24122,7 +24205,7 @@
       ],
       "zona": "Santa Cruz",
       "vigencia_desde": "2026-08-07",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2026-12-25",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
       "fuentes": [
         {
@@ -24148,6 +24231,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "30% Market Sur MODO viernes, 14/08 al 31/10/2026"
+        },
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"30% en Market Sur - MODO | Viernes | 14/08 al 25/12/2026\": el banco estiró la vigencia al 25/12"
         }
       ]
     },
@@ -24161,7 +24250,7 @@
       "tope_periodo": null,
       "tope_publicado": false,
       "requisitos": "Pagando con MODO desde la app del banco. El banco no publica el tope.",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "id": "santa_cruz-autoservicio-cerca-viernes",
       "medio": "santa_cruz",
@@ -24171,7 +24260,7 @@
       ],
       "zona": "Santa Cruz",
       "vigencia_desde": "2026-08-07",
-      "vigencia_hasta": "2026-10-30",
+      "vigencia_hasta": "2026-12-25",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
       "fuentes": [
         {
@@ -24197,6 +24286,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "30% Autoservicio Cerca MODO viernes, hasta 30/10/2026"
+        },
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"30% en Autoservicio Cerca - Modo | Viernes | 14/08 al 25/12/2026\": el banco estiró la vigencia al 25/12"
         }
       ]
     },
@@ -24210,7 +24305,7 @@
       "tope_periodo": null,
       "tope_publicado": false,
       "requisitos": "Pagando con MODO desde la app del banco. El banco no publica el tope.",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "id": "san_juan-avicola-myriam-viernes",
       "medio": "san_juan",
@@ -24246,6 +24341,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "30% Avícola Myriam viernes, 01/08 al 31/10/2026"
+        },
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"30% en AVICOLA MYRIAM | Viernes | 01/08 al 31/10/2026\", con MODO. Igual"
         }
       ]
     },
@@ -28526,7 +28627,7 @@
       "tope_periodo": "mensual",
       "zona": "CABA",
       "confianza": "alta",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "id": "buepp-ferias-itinerantes-30",
       "medio": "buepp",
       "medio_nombre": "Buepp",
@@ -28562,6 +28663,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Ferias Itinerantes | lun, mar, jue, sáb | 30% Buepp | tope $10.000 mensual. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "catálogo completo de la API del banco del 24/10: Ferias Itinerantes | lun, mar, jue, sáb | 30% App Ciudad o Buepp | tope $10.000 mensual. Igual"
         }
       ],
       "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
@@ -28572,7 +28679,7 @@
       "tope_periodo": "mensual",
       "zona": "CABA",
       "confianza": "alta",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "id": "buepp-res-finde-30",
       "medio": "buepp",
       "medio_nombre": "Buepp",
@@ -28606,6 +28713,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): RES | sáb y dom | 30% Buepp | tope $4.500 mensual. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "catálogo completo de la API del banco del 24/10: RES | sáb y dom | 30% Buepp | tope de reintegro mensual $4.500. Igual"
         }
       ],
       "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
@@ -28616,7 +28729,7 @@
       "tope_periodo": null,
       "zona": "CABA",
       "confianza": "alta",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "id": "buepp-gastronomicos-finde-20",
       "medio": "buepp",
       "medio_nombre": "Buepp",
@@ -28652,6 +28765,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "catálogo completo del 1/10 (API del banco): Tacc Free, La Pascana, Roster | sáb y dom | 20% Buepp. Igual a lo cargado"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "catálogo completo de la API del banco del 24/10: Tacc Free, La Pascana, Roster Café Especialidad | sáb y dom | 20% Buepp, sin tope publicado. Igual"
         }
       ],
       "fuente": "https://www.bancociudad.com.ar/beneficios/promo"
@@ -36068,7 +36187,7 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2027-03-31",
       "fuente": "https://pampapromos.bancodelapampa.com.ar/PromoAlimentos",
-      "verificado": "2026-10-01",
+      "verificado": "2026-10-24",
       "confianza": "alta",
       "fuentes": [
         {
@@ -36088,6 +36207,12 @@
           "nivel": 1,
           "fecha": "2026-10-01",
           "nota": "lun, mié, vie y sáb desde el 01/07/26 hasta el 31/03/27 | 25% | reintegro $25.000 por semana (la lista de comercios no cargó hoy)"
+        },
+        {
+          "url": "https://pampapromos.bancodelapampa.com.ar/PromoAlimentos",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Pampa 24/10: \"PROMO ALIMENTOS, lunes, miércoles, viernes y sábados del 01/10/26 al 31/03/27, 25% con crédito de Paquetes Pampa (miércoles solo QR Billetera Pampa), reintegro $25.000 por semana\", Cooperativa Obrera en la lista. Igual"
         }
       ]
     },
@@ -38002,6 +38127,385 @@
         }
       ],
       "confianza": "alta"
+    },
+    {
+      "id": "santa_fe-changomas-lunes",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-12-31",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-10-24",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"Pagando con QR MODO | 20% de descuento en Chango Mas - Modo | Todos los Lunes | 01/08/2026 al 31/12/2026\""
+        }
+      ]
+    },
+    {
+      "id": "santa_fe-dia-viernes-sabado",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Dia"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-10-24",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"Pagando con QR MODO | 20% en Supermercados Dia - Modo | Viernes y Sábado | 01/08/2026 al 31/10/2026\""
+        }
+      ]
+    },
+    {
+      "id": "santa_fe-la-anonima-viernes-sabado",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "La Anónima"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-06-01",
+      "vigencia_hasta": "2026-12-31",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-10-24",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"+ 10% ADICIONAL CLIENTES | 20% en La Anonima - Modo | Viernes y Sábado | 01/06/2026 al 31/12/2026\" (el 10% adicional es un cartel sin legal: no se carga)"
+        }
+      ]
+    },
+    {
+      "id": "santa_fe-vea-viernes",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Vea"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-11-30",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-10-24",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"Pagando con QR MODO | 20% en Vea - Modo | Todos los Viernes | 01/09/2026 al 30/11/2026\""
+        }
+      ]
+    },
+    {
+      "id": "santa_fe-jumbo-martes-jueves",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Jumbo"
+      ],
+      "dias": [
+        "martes",
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-11-30",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-10-24",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"Pagando con QR MODO | 20% en Jumbo - Modo | Martes y Jueves | 01/08/2026 al 30/11/2026\""
+        }
+      ]
+    },
+    {
+      "id": "santa_fe-diarco-finde-15",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "mayoristas",
+      "comercios": [
+        "Diarco"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-09-05",
+      "vigencia_hasta": "2026-11-01",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-10-24",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"Pagando con QR MODO | 15% en Diarco - Modo | Sábado y Domingo | 05/09/2026 al 01/11/2026\""
+        }
+      ]
+    },
+    {
+      "id": "santa_fe-makro-jueves",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Makro"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-11-30",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-10-24",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"Pagando con QR MODO | 20% en Supermercado Makro | Todos los Jueves | 01/08/2026 al 30/11/2026\""
+        }
+      ]
+    },
+    {
+      "id": "santa_fe-disco-viernes-sabado",
+      "medio": "santa_fe",
+      "medio_nombre": "Banco Santa Fe",
+      "rubro": "supermercados",
+      "comercios": [
+        "Disco"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-11-30",
+      "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+      "verificado": "2026-10-24",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"Pagando con QR MODO | 20% en Disco - Modo | Viernes y Sábado | 01/08/2026 al 30/11/2026\""
+        }
+      ]
+    },
+    {
+      "id": "san_juan-changomas-lunes",
+      "medio": "san_juan",
+      "medio_nombre": "Banco San Juan",
+      "rubro": "supermercados",
+      "comercios": [
+        "ChangoMás"
+      ],
+      "dias": [
+        "lunes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "San Juan",
+      "vigencia_desde": "2026-06-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
+      "verificado": "2026-10-24",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"Pagando con MODO | 20% de descuento en CHANGOMAS | Todos los Lunes | 01/06/2026 al 31/10/2026\""
+        }
+      ]
+    },
+    {
+      "id": "san_juan-disco-viernes-sabado",
+      "medio": "san_juan",
+      "medio_nombre": "Banco San Juan",
+      "rubro": "supermercados",
+      "comercios": [
+        "Disco"
+      ],
+      "dias": [
+        "viernes",
+        "sabado"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "San Juan",
+      "vigencia_desde": "2026-08-01",
+      "vigencia_hasta": "2026-10-31",
+      "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
+      "verificado": "2026-10-24",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"Pagando con MODO | 20% en Disco - Modo | Viernes y Sábado | 01/08/2026 al 31/10/2026\""
+        }
+      ]
+    },
+    {
+      "id": "santa_cruz-dar-viernes-20",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "supermercados",
+      "comercios": [
+        "Supermercados DAR"
+      ],
+      "dias": [
+        "viernes"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-09-01",
+      "vigencia_hasta": "2026-10-30",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "verificado": "2026-10-24",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"Pagando con QR MODO | 20% en SUPERMERCADOS DAR - MODO | Todos los Viernes | 01/09/2026 al 30/10/2026\""
+        }
+      ]
+    },
+    {
+      "id": "santa_cruz-carrefour-miercoles-15",
+      "medio": "santa_cruz",
+      "medio_nombre": "Banco Santa Cruz",
+      "rubro": "supermercados",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "miercoles"
+      ],
+      "descuento_pct": 15,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": false,
+      "requisitos": "Con tarjeta de crédito del banco, exclusivo para clientes con Cuenta Paquete. Además del 15%, 3 cuotas sin interés. El sitio no publica el tope.",
+      "zona": "Santa Cruz",
+      "vigencia_desde": "2026-01-01",
+      "vigencia_hasta": "2026-12-31",
+      "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
+      "verificado": "2026-10-24",
+      "confianza": "alta",
+      "fuentes": [
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-10-24",
+          "nota": "Petersen 24/10: \"EXCLUSIVO CUENTA PAQUETE | 15% de descuento y 3 cuotas sin interés en Carrefour | Todos los Miércoles | 01/01/2026 al 31/12/2026\""
+        }
+      ],
+      "cuotas": 3
     }
   ]
 }

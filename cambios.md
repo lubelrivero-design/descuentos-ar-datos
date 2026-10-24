@@ -1,5 +1,42 @@
 # Cambios
 
+## 2026-10-24 — Banco Santa Fe, San Juan y Santa Cruz: 12 altas de supermercados (MODO 20% en ChangoMás, Día, Jumbo, Vea, Disco, Makro, La Anónima, Diarco; Carrefour miércoles en Santa Cruz), 2 revividas y 9 reconfirmadas, varias con vigencia estirada por el banco. Reconfirmo Buepp (4), Personal Pay (4) y Banco de La Pampa. ⚠ Ualá colectivos a `baja`: hace 17 días que dice 100%, no 50%
+
+**646 promos (12 altas, 2 revividas, 0 retiradas, 18 reconfirmadas, 1 a `baja`).** Visibles: **419** (ayer 406). Asumidas (cartel ámbar): **0**. Visibles sin verificar hace más de 10 días: **13** (ayer 30).
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` seguía en el 23/10. Disparé `recolectar.yml` completo y a las 07:54 llegó el commit c91f30a con `leido: 2026-10-24` en 38 fuentes. No contestaron **Patagonia** (213 s, quedó en la del 23/10) ni **Macro** (quedó en la del 22/10); **ICBC** y **Frávega** siguen en la lectura desde casa del 18/10, **BPN** en la del **1/10** (23 días) y McDonald's y Musimundo en la del 27/8. No borré nada de ninguna.
+
+### ⚠ Para que mire un humano
+- **`uala-transporte` a `baja` (NO venció).** Teníamos "50% en colectivos, tope $15.000 por mes". La página de promos de Ualá dice **"100% de reintegro en colectivos pagando con Contactless"** desde el **7/10** (entre el 2 y el 6/10 la promo no aparecía; hasta el 2/10 decía 50%). El listado no muestra tope ni vigencia, y un 100% casi seguro viene con otro tope. No cargo el 100% sin leer el legal ni dejo el 50% con un tope que puede ser mentira: queda apagada. Hace falta abrir la página de la promo (`uala.com.ar/promociones/colectivos`) desde casa.
+- **Revivida `santa_cruz-supermercados-dar-martes`** (Banco Santa Cruz, 15% martes con QR MODO): se había retirado porque el legal decía hasta el 29/09; hoy el banco la vuelve a publicar "desde el 01/06/2026 hasta el 31/10/2026". Queda hasta el 31/10.
+- **Revivida `santa_cruz-diarco-finde-15`** (Banco Santa Cruz, 15% sábado y domingo en Diarco con MODO): estaba vencida al 27/09; el banco la publica hoy "01/08 al 01/11/2026".
+
+### Altas (Grupo Petersen, nivel 1, `crudo/petersen.txt` de hoy)
+Todas con MODO, con tarjeta de crédito del banco; el banco no publica topes (van con "tope sin publicar"). Zona: la provincia del banco, como las que ya teníamos.
+- **Banco Santa Fe (8)**: ChangoMás lunes 20% (al 31/12), Día viernes y sábado 20% (al 31/10), La Anónima viernes y sábado 20% (al 31/12), Vea viernes 20% (al 30/11), Jumbo martes y jueves 20% (al 30/11), Makro jueves 20% (al 30/11), Disco viernes y sábado 20% (al 30/11) y Diarco sábado y domingo 15% (al 1/11).
+- **Banco San Juan (2)**: ChangoMás lunes 20% y Disco viernes y sábado 20% (las dos al 31/10).
+- **Banco Santa Cruz (2)**: DAR viernes 20% (al 30/10) y **Carrefour miércoles 15% + 3 cuotas**, exclusivo Cuenta Paquete (al 31/12).
+- No cargué el "+10% adicional clientes" que el banco pone como cartel en La Anónima y Tienda de Frío: no trae legal.
+
+### Reconfirmadas (fuente de hoy sumada a `fuentes[]`)
+- **Banco San Juan (5)**: Jumbo martes y jueves, La Anónima viernes y sábado, Makro jueves, Vea viernes y Avícola Myriam viernes 30%. Igual a lo cargado.
+- **Banco Santa Cruz (3)**: La Anónima viernes y sábado; **Market Sur y Autoservicio Cerca viernes 30%: el banco les estiró la vigencia del 30/10 al 25/12**.
+- **Banco Santa Fe (1)**: La Gallega viernes 30% (exclusivo cuentas, al 31/12).
+- **Buepp (4)**, con el catálogo completo de Ciudad de hoy: Comercios Vecinos 30% (ahora 226 comercios), Ferias Itinerantes 30% (tope $10.000/mes), RES finde 30% (tope $4.500/mes) y gastronómicos finde 20%. Igual.
+- **Personal Pay (4)**: La Reina 10% sábado, Farmalife 10% y Go Bar 15% todos los días, Taxi Premium 30% lunes a miércoles. Ayer dije que no aparecían: estaban en la página 1 del listado. Igual a lo cargado.
+- **Banco de La Pampa (1)**: Promo Alimentos 25% lunes, miércoles, viernes y sábado, reintegro $25.000 por semana, 01/10/26 al 31/03/27. Igual.
+
+### Vistas y no cargadas
+- **Banco Santa Fe** sigue trayendo solo la página 1 de 3 ("1 - 12 de 26"): La Reina, DAR, Kilbel y Alvear siguen en `baja`, probablemente en la página 2.
+- **Comercios locales al 30% (Santa Fe: Bacim, Alfa, Beltrán, viernes, al 31/12) y al 20% (San Juan: Tienda de Frío y La Cumbre Sanjuanina, viernes, al 31/10)**: son de 30% o de una provincia puntual y no hay segunda fuente que diga dónde quedan. Sin cargar, como el 25/9.
+- **Naranja X** vino corta otra vez (3,5 KB): no alcanzó para El Práctico, General Urquiza, Essen ni Complot.
+
+### Agenda del día
+Trabajadas (lecturas de hoy, ninguna aportó): **ypf** (la URL cae en el menú institucional, ni una promo), **axion** (las mismas bases cortadas de "Descuento Super", pelotas y Lollapalooza), **farmacity** (sigue "No encontramos resultados para promociones-bancarias"), **shell** (sigue el sorteo V-Power terminado el 18/10), **dr-ahorro** (la tienda, ninguna promo bancaria), **comafi** (solo supermercados sin detalle, igual que ayer). Sin trabajar: **icbc** y **fravega** (no hay lectura desde casa nueva después del 18/10).
+- Con las ocho sin material, usé el tiempo en la deuda de lo sin verificar: Petersen, Buepp, Personal Pay, Pampa y Ualá.
+- Quedan **13 visibles con más de 10 días**: BPN 5 cuotas (fuente caída hace 23 días), Naranja X 5 (El Práctico, General Urquiza, Essen, Complot, Sodimac), Cencopay miércoles online, Macro McDonald's y MODO domingo en MásGO. Siguen pendientes las recetas de ypf, farmacity, vital, yaguar, maxiconsumo y dr-ahorro, y la paginación de Banco Santa Fe.
+
 ## 2026-10-23 — Sin altas ni bajas. Reconfirmo 15 promos que llevaban de 18 a 22 días sin verificar (Jumbo, Disco, Vea, Sodimac, Carrefour, Ciudad, MasGO). Naranja X en Sodimac cambió de tarjeta esta semana: queda como estaba, para mirar
 
 **634 promos (0 altas, 0 retiradas, 15 reconfirmadas, 0 corregidas).** Visibles: **406**. Asumidas (cartel ámbar): **0**. Sin verificar hace más de 10 días: **140** (ayer 150; 45 de ellas siguen visibles, ahora 30).
