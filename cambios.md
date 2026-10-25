@@ -1,5 +1,30 @@
 # Cambios
 
+## 2026-10-25 — Sin altas ni bajas. Naranja X: terminó "Día de la madre" y Megatone, Naldo, On City, Cetrogar y Casa del Audio vuelven de 14 a 12 cuotas. Reconfirmo 23 de Supervielle y 21 de Naranja X que llevaban 11 días sin verificar. Ninguna fuente de la agenda trajo material
+
+**646 promos (0 altas, 0 retiradas, 5 corregidas, 44 reconfirmadas).** Visibles: **419** (igual que ayer). Asumidas (cartel ámbar): **0**. Visibles sin verificar hace más de 10 días: **14** (sin el trabajo de hoy hubieran sido 58).
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` seguía en el 24/10 (el cron de hoy no había corrido). Disparé `recolectar.yml` **solo con las ocho de la agenda** y a las 07:45 llegó el commit bb468e8 con `leido: 2026-10-25` en seis. **ICBC** (vino vacía) y **Frávega** (bloqueo de CloudFront) siguen en la lectura desde casa del **18/10**. Las demás fuentes (Supervielle, Naranja X) las usé con la lectura del **24/10**, y así quedan fechadas en `fuentes[]` y en `verificado`.
+
+### Cambios
+- **Naranja X, 5 promos de cuotas: de 14 a 12 cuotas.** Megatone, Naldo, On City, Cetrogar y Casa del Audio. Las 14 cuotas eran la campaña "Día de la madre", que el listado mostró hasta el 18/10; desde el 19/10 (lecturas del 19, 20, 22 y 24) dice "Hasta 12 cuotas cero interés | Todos los días". Corregí `cuotas` y `requisitos`. Los ids siguen diciendo `-14`/`-12` como antes, no los toqué para no romper nada.
+- **`supervielle-atomo`: saqué de `requisitos` el "si cobrás el sueldo es 25%, tope $25.000".** El banco lista "Atomo con MODO, martes, 20%, tope $15.000" pero ningún escalón plan sueldo para Átomo en ninguna lectura del 17 al 24/10 (sí lo tiene Aiello, que está al lado). No le prometo al usuario algo que el banco no publica.
+
+### Reconfirmadas (fuente nivel 1 del 24/10 sumada a `fuentes[]`)
+- **Supervielle (23)**: ChangoMás lunes, Jumbo martes y jueves, Disco y Día viernes y sábado, Vea viernes, La Anónima, Modo Market, El Puente, Átomo, Aiello, MásGO lunes y domingo, Coto martes 30%, Shell domingo 10% débito, jubilados (ChangoMás/MásGO, Disco/Jumbo/Vea y farmacias 50%), Cabify Mastercard 50%, Farmaonline 6 cuotas, Easy 6 y 9 cuotas, Blaisten y Coto Electro 18 cuotas. Todo igual a lo cargado.
+- **Naranja X (16)**: Simmons, La Cardeuse y Whirlpool 12 cuotas; Suavestar, Cannon, Rosen, Piero y Suavegom 14 cuotas; Andesmar, Plusmar, El Práctico, La Veloz del Norte, General Urquiza, Flecha Bus y El Norte 10% + 6 cuotas; Shopgallery martes 10% + 9 cuotas. Igual. (Más las 5 corregidas de arriba = 21.)
+
+### ⚠ Para que mire un humano
+- **Supervielle jubilados en ChangoMás**: el banco pone "Crédito" en "ChangoMás Jubilados" y "Débito" en "MásGO Jubilados" (y en Disco/Jumbo/Vea). Nuestra promo dice "pagando con tarjeta de débito" para las dos. Lo más probable es un error de carga del banco; lo dejé como estaba.
+- **Dr. Ahorro ya carga** (el error 526 de SSL que tenía desde el 2/9 se arregló), pero la URL `/promociones` muestra la tienda, sin promos bancarias. Hace falta buscarle otra página o receta.
+
+### Agenda del día
+Trabajadas (lectura de hoy, ninguna aportó): **dr-ahorro** (ver arriba), **comafi** (supermercados, igual que ayer, sin detalle de tope ni vigencia; combustible, salud y MODO siguen en "Verificación de seguridad" de Cloudflare, así que `comafi-shell-domingo-20` no se pudo releer y queda como está), **la-anonima** (403 Forbidden), **maxiconsumo** (solo el menú de categorías, ni una promo), **vital** (carga los filtros "por día / por medio de pago" pero no las tarjetas: la receta no espera al JavaScript), **shell** (sigue el sorteo V-Power terminado el 18/10, ningún descuento). Sin trabajar: **icbc** y **fravega** (no hay lectura desde casa nueva después del 18/10).
+- Con la agenda sin material, usé el tiempo en la deuda de lo sin verificar (Supervielle y Naranja X).
+- Quedan **14 visibles con más de 10 días**: BPN 5 cuotas (fuente caída desde el 1/10), Naranja X 6 (Chevallier, Cata, Aerolíneas, Sodimac, Essen, Complot: no aparecen en el listado corto de 3,5 KB), Cencopay miércoles online, Macro cuotas en Coto y MODO domingo en MásGO.
+- Siguen pendientes las recetas de vital, maxiconsumo, la-anonima y dr-ahorro: hace cinco días que dan vacío.
+
 ## 2026-10-24 — Banco Santa Fe, San Juan y Santa Cruz: 12 altas de supermercados (MODO 20% en ChangoMás, Día, Jumbo, Vea, Disco, Makro, La Anónima, Diarco; Carrefour miércoles en Santa Cruz), 2 revividas y 9 reconfirmadas, varias con vigencia estirada por el banco. Reconfirmo Buepp (4), Personal Pay (4) y Banco de La Pampa. ⚠ Ualá colectivos a `baja`: hace 17 días que dice 100%, no 50%
 
 **646 promos (12 altas, 2 revividas, 0 retiradas, 18 reconfirmadas, 1 a `baja`).** Visibles: **419** (ayer 406). Asumidas (cartel ámbar): **0**. Visibles sin verificar hace más de 10 días: **13** (ayer 30).
