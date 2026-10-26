@@ -1,5 +1,9 @@
 # Cambios
 
+## 2026-10-26 — Mercado Pago se separa en dos: la cuenta y la tarjeta de crédito (cambio hecho a mano, no por la rutina)
+
+7 promos que piden la tarjeta de crédito de Mercado Pago pasan a `medio: "mercado_pago_tarjeta"` / "Tarjeta Mercado Pago": combustible lunes, cuotas en Coto, Diarco y Carrefour, Carrefour lunes 15% y las dos de Farmaonline. `mp-coto-finde` queda en la cuenta (vale con cualquier medio dentro de la app; solo el 5% extra del domingo pide la tarjeta). La regla nueva está en `agente-diario.md`. La app 1.7 le pregunta una vez a quien tenía Mercado Pago si tiene la tarjeta.
+
 ## 2026-10-25 — Sin altas ni bajas. Naranja X: terminó "Día de la madre" y Megatone, Naldo, On City, Cetrogar y Casa del Audio vuelven de 14 a 12 cuotas. Reconfirmo 23 de Supervielle y 21 de Naranja X que llevaban 11 días sin verificar. Ninguna fuente de la agenda trajo material
 
 **646 promos (0 altas, 0 retiradas, 5 corregidas, 44 reconfirmadas).** Visibles: **419** (igual que ayer). Asumidas (cartel ámbar): **0**. Visibles sin verificar hace más de 10 días: **14** (sin el trabajo de hoy hubieran sido 58).

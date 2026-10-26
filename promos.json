@@ -184,8 +184,8 @@
     },
     {
       "id": "mp-combustible-lunes",
-      "medio": "mercado_pago",
-      "medio_nombre": "Mercado Pago",
+      "medio": "mercado_pago_tarjeta",
+      "medio_nombre": "Tarjeta Mercado Pago",
       "rubro": "combustible",
       "comercios": [
         "Estaciones adheridas"
@@ -14770,8 +14770,8 @@
     },
     {
       "id": "cuotas-mp-coto-3",
-      "medio": "mercado_pago",
-      "medio_nombre": "Mercado Pago",
+      "medio": "mercado_pago_tarjeta",
+      "medio_nombre": "Tarjeta Mercado Pago",
       "rubro": "supermercados",
       "comercios": [
         "Coto"
@@ -22477,8 +22477,8 @@
     },
     {
       "id": "mp-farmaonline-mar-jue-20",
-      "medio": "mercado_pago",
-      "medio_nombre": "Mercado Pago",
+      "medio": "mercado_pago_tarjeta",
+      "medio_nombre": "Tarjeta Mercado Pago",
       "rubro": "farmacia",
       "comercios": [
         "Farmaonline"
@@ -24101,8 +24101,8 @@
       "confianza": "alta",
       "tope_publicado": true,
       "id": "mp-carrefour-credito-lunes-15",
-      "medio": "mercado_pago",
-      "medio_nombre": "Mercado Pago",
+      "medio": "mercado_pago_tarjeta",
+      "medio_nombre": "Tarjeta Mercado Pago",
       "comercios": [
         "Carrefour"
       ],
@@ -25525,8 +25525,8 @@
     },
     {
       "id": "cuotas-mp-farmaonline-6",
-      "medio": "mercado_pago",
-      "medio_nombre": "Mercado Pago",
+      "medio": "mercado_pago_tarjeta",
+      "medio_nombre": "Tarjeta Mercado Pago",
       "rubro": "farmacia",
       "comercios": [
         "Farmaonline"
@@ -26293,8 +26293,8 @@
       "confianza": "alta",
       "verificado": "2026-10-22",
       "id": "cuotas-mp-diarco-3",
-      "medio": "mercado_pago",
-      "medio_nombre": "Mercado Pago",
+      "medio": "mercado_pago_tarjeta",
+      "medio_nombre": "Tarjeta Mercado Pago",
       "rubro": "supermercados",
       "comercios": [
         "Diarco Barrio",
@@ -37150,7 +37150,7 @@
       "requisitos": "Solo compras online en carrefour.com.ar y la app, con tarjeta de crédito Mastercard de Carrefour Banco en un pago. Sin tope. No vale en tiendas."
     },
     {
-      "medio_nombre": "Mercado Pago",
+      "medio_nombre": "Tarjeta Mercado Pago",
       "zona": "Nacional",
       "vigencia_desde": "2026-10-01",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -37173,7 +37173,7 @@
         }
       ],
       "id": "cuotas-mp-carrefour-3",
-      "medio": "mercado_pago",
+      "medio": "mercado_pago_tarjeta",
       "rubro": "supermercados",
       "comercios": [
         "Carrefour"
