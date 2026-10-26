@@ -1,5 +1,35 @@
 # Cambios
 
+## 2026-10-26 — ICBC: 2 altas (Sodimac jueves 25% + 9 cuotas, Noray Muebles 6 cuotas) y Michelin se suma a las 9 cuotas en neumáticos. Reconfirmo 51 de ICBC, 13 de Frávega, 10 de Comafi y 17 de ChangoMás. Ninguna fuente de combustible aportó
+
+**648 promos (2 altas, 0 retiradas, 1 corregida, 91 reconfirmadas).** Visibles: **421** (ayer 419). Asumidas (cartel ámbar): **0**. Visibles sin verificar hace más de 10 días: **16** (sin el trabajo de hoy hubieran sido 33, y unas 60 de ICBC/Frávega/Comafi entraban mañana en esa lista).
+
+### Cómo se juntó el texto
+A las 07:42 `crudo/` estaba en el 25/10. Disparé `recolectar.yml` solo con las cuatro de la agenda que lee GitHub (yaguar, ypf, axion, shell) y a las 07:55 llegó el commit b39c572 con `leido: 2026-10-26` en tres; **Shell vino vacía** y quedó en la lectura del 25/10. **ICBC, Comafi y Frávega** las trabajé con la lectura desde casa del **25/10 a las 20:05** (commit 7a7add9), y así quedan fechadas en `fuentes[]` y en `verificado`.
+
+### Altas y cambios (ICBC, catálogo completo por la API, 25/10)
+- **`icbc-sodimac-jueves-25` (nueva):** Sodimac los jueves, 25% y hasta 9 cuotas sin interés con crédito Visa/Mastercard ICBC (25% con Visa Débito), tope $25.000 por transacción, del 15/10 al 12/11/2026.
+- **`cuotas-icbc-noray-6` (nueva):** Noray Muebles, 6 cuotas sin interés con crédito ICBC, del 15/10/2026 al 31/01/2027.
+- **`cuotas-icbc-neumaticos-9`:** sumé **Michelin** (el banco lo agrega desde el 10/10, mismas 9 cuotas y misma vigencia que Bridgestone).
+- No cargué **Máxima Performance** (6 cuotas, rubro auto): no sé qué vende ni dónde; si alguien la conoce, se carga en un minuto.
+- **ICBC sacó "Coto Digital 4to finde de cada mes"** (sigue el de Coto en sucursales). No había promo nuestra activa con eso: nada que tocar.
+
+### Reconfirmadas
+- **ICBC (51):** el catálogo del 25/10 (251 entradas, 12 rubros) es idéntico al del 18/10 salvo lo de arriba. Todas las activas de ICBC (Coto lunes/martes/jueves, ChangoMás jueves, La Anónima, heladerías, farmacias, moda, pinturerías, colchones, mascotas, cuotas varias…) quedan con fuente del 25/10.
+- **Frávega (13):** los legales del 25/10 repiten las cuotas de octubre: Ciudad 18, Naranja X 14, MODO, BBVA, Galicia, Macro, Santander, Credicoop, Patagonia, San Juan, Santa Fe y Santa Cruz 12, Corrientes viernes 10% + 6.
+- **Comafi (10):** el listado de supermercados (solo títulos) sigue igual: ChangoMás martes, Diarco, Aiello, Makro miércoles y 3 cuotas, Coto martes 35%, petshops y Puppis martes a jueves, Rappi ÚNICO, Jumbo/Disco/Vea 3 cuotas.
+- **ChangoMás (17, fuera de la agenda, por deuda):** las que llevaban 11 días. 15 con la lectura del 25/10; **Hipotecario martes** y **Naranja X súper martes** con la del **24/10**, porque el 25/10 la pestaña del martes vino incompleta (83 tarjetas contra 99 de los días anteriores). No las doy por terminadas por eso.
+
+### ⚠ Para que mire un humano
+- **Frávega publica "Banco Nación hasta 20 cuotas"** sin días ni vigencia (remite a semananacion.com.ar). No lo cargué.
+- **Frávega, Banco de Entre Ríos 12 cuotas:** el legal dice "válida del 01/10/2026 al 30/09/2026" / "al 31/09/2026". Fecha imposible: no lo cargué.
+- **ICBC "4to finde" de noviembre** (Coto y ChangoMás 20%, 28 y 29/11 si se cuenta por sábado): no está cargado; conviene decidir cómo contar el "4to fin de semana" antes de que llegue.
+
+### Agenda del día
+Trabajadas: **icbc**, **fravega**, **comafi** (lectura desde casa del 25/10, ver arriba); **dr-ahorro** (25/10: sigue mostrando la tienda, sin promos bancarias); **yaguar** (bloqueo de Cloudflare, "Sorry, you have been blocked"); **ypf** (`/promociones` da "esta página no está disponible": la URL está rota, hay que buscarle otra); **axion** (solo títulos de bases y condiciones, "Descuento Super" sin %, días ni medio de pago); **shell** (vino vacía; la del 25/10 sigue con el sorteo V-Power terminado el 18/10). Ninguna quedó sin mirar.
+- Quedan **16 visibles con más de 10 días**: BPN 5 cuotas (fuente caída desde el 1/10), Naranja X 6 (Chevallier, Cata, Aerolíneas, Sodimac, Essen, Complot), Cencopay miércoles online, Macro McDonald's, MODO domingo en MásGO y Chubut Diarco jueves.
+- Siguen pendientes las recetas de yaguar, ypf, axion, vital, maxiconsumo, la-anonima y dr-ahorro.
+
 ## 2026-10-26 — Mercado Pago se separa en dos: la cuenta y la tarjeta de crédito (cambio hecho a mano, no por la rutina)
 
 7 promos que piden la tarjeta de crédito de Mercado Pago pasan a `medio: "mercado_pago_tarjeta"` / "Tarjeta Mercado Pago": combustible lunes, cuotas en Coto, Diarco y Carrefour, Carrefour lunes 15% y las dos de Farmaonline. `mp-coto-finde` queda en la cuenta (vale con cualquier medio dentro de la app; solo el 5% extra del domingo pide la tarjeta). La regla nueva está en `agente-diario.md`. La app 1.7 le pregunta una vez a quien tenía Mercado Pago si tiene la tarjeta.
