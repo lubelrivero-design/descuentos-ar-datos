@@ -1,5 +1,15 @@
 # Cambios
 
+## 2026-10-27 (tarde) — Macro: 388 promos en porcentaje de todo el país, cargadas por tools/cargar-macro.js
+
+**Altas: 388**, todas con `origen: macro-api`. Salen de la lectura de la API de Macro (`crudo/macro.txt`, 2563 filas): solo las que tienen porcentaje; las de cuotas solas quedan afuera. Por provincia: Mendoza 66 · Neuquén 46 · Provincia de Buenos Aires 45 · Río Negro 44 · Santa Fe 43 · Córdoba 32 · Tierra del Fuego 22 · Misiones 16 · San Luis 15 · San Juan 14 · Tucumán 8 · Salta 7 · CABA 7 · Corrientes 7 · Chubut 6 · La Rioja 3 · Nacional 3 · Entre Ríos, Santiago del Estero, Santa Cruz y Chaco 1.
+
+- Macro **no publica el tope de reintegro**: van todas con `tope_publicado: false` y el aviso en los requisitos.
+- Cuando el porcentaje cambia según la tarjeta (Selecta, Platinum, Preferencial) la promo muestra el más bajo y los demás van en los requisitos.
+- Vigencia hasta fin de mes; se renueva sola con cada lectura nueva. Si una promo desaparece del catálogo de Macro, el cargador la da de baja.
+- Jujuy queda en 0: ahí todo lo de Macro es cuotas sin interés.
+- La rutina diaria ya no trabaja Macro a mano: corre `node tools/cargar-macro.js` (paso 1 del instructivo).
+
 ## 2026-10-27 — Sin altas ni bajas. Reconfirmo 10 de Comafi con la lectura del 26/10 y Chevallier de Naranja X. Las cuatro fuentes de la agenda que lee GitHub (Farmacity, La Anónima, Maxiconsumo, Shell) siguen sin traer promos bancarias
 
 **648 promos (0 altas, 0 retiradas, 0 corregidas, 11 reconfirmadas).** Visibles: **420** (ayer 421: `modo-changomas-lunes` terminó sola el 26/10, que era su último día). Asumidas (cartel ámbar): **0**. Visibles sin verificar hace más de 10 días: **16**.
