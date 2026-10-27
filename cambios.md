@@ -1,5 +1,28 @@
 # Cambios
 
+## 2026-10-27 — Sin altas ni bajas. Reconfirmo 10 de Comafi con la lectura del 26/10 y Chevallier de Naranja X. Las cuatro fuentes de la agenda que lee GitHub (Farmacity, La Anónima, Maxiconsumo, Shell) siguen sin traer promos bancarias
+
+**648 promos (0 altas, 0 retiradas, 0 corregidas, 11 reconfirmadas).** Visibles: **420** (ayer 421: `modo-changomas-lunes` terminó sola el 26/10, que era su último día). Asumidas (cartel ámbar): **0**. Visibles sin verificar hace más de 10 días: **16**.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 26/10. Disparé `recolectar.yml` solo con las cuatro de la agenda que lee GitHub (farmacity, la-anonima, maxiconsumo, shell) y llegó el commit 9247b1b con `leido: 2026-10-27` en las cuatro. **ICBC y Frávega** siguen en la lectura desde casa del 25/10 (ya trabajada ayer, sin novedades). **Comafi**: el workflow del 26/10 pasó Cloudflare en la pestaña de supermercados (las otras cuatro pestañas siguen en "Verificación de seguridad"), así que esas reconfirmaciones van fechadas al **26/10**.
+
+### Reconfirmadas
+- **Comafi (10), lectura del 26/10:** el listado de supermercados es idéntico al del 25/10: ChangoMás martes, Diarco lunes a viernes, Coto martes 35%, Makro miércoles y 3 cuotas, Aiello viernes, petshops y Puppis martes a jueves, Rappi ÚNICO, Jumbo/Disco/Vea 3 cuotas.
+- **`naranja-chevallier-10`** (fuera de la agenda, llevaba 13 días): Naranja X 26/10 sigue con "Hasta 10% off y 6 cuotas, todos los días, crédito".
+
+### Agenda del día
+Trabajadas las ocho:
+- **icbc**, **fravega**: lectura desde casa del 25/10, ya volcada ayer; no hay lectura nueva.
+- **comafi**: ver arriba (las promos de combustible, farmacias, cine y cuotas de Comafi no se pueden releer: esas pestañas no pasan Cloudflare desde GitHub).
+- **dr-ahorro**: la lectura del 26/10 muestra la tienda, sin promos bancarias.
+- **farmacity**: la URL `/promociones-bancarias` da "No encontramos resultados" (página de búsqueda). Solo trae cupones propios (FARMA15, 2x1, 3x2) y un "Hasta 6 cuotas sin interés en seleccionados" sin banco ni detalle: nada cargable. **Hay que buscarle otra URL a la receta.**
+- **la-anonima**: 403 Forbidden, igual que siempre desde GitHub.
+- **maxiconsumo**: la sección Promociones de la sucursal Moreno vino vacía (solo el legal general: "promociones bancarias con tarjetas de crédito no válidas pagando desde la web").
+- **shell**: sigue mostrando el sorteo V-Power terminado el 18/10. Su única promo citada (`galicia-combustible-dia10`) ya está vencida desde el 10/10.
+- Quedan **16 visibles con más de 10 días**: BPN 5 cuotas (fuente caída desde el 1/10), Naranja X 5 (Cata, Aerolíneas, Sodimac, Essen, Complot: no aparecen en el listado parcial del 26/10, que nunca las trae a todas), Personal Pay / Chubut / Patagonia en Diarco (la página de Diarco del 26/10 solo muestra los medios de todos los días, sin las pestañas por día), Cencopay miércoles online, Macro McDonald's y MODO domingo en MásGO.
+- Siguen pendientes las recetas de farmacity, yaguar, ypf, axion, vital, maxiconsumo, la-anonima y dr-ahorro.
+
 ## 2026-10-26 — ICBC: 2 altas (Sodimac jueves 25% + 9 cuotas, Noray Muebles 6 cuotas) y Michelin se suma a las 9 cuotas en neumáticos. Reconfirmo 51 de ICBC, 13 de Frávega, 10 de Comafi y 17 de ChangoMás. Ninguna fuente de combustible aportó
 
 **648 promos (2 altas, 0 retiradas, 1 corregida, 91 reconfirmadas).** Visibles: **421** (ayer 419). Asumidas (cartel ámbar): **0**. Visibles sin verificar hace más de 10 días: **16** (sin el trabajo de hoy hubieran sido 33, y unas 60 de ICBC/Frávega/Comafi entraban mañana en esa lista).

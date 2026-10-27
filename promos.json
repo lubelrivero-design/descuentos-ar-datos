@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26",
+  "actualizado": "2026-10-27",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -8649,7 +8649,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-14",
+      "verificado": "2026-10-26",
       "tope_monto": null,
       "tope_periodo": null,
       "fuentes": [
@@ -8759,6 +8759,12 @@
           "nivel": 1,
           "fecha": "2026-10-14",
           "nota": "Naranja X 14/10: 'Hasta 10% off y 6 cuotas | Chevallier'"
+        },
+        {
+          "url": "https://www.naranjax.com/promociones",
+          "nivel": 1,
+          "fecha": "2026-10-26",
+          "nota": "Naranja X 26/10 (listado de 33 tarjetas): \"Hasta 10% off y 6 cuotas cero interés | Todos los días en Chevallier | Crédito\". Igual."
         }
       ]
     },
@@ -14344,7 +14350,7 @@
       "vigencia_desde": "2026-02-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.modo.com.ar/promos/20-comafi-changomas-feb26",
-      "verificado": "2026-10-25",
+      "verificado": "2026-10-26",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14411,6 +14417,12 @@
           "nivel": 1,
           "fecha": "2026-10-25",
           "nota": "listado de Comafi leído desde casa el 25/10 (solo títulos, sin legal): \"Changomas 20% MODO los martes\". Igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-26",
+          "nota": "listado de Comafi leído por GitHub Actions el 26/10 (supermercados, solo títulos): \"Changomas 20% MODO los martes\". Igual a lo cargado"
         }
       ]
     },
@@ -19131,7 +19143,7 @@
       "vigencia_desde": "2026-08-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-10-25",
+      "verificado": "2026-10-26",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19226,6 +19238,12 @@
           "nivel": 1,
           "fecha": "2026-10-25",
           "nota": "listado de Comafi leído desde casa el 25/10 (solo títulos, sin legal): \"Diarco Barrio y Diarco Mayorista 20% MODO de lunes a viernes\". Igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-26",
+          "nota": "listado de Comafi leído por GitHub Actions el 26/10 (supermercados, solo títulos): \"Diarco Barrio / Diarco Mayorista 20% MODO de lunes a viernes\". Igual a lo cargado"
         }
       ],
       "tope_publicado": true
@@ -30335,7 +30353,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-25",
+      "verificado": "2026-10-26",
       "id": "comafi-coto-martes-30",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -30428,6 +30446,12 @@
           "nivel": 1,
           "fecha": "2026-10-25",
           "nota": "listado de Comafi leído desde casa el 25/10 (solo títulos, sin legal): \"Coto 35% los martes\". Igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-26",
+          "nota": "listado de Comafi leído por GitHub Actions el 26/10 (supermercados, solo títulos): \"Coto 35% los martes\". Igual a lo cargado"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -30438,7 +30462,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-25",
+      "verificado": "2026-10-26",
       "id": "comafi-makro-miercoles-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -30501,6 +30525,12 @@
           "nivel": 1,
           "fecha": "2026-10-25",
           "nota": "listado de Comafi leído desde casa el 25/10 (solo títulos, sin legal): \"Makro 20% MODO los miércoles\". Igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-26",
+          "nota": "listado de Comafi leído por GitHub Actions el 26/10 (supermercados, solo títulos): \"Makro 20% MODO los miércoles\". Igual a lo cargado"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -31002,7 +31032,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-25",
+      "verificado": "2026-10-26",
       "id": "comafi-petshops-mar-jue-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -31071,6 +31101,12 @@
           "nivel": 1,
           "fecha": "2026-10-25",
           "nota": "listado de Comafi leído desde casa el 25/10 (solo títulos, sin legal): \"Delivery Pet Food, Natural life, Leocan y Zoocopet 20% y cuotas MODO de martes a jueves\". Igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-26",
+          "nota": "listado de Comafi leído por GitHub Actions el 26/10 (supermercados, solo títulos): \"Delivery Pet Food, Natural life, Leocan, Zoocopet 20% y cuotas MODO de martes a jueves\". Igual a lo cargado"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -31081,7 +31117,7 @@
       "tope_periodo": "semanal",
       "zona": "San Luis",
       "confianza": "alta",
-      "verificado": "2026-10-25",
+      "verificado": "2026-10-26",
       "id": "comafi-aiello-viernes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -31144,6 +31180,12 @@
           "nivel": 1,
           "fecha": "2026-10-25",
           "nota": "listado de Comafi leído desde casa el 25/10 (solo títulos, sin legal): \"Aiello Supermercados 20% MODO los viernes\". Igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-26",
+          "nota": "listado de Comafi leído por GitHub Actions el 26/10 (supermercados, solo títulos): \"Aiello Supermercados 20% MODO los viernes\". Igual a lo cargado"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -34859,7 +34901,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-25",
+      "verificado": "2026-10-26",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -34916,6 +34958,12 @@
           "nivel": 1,
           "fecha": "2026-10-25",
           "nota": "listado de Comafi leído desde casa el 25/10 (solo títulos, sin legal): \"Rappi [solo ÚNICO/Black] 30% lunes a viernes y domingos\". Igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-26",
+          "nota": "listado de Comafi leído por GitHub Actions el 26/10 (supermercados, solo títulos): \"Rappi [ÚNICO/Black] 30% lunes a viernes y domingos\". Igual a lo cargado"
         }
       ],
       "id": "comafi-rappi-unico-30",
@@ -35149,7 +35197,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-25",
+      "verificado": "2026-10-26",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -35194,6 +35242,12 @@
           "nivel": 1,
           "fecha": "2026-10-25",
           "nota": "listado de Comafi leído desde casa el 25/10 (solo títulos, sin legal): \"Makro 3 cuotas todos los días\". Igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-26",
+          "nota": "listado de Comafi leído por GitHub Actions el 26/10 (supermercados, solo títulos): \"Makro 3 cuotas todos los días\". Igual a lo cargado"
         }
       ],
       "id": "cuotas-comafi-makro-3",
@@ -35631,9 +35685,15 @@
           "nivel": 1,
           "fecha": "2026-10-25",
           "nota": "listado de Comafi leído desde casa el 25/10 (solo títulos, sin legal): \"Vea, Disco y Jumbo 3 cuotas todos los días\". Igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-26",
+          "nota": "listado de Comafi leído por GitHub Actions el 26/10 (supermercados, solo títulos): \"Vea / Disco / Jumbo 3 cuotas todos los días\". Igual a lo cargado"
         }
       ],
-      "verificado": "2026-10-25",
+      "verificado": "2026-10-26",
       "confianza": "alta"
     },
     {
@@ -37507,7 +37567,7 @@
       "vigencia_desde": "2026-09-15",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx",
-      "verificado": "2026-10-25",
+      "verificado": "2026-10-26",
       "confianza": "alta",
       "fuentes": [
         {
@@ -37545,6 +37605,12 @@
           "nivel": 1,
           "fecha": "2026-10-25",
           "nota": "listado de Comafi leído desde casa el 25/10 (solo títulos, sin legal): \"Puppis 20% y cuotas MODO de martes a jueves\". Igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-26",
+          "nota": "listado de Comafi leído por GitHub Actions el 26/10 (supermercados, solo títulos): \"Puppis 20% y cuotas MODO de martes a jueves\". Igual a lo cargado"
         }
       ]
     },
