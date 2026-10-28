@@ -1,5 +1,32 @@
 # Cambios
 
+## 2026-10-28 — Sin altas ni bajas. Reconfirmo 10 de Comafi con la lectura de hoy; Macro renovado solo. El resto de la agenda sigue sin traer promos bancarias
+
+**1036 promos (0 altas, 0 retiradas, 0 corregidas, 10 reconfirmadas a mano + 388 de Macro renovadas por el script).** Visibles hoy: **807**. Asumidas pendientes en la cola del auditor: **0**.
+
+- Macro (`node tools/cargar-macro.js`, con la lectura de hoy): `Macro: 388 promos en porcentaje armadas de 2590 filas · 0 altas · 388 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano`
+
+### Cómo se juntó el texto
+A las 07:43 `crudo/` estaba en el 27/10. Disparé `recolectar.yml` completo y a las 07:54 llegó el commit 038444c con `leido: 2026-10-28` en 41 de 45 archivos. Siguen viejos: **ICBC y Frávega** (lectura desde casa del 25/10, bloquean a GitHub), **BPN** (1/10), **McDonald's y Musimundo** (27/8).
+
+### Reconfirmadas
+- **Comafi (10), lectura del 28/10:** la pestaña de supermercados volvió a pasar Cloudflare y el listado es idéntico al del 26 y 27/10: ChangoMás martes 20%, Diarco lunes a viernes 20%, Coto martes 35%, Makro miércoles 20% y 3 cuotas, Aiello viernes 20%, petshops y Puppis martes a jueves 20%, Rappi ÚNICO 30%, Jumbo/Disco/Vea 3 cuotas. Las otras cuatro pestañas (combustible, salud, promos del mes, MODO) siguen en "Verificación de seguridad".
+- El listado de Comafi también nombra cadenas regionales que no tenemos (Tienda Nova, Alvear, Cereales El Diamante, Cooperativa Obrera, Cordiez, Pingüino, Toledo, Pezcalandia, Coquitos): **no las cargo**, el título solo no dice provincia, tope ni vigencia.
+
+### Agenda del día
+Trabajadas las ocho:
+- **comafi**: ver arriba.
+- **icbc**, **fravega**: sin lectura nueva (25/10, ya volcada). Nada que hacer hasta que se suban desde casa.
+- **dr-ahorro**: OJO, la página **ya no da el error 526 de SSL** que dice la cabecera: carga la tienda (productos, blog), pero sin promos bancarias. Habría que actualizar la cabecera de la receta y buscar la URL de promos bancarias.
+- **shell**: solo el sorteo V-Power a Las Vegas (terminó el 18/10, "validando ganadores"). Ningún descuento.
+- **ypf**: `/promociones` da "Lo sentimos, esta página no está disponible". Hay que buscarle otra URL a la receta.
+- **vital**: la página carga los filtros (por día, por medio de pago) pero no las tarjetas de promo: probablemente se arman con un clic o más tarde. La receta tiene que esperar o clickear "Ver todos".
+- **yaguar**: bloqueo de Cloudflare ("Sorry, you have been blocked"), como siempre desde GitHub.
+
+### Para mirar
+- `icbc-adidas-online-martes-25` terminó sola el 27/10 (su legal decía hasta esa fecha).
+- El auditor sigue marcando 125 promos sin verificar hace más de 10 días (casi todas ya vencidas o en baja).
+
 ## 2026-10-27 (tarde) — Macro: 388 promos en porcentaje de todo el país, cargadas por tools/cargar-macro.js
 
 **Altas: 388**, todas con `origen: macro-api`. Salen de la lectura de la API de Macro (`crudo/macro.txt`, 2563 filas): solo las que tienen porcentaje; las de cuotas solas quedan afuera. Por provincia: Mendoza 66 · Neuquén 46 · Provincia de Buenos Aires 45 · Río Negro 44 · Santa Fe 43 · Córdoba 32 · Tierra del Fuego 22 · Misiones 16 · San Luis 15 · San Juan 14 · Tucumán 8 · Salta 7 · CABA 7 · Corrientes 7 · Chubut 6 · La Rioja 3 · Nacional 3 · Entre Ríos, Santiago del Estero, Santa Cruz y Chaco 1.
