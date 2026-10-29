@@ -1,5 +1,35 @@
 # Cambios
 
+## 2026-10-29 — La agenda no trajo nada nuevo. Reconfirmo 34 de Banco Ciudad que llevaban 11 días sin verificar y retiro 2 que el banco sacó del catálogo
+
+**1036 promos (0 altas, 2 retiradas, 0 corregidas, 34 reconfirmadas a mano + 388 de Macro renovadas por el script).** Visibles hoy: **805** (ayer 807). Asumidas pendientes: **0**.
+
+- Macro (`node tools/cargar-macro.js`): `Macro: 388 promos en porcentaje armadas de 2590 filas · 0 altas · 388 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano`
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 28/10. Como de la agenda sólo cuatro fuentes se leen desde GitHub, disparé `recolectar.yml` con `fuentes: axion farmacity la-anonima shell`, y a las 07:43 llegó el commit 7b34c07 con `leido: 2026-10-29`. **El texto de las cuatro es idéntico al de ayer**: lo único que cambió es la fecha. El resto de `crudo/` sigue con la lectura del 28/10.
+
+### Retiradas (Banco Ciudad: el catálogo de su API está completo, así que acá que falte una promo sí cuenta como prueba)
+- **`ciudad-farmacias-paradineiro-online-20`** (20% online, martes, jueves, sábados y domingos): figura en el catálogo hasta la lectura del 25/10 y desaparece desde el 26/10, con todos los rubros cargados (24 rubros el 26 y el 27). `vigencia_hasta` 25/10.
+- **`ciudad-casa-del-audio-20`** (25% de viernes a domingo): figura hasta el 18/10; desde el 19/10 Casa del Audio sólo tiene las 18 cuotas, que siguen cargadas en `cuotas-ciudad-casa-del-audio-18`. `vigencia_hasta` 18/10.
+
+### Reconfirmadas
+- **Banco Ciudad (34)**, con el catálogo de la API del 28/10: eran las promos visibles que llevaban desde el 18/10 sin verificar. Todas siguen con el mismo comercio, los mismos días y el mismo %: súper (Disco, Jumbo, Día, Vea, Makro, ChangoMás, Coto lunes y martes, Diarco, Nini, MásGO), los 35% con Mastercard (Mas Go, Farmacity/GTL/Simplicity, cafés, The Food Market), combustible los domingos, cines, farmacias para jubilados, cuotas y los grupos de comercios (deportivas, calzado, librerías, perfumerías y bicicleterías, con todos los comercios todavía adentro). Les puse fecha **28/10**, la de la lectura, y no la de hoy.
+- OJO: hoy el catálogo de Ciudad trae **23 rubros**, no 24: falta "Exclusivo Buepp" desde la lectura del 28/10. No retiré nada por eso.
+
+### Agenda del día
+Trabajadas las ocho; ninguna aportó nada:
+- **comafi**: la lectura de ayer a las 11:20 (posterior a la corrida de ayer) es igual a la que ya se volcó. Supermercados sigue legible y las otras cuatro pestañas siguen trabadas en "Verificación de seguridad" de Cloudflare.
+- **icbc**, **fravega**: siguen con la lectura del 25/10, que ya está volcada. Hay que subirlas desde la PC de Lucía.
+- **dr-ahorro**: sigue cargando la tienda (productos, sucursales), sin promos bancarias. La cabecera todavía habla del error 526, que ya no aparece: hay que actualizarla y buscar otra URL.
+- **axion**: el listado de promociones nombra "Promoción combustible super / Descuento Super" (de Pan American Energy), pero las bases están detrás de un "LEER MÁS" que la receta no abre. No se ve ni el día ni el % ni el medio de pago: **no cargo nada**. La receta tendría que entrar a esa página.
+- **farmacity**: `/promociones-bancarias` contesta "No encontramos resultados": **la URL está rota**. Hay que buscar la nueva.
+- **la-anonima**: `403 Forbidden` desde GitHub, igual que siempre.
+- **shell**: sólo el sorteo V-Power, que terminó el 18/10. No hay descuentos. No toqué las promos de Shell que tenemos de otros bancos.
+
+### Para mirar
+- Quedan **33 promos visibles que llevan más de 10 días sin verificar**. Las más grandes son **14 de Comafi** (del 18/10) que salen de las pestañas que Cloudflare bloquea (combustible, salud, promos del mes) y **5 de BPN** (del 29/9, la fuente sigue con la lectura del 1/10). Según el instructivo deberían pasar a `baja`, pero no las bajé porque la fuente no se puede leer y eso no prueba que la promo haya terminado. Que decida un humano.
+
 ## 2026-10-28 — Sin altas ni bajas. Reconfirmo 10 de Comafi con la lectura de hoy; Macro renovado solo. El resto de la agenda sigue sin traer promos bancarias
 
 **1036 promos (0 altas, 0 retiradas, 0 corregidas, 10 reconfirmadas a mano + 388 de Macro renovadas por el script).** Visibles hoy: **807**. Asumidas pendientes en la cola del auditor: **0**.
