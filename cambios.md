@@ -1,5 +1,32 @@
 # Cambios
 
+## 2026-10-30 — Sin altas ni bajas. Reconfirmo 10 de Comafi; Macro no se renovó (lectura vieja). El resto de la agenda sigue sin traer promos
+
+**1036 promos (0 altas, 0 retiradas, 0 corregidas, 10 reconfirmadas a mano).** Asumidas pendientes en la cola del auditor: **0**.
+
+- Macro (`node tools/cargar-macro.js`): `Macro: 388 promos en porcentaje armadas de 2590 filas · 0 altas · 0 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano · LECTURA VIEJA: no se renovó ni se dio de baja nada`. **OJO:** `crudo/macro.txt` es del 28/10 (se lee desde casa). Hoy no se renovó nada; hay que subirlo desde la PC de Lucía.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 29/10. Disparé `recolectar.yml` completo y a las 07:52 llegó el commit 6e49420 con `leido: 2026-10-30`. Siguen viejos: **ICBC y Frávega** (25/10, lectura desde casa), **Macro** (28/10), **BPN** (1/10), **McDonald's y Musimundo** (27/8). **Santander** vino con `ERROR: page.goto: Timeout`, igual que siempre: no toqué sus promos.
+
+### Reconfirmadas
+- **Comafi (10)**, lectura del 30/10: el listado de supermercados es idéntico al del 28 y 29/10. Reconfirmé ChangoMás martes 20%, Diarco lunes a viernes 20%, Coto martes 35%, Makro miércoles 20% y 3 cuotas, Aiello viernes 20%, petshops y Puppis martes a jueves 20%, Rappi ÚNICO 30%, y Jumbo/Disco/Vea 3 cuotas. Las otras cuatro pestañas (combustible, salud, promos del mes, MODO) siguen trabadas en la "Verificación de seguridad" de Cloudflare.
+- En el listado también figuran "Coto 10% MODO martes" y "Coto 25% MODO martes", que ya aparecían en las lecturas anteriores. **No las cargo**: el título solo no dice tope, medio de pago ni vigencia.
+
+### Agenda del día
+Trabajadas las ocho:
+- **comafi**: ver arriba.
+- **icbc**, **fravega**: sin lectura nueva (25/10, ya volcada). Hay que subirlas desde casa.
+- **dr-ahorro**: carga la tienda (productos, sucursales) pero no trae promos bancarias. La cabecera sigue hablando del error 526: hay que actualizarla y buscar la URL de las promos.
+- **maxiconsumo**: la página de promociones carga los días (lunes a domingo) y unos botones de "LEGALES", pero no trae ni un texto de promo. Las promos deben ser imágenes o abrirse con un clic. La receta tendría que abrir los legales o leer el `alt` de las imágenes. Además es la sucursal de Moreno, así que nada de lo que salga de ahí va como Nacional.
+- **vital**: igual que el 28/10, carga los filtros (por día, por medio de pago, "Ver todos") pero no las tarjetas. La receta tiene que hacer clic en "Ver todos" o esperar más.
+- **yaguar**: bloqueado por Cloudflare ("Sorry, you have been blocked"), como siempre desde GitHub.
+- **shell**: sólo el sorteo V-Power, que terminó el 18/10. No hay descuentos. No toqué las promos de Shell que tenemos de otros bancos.
+
+### Para mirar
+- Mañana es 31/10 y casi todo vence ese día: el 1/11 toca el rollover (vigencia asumida) y la revisión a fondo.
+- El auditor sigue marcando 144 promos sin verificar hace más de 10 días, entre ellas las 14 de Comafi de las pestañas bloqueadas y las 5 de BPN. No las bajé porque la fuente no se puede leer, y eso no prueba que la promo haya terminado.
+
 ## 2026-10-29 — La agenda no trajo nada nuevo. Reconfirmo 34 de Banco Ciudad que llevaban 11 días sin verificar y retiro 2 que el banco sacó del catálogo
 
 **1036 promos (0 altas, 2 retiradas, 0 corregidas, 34 reconfirmadas a mano + 388 de Macro renovadas por el script).** Visibles hoy: **805** (ayer 807). Asumidas pendientes: **0**.
