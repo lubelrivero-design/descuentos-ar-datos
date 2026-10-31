@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30",
+  "actualizado": "2026-10-31",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -14484,7 +14484,7 @@
       "vigencia_desde": "2026-02-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.modo.com.ar/promos/20-comafi-changomas-feb26",
-      "verificado": "2026-10-30",
+      "verificado": "2026-10-31",
       "confianza": "alta",
       "fuentes": [
         {
@@ -14569,6 +14569,12 @@
           "nivel": 1,
           "fecha": "2026-10-30",
           "nota": "listado de Comafi leído por GitHub Actions el 30/10 (supermercados, solo títulos): \"Changomas 20% MODO los martes\". Idéntico al 28 y 29/10, igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-31",
+          "nota": "listado de Comafi leído por GitHub Actions el 31/10 (supermercados, solo títulos): \"Changomas 20% MODO los martes\" (también en la versión ÚNICO/Black). Igual a lo cargado"
         }
       ]
     },
@@ -19289,7 +19295,7 @@
       "vigencia_desde": "2026-08-03",
       "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.diarco.com.ar/promociones/",
-      "verificado": "2026-10-30",
+      "verificado": "2026-10-31",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19402,6 +19408,12 @@
           "nivel": 1,
           "fecha": "2026-10-30",
           "nota": "listado de Comafi leído por GitHub Actions el 30/10 (supermercados, solo títulos): \"Diarco Barrio / Diarco Mayorista 20% MODO de lunes a viernes\". Idéntico al 28 y 29/10, igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-31",
+          "nota": "listado de Comafi leído por GitHub Actions el 31/10 (supermercados, solo títulos): \"Diarco Barrio\" y \"Diarco\" 20% MODO de lunes a viernes. Igual a lo cargado"
         }
       ],
       "tope_publicado": true
@@ -30704,7 +30716,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-30",
+      "verificado": "2026-10-31",
       "id": "comafi-makro-miercoles-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -30785,6 +30797,12 @@
           "nivel": 1,
           "fecha": "2026-10-30",
           "nota": "listado de Comafi leído por GitHub Actions el 30/10 (supermercados, solo títulos): \"Makro 20% MODO los miércoles\". Idéntico al 28 y 29/10, igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-31",
+          "nota": "listado de Comafi leído por GitHub Actions el 31/10 (supermercados, solo títulos): \"Makro 20% MODO los miércoles\" (también en la versión ÚNICO/Black). Igual a lo cargado"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -31383,7 +31401,7 @@
       "tope_periodo": "semanal",
       "zona": "San Luis",
       "confianza": "alta",
-      "verificado": "2026-10-30",
+      "verificado": "2026-10-31",
       "id": "comafi-aiello-viernes-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -31464,6 +31482,12 @@
           "nivel": 1,
           "fecha": "2026-10-30",
           "nota": "listado de Comafi leído por GitHub Actions el 30/10 (supermercados, solo títulos): \"Aiello Supermercados 20% MODO los viernes\". Idéntico al 28 y 29/10, igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-31",
+          "nota": "listado de Comafi leído por GitHub Actions el 31/10 (supermercados, solo títulos): \"Aiello Supermercados 20% MODO los viernes\". Igual a lo cargado"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -35179,7 +35203,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-30",
+      "verificado": "2026-10-31",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -35254,6 +35278,12 @@
           "nivel": 1,
           "fecha": "2026-10-30",
           "nota": "listado de Comafi leído por GitHub Actions el 30/10 (supermercados, solo títulos): \"Rappi [ÚNICO/Black] 30% lunes a viernes y domingos\". Idéntico al 28 y 29/10, igual a lo cargado"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-10-31",
+          "nota": "listado de Comafi leído por GitHub Actions el 31/10 (supermercados, solo títulos): \"Rappi [ÚNICO/Black] 30% lunes, martes, miércoles, jueves, viernes y domingos\". Igual a lo cargado"
         }
       ],
       "id": "comafi-rappi-unico-30",

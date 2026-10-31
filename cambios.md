@@ -1,5 +1,33 @@
 # Cambios
 
+## 2026-10-31 — Sin altas ni bajas. Reconfirmo 5 de Comafi; el resto de la agenda no trae promos. Mañana es el rollover
+
+**1036 promos (0 altas, 0 retiradas, 0 corregidas, 5 reconfirmadas a mano).** Asumidas pendientes en la cola del auditor: **0**.
+
+- Macro (`node tools/cargar-macro.js`): `Macro: 388 promos en porcentaje armadas de 2590 filas · 0 altas · 0 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano · LECTURA VIEJA: no se renovó ni se dio de baja nada`. **OJO:** `crudo/macro.txt` sigue en el 28/10. Hay que subirlo desde la PC de Lucía, y mejor antes del rollover de mañana.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 30/10. Disparé `recolectar.yml` completo y a las 07:53 llegó el commit c240de6 con `leido: 2026-10-31` (39 fuentes). Siguen viejos: **ICBC y Frávega** (25/10, se leen desde casa), **Macro** (28/10), **BPN** (1/10), **McDonald's y Musimundo** (27/8). **Santander** vino otra vez con `ERROR:`; no toqué sus promos.
+
+### Reconfirmadas
+- **Comafi (5)**, lectura del 31/10 (supermercados, solo títulos): ChangoMás martes 20%, Diarco lunes a viernes 20%, Makro miércoles 20%, Aiello viernes 20% y Rappi ÚNICO 30%.
+- **Hoy el listado de supermercados de Comafi cambió mucho**: no salen Coto martes 35%, las 3 cuotas de Jumbo/Disco/Vea y Makro, ni los petshops/Puppis. Aparecen en cambio "Jumbo/Disco/Vea 20% MODO los miércoles", Alvear y Aiello los martes, Cereales El Diamante, CORDIEZ y Diarco los miércoles. **No retiré nada**: el listado trae siempre 30 tarjetas exactas (el 28, el 30 y hoy), o sea que tiene un tope y va rotando. Que algo falte no prueba nada. Igual, la mayoría vence hoy. **Tampoco cargué las nuevas**: el título solo no dice tope, medios ni vigencia, y varias son cadenas regionales. Puede que sea el listado de noviembre adelantado: **mañana, en el rollover, hay que mirarlo con cuidado**, y si se puede, conviene leer Comafi completo desde casa.
+- Las otras cuatro pestañas de Comafi (combustible, salud, promos del mes, MODO) siguen trabadas en la verificación de Cloudflare.
+
+### Agenda del día
+Trabajadas las ocho:
+- **comafi**: ver arriba.
+- **icbc**, **fravega**: no hay lectura nueva (la del 25/10 ya está volcada). Hay que subirlas desde casa.
+- **dr-ahorro**: carga la tienda (productos, 2x1, combos) pero ni una promo bancaria. La cabecera sigue hablando del error 526, que ya no pasa: hay que actualizarla y buscarle la URL de las promos bancarias.
+- **ypf**: `/promociones` devuelve solo el menú del sitio institucional. Ninguna promo. La receta tiene que apuntar a otra página (¿App YPF / ServiClub?).
+- **axion**: solo las bases de "Descuento Super" (sin día, % ni banco a la vista; habría que abrir "LEER MÁS"), y promos de pelotas, Coca-Cola y Lollapalooza. Ningún descuento bancario. No toqué las promos de Axion que tenemos de otros bancos.
+- **farmacity**: `/promociones-bancarias` contesta "No encontramos resultados": **la URL ya no existe**. Hay que buscar la nueva y cambiar la receta.
+- **shell**: sigue solo el sorteo V-Power, que terminó el 18/10. Sin descuentos.
+
+### Para mirar
+- **Mañana 1/11 toca el rollover** (vigencia asumida) y la revisión a fondo de los días 1 a 3.
+- El auditor marca **275 promos sin verificar hace más de 10 días** (ayer 144). No es que se haya roto algo: hoy pasaron el umbral todas las que se verificaron por última vez alrededor del 20/10. Las que más pesan: Brubank (63), Ciudad (39), Cuenta DNI (27), Patagonia (25), Naranja X (23) e ICBC (22). Conviene que la agenda de los próximos días les dé prioridad, porque el rollover no estira lo que lleve más de 10 días sin releerse.
+
 ## 2026-10-30 — Sin altas ni bajas. Reconfirmo 10 de Comafi; Macro no se renovó (lectura vieja). El resto de la agenda sigue sin traer promos
 
 **1036 promos (0 altas, 0 retiradas, 0 corregidas, 10 reconfirmadas a mano).** Asumidas pendientes en la cola del auditor: **0**.
