@@ -1,5 +1,53 @@
 # Cambios
 
+## 2026-11-01 — Rollover de noviembre: 169 estiradas con vigencia asumida, 93 ya confirmadas; Ciudad y Supervielle cortaron la campaña MODO de supermercados (23 retiradas); **las 388 de Macro se apagaron** porque su lectura sigue vieja
+
+**1036 promos (0 altas, 23 retiradas, 3 revividas, 4 corregidas, 103 con fuente leída hoy).** **Visibles hoy: 314** (ayer 804). La caída es casi toda Macro (388, ver abajo) y las 82 que no se estiraron por llevar más de 10 días sin releerse. **76 visibles quedan con vigencia asumida** (cartel ámbar): son la cola de mañana.
+
+### ⚠ DESTACADO — Macro: 388 promos vencieron anoche y no se renovaron
+- `node tools/cargar-macro.js`: `Macro: 388 promos en porcentaje armadas de 2590 filas · 0 altas · 0 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano · LECTURA VIEJA: no se renovó ni se dio de baja nada`.
+- `crudo/macro.txt` sigue en el **28/10**. Las promos `macro-api` vencían el 31/10 y el script solo las renueva con lectura fresca, así que **hoy la app no muestra ninguna de Macro** (Tucumán, Salta, Misiones, Córdoba, Mendoza…). No las toqué a mano, como manda el instructivo. **Hace falta subir `crudo/macro.txt` desde la PC de Lucía** y volver a correr el script: ahí revive todo solo.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 31/10 (el cron de hoy todavía no había corrido). Disparé `recolectar.yml` completo y a las 07:52 llegó el commit 3c86028 con `leido: 2026-11-01` (39 fuentes). Siguen viejos: **ICBC y Frávega** (25/10, desde casa), **Macro** (28/10), **BPN** (1/10), **McDonald's y Musimundo** (27/8). **Santander** vino otra vez con `ERROR: page.goto: Timeout`; no toqué sus promos.
+
+### El rollover
+Las 251 promos visibles (sin contar Macro) que vencían el 31/10: **169 se estiraron al 30/11 con `vigencia_asumida: "2026-11-01"`** y **82 no se estiraron** porque llevaban más de 10 días sin verificar (sobre todo Cuenta DNI 15, Patagonia 10, Galicia 9, "cualquier medio" 9, Carrefour Banco 7, Brubank 7). Esas quedaron con su fecha del 31/10 y no se ven; vuelven en cuanto una fuente las confirme. Después releí las fuentes y **93 de las 169 quedaron confirmadas** con texto de hoy.
+
+### ⚠ DESTACADO — Supermercados: Ciudad y Supervielle cortaron la campaña MODO de octubre
+- **Banco Ciudad** (catálogo completo por API, todos los rubros; acá la ausencia sí cuenta): Supermercados pasó de 16 a 7, y desaparecieron Desayuno y Delivery. Retiradas al 31/10 (estaban el 31/10, hoy no): `ciudad-disco-20`, `ciudad-jumbo-20`, `ciudad-dia-20`, `ciudad-makro-20`, `ciudad-supermercados-vea-20`, `ciudad-changomas-20`, `ciudad-mayorista-nini-20`, `ciudad-coto-20` (martes 25%; **el Coto lunes 25% sigue**), `ciudad-masgo-20` (domingo; **la de MásGO jueves 35% Mastercard sigue**), `ciudad-nutrican-20`, y las Mastercard 35% de Farmacity/GTL/Simplicity, cafés (Tostado/Café Martínez/Le Pain Quotidien) y The Food Market lunes.
+- **Supervielle** (página de supermercados cargada entera, 179 tarjetas): retiradas al 31/10 las MODO de ChangoMás lunes, Jumbo mar/jue, Disco vie/sáb, Vea viernes, Día vie/sáb, La Anónima vie/sáb, MásGO domingo y lunes, Coto martes, y Disco/Jumbo/Vea Jubilados martes. **Siguen**: ChangoMás/MásGO Jubilados, Modo Market, El Puente, Átomo, Aiello, farmacias jubilados 50%.
+- Ojo: la página de combustible de Supervielle vino vacía y la de transporte trajo una sola tarjeta, así que **Shell domingo y Cabify Mastercard quedaron asumidas, no retiradas**.
+
+### ⚠ Revividas (para que las mire un humano)
+- **`modo-changomas-lunes`**: ChangoMás publica la campaña MODO de los lunes 2, 9, 16, 23 y 30/11 (20%, mínimo $75.000, tope $25.000 por banco).
+- **`mp-changomas-martes`**: ChangoMás dice martes de noviembre 15% sin tope con QR de Mercado Pago, y ahora la tarjeta y el legal coinciden en el día (en octubre se contradecían, por eso se había bajado).
+- **`cuotas-naranja_x-samsung-14`**: Naranja X la vuelve a listar ("Hasta 14 cuotas, todos los días en Samsung"). Había salido el 1/10.
+
+### Correcciones
+- `ciudad-farmaonline-10`: pasó de viernes a **todos los días** (10% + 6 cuotas, tope $10.000 por compra).
+- `cuotas-naranja_x-casa-del-audio-14`: de 12 a **9 cuotas** (lo que dice hoy Naranja X).
+- `cuotas-cencopay-easy-24-online`: el mínimo bajó de $350.000 a **$250.000**.
+- `comafi-changomas-martes`: la tarjeta de ChangoMás dice tope $12.000 semanal, pero su legal dice **$20.000 mensual**, del 03/11/26 al 31/01/27. Cargué el legal, que es lo menor. Para que lo mire un humano.
+
+### Confirmadas con texto de hoy (resumen)
+- **Ciudad (27)**: Diarco Barrio/Pueblo, Farmacias ABC, combustible domingo, cuotas de Frávega/Casa del Audio/Samsung/Almundo/Plataforma 10/On City/bicicleterías, Comercios Vecinos, The Food Market 25% Buepp, deportivas, calzado, librerías, perfumerías, Coto lunes, Arredo, Alpinestars, cines 50%, ferias, RES, gastronómicos Buepp, farmacias jubilados y MásGO jueves 35%.
+- **Naranja X (20)**, con el listado entero de hoy (33 tarjetas; ayer vino roto): micros (Andesmar, Plusmar, El Práctico, La Veloz, General Urquiza, Flecha Bus, El Norte), On City, Frávega, Simmons, La Cardeuse, Whirlpool, Suavestar, Cannon, Rosen, Piero, Suavegom y Cata (estirada al 30/11).
+- **Supervielle (11)**, **Comafi (6)**: ChangoMás martes, Coto martes 35%, Makro miércoles, Makro 3 cuotas, Puppis y petshops.
+- **ChangoMás (legales de noviembre)**: BNA miércoles 35%, ANSES, empleados públicos, QR finde 15%, Naranja X martes, Credicoop Cabal jueves (vale hasta el 31/12), Hipotecario martes, Cuenta DNI jueves.
+- **Easy (legales de noviembre)**: Cencopay Cuenta jueves 15%, Cencopay 12 y 24 cuotas, SOL 3 y 6 cuotas. **Diarco**: Macro 6 cuotas (hasta el 30/11).
+
+### No confirmadas a propósito (siguen asumidas)
+- **Naranja X Megatone, Naldo y Cetrogar**: tenemos 12 cuotas y hoy la tarjeta dice "hasta 14". Quedan en 12, que es lo menor, hasta que alguien mire. **Shopgallery** ahora dice "días seleccionados" en vez de martes. **Chevallier** no está en el listado de hoy.
+- **Comafi Diarco** (hoy dice solo miércoles; tenemos lunes a viernes), **Aiello** (hoy dice martes; tenemos viernes) y **Rappi ÚNICO** (no figura). No retiré nada porque el listado de Comafi rota (sale siempre en 28-30 tarjetas). Tampoco cargué las nuevas de Comafi (Jumbo/Disco/Vea miércoles, Coto 10% y 25% MODO, Alvear, Cooperativa Obrera, CORDIEZ, Cereales El Diamante, Pezcalandia, Coquitos): son solo títulos, sin tope ni vigencia.
+- **Novedades de Naranja X sin cargar**: Viajes Naranja X (Plan Turbo 25% + 12 cuotas), Showsport (25% + 15 cuotas, "días seleccionados"), Seven Sport, Exit, Coppel, On Sports, In Store, Selu Len, Punto Deportivo. Son títulos sin día ni zona.
+- No llegué a cruzar a fondo Día, Jumbo/Disco/Vea, Carrefour, Coto, Cuenta DNI, Credicoop, Personal Pay, Patagonia ni Petersen. Varias de esas páginas **ya publican los legales de noviembre** (Easy, ChangoMás, Cuenta DNI). Son la cola de mañana, junto con las 82 que no se estiraron.
+
+### Agenda del día
+- **Trabajadas: comafi, la-anonima, maxiconsumo, vital, shell, dr-ahorro.** Comafi: ver arriba. **La Anónima** sigue dando 403. **Maxiconsumo** (sucursal Moreno): la sección Promociones vino vacía, solo el menú de productos y el aviso de que las promos bancarias no valen pagando desde la web; parece que las promos son imágenes. **Vital**: carga los botones "Por día / Por medio de pago" pero ninguna promo (también parecen imágenes o necesitan un clic). **Shell**: sigue solo el sorteo V-Power, que ya terminó. **Dr. Ahorro**: carga la tienda (2x1, combos) pero ninguna promo bancaria; la cabecera todavía habla del error 526, que ya no pasa. Ninguna aportó promos; las cuatro necesitan otra receta o URL.
+- **No trabajadas: icbc, fravega.** No tienen lectura nueva (25/10, se leen desde casa). Sus asumidas (8 de ICBC) quedan con el cartel.
+- Por ser día 1 trabajé además Ciudad, Naranja X, Supervielle, ChangoMás, Easy y Diarco.
+
 ## 2026-10-31 — Sin altas ni bajas. Reconfirmo 5 de Comafi; el resto de la agenda no trae promos. Mañana es el rollover
 
 **1036 promos (0 altas, 0 retiradas, 0 corregidas, 5 reconfirmadas a mano).** Asumidas pendientes en la cola del auditor: **0**.
