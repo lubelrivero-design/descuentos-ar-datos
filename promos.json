@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01",
+  "actualizado": "2026-11-02",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -1205,7 +1205,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://diaonline.supermercadosdia.com.ar/medios-de-pago-y-promociones",
-      "verificado": "2026-10-22",
+      "verificado": "2026-11-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -1269,10 +1269,15 @@
           "nivel": 2,
           "fecha": "2026-10-22",
           "nota": "Personal Pay jueves 15%, sin tope, mínimo $20.000, una transacción por jueves, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-11-02",
+          "nota": "Personal Pay 2/11, listado: Supermercado Dia 15% Jueves (sin tope ni vigencia en el listado)"
         }
       ],
-      "compra_minima": 20000,
-      "vigencia_asumida": "2026-11-01"
+      "compra_minima": 20000
     },
     {
       "id": "personalpay-lareina-sabado",
@@ -1293,7 +1298,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-10-24",
+      "verificado": "2026-11-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1346,9 +1351,14 @@
           "nivel": 1,
           "fecha": "2026-10-24",
           "nota": "Personal Pay 24/10, listado de beneficios: Supermercado La Reina 10% Sábado. Igual"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-11-02",
+          "nota": "Personal Pay 2/11, listado: Supermercado La Reina 10% Sábado"
         }
-      ],
-      "vigencia_asumida": "2026-11-01"
+      ]
     },
     {
       "id": "personalpay-farmacia-central-oeste",
@@ -1434,7 +1444,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-10-24",
+      "verificado": "2026-11-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1487,9 +1497,14 @@
           "nivel": 1,
           "fecha": "2026-10-24",
           "nota": "Personal Pay 24/10, listado de beneficios: Farmalife 10% Todos los días. Igual"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-11-02",
+          "nota": "Personal Pay 2/11, listado: Farmalife 10% Todos los días"
         }
-      ],
-      "vigencia_asumida": "2026-11-01"
+      ]
     },
     {
       "id": "personalpay-puma-sabado",
@@ -1571,7 +1586,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-10-24",
+      "verificado": "2026-11-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1624,9 +1639,14 @@
           "nivel": 1,
           "fecha": "2026-10-24",
           "nota": "Personal Pay 24/10, listado de beneficios: Taxi Premium 30% Lunes a Miércoles. Igual"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-11-02",
+          "nota": "Personal Pay 2/11, listado: Taxi Premium 30% Lunes a Miércoles"
         }
-      ],
-      "vigencia_asumida": "2026-11-01"
+      ]
     },
     {
       "id": "personalpay-gobar",
@@ -1653,7 +1673,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.personalpay.com.ar/beneficios",
-      "verificado": "2026-10-24",
+      "verificado": "2026-11-02",
       "confianza": "alta",
       "tope_publicado": false,
       "fuentes": [
@@ -1706,9 +1726,14 @@
           "nivel": 1,
           "fecha": "2026-10-24",
           "nota": "Personal Pay 24/10, listado de beneficios: Go Bar 15% Todos los días. Igual"
+        },
+        {
+          "url": "https://www.personalpay.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-11-02",
+          "nota": "Personal Pay 2/11, listado: Go Bar 15% Todos los días"
         }
-      ],
-      "vigencia_asumida": "2026-11-01"
+      ]
     },
     {
       "id": "uala-changomas-jueves",
@@ -5626,7 +5651,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-11-30",
-      "verificado": "2026-10-22",
+      "verificado": "2026-11-02",
       "confianza": "alta",
       "fuentes": [
         {
@@ -5656,9 +5681,14 @@
           "nivel": 2,
           "fecha": "2026-10-22",
           "nota": "promo de todos los días, igual a lo cargado, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-11-02",
+          "nota": "Diarco 2/11: Naranja X 6 cuotas cero interés en electro y categorías seleccionadas, lunes a domingo, 01/10 al 30/11/26, Barrio y Mayorista"
         }
-      ],
-      "vigencia_asumida": "2026-11-01"
+      ]
     },
     {
       "id": "cuotas-modo-tiendamacro-24",
@@ -25058,7 +25088,7 @@
       "zona": "Nacional",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-11-30",
-      "verificado": "2026-10-22",
+      "verificado": "2026-11-02",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "cuotas-naranja_x-diarco-mayorista-4",
@@ -25130,9 +25160,14 @@
           "nivel": 2,
           "fecha": "2026-10-22",
           "nota": "promo de todos los días, igual a lo cargado, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-11-02",
+          "nota": "Diarco 2/11: Naranja X plan 4 cuotas cero interés todos los días, Diarco Mayorista, 01/10 al 30/11/26"
         }
-      ],
-      "vigencia_asumida": "2026-11-01"
+      ]
     },
     {
       "id": "santa_cruz-diarco-finde-15",
@@ -27197,7 +27232,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-10-22",
+      "verificado": "2026-11-02",
       "id": "cuotas-mp-diarco-3",
       "medio": "mercado_pago_tarjeta",
       "medio_nombre": "Tarjeta Mercado Pago",
@@ -27264,9 +27299,14 @@
           "nivel": 2,
           "fecha": "2026-10-22",
           "nota": "promo de todos los días, igual a lo cargado, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-11-02",
+          "nota": "Diarco 2/11: 3 cuotas sin interés con tarjeta de crédito Mercado Pago por QR, desde $150.000, lunes a domingo, 01/10 al 30/11/2026"
         }
-      ],
-      "vigencia_asumida": "2026-11-01"
+      ]
     },
     {
       "id": "patagonia-jumbo-disco-viernes-25",
@@ -39002,7 +39042,7 @@
       "requisitos": "Hasta 12 cuotas sin interés con tarjeta de crédito Visa o American Express Galicia, solo en productos seleccionados de electro, ferretería, automotor, bazar, decoración, jardinería, libros y muebles."
     },
     {
-      "verificado": "2026-10-22",
+      "verificado": "2026-11-02",
       "confianza": "alta",
       "zona": "Nacional",
       "id": "cuotas-naranja_x-diarco-barrio-3",
@@ -39047,9 +39087,14 @@
           "nivel": 2,
           "fecha": "2026-10-22",
           "nota": "promo de todos los días, igual a lo cargado, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-11-02",
+          "nota": "Diarco 2/11: Naranja X Plan Zeta 3 cuotas cero interés, Diarco Barrio, vigencia 01/10/26 al 30/11/26"
         }
-      ],
-      "vigencia_asumida": "2026-11-01"
+      ]
     },
     {
       "verificado": "2026-10-18",
@@ -39099,7 +39144,7 @@
       ]
     },
     {
-      "verificado": "2026-10-22",
+      "verificado": "2026-11-02",
       "confianza": "alta",
       "zona": "Nacional",
       "id": "cuotas-galicia-diarco-electro-12",
@@ -39145,12 +39190,17 @@
           "nivel": 2,
           "fecha": "2026-10-22",
           "nota": "promo de todos los días, igual a lo cargado, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-11-02",
+          "nota": "Diarco 2/11: Galicia 6 y 12 cuotas en electro y seleccionados, lunes a domingo, 01/10 al 30/11/26"
         }
-      ],
-      "vigencia_asumida": "2026-11-01"
+      ]
     },
     {
-      "verificado": "2026-10-22",
+      "verificado": "2026-11-02",
       "confianza": "alta",
       "zona": "Nacional",
       "id": "cuotas-bna-diarco-electro-12",
@@ -39196,9 +39246,14 @@
           "nivel": 2,
           "fecha": "2026-10-22",
           "nota": "promo de todos los días, igual a lo cargado, 01/10 al 31/10/26"
+        },
+        {
+          "url": "https://www.diarco.com.ar/promociones/",
+          "nivel": 2,
+          "fecha": "2026-11-02",
+          "nota": "Diarco 2/11: BNA 6 y 12 cuotas Visa/Mastercard en seleccionados, lunes a domingo, 01/10 al 30/11/26"
         }
-      ],
-      "vigencia_asumida": "2026-11-01"
+      ]
     },
     {
       "verificado": "2026-10-16",

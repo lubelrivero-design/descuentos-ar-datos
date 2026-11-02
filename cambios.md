@@ -1,5 +1,34 @@
 # Cambios
 
+## 2026-11-02 — 11 asumidas confirmadas (Diarco y Personal Pay); **Jumbo vació sus promos bancarias** y Naranja X vino casi vacía: no retiré nada
+
+**1036 promos (0 altas, 0 retiradas, 0 corregidas, 11 confirmadas con texto de hoy).** Con vigencia asumida quedan **70** (ayer 81); el auditor lista 65 visibles en su cola.
+
+- Macro (`node tools/cargar-macro.js`): `Macro: 388 promos en porcentaje armadas de 2590 filas · 0 altas · 0 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano · LECTURA VIEJA: no se renovó ni se dio de baja nada`. **Siguen apagadas las 388 de Macro**: `crudo/macro.txt` sigue en el 28/10. Hace falta subirlo desde la PC de Lucía.
+
+### Cómo se juntó el texto
+A las 07:42 `crudo/` estaba en el 1/11. Disparé `recolectar.yml` completo y a las 07:54 llegó el commit 542e760 con `leido: 2026-11-02` (39 fuentes). Siguen viejos: **ICBC y Frávega** (25/10, desde casa), **Macro** (28/10), **BPN** (1/10), **McDonald's y Musimundo** (27/8). **Santander** otra vez `ERROR: page.goto: Timeout`; no toqué sus promos.
+
+### ⚠ DESTACADO — Jumbo sacó todas las promos bancarias (¿todavía no cargó las de noviembre?)
+- La página de descuentos por día de Jumbo cargó bien (menú, días, pestañas), pero hoy solo trae las promos propias: 15% en locales puntuales (Neuquén, Tucumán, Vista Pueblo/Godoy Cruz, Nuevocentro, Rosario, hasta el 31/12) y los miércoles de jubilados con Jumbo+. El viernes dice textualmente *"No hay promociones bancarias establecidas en esta tienda para este día"*. Ayer a las 11:34 estaban todas, con legales que vencían el 31/10.
+- **No retiré nada**: es el día 2 y lo más probable es que Cencosud todavía no haya subido las de noviembre (pasa también con Cencopay, que es de ellos). Las ~50 promos que se apoyan en Jumbo (Hipotecario martes, Cencopay lunes, MODO martes/jueves, cuotas de BNA/Comafi/Naranja X/Macro…) quedan con el cartel de "falta confirmar". **Si mañana sigue vacía, hay que mirarlo con cuidado**, y cruzar con Disco y Vea, que son la misma empresa.
+
+### Confirmadas con texto de hoy
+- **Diarco (6)**, legales vigentes hasta el 30/11: Naranja X 6 cuotas, Naranja X 4 cuotas (Mayorista), Naranja X Plan Zeta 3 cuotas (Barrio), Tarjeta Mercado Pago 3 cuotas desde $150.000, Galicia 12 cuotas y BNA 12 cuotas en electro.
+- **Personal Pay (5)**, del listado de beneficios: Día jueves 15%, La Reina sábado 10%, Farmalife 10%, Taxi Premium 30% lunes a miércoles y Go Bar 15%.
+- Ojo: **Diarco muestra solo las promos del día en que se lee** (ayer domingo trajo las de MODO y Mercado Pago de finde; hoy lunes, las de Diarco Club). Por eso **Credicoop jueves 20%/30% y Comafi** no aparecen ni ayer ni hoy: no es evidencia de nada, siguen asumidas. Hay que leerla un jueves. Ayer el legal de los finde con MODO y Mercado Pago (15%/20%) decía hasta el 8/11.
+- Novedades de Diarco que no cargué: Diarco Club (15% los lunes en sucursales puntuales, 10% Bonda lunes a viernes) es un club de socios, no un medio de pago; y Credicuotas 20% vale solo en la primera compra.
+
+### Agenda del día
+- **Trabajadas: diarco, personal-pay, jumbo, naranja-x, yaguar, ypf, axion, shell.**
+  - **naranja-x**: vino con la ubicación en "Moses Lake" (el runner de GitHub está en EE.UU.) y solo 3 tarjetas, todas del Cyber Monday del 2 al 4/11 (hasta 25% + 18 cuotas en electro y viajes; 30% + 6 cuotas en productos Neutrogena en Farmacity; cupón de viajes a Brasil). Las 80 asumidas de Naranja X **siguen asumidas**, no retiré nada. No cargué el Cyber Monday: sin tope ni comercios concretos. **La receta tendría que fijar una ubicación argentina** antes de leer.
+  - **personal-pay**: solo carga la página 1 de 8 del listado (12 beneficios). Las otras ~38 asumidas de Personal Pay no se pueden confirmar hasta que la receta pase de página.
+  - **yaguar**: bloqueo de Cloudflare ("Sorry, you have been blocked"). Igual que siempre.
+  - **ypf**: sigue devolviendo solo el menú del sitio institucional. Hay que cambiar la URL.
+  - **axion**: solo bases de sorteos y promos de Coca-Cola, Lollapalooza y pelotas. Ningún descuento bancario.
+  - **shell**: sigue solo el sorteo V-Power terminado.
+- **No trabajadas: dr-ahorro, fravega, comafi, icbc** (las "leídas desde la PC de Lucía"): no tienen lectura nueva que no se haya volcado ayer (Frávega e ICBC siguen en el 25/10; Comafi y Dr. Ahorro ya se trabajaron el 1/11).
+
 ## 2026-11-01 — Rollover de noviembre: 169 estiradas con vigencia asumida, 93 ya confirmadas; Ciudad y Supervielle cortaron la campaña MODO de supermercados (23 retiradas); **las 388 de Macro se apagaron** porque su lectura sigue vieja
 
 **1036 promos (0 altas, 23 retiradas, 3 revividas, 4 corregidas, 103 con fuente leída hoy).** **Visibles hoy: 314** (ayer 804). La caída es casi toda Macro (388, ver abajo) y las 82 que no se estiraron por llevar más de 10 días sin releerse. **76 visibles quedan con vigencia asumida** (cartel ámbar): son la cola de mañana.
