@@ -1,5 +1,13 @@
 # Cambios
 
+## 2026-11-02 (noche) — **Macro se mudó a MODO**: quedan 26 promos verificadas, con fecha real y tope
+
+Las 388 de Macro dejaron de verse el 1/11 porque su vigencia era "hasta fin de mes" y la lectura del domingo no llegó a renovarlas. Al mirarlo apareció algo más grande: **Macro sacó su API de beneficios y ahora publica todo en la plataforma de MODO** (además puso un desafío anti-robots en la página, ya resuelto en el recolector).
+
+- El catálogo de MODO trae **fecha real de vencimiento y tope**, pero **no la provincia**. Muchas de las 388 en realidad habían terminado el 30/9 o el 31/10 según MODO: que se apagaran estuvo bien.
+- Para ubicar cada promo se usa la provincia que Macro le daba en su API hasta el 28/10 (`tools/macro-provincias.json`). Coinciden **26 vigentes** (6 altas, 20 revividas), ahora con tope publicado.
+- **Unas 500 promos vigentes de Macro quedan afuera** porque no hay forma confiable de saber en qué provincia valen: ni el legal ni el mapa de comercios de MODO lo dicen (el "CABA" que figura en todos los legales es la dirección de MODO).
+
 ## 2026-11-02 — 11 asumidas confirmadas (Diarco y Personal Pay); **Jumbo vació sus promos bancarias** y Naranja X vino casi vacía: no retiré nada
 
 **1036 promos (0 altas, 0 retiradas, 0 corregidas, 11 confirmadas con texto de hoy).** Con vigencia asumida quedan **70** (ayer 81); el auditor lista 65 visibles en su cola.
