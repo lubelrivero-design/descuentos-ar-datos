@@ -1,8 +1,8 @@
 # Cambios
 
-## 2026-11-03 — **Jumbo, Disco y Vea volvieron con las promos bancarias de noviembre**; ICBC, Frávega y Comafi cerraron octubre (15 retiradas); 20 asumidas confirmadas
+## 2026-11-03 — **Jumbo, Disco y Vea volvieron con las promos bancarias de noviembre**; ICBC, Frávega y Comafi cerraron octubre (11 retiradas); 20 asumidas confirmadas
 
-**1044 promos (2 altas de Macro, 15 retiradas, 2 revividas, 4 corregidas, unas 110 con fuente nueva).** Con vigencia asumida quedan **22 visibles** (ayer 42 en la cola del auditor). Visibles hoy: 277.
+**1044 promos (2 altas de Macro, 11 retiradas, 2 revividas, 4 corregidas, unas 110 con fuente nueva).** Con vigencia asumida quedan **22 visibles** (ayer 42 en la cola del auditor). Visibles hoy: 277.
 
 - Macro (`node tools/cargar-macro.js`, corrido de nuevo con el texto de hoy): `Macro: 33 promos en porcentaje armadas de 4623 filas (523 de MODO quedan afuera por no tener provincia conocida, 4059 ya vencidas) · 2 altas · 20 renovadas · 11 revividas · 6 bajas · 0 ya estaban cargadas a mano`.
 
