@@ -1,5 +1,59 @@
 # Cambios
 
+## 2026-11-03 — **Jumbo, Disco y Vea volvieron con las promos bancarias de noviembre**; ICBC, Frávega y Comafi cerraron octubre (15 retiradas); 20 asumidas confirmadas
+
+**1044 promos (2 altas de Macro, 15 retiradas, 2 revividas, 4 corregidas, unas 110 con fuente nueva).** Con vigencia asumida quedan **22 visibles** (ayer 42 en la cola del auditor). Visibles hoy: 277.
+
+- Macro (`node tools/cargar-macro.js`, corrido de nuevo con el texto de hoy): `Macro: 33 promos en porcentaje armadas de 4623 filas (523 de MODO quedan afuera por no tener provincia conocida, 4059 ya vencidas) · 2 altas · 20 renovadas · 11 revividas · 6 bajas · 0 ya estaban cargadas a mano`.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 2/11. Disparé `recolectar.yml` completo y a las 07:52 llegó el commit d5b7404 con `leido: 2026-11-03` (39 fuentes). Siguen con lectura vieja: **ICBC y Frávega** (2/11 a la noche, desde casa: es lectura nueva, la trabajé hoy), **MODO** (2/11), **BPN** (1/10), **McDonald's y Musimundo** (27/8). **Santander** otra vez `ERROR: page.goto: Timeout`; no toqué sus promos.
+
+### ⚠ DESTACADO — Jumbo/Disco/Vea: falsa alarma de ayer
+Hoy las tres páginas de Cencosud trajeron todas las promos bancarias, con legales hasta el 30/11. Ayer no habían cargado todavía. **Confirmadas**: Hipotecario martes 25% (Jumbo y Disco, tope $15.000 por mes), MODO martes y jueves en Jumbo y viernes y sábado en Disco (20% desde $100.000), Cencopay Cuenta lunes 25% (tope $15.000), Cencopay jueves 25% en galletitas y demás en Vea, Macro 3 cuotas de jueves a domingo online, Naranja X Plan Z 3 cuotas y BNA 6 cuotas en electro (la tarjeta de BNA no dice hasta cuándo).
+
+### ⚠ Revividas (para que las mire un humano)
+- **`cuotas-comafi-jumbo-disco-vea-3`**: la había retirado porque Comafi la sacó de su listado de super, pero **Jumbo, Disco y Vea** publican hoy el legal: 3 cuotas con crédito Comafi todos los días, del 01/12/2025 al 30/11/2026. Gana el comercio, queda hasta el 30/11.
+- **`san_juan-jumbo-jueves`**: había quedado vencida el 1/11. Banco San Juan la publica de nuevo: 20% con MODO, martes y jueves, del 01/11 al 30/11.
+
+### Retiradas (con el motivo)
+- **ICBC** (catálogo completo por API, 12 rubros, 248 entradas; acá la ausencia sí cuenta). Todas tenían el legal vencido el 31/10 y hoy no están:
+  - `icbc-coto-martes-20`: Coto martes 20% con MODO.
+  - `icbc-colchones-10-6c`: en Simmons/Belmo el 10% + 6 cuotas pasó a ser solo 12 cuotas sin interés (esa sigue, ahora hasta el 31/01/2027).
+  - `icbc-jugueterias-viernes-15`: el rubro niños pasó de 15 a 3 entradas.
+  - `icbc-zoocopet-25`.
+- **Frávega** (legales leídos desde casa el 2/11, 14 bancos): en noviembre ya no figuran
+  - `cuotas-modo-fravega-9` (MODO hasta 12 cuotas).
+  - `cuotas-san_juan-fravega-12`, `cuotas-santa_fe-fravega-12` y `cuotas-santa_cruz-fravega-12`: los tres bancos aparecen solo con **20% + 18 cuotas del 2 al 4/11** (Visa crédito, tope $30.000 por mes). No la cargué: dura dos días, es provincial y tiene una sola fuente. Si después del Cyber Monday vuelven las 12 cuotas, hay que revivirlas.
+- **Comafi** (listado de super, 4 lecturas de noviembre iguales, contra 5 de octubre):
+  - `comafi-diarco-20`: Diarco pasó de lunes a viernes a **solo miércoles**.
+  - `comafi-aiello-viernes-20`: Aiello pasó de viernes a **martes**.
+  - `comafi-rappi-unico-30`: ya no está.
+  - Lo nuevo de Comafi en noviembre (20% con MODO los miércoles en Diarco, Jumbo, Disco, Vea y Cordiez; los martes en Aiello, Alvear y Cooperativa Obrera) **no lo cargué**: el listado trae solo el título, sin tope ni legal. Hace falta leer Comafi desde casa.
+
+### Corregidas
+- `cuotas-galicia-fravega-12`: **18 cuotas** del 2 al 9/11 (Cyber Monday; antes 12).
+- `cuotas-macro-fravega-12`: **24 cuotas** del 1 al 9/11 (antes 12).
+- `corrientes-fravega-viernes-10`: Banco de Corrientes 10% + 6 cuotas, sin tope, ahora **los miércoles** de noviembre (antes viernes).
+- `icbc-moda-viernes-15-6c`: salen Topper y Sport 78 (vencieron el 30/10); siguen Equus, Devré y Macowens hasta el 31/01/2027.
+- BBVA, Santander y Credicoop en Frávega quedaron confirmadas pero con vigencia **hasta el 9/11**, que es lo que dice el legal. Patagonia, hasta el 30/11.
+
+### Confirmadas con fuente nueva
+- **ICBC**: 43 promos iguales, más YPF martes 15% con sueldo (renovada al 31/12), las 12 cuotas en colchones, las 6 cuotas en indumentaria y Compragamer.
+- **Grupo Petersen** (solo carga la página 1 de 3 de cada banco): **Santa Fe** ChangoMás, Día, La Anónima, Vea, Jumbo, La Gallega, Makro y Disco; **San Juan** ChangoMás, Avícola Myriam, Disco, Makro, Vea y La Anónima (casi todas renovadas al 31/12); **Santa Cruz** Market Sur, Autoservicio Cerca y Carrefour miércoles. Santa Cruz La Anónima y DAR no salieron en la página 1: siguen asumidas.
+  - No cargué las nuevas: 30% con MODO los viernes en **Bacim, Alfa y Beltrán** (Santa Fe), 20% los lunes en **La Reina** (Santa Fe) y 25% los martes en **Coto** (San Juan). Son de 30% o provinciales y tienen una sola fuente, sin tope. Quedan para cruzar.
+- **Naranja X** (hoy sí vino: 39 tarjetas, solo títulos): Chevallier 10% + 6 cuotas, Shopgallery martes 10% + 9 cuotas, y siguen adheridos Megatone, Naldo y Cetrogar (Cyber: hasta 15 cuotas; se dejan las 12). Easy no aparece: sigue asumida.
+
+### Agenda del día
+- **Trabajadas: icbc, fravega, comafi, jumbo, disco, petersen, naranja-x**, más vea por ser la misma plantilla.
+- **Mirada sin nada para cargar:**
+  - **dr-ahorro**: sigue el error 526 de certificado.
+  - **farmacity**: la URL `/promociones-bancarias` da "No encontramos resultados". Hay que buscarle otra ruta.
+  - **la-anonima**: `403 Forbidden`.
+  - **maxiconsumo**: trae el menú de categorías y 16 botones "LEGALES" cerrados. Las promos están en imágenes o detrás del botón. La receta tendría que abrir los legales.
+  - **shell**: sigue solo el sorteo V-Power terminado el 18/10.
+- Ojo: `bna-jubilados-extra` y `modo-dia-vie-sab` siguen asumidas con 11 y 12 días sin releerse.
+
 ## 2026-11-02 (noche) — **Macro se mudó a MODO**: quedan 26 promos verificadas, con fecha real y tope
 
 Las 388 de Macro dejaron de verse el 1/11 porque su vigencia era "hasta fin de mes" y la lectura del domingo no llegó a renovarlas. Al mirarlo apareció algo más grande: **Macro sacó su API de beneficios y ahora publica todo en la plataforma de MODO** (además puso un desafío anti-robots en la página, ya resuelto en el recolector).
