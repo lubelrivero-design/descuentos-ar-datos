@@ -1,8 +1,8 @@
 # Cambios
 
-## 2026-11-04 — Easy, Sodimac, Día y Credicoop: **15 asumidas confirmadas**, 5 retiradas (Credicoop sacó Diarco los findes y Carrefour; el legal de los canastos de Easy venció)
+## 2026-11-04 — Easy, Sodimac, Día y Credicoop: **10 asumidas confirmadas**, 5 retiradas (Credicoop sacó Diarco los findes y Carrefour; el legal de los canastos de Easy venció)
 
-**1044 promos (0 altas, 5 retiradas, 1 corregida, 2 con fecha nueva, 15 confirmadas).** Con vigencia asumida quedan **7** (ayer 22). Visibles hoy: 272.
+**1044 promos (0 altas, 5 retiradas, 1 corregida, 2 con fecha nueva, 14 confirmadas, 10 de ellas asumidas).** Con vigencia asumida quedan **7** (ayer 22). Visibles hoy: 272.
 
 - Macro (`node tools/cargar-macro.js`): `Macro: 33 promos en porcentaje armadas de 4623 filas (522 de MODO quedan afuera por no tener provincia conocida, 4060 ya vencidas) · 0 altas · 33 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano`.
 
