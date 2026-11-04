@@ -1,5 +1,11 @@
 # Cambios
 
+## 2026-11-04 (tarde) — Alta: **Coto 25% los martes con MODO, sin tope** (noviembre)
+
+Faltaba desde el 1/11 (Lucía la buscó el martes 3 y no estaba). El listado de MODO y el de Comafi solo traen el título, y por regla no se carga una promo con solo el título. El detalle completo sale de las bases de MODO: `rewards-handler.playdigital.com.ar/landing/coto-noviembre26`, el mismo sistema que ahora usa Macro.
+
+- `modo-coto-martes-25`: 25% los martes del 1 al 30/11 en cualquier Coto, con QR por MODO o por la app de 18 bancos + YOY y Buepp. Crédito, débito o prepaga. **Sin tope** de reintegro (cruzado con el listado de Comafi). No vale con NFC, online ni con Amex; excluye carnes, pollo, básicos con precio regulado, Coca-Cola y vinos premium.
+
 ## 2026-11-04 — Easy, Sodimac, Día y Credicoop: **10 asumidas confirmadas**, 5 retiradas (Credicoop sacó Diarco los findes y Carrefour; el legal de los canastos de Easy venció)
 
 **1044 promos (0 altas, 5 retiradas, 1 corregida, 2 con fecha nueva, 14 confirmadas, 10 de ellas asumidas).** Con vigencia asumida quedan **7** (ayer 22). Visibles hoy: 272.

@@ -55631,6 +55631,49 @@
       ],
       "origen": "macro-api",
       "confianza": "alta"
+    },
+    {
+      "id": "modo-coto-martes-25",
+      "medio": "modo",
+      "medio_nombre": "MODO",
+      "rubro": "supermercados",
+      "comercios": [
+        "Coto"
+      ],
+      "dias": [
+        "martes"
+      ],
+      "descuento_pct": 25,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "tope_publicado": true,
+      "requisitos": "Pagando con QR desde MODO o desde la app de un banco adherido, con tarjeta de crédito, débito o prepaga. Bancos: Nación, Santander, BBVA, Galicia, Santa Fe, Entre Ríos, San Juan, Santa Cruz, Credicoop, Supervielle, Comafi, Columbia, ICBC, Macro, Ciudad, Bancor, Hipotecario y Montemar, y las billeteras YOY y Buepp. Sin tope de reintegro. No vale con NFC, ni en coto.com.ar, ni con American Express. No incluye carnes, pollo, harina, azúcar, aceite, leches infantiles, gaseosas de Coca-Cola, vinos premium, electro ni productos que ya tengan otra promo. No se suma con otras promos bancarias.",
+      "zona": "Nacional",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
+      "fuente": "https://www.modo.com.ar/promos/coto-noviembre26",
+      "verificado": "2026-11-04",
+      "fuentes": [
+        {
+          "url": "https://www.modo.com.ar/promos/coto-noviembre26",
+          "nivel": 1,
+          "fecha": "2026-11-04",
+          "nota": "Bases de MODO (Play Digital): 25% martes en cualquier Coto del país pagando con QR por MODO o app bancaria, 01/11 al 30/11/2026, sin tope de reintegro (hasta agotar el cupo total de la promo). Lista de 20 entidades adheridas."
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-04",
+          "nota": "Comafi lista \"Coto | 25% | MODO | Los Martes\""
+        },
+        {
+          "url": "https://www.modo.com.ar/promos",
+          "nivel": 3,
+          "fecha": "2026-11-04",
+          "nota": "MODO listado: \"25% de reintegro en COTO\" en Destacadas y Supermercados"
+        }
+      ],
+      "confianza": "alta"
     }
   ]
 }
