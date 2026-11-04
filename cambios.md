@@ -1,5 +1,40 @@
 # Cambios
 
+## 2026-11-04 — Easy, Sodimac, Día y Credicoop: **15 asumidas confirmadas**, 5 retiradas (Credicoop sacó Diarco los findes y Carrefour; el legal de los canastos de Easy venció)
+
+**1044 promos (0 altas, 5 retiradas, 1 corregida, 2 con fecha nueva, 15 confirmadas).** Con vigencia asumida quedan **7** (ayer 22). Visibles hoy: 272.
+
+- Macro (`node tools/cargar-macro.js`): `Macro: 33 promos en porcentaje armadas de 4623 filas (522 de MODO quedan afuera por no tener provincia conocida, 4060 ya vencidas) · 0 altas · 33 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano`.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 3/11. Disparé `recolectar.yml` completo y a las 07:53 llegó el commit 09017c7 con `leido: 2026-11-04` (40 fuentes). Siguen con lectura vieja: **ICBC y Frávega** (2/11, desde casa), **BPN** (1/10), **McDonald's y Musimundo** (27/8). **Santander** otra vez `ERROR` (timeout); no toqué sus promos.
+
+### Retiradas (con el motivo)
+- **`credicoop-diarco-finde`, `credicoop-diarco-pueblo-finde` y `credicoop-diarco-mayorista-finde`** (20% / 15% / 15% sábados y domingos): Credicoop las listó hasta la lectura del 1/11 y no aparecen en las cuatro siguientes (2, 3 y 4/11), con el catálogo entero cargado (358 a 373 tarjetas). Quedan vencidas el 1/11. Las de los **jueves** en Diarco siguen y quedaron confirmadas.
+- **`credicoop-carrefour-miercoles-10`**: Credicoop la mostró los miércoles hasta el 28/10 y falta en las 8 lecturas desde el 29/10. Vencida el 31/10.
+- **`cencopay-easy-canastos-10`** (10% en canastos de oferta con crédito Cencopay): Easy la sigue mostrando, pero **su propio legal dice del 01/10 al 31/10/2026** (leído el 3 y el 4/11). Vencida el 31/10. ⚠ Si Easy actualiza el legal a noviembre, hay que revivirla.
+
+### Confirmadas con texto de hoy
+- **Easy**: Macro 3 cuotas sin mínimo y 6 cuotas desde $300.000 (al 30/11), Naranja X 6 cuotas desde $300.000 (al 30/11) y Plan Z 3 cuotas (al 31/12), Patagonia 3 y 6 cuotas presencial (al 31/12), Cencopay Cuenta jueves 15% tope $30.000 por día (al 30/11).
+- **Sodimac**: BBVA 6 cuotas desde $350.000 y 3 desde $150.000 (al 30/11); Banco Provincia 12/6/4 cuotas (al 30/11, CABA, GBA y PBA). **Corregida**: en Banco Provincia las 6 cuotas ahora arrancan en **$300.000** (antes $350.000). **Santander** 6 cuotas en colchones: confirmada, pero el legal dice **hasta el 8/11**, así que vence ese día.
+- **Día**: MODO viernes y sábado 20% (tope $20.000 por banco por mes, desde $35.000) ahora **hasta el 31/12**; 3 cuotas los sábados con cualquier tarjeta (al 30/11).
+- **Credicoop**: Diarco y Diarco Barrio los jueves, "hasta 30%" (las dos promos: 20% general y 30% con haberes).
+
+### Visto y no cargado
+- **Credicoop** muestra un **Coto martes** nuevo: la tarjeta dice 30% y el slug 25%, sin tope ni vigencia. Es de 30% y con una sola fuente que se contradice: queda para cruzar con Coto.
+- **Sodimac**: Galicia (hasta 18 cuotas desde $900.000), Santander 12/9/6/3 cuotas (hasta 8/11), ICBC 12 y 9 cuotas solo hasta hoy 4/11, Naranja X 9 cuotas, Bancor (solo Córdoba). No las cargué hoy; Galicia y Santander tienen legal, se pueden sumar otro día.
+- **Easy**: Cyber Monday de Cencopay (18/24 cuotas online del 2 al 8/11) y varias promos "Visa y Mastercard" sin banco en el texto (el nombre está en la imagen).
+
+### Agenda del día
+- **Trabajadas: easy, sodimac, dia, credicoop** (las cuatro de deuda) y **vital, yaguar, ypf, shell** (sin nada para cargar).
+  - **vital**: solo trae el menú de sucursales y "Cajas Navideñas"; ninguna promo bancaria en el texto.
+  - **yaguar**: bloqueo de Cloudflare, como siempre.
+  - **ypf**: sigue el menú del sitio institucional. Hay que cambiar la URL.
+  - **shell**: solo el sorteo con cuenta regresiva en cero.
+- **Quedaron**: dr-ahorro (sigue el error 526), y fravega, icbc, comafi (lecturas de casa ya trabajadas ayer, sin texto nuevo).
+- En la cola siguen 7 asumidas: BNA jubilados, Supervielle Shell y Cabify, Santa Cruz La Anónima y DAR, Chubut ChangoMás y Comafi 12 cuotas en Jumbo/Disco/Vea.
+
+
 ## 2026-11-03 — **Jumbo, Disco y Vea volvieron con las promos bancarias de noviembre**; ICBC, Frávega y Comafi cerraron octubre (11 retiradas); 20 asumidas confirmadas
 
 **1044 promos (2 altas de Macro, 11 retiradas, 2 revividas, 4 corregidas, unas 110 con fuente nueva).** Con vigencia asumida quedan **22 visibles** (ayer 42 en la cola del auditor). Visibles hoy: 277.
