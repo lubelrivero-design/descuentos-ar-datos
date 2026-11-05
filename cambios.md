@@ -1,5 +1,45 @@
 # Cambios
 
+## 2026-11-05 — Carrefour vuelve: **16 promos renovadas a noviembre y 2 nuevas**; Santa Cruz confirma sus 2 asumidas; 2 retiradas (jubilados BNA en Carrefour y Banco del Chubut en ChangoMás)
+
+**1049 promos (2 altas, 2 retiradas, 16 de Carrefour revividas a noviembre (2 de ellas corregidas), 18 confirmadas, 2 de ellas asumidas).** Con vigencia asumida quedan **3** (ayer 7). Visibles hoy: 294 (ayer 272).
+
+- Macro (`node tools/cargar-macro.js`), con la lectura de hoy: `Macro: 38 promos en porcentaje armadas de 4707 filas (533 de MODO quedan afuera por no tener provincia conocida, 4128 ya vencidas) · 0 altas · 38 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano`. (Antes de que llegara el texto nuevo lo había corrido una vez con la lectura del 4/11 y dio `2 altas · 26 renovadas · 10 revividas · 7 bajas`; la segunda pasada no cambió nada de eso.)
+- `validar.js` sigue marcando 2 promos de Macro con la confianza vacía (`macro-api-misiones-ahora-estudiantes-jue-vie-15`, `macro-api-santa-fe-frioteka-rafaela-jue-30`). Son del script de Macro y no las toqué; habría que mirar por qué `cargar-macro.js` no les pone confianza.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 4/11. Disparé `recolectar.yml` solo con las fuentes de la agenda + Macro y a los 3 minutos llegó el commit ebcd4e0 con `leido: 2026-11-05` (8 fuentes). **Supervielle vino vacía** hoy (sigue la lectura del 4/11); no toqué sus promos. El resto de `crudo/` es del 4/11 (ICBC y Frávega del 2/11, BPN del 1/10, McDonald's y Musimundo del 27/8).
+
+### Carrefour: el agujero de noviembre
+Unas 20 promos propias de Carrefour vencían el 31/10 y no se estiraron en el rollover (llevaban más de 10 días sin releerse), así que desde el 1/11 la app no mostraba casi nada de Carrefour. Hoy la página trae todos los legales de noviembre:
+- **Renovadas al 30/11** (legal de noviembre leído entero): Carrefour Banco martes 20% crédito sin tope; jueves 20% crédito online tope $10.000/semana; viernes 15% y sáb/dom 10% con Cuenta Digital sin tope; sáb/dom 3 cuotas; online lun/mié/vie/sáb/dom 15% crédito; Mi Carrefour ANSES/60+ lunes a miércoles 10% tope $35.000; jueves online 10% cualquier medio tope $8.000; empleados públicos jueves y miércoles 15% tope $20.000; Club LN lunes 15% y martes a domingo 10% online; Mercado Pago 6 cuotas sin tarjeta (lun y mié) y 3 cuotas con crédito MP desde $150.000; **Cuenta DNI miércoles 10%** y **Mercado Pago jueves 15%**.
+- **Corregidas**: en Cuenta DNI miércoles y en Mercado Pago jueves la **compra mínima subió de $15.000 a $20.000**. Cuenta DNI suma el 5% extra para jubilados con tope $5.000.
+- **Altas**: Cuenta Digital Carrefour Banco **jueves 20% online** (tope $10.000 por semana) y Cuenta Digital **sáb/dom 10% solo en Carrefour Maxi** (sin tope).
+- **Quedan vencidas** (no aparecen en noviembre): crédito Carrefour Banco lunes y martes 15% en Maxi, y Tarjeta Mercado Pago lunes 15%. La de **Mercado Pago viernes 10% en Maxi** queda vencida por ahora: hay una tarjeta "viernes 10% con dinero en cuenta", pero el legal que trae abajo es el de Cuenta DNI en Maxi los miércoles. Con tarjeta y legal contradiciéndose no la revivo; a mirar.
+- No toqué Naranja X 4 cuotas (estaba en baja) ni las de Patagonia en Carrefour (la tarjeta y el legal dan % y topes distintos por plan sueldo/cartera general; quedan como estaban).
+
+### Retiradas (con el motivo)
+- **`bna-jubilados-extra`** (5% jubilados BNA de lunes a viernes en Carrefour/ChangoMás/Jumbo): Carrefour, su única fuente, la publicó con legal "hasta el 31/10/2026" hasta la lectura del 31/10 y falta en las 9 lecturas de noviembre, con la página completa y todos los legales nuevos. Vencida el 31/10. Era una de las asumidas.
+- **`patagonia-changomas-miercoles`** (Banco del Chubut, crédito Patagonia 365, 20% los miércoles en ChangoMás): ChangoMás la listó (P365, legal al 31/10) hasta el 31/10 y no aparece en ninguna de las 5 lecturas de noviembre, con la pestaña del miércoles completa. Vencida el 31/10. Era una de las asumidas.
+
+### Confirmadas con texto de hoy
+- **Banco Santa Cruz** (página completa, 10 de 10): **La Anónima viernes y sábado 20%** (asumida → confirmada, al 30/11) y **Supermercados DAR martes 15%** (asumida → confirmada; **el banco dice hasta el 24/11**, así que vence ese día). También Market Sur y Autoservicio Cerca 30% viernes y Carrefour miércoles 15% + 3 cuotas.
+- **Banco San Juan** (12 de 12): Jumbo, La Anónima, Makro, Vea, Avícola Myriam, ChangoMás y Disco, todas iguales.
+- **Banco Santa Fe** (solo trae la página 1 de 3): La Gallega, ChangoMás, Día, La Anónima, Vea y Jumbo iguales. Makro y Disco no están en la página 1 pero sí estaban el 4/11: es paginado, no ausencia, quedan como están.
+
+### Visto y no cargado
+- **Petersen, nuevas de noviembre**: Santa Fe **50% en Alvear y en La Gallega** sáb/dom con Visa crédito NFC (1 al 30/11) y **50% Alvear solo el lunes 16/11** con MODO; San Juan **25% Coto martes con MODO**, **30% Coto jueves** con Visa débito NFC, **50% Café América** sáb/dom (cuenta paquete) y **20% Tienda de Frío** viernes desde el 6/11; Santa Cruz **50% La Anónima sáb/dom** con Visa crédito NFC, **30% Coto jueves** débito NFC, **20% ChangoMás lunes** con MODO (al 1/1/2027) y **Diarco 20% y 15%** viernes a domingo. Son de provincia puntual y varias de 30% o más: piden cruce. Las de Diarco aparecen dos veces con % distinto y sin decir cuál es cuál.
+- **ChangoMás**: Patagonia ahora muestra Plus aparte (20% sáb, tope $10.000) pero el legal sigue diciendo "Clásica y Plus 15%". Sigue la diferencia del Singular (tarjeta 30%, legal 25%, banco 30% tope $20.000).
+
+### Agenda del día
+- **Trabajadas: petersen, changomas, carrefour** (deuda) y **axion, farmacity, la-anonima, shell** (sin nada que cargar).
+  - **axion**: solo aparece el título "Descuento Super" con una línea de las bases, cortada. Haría falta que la receta abra las bases.
+  - **farmacity**: la URL `/promociones-bancarias` da "No encontramos resultados". Hay que buscar la URL nueva.
+  - **la-anonima**: 403 Forbidden.
+  - **shell**: solo el sorteo de Las Vegas.
+- **Quedaron**: **supervielle** (vino vacía hoy, siguen sus 2 asumidas: Cabify y Shell domingo); **dr-ahorro** (sigue el error 526); **fravega, icbc, comafi** (lecturas desde casa ya trabajadas, sin texto nuevo). Comafi sostiene la última asumida (12 cuotas en Jumbo/Disco/Vea), que el listado de hoy no nombra.
+
+
 ## 2026-11-04 (tarde) — Alta: **Coto 25% los martes con MODO, sin tope** (noviembre)
 
 Faltaba desde el 1/11 (Lucía la buscó el martes 3 y no estaba). El listado de MODO y el de Comafi solo traen el título, y por regla no se carga una promo con solo el título. El detalle completo sale de las bases de MODO: `rewards-handler.playdigital.com.ar/landing/coto-noviembre26`, el mismo sistema que ahora usa Macro.

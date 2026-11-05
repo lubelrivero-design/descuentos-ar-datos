@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04",
+  "actualizado": "2026-11-05",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -403,7 +403,7 @@
       "requisitos": "Para jubilados y pensionados que cobran por el Banco Nación, en un pago con crédito Visa/Mastercard o débito Mastercard del BNA, pagando por MODO o BNA+. Tope $5.000 por semana y $20.000 por mes. No vale en las tiendas online.",
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-11-30",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "verificado": "2026-10-23",
       "confianza": "alta",
@@ -450,7 +450,7 @@
           "nota": "lunes a viernes 5% para jubilados que cobran por BNA, crédito Visa/Master en 1 pago por MODO o BNA+, tope $5.000 por semana y $20.000 por mes, no online, hasta 31/10/2026"
         }
       ],
-      "vigencia_asumida": "2026-11-01"
+      "baja_motivo": "Carrefour (su única fuente) la publicó con legal \"hasta el 31/10/2026\" hasta la lectura del 31/10 y no aparece en ninguna de las 9 lecturas de noviembre (1 al 5/11), con la página completa y todos los legales de noviembre cargados."
     },
     {
       "id": "modo-changomas-lunes",
@@ -8347,9 +8347,9 @@
       "tope_monto": null,
       "tope_periodo": null,
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-20",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -8385,6 +8385,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "lunes y miércoles de octubre, 6 cuotas sin tarjeta MP"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: lunes y miércoles de noviembre, hasta 6 cuotas sin interés con Cuotas sin Tarjeta de Mercado Pago, hasta 30/11"
         }
       ]
     },
@@ -15971,14 +15977,14 @@
       ],
       "descuento_pct": 20,
       "requisitos": "En un pago con tarjeta de credito de Carrefour Banco. Sin tope, se descuenta en el acto. No vale en Carrefour Maxi ni pagando por billetera virtual.",
-      "vigencia_desde": "2026-05-01",
+      "vigencia_desde": "2026-11-01",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "zona": "Nacional",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2026-11-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-20",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -16014,6 +16020,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "martes de octubre 20% crédito Carrefour Banco, sin tope, no Maxi"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: martes 20% crédito Carrefour Banco, sin tope, no Maxi, \"hasta el 30 de noviembre de 2026\""
         }
       ]
     },
@@ -16035,9 +16047,9 @@
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-20",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -16073,6 +16085,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "jueves de octubre 20% online, tope $10.000 por semana"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: jueves de noviembre 20% crédito Mastercard Carrefour Banco, solo online, tope $10.000 por semana"
         }
       ]
     },
@@ -16092,11 +16110,11 @@
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-20",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -16132,6 +16150,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "viernes de octubre 15% Cuenta Digital, sin tope, no Maxi"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: viernes del 1 al 30/11 15% Cuenta Digital, sin tope, Hiper/Market/Express y online"
         }
       ]
     },
@@ -16212,11 +16236,11 @@
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-20",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -16252,6 +16276,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "sábados y domingos 10% Cuenta Digital, sin tope, octubre"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: sábados y domingos del 1 al 30/11 10% Cuenta Digital, sin tope, Hiper/Market/Express y online"
         }
       ]
     },
@@ -16273,11 +16303,11 @@
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "tope_monto": null,
       "tope_periodo": null,
-      "verificado": "2026-10-20",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -16313,6 +16343,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "sábados y domingos 3 cuotas crédito Carrefour Banco, 1 al 31/10"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: sábados y domingos del 1 al 30/11 3 cuotas sin interés con crédito Carrefour Banco, todos los formatos y online"
         }
       ]
     },
@@ -16336,9 +16372,9 @@
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-20",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -16374,6 +16410,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "lunes a miércoles 10% Mi Carrefour ANSES/60+, tope $35.000 por mes, hasta 31/10"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: lunes a miércoles hasta el 30/11 10% Mi Carrefour ANSES o mayores de 60, tope $35.000 por mes"
         }
       ]
     },
@@ -16395,9 +16437,9 @@
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
       "confianza": "alta",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-10-31",
-      "verificado": "2026-10-20",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -16434,6 +16476,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "jueves de octubre 10% online cualquier medio, tope $8.000 por semana"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: jueves de noviembre 10% online con cualquier medio de pago, tope $8.000 por semana"
         }
       ]
     },
@@ -17046,7 +17094,7 @@
       "vigencia_desde": "2026-04-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -17108,6 +17156,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco Santa Fe leída el 3/11 (página 1 de 3): \"30% en Supermercados la Gallega\", exclusivo cuentas, viernes, del 01/04 al 31/12/2026"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11 (página 1 de 3): 30% Supermercados la Gallega, exclusivo cuentas, viernes, 01/04 al 31/12/2026. Igual"
         }
       ]
     },
@@ -17132,7 +17186,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -17157,6 +17211,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco San Juan leída el 3/11 (página 1 de 3): \"20% en JUMBO\" con MODO, jueves y martes, del 01/11 al 30/11/2026 (revivida: había quedado vencida el 1/11)"
+        },
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11: 20% Jumbo con MODO, jueves y martes, 01/11 al 30/11/2026. Igual"
         }
       ]
     },
@@ -17181,7 +17241,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -17206,6 +17266,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco San Juan leída el 3/11 (página 1 de 3): \"20% en La Anonima\" (+10% adicional clientes), viernes y sábado, del 01/11 al 31/12/2026"
+        },
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11: 20% La Anónima (+10% adicional clientes), viernes y sábado, 01/11 al 31/12/2026. Igual"
         }
       ]
     },
@@ -17229,7 +17295,7 @@
       "vigencia_desde": "2026-06-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -17254,6 +17320,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco San Juan leída el 3/11 (página 1 de 3): \"20% en Supermercado Makro\" con MODO, jueves, del 01/11 al 31/12/2026"
+        },
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11: 20% Makro con MODO, jueves, 01/11 al 31/12/2026. Igual"
         }
       ]
     },
@@ -17277,7 +17349,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -17302,6 +17374,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco San Juan leída el 3/11 (página 1 de 3): \"20% en Vea - Modo\", viernes, del 01/11 al 31/12/2026"
+        },
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11: 20% Vea con MODO, viernes, 01/11 al 31/12/2026. Igual"
         }
       ]
     },
@@ -17357,7 +17435,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
-      "verificado": "2026-10-24",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -17394,9 +17472,14 @@
           "nivel": 1,
           "fecha": "2026-10-24",
           "nota": "Petersen 24/10: \"20% en La Anonima - Modo | Viernes y Sábado | 01/06 al 31/10/2026\". Igual"
+        },
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11: \"20% de descuento en La Anonima\" (+10% adicional clientes), viernes y sábado, del 01/11 al 30/11/2026"
         }
-      ],
-      "vigencia_asumida": "2026-11-01"
+      ]
     },
     {
       "id": "santa_cruz-supermercados-dar-martes",
@@ -17416,9 +17499,9 @@
       "requisitos": "Pagando con MODO con tarjeta de crédito del banco. El sitio no publica el tope.",
       "zona": "Santa Cruz",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-11-30",
+      "vigencia_hasta": "2026-11-24",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
-      "verificado": "2026-10-24",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -17449,9 +17532,14 @@
           "nivel": 1,
           "fecha": "2026-10-24",
           "nota": "Petersen 24/10: \"Pagando con QR MODO | 15% en SUPERMERCADOS DAR - MODO | Todos los Martes | 01/06/2026 al 31/10/2026\": el banco la volvió a publicar con vigencia nueva"
+        },
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11: \"15% de descuento en SUPERMERCADOS DAR - MODO\", martes, del 01/06 al 24/11/2026"
         }
-      ],
-      "vigencia_asumida": "2026-11-01"
+      ]
     },
     {
       "id": "santa_cruz-disco-viernes",
@@ -17885,7 +17973,7 @@
       ],
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-11-30",
+      "vigencia_hasta": "2026-10-31",
       "fuente": "https://www.masonline.com.ar/promociones-bancarias",
       "fuentes": [
         {
@@ -17932,7 +18020,7 @@
       ],
       "verificado": "2026-10-25",
       "confianza": "alta",
-      "vigencia_asumida": "2026-11-01"
+      "baja_motivo": "ChangoMás (su única fuente) la listó los miércoles (P365, legal al 31/10/2026) hasta el 31/10 y no aparece en ninguna de las 5 lecturas de noviembre, con la pestaña del miércoles completa (11 tarjetas)."
     },
     {
       "id": "changomas-qr-finde",
@@ -18022,10 +18110,10 @@
       "medio_nombre": "Cuenta DNI",
       "tope_monto": null,
       "tope_periodo": null,
-      "requisitos": "Pagando con QR o Pago Clave DNI desde la app Cuenta DNI, en todos los locales de Carrefour (Maxi, Market, Express e Hiper), excepto el Digital. Sin tope de reintegro. Aplica a partir de un ticket de $15.000.",
+      "requisitos": "Pagando con QR o Pago Clave DNI desde la app Cuenta DNI, en Carrefour Hiper, Market, Express y Maxi. Sin tope de reintegro. En Hiper, Market y Express la compra mínima es $20.000. Jubilados: 5% extra con tope $5.000.",
       "zona": "Provincia de Buenos Aires",
-      "vigencia_desde": "2026-09-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
       "fuentes": [
         {
@@ -18075,9 +18163,15 @@
           "nivel": 1,
           "fecha": "2026-10-20",
           "nota": "miércoles 10% sin tope, mínimo $15.000, octubre"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: miércoles hasta el 30/11 10% con Cuenta DNI, sin tope; en Hiper/Market/Express pide mínimo $20.000 (antes $15.000); jubilados 5% extra con tope $5.000"
         }
       ],
-      "verificado": "2026-10-20",
+      "verificado": "2026-11-05",
       "confianza": "alta"
     },
     {
@@ -18818,10 +18912,10 @@
         "Carrefour"
       ],
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-20",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "mp-carrefour-jueves-15",
@@ -18834,7 +18928,7 @@
       "tope_monto": null,
       "tope_periodo": null,
       "acumulable": true,
-      "requisitos": "Escaneando el QR con la app de Mercado Pago y eligiendo \"dinero en cuenta\" (no sirve con tarjeta). Sin tope, compra mínima $15.000. Vale en Hiper, Market y Express; no en Maxi ni online.",
+      "requisitos": "Escaneando el QR con la app de Mercado Pago y eligiendo \"dinero en cuenta\" (no sirve con tarjeta). Sin tope, compra mínima $20.000. Vale en Hiper, Market y Express; no en Maxi ni online.",
       "fuentes": [
         {
           "url": "https://www.carrefour.com.ar/descuentos-bancarios",
@@ -18865,6 +18959,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "jueves 15% dinero en cuenta MP, sin tope, mínimo $15.000, hasta 31/10"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: jueves hasta el 30/11 15% con dinero en cuenta de Mercado Pago por QR, sin tope, mínimo $20.000 (antes $15.000), Hiper/Market/Express"
         }
       ]
     },
@@ -18874,10 +18974,10 @@
         "Carrefour"
       ],
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-20",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "tope_publicado": true,
       "id": "carrefour-empleados-publicos-15",
@@ -18927,6 +19027,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "jueves 15% empleados públicos, tope $20.000 por mes, hasta 31/10"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: jueves hasta el 30/11 15% empleados públicos, mismas provincias y ciudades, tope $20.000 por mes"
         }
       ]
     },
@@ -18948,10 +19054,10 @@
       "acumulable": false,
       "requisitos": "Para empleados públicos (nacionales, provinciales o municipales). En alimentos secos, congelados, lácteos, fiambres, bebidas, limpieza y perfumería. Solo en Chaco, Chubut, Córdoba, Corrientes, Tucumán, Santa Cruz, Jujuy, San Juan, Entre Ríos, Catamarca, La Rioja, San Luis, La Pampa y Mendoza. En Hiper y Market; el legal excluye Express, Maxi y la compra online.",
       "zona": "Nacional",
-      "vigencia_desde": "2026-09-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-20",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -18977,6 +19083,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "miércoles 15% empleados públicos, tope $20.000 por mes, hasta 31/10"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: miércoles hasta el 30/11 15% empleados públicos, mismas provincias, tope $20.000 por mes"
         }
       ]
     },
@@ -18986,10 +19098,10 @@
         "Carrefour"
       ],
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-20",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "id": "club-lanacion-carrefour-10",
       "medio": "cualquiera",
@@ -19043,6 +19155,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "martes a domingo de octubre 10% Club LN online entrega inmediata, sin tope"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: martes a domingo de noviembre 10% Club LN, solo online con entrega inmediata, sin tope, un uso por día"
         }
       ]
     },
@@ -19062,10 +19180,10 @@
       "tope_periodo": null,
       "requisitos": "Con el cupón de Club LA NACIÓN presentado en caja, hay que estar registrado 24 horas antes. Sin tope. En tiendas Hipermercados Carrefour, Market y Express (no vale en Carrefour Maxi ni online).",
       "zona": "Nacional",
-      "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-20",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -19103,6 +19221,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "lunes 15% Club LN, sin tope, hasta 31/10"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: lunes hasta el 30/11 15% Club LN en Hiper/Market/Express y online, no Maxi, sin tope"
         }
       ]
     },
@@ -25404,7 +25528,7 @@
       "tope_periodo": null,
       "tope_publicado": false,
       "requisitos": "Pagando con MODO desde la app del banco. El banco no publica el tope.",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "id": "santa_cruz-market-sur-viernes",
       "medio": "santa_cruz",
@@ -25452,6 +25576,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco Santa Cruz leída el 3/11 (página 1 de 3): \"30% en Market Sur - MODO\", viernes, del 14/08 al 25/12/2026"
+        },
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11: 30% Market Sur con MODO, viernes, 14/08 al 25/12/2026. Igual"
         }
       ]
     },
@@ -25465,7 +25595,7 @@
       "tope_periodo": null,
       "tope_publicado": false,
       "requisitos": "Pagando con MODO desde la app del banco. El banco no publica el tope.",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "id": "santa_cruz-autoservicio-cerca-viernes",
       "medio": "santa_cruz",
@@ -25513,6 +25643,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco Santa Cruz leída el 3/11 (página 1 de 3): \"30% en Autoservicio Cerca - Modo\", viernes, del 14/08 al 25/12/2026"
+        },
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11: 30% Autoservicio Cerca con MODO, viernes, 14/08 al 25/12/2026. Igual"
         }
       ]
     },
@@ -25526,7 +25662,7 @@
       "tope_periodo": null,
       "tope_publicado": false,
       "requisitos": "Pagando con MODO desde la app del banco. El banco no publica el tope.",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "id": "san_juan-avicola-myriam-viernes",
       "medio": "san_juan",
@@ -25574,6 +25710,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco San Juan leída el 3/11 (página 1 de 3): \"30% en AVICOLA MYRIAM\" con MODO, viernes, del 01/11 al 31/12/2026"
+        },
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11: 30% Avícola Myriam con MODO, viernes, 01/11 al 31/12/2026. Igual"
         }
       ]
     },
@@ -39477,9 +39619,9 @@
     {
       "medio_nombre": "Carrefour Banco",
       "zona": "Nacional",
-      "vigencia_desde": "2026-10-01",
+      "vigencia_desde": "2026-11-01",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-20",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -39495,6 +39637,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "lun, mié, vie, sáb y dom 15% online crédito Carrefour Banco, sin tope, octubre"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: lunes, miércoles, viernes, sábados y domingos de noviembre 15% crédito Mastercard Carrefour Banco, solo online, sin tope"
         }
       ],
       "id": "carrefour-banco-online-15",
@@ -39511,15 +39659,15 @@
         "domingo"
       ],
       "descuento_pct": 15,
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2026-11-30",
       "requisitos": "Solo compras online en carrefour.com.ar y la app, con tarjeta de crédito Mastercard de Carrefour Banco en un pago. Sin tope. No vale en tiendas."
     },
     {
       "medio_nombre": "Tarjeta Mercado Pago",
       "zona": "Nacional",
-      "vigencia_desde": "2026-10-01",
+      "vigencia_desde": "2026-11-01",
       "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
-      "verificado": "2026-10-20",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "tope_monto": null,
       "tope_periodo": null,
@@ -39535,6 +39683,12 @@
           "nivel": 2,
           "fecha": "2026-10-20",
           "nota": "3 cuotas con crédito MP por QR desde $150.000, hasta 31/10"
+        },
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11, legal de noviembre: todos los días, 3 cuotas sin interés con crédito Mercado Pago por QR desde $150.000 (el legal dice \"hasta el 31/11/2026\": se carga 30/11)"
         }
       ],
       "id": "cuotas-mp-carrefour-3",
@@ -39555,7 +39709,7 @@
       "descuento_pct": 0,
       "cuotas": 3,
       "compra_minima": 150000,
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_hasta": "2026-11-30",
       "requisitos": "3 cuotas sin interés con la tarjeta de crédito Mercado Pago pagando con QR, en compras desde $150.000. Solo en tiendas."
     },
     {
@@ -40826,7 +40980,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -40840,6 +40994,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco Santa Fe leída el 3/11 (página 1 de 3): \"20% de descuento en Chango Mas - Modo\", todos los lunes, del 01/11 al 31/12/2026"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11 (página 1 de 3): 20% ChangoMás con QR MODO, lunes, 01/11 al 31/12/2026. Igual"
         }
       ]
     },
@@ -40864,7 +41024,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -40878,6 +41038,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco Santa Fe leída el 3/11 (página 1 de 3): \"20% en Supermercados Dia - Modo\", viernes y sábado, del 01/11 al 31/12/2026"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11 (página 1 de 3): 20% Día con QR MODO, viernes y sábado, 01/11 al 31/12/2026. Igual"
         }
       ]
     },
@@ -40902,7 +41068,7 @@
       "vigencia_desde": "2026-06-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -40916,6 +41082,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco Santa Fe leída el 3/11 (página 1 de 3): \"20% en La Anonima\" (+10% adicional clientes), viernes y sábado, del 01/11 al 31/12/2026"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11 (página 1 de 3): 20% La Anónima (+10% clientes), viernes y sábado, 01/11 al 31/12/2026. Igual"
         }
       ]
     },
@@ -40939,7 +41111,7 @@
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -40953,6 +41125,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco Santa Fe leída el 3/11 (página 1 de 3): \"20% en Vea - Modo\", viernes, del 01/11 al 30/11/2026"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11 (página 1 de 3): 20% Vea con QR MODO, viernes, 01/11 al 30/11/2026. Igual"
         }
       ]
     },
@@ -40977,7 +41155,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.bancosantafe.com.ar/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -40991,6 +41169,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco Santa Fe leída el 3/11 (página 1 de 3): \"20% en Jumbo - Modo\", martes y jueves, del 01/11 al 30/11/2026"
+        },
+        {
+          "url": "https://www.bancosantafe.com.ar/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11 (página 1 de 3): 20% Jumbo con QR MODO, martes y jueves, 01/11 al 30/11/2026. Igual"
         }
       ]
     },
@@ -41121,7 +41305,7 @@
       "vigencia_desde": "2026-06-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -41135,6 +41319,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco San Juan leída el 3/11 (página 1 de 3): \"20% en CHANGOMAS\" con MODO, lunes, del 01/11 al 31/12/2026"
+        },
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11: 20% ChangoMás con MODO, lunes, 01/11 al 31/12/2026. Igual"
         }
       ]
     },
@@ -41159,7 +41349,7 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosanjuan.com/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -41173,6 +41363,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco San Juan leída el 3/11 (página 1 de 3): \"20% en Disco - Modo\", viernes y sábado, del 01/11 al 31/12/2026"
+        },
+        {
+          "url": "https://www.bancosanjuan.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11: 20% Disco con MODO, viernes y sábado, 01/11 al 31/12/2026. Igual"
         }
       ]
     },
@@ -41227,7 +41423,7 @@
       "vigencia_desde": "2026-01-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.bancosantacruz.com/beneficios-supermercados",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "confianza": "alta",
       "fuentes": [
         {
@@ -41241,6 +41437,12 @@
           "nivel": 1,
           "fecha": "2026-11-03",
           "nota": "página de supermercados de Banco Santa Cruz leída el 3/11 (página 1 de 3): \"15% de descuento y 3 cuotas sin interés en Carrefour\", exclusivo cuenta paquete, miércoles, del 01/01 al 31/12/2026"
+        },
+        {
+          "url": "https://www.bancosantacruz.com/beneficios-supermercados",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Petersen 5/11: 15% y 3 cuotas en Carrefour, miércoles, exclusivo cuenta paquete, 01/01 al 31/12/2026. Igual"
         }
       ],
       "cuotas": 3
@@ -41346,12 +41548,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-0, Gastronomia): 30% de reintegro General"
         }
       ],
@@ -41376,7 +41578,7 @@
       "requisitos": "Con tarjeta de débito Macro. Solo para jubilados que cobran en Macro. Tope de reintegro: $7.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Nacional",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-03",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-03",
       "fuentes": [
@@ -41388,7 +41590,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-04)."
     },
     {
       "id": "macro-api-nacional-farmacia-jubilados-jue-30",
@@ -41594,16 +41797,16 @@
       "tope_publicado": false,
       "requisitos": "Con tarjeta de crédito Macro. Además, 3 cuotas sin interés. El banco no publica el tope de reintegro.",
       "zona": "Salta",
-      "vigencia_desde": "2026-10-27",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2027-01-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-10-28",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-10-28",
-          "nota": "API de beneficios de Macro (AR-A, Librerias): 10% + hasta 3 cuotas sin interés General"
+          "fecha": "2026-11-05",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-A, Librerias): 10% de reintegro en 3 cuotas sin interés General"
         }
       ],
       "origen": "macro-api",
@@ -42384,12 +42587,12 @@
       "vigencia_desde": "2026-10-09",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -42901,12 +43104,12 @@
       "vigencia_desde": "2026-08-04",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Otros Beneficios): 35% de reintegro General"
         }
       ],
@@ -43244,16 +43447,16 @@
       "tope_publicado": false,
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Además, 12 cuotas sin interés. El banco no publica el tope de reintegro.",
       "zona": "Provincia de Buenos Aires",
-      "vigencia_desde": "2026-10-27",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-08-25",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-10-28",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-10-28",
-          "nota": "API de beneficios de Macro (AR-B, Turismo): 10% + 2 a 12 cuotas sin interés Selecta"
+          "fecha": "2026-11-05",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Turismo): 10% y hasta 12 cuotas sin interés Selecta"
         }
       ],
       "origen": "macro-api",
@@ -43319,7 +43522,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Además, 12 cuotas sin interés. El banco no publica el tope de reintegro.",
       "zona": "CABA",
       "vigencia_desde": "2026-09-04",
-      "vigencia_hasta": "2026-11-30",
+      "vigencia_hasta": "2026-11-03",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-03",
       "fuentes": [
@@ -43331,7 +43534,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-04)."
     },
     {
       "id": "macro-api-caba-patio-bullrich-vie-sab-dom-20",
@@ -43429,18 +43633,18 @@
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": false,
-      "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Además, 3 cuotas sin interés. El banco no publica el tope de reintegro.",
+      "requisitos": "Con tarjeta de crédito Macro. Además, 3 cuotas sin interés. El banco no publica el tope de reintegro.",
       "zona": "CABA",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-C, Otros Beneficios): 15% y hasta 3 cuotas sin interés Selecta"
+          "fecha": "2026-11-05",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-C, Otros Beneficios): 15% y hasta 3 cuotas sin interés Platinum"
         }
       ],
       "origen": "macro-api",
@@ -43504,7 +43708,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $5.000 (el banco no aclara si es por mes o por compra).",
       "zona": "CABA",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-03",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-03",
       "fuentes": [
@@ -43516,7 +43720,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-04)."
     },
     {
       "id": "macro-api-san-luis-bistrea-brunch-coffe-todos-20",
@@ -44066,12 +44271,12 @@
       "vigencia_desde": "2026-10-14",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-E, Supermercados): 20% de reintegro General / 25% de reintegro Platinum"
         }
       ],
@@ -44218,12 +44423,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-G, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -44500,12 +44705,12 @@
       "vigencia_desde": "2026-10-08",
       "vigencia_hasta": "2026-11-08",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -47104,12 +47309,12 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Turismo): 20% y hasta 12 cuotas Selecta"
         }
       ],
@@ -47143,12 +47348,12 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Turismo): 20% y hasta 12 cuotas sin interés Selecta"
         }
       ],
@@ -47182,12 +47387,12 @@
       "vigencia_desde": "2026-09-03",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Turismo): 15% y hasta 12 cuotas sin interés Selecta"
         }
       ],
@@ -47221,12 +47426,12 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Turismo): 10% y hasta 12 cuotas sin interés Selecta"
         }
       ],
@@ -47246,21 +47451,21 @@
         "sabado"
       ],
       "descuento_pct": 20,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "tope_publicado": false,
-      "requisitos": "Con tarjeta de débito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. El banco no publica el tope de reintegro.",
+      "tope_monto": 8250,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de débito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Tope de reintegro: $8.250 (el banco no aclara si es por mes o por compra).",
       "zona": "Misiones",
-      "vigencia_desde": "2026-10-27",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-10-28",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-10-28",
-          "nota": "API de beneficios de Macro (AR-N, Gastronomia): 20% General"
+          "fecha": "2026-11-05",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Gastronomia): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
@@ -47278,21 +47483,21 @@
         "viernes"
       ],
       "descuento_pct": 25,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "tope_publicado": false,
-      "requisitos": "Con tarjeta de débito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. El banco no publica el tope de reintegro.",
+      "tope_monto": 50000,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de débito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Tope de reintegro: $50.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Misiones",
-      "vigencia_desde": "2026-10-27",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-10-28",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-10-28",
-          "nota": "API de beneficios de Macro (AR-N, Gastronomia): 25% General"
+          "fecha": "2026-11-05",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Gastronomia): 25% de reintegro General"
         }
       ],
       "origen": "macro-api",
@@ -47408,21 +47613,21 @@
         "lunes"
       ],
       "descuento_pct": 25,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "tope_publicado": false,
-      "requisitos": "Con tarjeta de débito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. El banco no publica el tope de reintegro.",
+      "tope_monto": 19250,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de débito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Tope de reintegro: $19.250 (el banco no aclara si es por mes o por compra).",
       "zona": "Misiones",
-      "vigencia_desde": "2026-10-27",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-10-28",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-10-28",
-          "nota": "API de beneficios de Macro (AR-N, Otros Beneficios): 25% General"
+          "fecha": "2026-11-05",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 25% de reintegro General"
         }
       ],
       "origen": "macro-api",
@@ -47443,21 +47648,21 @@
       ],
       "descuento_pct": 15,
       "cuotas": 6,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "tope_publicado": false,
-      "requisitos": "Con tarjeta de crédito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Además, 6 cuotas sin interés. El banco no publica el tope de reintegro.",
+      "tope_monto": 61600,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de crédito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Además, 6 cuotas sin interés. Tope de reintegro: $61.600 (el banco no aclara si es por mes o por compra).",
       "zona": "Misiones",
-      "vigencia_desde": "2026-10-27",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-10-28",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-10-28",
-          "nota": "API de beneficios de Macro (AR-N, Otros Beneficios): 15% + hasta 6 cuotas sin interés General"
+          "fecha": "2026-11-05",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 15% y 6 cuotas sin interés General"
         }
       ],
       "origen": "macro-api",
@@ -51087,12 +51292,12 @@
       "vigencia_desde": "2026-10-15",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Turismo): 20% y hasta 12 cuotas sin interés Selecta"
         }
       ],
@@ -51195,12 +51400,12 @@
       "vigencia_desde": "2026-09-25",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Gastronomia): 15% de reintegro General"
         }
       ],
@@ -51615,7 +51820,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Santa Fe",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-03",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-03",
       "fuentes": [
@@ -51627,7 +51832,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-04)."
     },
     {
       "id": "macro-api-santa-fe-pescaderia-mediterraneo-mar-20",
@@ -51647,7 +51853,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $6.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Santa Fe",
       "vigencia_desde": "2026-08-03",
-      "vigencia_hasta": "2026-12-30",
+      "vigencia_hasta": "2026-11-03",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-03",
       "fuentes": [
@@ -51659,7 +51865,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-04)."
     },
     {
       "id": "macro-api-santa-fe-sabores-del-sol-todos-20",
@@ -51755,7 +51962,7 @@
       "requisitos": "Con tarjeta de débito Macro. Tope de reintegro: $7.500 (el banco no aclara si es por mes o por compra).",
       "zona": "Santa Fe",
       "vigencia_desde": "2026-09-14",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-03",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-03",
       "fuentes": [
@@ -51767,7 +51974,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-04)."
     },
     {
       "id": "macro-api-santa-fe-autoservicio-perrone-mie-10",
@@ -51816,18 +52024,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Santa Fe",
       "vigencia_desde": "2026-05-12",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 20% de reintegro General / 30% de reintegro Selecta"
+          "fecha": "2026-11-05",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
@@ -52165,21 +52373,21 @@
         "lunes"
       ],
       "descuento_pct": 30,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "tope_publicado": false,
-      "requisitos": "Con tarjeta de crédito Macro. El banco no publica el tope de reintegro.",
+      "tope_monto": 5000,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $5.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Santa Fe",
-      "vigencia_desde": "2026-10-27",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-08-10",
+      "vigencia_hasta": "2027-01-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-10-28",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-10-28",
-          "nota": "API de beneficios de Macro (AR-S, Supermercados): 30% General"
+          "fecha": "2026-11-05",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 30% de reintegro General"
         }
       ],
       "origen": "macro-api",
@@ -52237,12 +52445,12 @@
       "vigencia_desde": "2026-08-26",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 15% de reintegro General / 15% de reintegro Selecta"
         }
       ],
@@ -52269,12 +52477,12 @@
       "vigencia_desde": "2026-08-26",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 10% de reintegro General / 10% de reintegro Selecta"
         }
       ],
@@ -52493,12 +52701,12 @@
       "vigencia_desde": "2026-06-05",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 10% de reintegro General"
         }
       ],
@@ -52523,20 +52731,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $8.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Santa Fe",
       "vigencia_desde": "2026-07-01",
-      "vigencia_hasta": "2026-11-02",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-02",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-02",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 10% de reintegro General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-03)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-tucuman-cafe-costal-todos-20",
@@ -53619,12 +53826,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum"
         }
       ],
@@ -54271,12 +54478,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Turismo): 10% y hasta 12 cuotas sin interés Selecta"
         }
       ],
@@ -54349,12 +54556,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Turismo): 10% y hasta 12 cuotas sin interés Selecta"
         }
       ],
@@ -54593,12 +54800,12 @@
       "vigencia_desde": "2026-09-30",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-W, Supermercados): 20% de reintegro General"
         }
       ],
@@ -55317,23 +55524,22 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Córdoba",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-02",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-02",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-02",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Supermercados): 20% de reintegro General"
+          "fecha": "2026-11-05",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Supermercados): 20% de reintegro General / 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-03)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-cordoba-supermercados-almacenes-en-villa-maria-mie-20",
@@ -55387,12 +55593,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 25% de reintegro Platinum"
         }
       ],
@@ -55419,12 +55625,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Otros Beneficios): 30% de reintegro Selecta"
         }
       ],
@@ -55451,12 +55657,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Supermercados): 30% de reintegro Selecta"
         }
       ],
@@ -55481,20 +55687,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $100.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Santa Fe",
       "vigencia_desde": "2026-08-03",
-      "vigencia_hasta": "2026-11-02",
+      "vigencia_hasta": "2026-12-30",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-02",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-02",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Otros Beneficios): 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-03)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-cordoba-shop-terron-todos-20",
@@ -55523,12 +55728,12 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Shoppings y Tiendas): 20% y hasta 3 cuotas sin interés Selecta"
         }
       ],
@@ -55588,12 +55793,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-03",
+      "verificado": "2026-11-05",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-03",
+          "fecha": "2026-11-05",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Otros Beneficios): 25% de reintegro Platinum"
         }
       ],
@@ -55618,7 +55823,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $20.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Córdoba",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-03",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-03",
       "fuentes": [
@@ -55630,7 +55835,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-04)."
     },
     {
       "id": "modo-coto-martes-25",
@@ -55674,6 +55880,133 @@
         }
       ],
       "confianza": "alta"
+    },
+    {
+      "id": "macro-api-misiones-ahora-estudiantes-jue-vie-15",
+      "medio": "macro",
+      "medio_nombre": "Banco Macro",
+      "rubro": "comercios adheridos",
+      "comercios": [
+        "Comercios del programa Ahora Estudiantes"
+      ],
+      "dias": [
+        "jueves",
+        "viernes"
+      ],
+      "descuento_pct": 15,
+      "cuotas": 6,
+      "tope_monto": 99999,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de crédito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Además, 6 cuotas sin interés. Tope de reintegro: $99.999 (el banco no aclara si es por mes o por compra).",
+      "zona": "Misiones",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
+      "fuente": "https://www.macro.com.ar/beneficios",
+      "verificado": "2026-11-05",
+      "fuentes": [
+        {
+          "url": "https://www.macro.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 15% y 6 cuotas sin interés General"
+        }
+      ],
+      "origen": "macro-api",
+      "confianza": "alta"
+    },
+    {
+      "id": "macro-api-santa-fe-frioteka-rafaela-jue-30",
+      "medio": "macro",
+      "medio_nombre": "Banco Macro",
+      "rubro": "supermercados",
+      "comercios": [
+        "Frioteka Rafaela"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 30,
+      "tope_monto": 25000,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Tope de reintegro: $25.000 (el banco no aclara si es por mes o por compra).",
+      "zona": "Santa Fe",
+      "vigencia_desde": "2026-09-03",
+      "vigencia_hasta": "2026-12-31",
+      "fuente": "https://www.macro.com.ar/beneficios",
+      "verificado": "2026-11-05",
+      "fuentes": [
+        {
+          "url": "https://www.macro.com.ar/beneficios",
+          "nivel": 1,
+          "fecha": "2026-11-05",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 30% de reintegro Selecta"
+        }
+      ],
+      "origen": "macro-api",
+      "confianza": "alta"
+    },
+    {
+      "rubro": "supermercados",
+      "zona": "Nacional",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "verificado": "2026-11-05",
+      "confianza": "alta",
+      "id": "carrefour-banco-cd-jueves-online-20",
+      "medio": "carrefour_banco",
+      "medio_nombre": "Carrefour Banco",
+      "comercios": [
+        "Carrefour"
+      ],
+      "dias": [
+        "jueves"
+      ],
+      "descuento_pct": 20,
+      "tope_monto": 10000,
+      "tope_periodo": "semanal",
+      "requisitos": "Con la Cuenta Digital de Carrefour Banco, en un pago. Solo comprando online en carrefour.com.ar o la app; en las sucursales no vale. Tope $10.000 por semana. No incluye carnicería, frutas, verduras, electro, bazar ni textil.",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
+      "fuentes": [
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11: \"20% de descuento en un pago con Cuenta Digital de Carrefour Banco\", todos los jueves de noviembre 2026, solo online, tope $10.000 por semana"
+        }
+      ]
+    },
+    {
+      "rubro": "supermercados",
+      "zona": "Nacional",
+      "fuente": "https://www.carrefour.com.ar/descuentos-bancarios",
+      "verificado": "2026-11-05",
+      "confianza": "alta",
+      "id": "carrefour-banco-cd-maxi-finde-10",
+      "medio": "carrefour_banco",
+      "medio_nombre": "Carrefour Banco",
+      "comercios": [
+        "Carrefour Maxi"
+      ],
+      "dias": [
+        "sabado",
+        "domingo"
+      ],
+      "descuento_pct": 10,
+      "tope_monto": null,
+      "tope_periodo": null,
+      "requisitos": "Solo en Carrefour Maxi. Pagando con la Cuenta Digital de Carrefour Banco. Sin tope. No se acumula con otras promos ni folletos. No incluye carnicería, fiambrería, frutas, verduras, electro, bazar ni textil.",
+      "vigencia_desde": "2026-11-01",
+      "vigencia_hasta": "2026-11-30",
+      "fuentes": [
+        {
+          "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+          "nivel": 2,
+          "fecha": "2026-11-05",
+          "nota": "Carrefour 5/11: 10% con Cuenta Digital de Carrefour Banco, sábados y domingos de noviembre 2026, solo tiendas Carrefour Maxi, sin tope"
+        }
+      ]
     }
   ]
 }
