@@ -1,5 +1,35 @@
 # Cambios
 
+## 2026-11-06 — Jumbo, Disco y Vea: **10 confirmadas**; se cayeron Comafi 12 cuotas en electro y Cabify de Supervielle; **vuelve MODO 20% los viernes en Vea**
+
+**1049 promos (0 altas, 2 retiradas, 1 revivida, 11 confirmadas, 1 de ellas asumida).** Con vigencia asumida quedan **0** (ayer 3).
+
+- Macro (`node tools/cargar-macro.js`): `Macro: 38 promos en porcentaje armadas de 4707 filas (533 de MODO quedan afuera por no tener provincia conocida, 4128 ya vencidas) · 0 altas · 38 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano`. Ojo: `crudo/macro.txt` es del 5/11 (hoy no se releyó).
+
+### Cómo se juntó el texto
+A las 07:40 `crudo/` estaba en el 5/11. Disparé `recolectar.yml` solo con las 8 fuentes de la agenda y a los ~3 minutos llegó el commit 13eeef1 con `leido: 2026-11-06` para 7 de ellas. **Supervielle vino vacía otra vez** (sigue la lectura del 4/11). **Yaguar** devolvió un bloqueo de Cloudflare. El resto de `crudo/` (32 fuentes) sigue con el texto del 5/11: hoy no corrió la recolección completa; ICBC y Frávega del 2/11, BPN del 1/10, McDonald's y Musimundo del 27/8.
+
+### ⚠️ Revivida (a mirar)
+- **`modo-vea-viernes-20`** (MODO 20% los viernes en Vea, compras desde $100.000, tope $25.000 por banco, por usuario y por mes, no vale en Pilar): estaba en `baja` desde agosto, sin fechas. Hoy Vea la muestra en la pestaña del viernes. **La tarjeta de Vea no trae vigencia**; le puse 6/11 al 30/11 porque las mismas tarjetas de MODO de Jumbo y Disco, con el mismo texto, dicen "del 01/06/2026 al 30/11/2026". Si alguien la quiere más segura, que la vuelva a bajar.
+
+### Retiradas (con el motivo)
+- **`cuotas-comafi-jumbo-disco-vea-electro-12`** (Comafi, 12 cuotas en electro de viernes a domingo): Jumbo, Disco y Vea la publicaron con legal "del 01/09/26 al 31/10/26" hasta la lectura del 1/11 y falta en las de 3, 4, 5 y 6/11, con la página entera (la del 2/11 vino sin Comafi, no la cuento). La tarjeta de 3 cuotas de Comafi sí se renovó al 30/11, así que no es la página: esta se terminó. Comafi tampoco la lista. Vencida el 31/10. Era una de las asumidas.
+- **`supervielle-cabify-mastercard`** (50% en Cabify con Mastercard, tope $4.000): Supervielle la listó en transporte hasta la lectura del 31/10 y falta en las 4 de noviembre (1, 2, 3 y 4/11) con la sección cargada (BiciTRAN sigue). También se fueron los colectivos. Vencida el 31/10. Era una de las asumidas.
+
+### Confirmadas
+- **Supervielle Shell domingo 10% débito con MODO, tope $10.000**: estaba en las lecturas del 2, 3 y 4/11 y nadie la había dado por buena. La fecha de la fuente es la del **4/11** (lo que se leyó de verdad), no la de hoy. Sale de las asumidas.
+- **Jumbo/Disco/Vea, con texto de hoy**: Hipotecario martes 25% (tope $15.000/mes); Naranja X martes 25% (tope $9.500/semana); Naranja X 3 cuotas Plan Z; Cencopay Cuenta lunes 25% (tope $15.000); MODO martes y jueves en Jumbo y viernes y sábado en Disco 20% desde $100.000; Macro 3 cuotas online de jueves a domingo; Cencopay jueves 25% + 3 cuotas en Vea; BNA 6 cuotas en electro; Comafi 3 cuotas todos los días (legal renovado al 30/11/26).
+
+### Agenda del día
+- **Trabajadas: jumbo, disco, vea** (deuda) y **maxiconsumo, vital, yaguar, shell** (sin nada que cargar). **Supervielle** con la lectura del 4/11 (hoy vino vacía).
+  - **maxiconsumo**: las promos de la sucursal Moreno son imágenes: solo se ven 18 botones "LEGALES" sin texto. Haría falta que la receta abra los legales.
+  - **vital**: aparecen las pestañas de los días pero ninguna tarjeta: la receta no espera a que carguen, o hay que tocar cada día.
+  - **yaguar**: bloqueado por Cloudflare.
+  - **shell**: solo el sorteo de Las Vegas (terminó el 18/10).
+- **Quedaron**: **dr-ahorro, fravega, comafi, icbc** (las lecturas desde la PC de Lucía son las mismas que ya se trabajaron; no hay texto nuevo).
+
+
+
 ## 2026-11-05 — Carrefour vuelve: **16 promos renovadas a noviembre y 2 nuevas**; Santa Cruz confirma sus 2 asumidas; 2 retiradas (jubilados BNA en Carrefour y Banco del Chubut en ChangoMás)
 
 **1049 promos (2 altas, 2 retiradas, 16 de Carrefour revividas a noviembre (2 de ellas corregidas), 18 confirmadas, 2 de ellas asumidas).** Con vigencia asumida quedan **3** (ayer 7). Visibles hoy: 294 (ayer 272).
