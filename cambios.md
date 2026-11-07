@@ -1,5 +1,27 @@
 # Cambios
 
+## 2026-11-07 — Macro se mueve fuerte (**15 altas, 121 revividas, 16 bajas**, todo por script); Comafi confirma 7; la agenda de combustible y farmacias no trajo nada
+
+**1064 promos (ayer 1049).** Altas a mano: 0. Bajas a mano: 0. Confirmadas: 7 (Comafi). Con vigencia asumida: **0**.
+
+- Macro (`node tools/cargar-macro.js`), con la lectura de hoy: `Macro: 158 promos en porcentaje armadas de 5437 filas (1035 de MODO quedan afuera por no tener provincia conocida, 4162 ya vencidas) · 15 altas · 22 renovadas · 121 revividas · 16 bajas · 0 ya estaban cargadas a mano`. (Antes de que llegara el texto nuevo lo corrí una vez con la lectura del 6/11 y dio `38 renovadas`, sin altas ni bajas.) **Ojo, a mirar:** el salto de 38 a 158 promos y de 533 a 1035 filas de MODO sin provincia es grande para un día; parece que Macro cargó la tanda de noviembre, pero conviene que alguien le eche un ojo a las 121 revividas.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 6/11 y la corrida programada de hoy no había arrancado. Disparé `recolectar.yml` completo y a los ~13 minutos llegó el commit def4205 con `leido: 2026-11-07` para 38 fuentes. **YPF vino vacía** (queda la lectura del 6/11, que igual decía "página no disponible"). Supervielle sigue en el 4/11, ICBC y Frávega en el 2/11, BPN en el 1/10, McDonald's y Musimundo en el 27/8.
+
+### Confirmadas (Comafi, texto de hoy)
+El listado de supermercados de Comafi vino entero (las otras 4 secciones siguen trabadas en la verificación de Cloudflare). Confirma día y %, sin detalle de tope: ChangoMás martes 20%, Coto martes 35%, Coto martes 25% con MODO, Makro miércoles 20%, Makro 3 cuotas, Puppis y los petshops (Delivery Pet Food, Natural Life, Leocan, Zoocopet) martes a jueves 20%. Se les sumó la fuente con fecha 7/11.
+
+### Visto y no cargado
+- **Comafi** lista también, sin detalle (ni tope, ni vigencia, ni zona): Jumbo, Disco y Vea miércoles 20%; Diarco miércoles 20% (la nuestra era lunes a viernes y venció el 31/10); Aiello martes 20% (la nuestra era viernes, venció el 31/10); Alvear martes; Cooperativa Obrera martes; Cordiez y Cereales El Diamante miércoles; Coto 10% con MODO martes; Pezcalandia 25%; Coquitos Natural Market lunes y jueves. Sin tope ni vigencia no se cargan. El listado es igual desde el 2/11.
+- **MODO**: Tienda Nova con Comafi 30% todos los días (Único tope $40.000/mes, del 1/11/26 al 31/1/27). No la cargué porque ninguna fuente dice en qué provincia está Tienda Nova.
+
+### Agenda del día
+- **Trabajadas**: **comafi** (7 confirmadas), **ypf** (vino vacía; la del 6/11 decía "página no disponible": la URL /promociones parece rota), **axion** (solo la lista de bases y condiciones de sorteos y "Descuento Super" de Pan American, sin banco, día ni %: haría falta que la receta abra esas bases), **farmacity** ("/promociones-bancarias" da "No encontramos resultados": la URL de la receta está rota), **shell** (sorteo de Las Vegas terminado, publicaron ganadores; nada que cargar), **dr-ahorro** (**ya no da el error 526**: el sitio carga, pero /promociones muestra productos y blog, ninguna promo bancaria).
+- **Quedaron**: **icbc** y **fravega**: son lecturas de la PC de Lucía del 2/11 que ya se trabajaron; no hay texto nuevo.
+- Para Lucía: arreglar las URLs de **ypf** y **farmacity** en `tools/recolectar.js`, y actualizar la ficha de **dr-ahorro** (el certificado se arregló).
+
+
 ## 2026-11-06 — Jumbo, Disco y Vea: **10 confirmadas**; se cayeron Comafi 12 cuotas en electro y Cabify de Supervielle; **vuelve MODO 20% los viernes en Vea**
 
 **1049 promos (0 altas, 2 retiradas, 1 revivida, 11 confirmadas, 1 de ellas asumida).** Con vigencia asumida quedan **0** (ayer 3).
