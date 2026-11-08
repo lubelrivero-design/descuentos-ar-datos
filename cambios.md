@@ -1,5 +1,31 @@
 # Cambios
 
+## 2026-11-08 — Domingo tranquilo: **1 alta** (MODO 20% en Diarco Barrio de viernes a domingo, hasta el 29/11), Comafi confirma 7, Macro renueva 149 por script
+
+**1065 promos (ayer 1064).** Altas a mano: 1. Bajas a mano: 0. Confirmadas: 7 (Comafi). Con vigencia asumida: **0**.
+
+- Macro (`node tools/cargar-macro.js`), con la lectura de hoy: `Macro: 156 promos en porcentaje armadas de 5442 filas (1037 de MODO quedan afuera por no tener provincia conocida, 4162 ya vencidas) · 0 altas · 149 renovadas · 7 revividas · 9 bajas · 0 ya estaban cargadas a mano`.
+
+### Cómo se juntó el texto
+A las 07:42 `crudo/` estaba en el 7/11 y la corrida programada de hoy no había arrancado. Disparé `recolectar.yml` completo y a los ~12 minutos llegó el commit ad6ac2c con `leido: 2026-11-08` para 38 fuentes. **YPF vino vacía otra vez** (queda la del 7/11). Supervielle sigue en el 4/11, ICBC y Frávega en el 2/11, BPN en el 1/10, McDonald's y Musimundo en el 27/8.
+
+### Alta
+- **`modo-diarco-barrio-vie-dom-20-nov`**: MODO 20% en Diarco Barrio viernes, sábados y domingos, **sin tope**, compra mínima $35.000, del 7/11 al 29/11/2026, descuento en la caja. Salió de un slug nuevo de MODO (`diarcopueblo-pdv-nov26`) y lo cruza la página de Diarco de hoy (nivel 2), que publica la misma promo con el mismo listado de sucursales pero con legal hasta el 8/11. Como es "sin tope", va con las dos fuentes. Zona AMBA como la de octubre; las sucursales del interior que también entran (Pilar, Chilecito, Chos Malal, El Bolsón, Pehuajó, Pico Truncado, Piedrabuena, Puerto Deseado, Rafaela, Trenque Lauquen) van nombradas en requisitos.
+
+### Confirmadas (Comafi, texto de hoy)
+Mismo listado de supermercados que ayer (las otras 4 secciones siguen en la verificación de Cloudflare): ChangoMás martes 20%, Coto martes 35%, Coto martes 25% con MODO, Makro miércoles 20%, Makro 3 cuotas, Puppis y los petshops martes a jueves 20%. Fuente sumada con fecha 8/11.
+
+### Visto y no cargado
+- **MODO, El Túnel** (slug nuevo `eltunel-sucursal-esperanza-1-nov26`): 25% los sábados del 7/11 al 28/11, solo en la sucursal Moreno 2820 de Esperanza, Santa Fe. **El texto del tope viene cortado** ("tope de reintegro de hasta $5"), no se puede leer completo: no se carga.
+- **Diarco**: MODO 15% en mayoristas seleccionadas y Mercado Pago/billeteras 15% viernes a domingo terminan **hoy** (8/11) según el legal del propio Diarco; no tiene sentido darlas de alta para un día.
+- Dejaron de aparecer en MODO: `20-supermercados-monarca-icbc-ago25` y `coopdetrabajo-distribuidora-popular-nov26`. No teníamos promos cargadas de ninguna de las dos.
+
+### Agenda del día
+- **Trabajadas**: **comafi** (7 confirmadas), **shell** (sigue solo el sorteo de Las Vegas terminado), **la-anonima** (403 Forbidden), **maxiconsumo** (las promos de Moreno siguen siendo imágenes: 18 botones "LEGALES" sin texto), **vital** (pestañas de los días sin ninguna tarjeta), **dr-ahorro** (carga, pero /promociones muestra productos, ninguna promo bancaria). Ninguna de estas aportó nada.
+- **Quedaron**: **icbc** y **fravega**: lecturas de la PC de Lucía del 2/11 que ya se trabajaron; no hay texto nuevo.
+- Para Lucía (se repite de ayer): las recetas de **maxiconsumo** y **vital** necesitan abrir los legales / tocar cada día; **la-anonima** bloquea al runner; **ypf** y **farmacity** tienen la URL rota; la ficha de **dr-ahorro** sigue diciendo error 526 y ya no es cierto.
+
+
 ## 2026-11-07 — Macro se mueve fuerte (**15 altas, 121 revividas, 16 bajas**, todo por script); Comafi confirma 7; la agenda de combustible y farmacias no trajo nada
 
 **1064 promos (ayer 1049).** Altas a mano: 0. Bajas a mano: 0. Confirmadas: 7 (Comafi). Con vigencia asumida: **0**.
