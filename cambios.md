@@ -1,5 +1,37 @@
 # Cambios
 
+## 2026-11-09 — Lunes: llegó la lectura de casa de ICBC y Frávega (la primera desde el 2/11). **1 alta** (ICBC 15% + 3 cuotas los viernes en jugueterías, tanda nueva), 2 comercios sacados de promos de cuotas, 62 confirmadas a mano; Macro por script
+
+**1067 promos (ayer 1065).** Altas a mano: 1. Bajas a mano: 0. Confirmadas a mano: 62 (48 ICBC, 8 Frávega, 6 Comafi). Con vigencia asumida: **0**.
+
+- Macro (`node tools/cargar-macro.js`), con la lectura de hoy: `Macro: 155 promos en porcentaje armadas de 5427 filas (1005 de MODO quedan afuera por no tener provincia conocida, 4181 ya vencidas) · 1 altas · 147 renovadas · 7 revividas · 9 bajas · 0 ya estaban cargadas a mano`.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 8/11 y la corrida programada de hoy no había arrancado. Disparé `recolectar.yml` completo y a los ~12 minutos llegó el commit f78904e con `leido: 2026-11-09` para 39 fuentes. Además anoche (20:05) Lucía subió desde casa **icbc, comafi, fravega y macro** (commit eab1e0b): ICBC y Frávega quedan con `leido: 2026-11-08`, y todo lo que salió de ahí va fechado al 8/11. Siguen viejas: Supervielle (4/11), BPN (1/10), McDonald's y Musimundo (27/8).
+
+### Alta
+- **`icbc-jugueterias-viernes-15-nov`**: ICBC los viernes en **Cebra, Citykids y Graco Store**, 15% + hasta 3 cuotas sin interés (Exclusive Banking 20%), tope $30.000 por compra, del 6/11/2026 al 31/03/2027. Es la misma promo que venció el 31/10 (`icbc-jugueterias-viernes-15`), que volvió con fecha nueva. La tanda también trae Juguetería Carrousel, Osito Azul, Monococo y Somos los Juguetes: sin provincia verificada, no cargadas. Compañía de Juguetes, El Mundo del Juguete y Giro Didáctico no volvieron.
+
+### Cambios
+- `cuotas-icbc-electro-hogar-9`: se saca **Whirlpool Store** (el catálogo completo de ICBC del 2/11 lo traía y el del 8/11 no; en ICBC la ausencia vale como evidencia). Siguen KitchenAid Store, HP y Garmin.
+- `cuotas-icbc-indumentaria-6`: se saca **Converse**, que no figura ni el 2/11 ni el 8/11.
+
+### Confirmadas
+- **ICBC (48)**: todas las vigentes siguen igual en el catálogo completo del 8/11 (12 rubros). Lo único que cambió en el texto es el nombre de la campaña ("BILLETERA MODO" pasó a "EXCLUSIVO MODO"), que no cambia nada para el usuario. Las del Cyber Monday del 2 al 4/11 ya no están, como correspondía.
+- **Frávega (8)**: los legales del 8/11 son los mismos del 2/11. **Ojo: BBVA, Galicia, Macro, Santander y Credicoop en Frávega vencen hoy (9/11)**; mañana salen solas por vigencia. Si Frávega renueva, hace falta otra lectura desde casa.
+- **Comafi (6)**: el listado de supermercados del 9/11 es igual al del 8/11.
+
+### Visto y no cargado
+- **ICBC, viernes 15% (Exclusive 20%) + cuotas desde el 6/11** en Sport 78, Dulce Lencería y MD Calzados; **Farmacia Durand** los viernes 20% + 6 cuotas por MODO, tope $6.000 por semana (y 3 cuotas de sábado a jueves); restaurantes **Farda Fuego** (30% solo Exclusive Banking) y **Beijing** (25%, tope $25.000 por semana). No cargados: no hay fuente que diga en qué provincia están.
+- **MODO**: sin slugs nuevos respecto de ayer.
+
+### Agenda del día
+- **Trabajadas**: **icbc** y **fravega** (lectura nueva desde casa, ver arriba), **comafi** (igual que ayer; combustible, salud, promos del mes y MODO siguen trabadas en Cloudflare también desde casa), **yaguar** (sigue el bloqueo de Cloudflare), **ypf** (solo el menú institucional), **axion** (las mismas bases de "Descuento Super" sin datos), **shell** (sigue el sorteo de Las Vegas, terminado el 18/10). Las de hoy de esas cuatro son idénticas a ayer salvo la fecha.
+- **dr-ahorro**: igual que ayer (la tienda, sin promos bancarias).
+- **Quedaron**: ninguna.
+- Para Lucía (se repite): **ypf** necesita una URL nueva; **yaguar** y **la-anonima** bloquean al runner; la ficha de **dr-ahorro** sigue diciendo error 526.
+
+
 ## 2026-11-08 — Domingo tranquilo: **1 alta** (MODO 20% en Diarco Barrio de viernes a domingo, hasta el 29/11), Comafi confirma 7, Macro renueva 149 por script
 
 **1065 promos (ayer 1064).** Altas a mano: 1. Bajas a mano: 0. Confirmadas: 7 (Comafi). Con vigencia asumida: **0**.
