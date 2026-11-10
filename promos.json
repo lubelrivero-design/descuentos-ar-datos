@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09",
+  "actualizado": "2026-11-10",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -10363,8 +10363,8 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "vigencia_desde": "2026-08-01",
-      "vigencia_hasta": "2026-11-30",
-      "verificado": "2026-11-01",
+      "vigencia_hasta": "2026-12-31",
+      "verificado": "2026-11-10",
       "tope_monto": 10000,
       "tope_periodo": "por compra",
       "fuentes": [
@@ -10442,6 +10442,18 @@
           "nivel": 1,
           "fecha": "2026-11-01",
           "nota": "catálogo completo de la API del 1/11: Farmaonline | dias: todos los dias | 10% | 6 cuotas | online | NUEVA | medios: APP CIUDAD, BUEPP — pasó de viernes a todos los días (el banco la marca NUEVA)"
+        },
+        {
+          "url": "https://www.modo.com.ar/promos/10off-3y6csi-farmaonline-cyber-ciudad-nov26",
+          "nivel": 1,
+          "fecha": "2026-11-10",
+          "nota": "bases de Banco Ciudad en MODO: farmaonline.com todos los días, 10% tope $10.000 por transacción + hasta 6 cuotas, crédito Visa/Master Ciudad por QR MODO desde Buepp o App Ciudad, 01/11 al 31/12/2026"
+        },
+        {
+          "url": "https://www.bancociudad.com.ar/beneficios/promo",
+          "nivel": 1,
+          "fecha": "2026-11-10",
+          "nota": "catálogo de la API del 10/11: Farmaonline todos los días 10% + 6 cuotas, online: igual a lo cargado"
         }
       ],
       "cuotas": 6
@@ -15040,7 +15052,7 @@
       "vigencia_desde": "2026-02-03",
       "vigencia_hasta": "2027-01-31",
       "fuente": "https://www.modo.com.ar/promos/20-comafi-changomas-feb26",
-      "verificado": "2026-11-09",
+      "verificado": "2026-11-10",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15167,6 +15179,12 @@
           "nivel": 1,
           "fecha": "2026-11-09",
           "nota": "listado de supermercados de Comafi del 9/11 (GitHub Actions): idéntico al del 8/11, mismo día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-10",
+          "nota": "listado de supermercados del 10/11 igual al del 9/11 (día y %)"
         }
       ]
     },
@@ -31392,7 +31410,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-09",
+      "verificado": "2026-11-10",
       "id": "icbc-farmacity-gtl-simplicity-viernes-20",
       "medio": "icbc",
       "medio_nombre": "ICBC",
@@ -31464,6 +31482,12 @@
           "nivel": 1,
           "fecha": "2026-11-08",
           "nota": "lectura desde casa del 8/11 (API completa, 12 rubros, 245 entradas): la entrada del banco sigue igual en día, %, cuotas, tope del segmento GENERAL y vigencia"
+        },
+        {
+          "url": "https://www.modo.com.ar/promos/20ff-2y3csi-simplicity-getthelook-farmacity-icbc-yoy-nov26",
+          "nivel": 1,
+          "fecha": "2026-11-10",
+          "nota": "legales ICBC en MODO: viernes 06/11/2026 al 26/03/2027 (último viernes antes del 31/3), 20% + hasta 3 cuotas crédito Visa/Master, 20% Visa Débito, tope $6.000 por cuenta por semana, online farmacity.com, simplicity.com.ar, getthelook: igual a lo cargado"
         }
       ],
       "fuente": "https://www.beneficios.icbc.com.ar/promo/super"
@@ -31938,7 +31962,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-09",
+      "verificado": "2026-11-10",
       "id": "comafi-coto-martes-30",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -32079,6 +32103,12 @@
           "nivel": 1,
           "fecha": "2026-11-09",
           "nota": "listado de supermercados de Comafi del 9/11 (GitHub Actions): idéntico al del 8/11, mismo día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-10",
+          "nota": "listado de supermercados del 10/11 igual al del 9/11 (día y %)"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -32089,7 +32119,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-09",
+      "verificado": "2026-11-10",
       "id": "comafi-makro-miercoles-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -32206,6 +32236,12 @@
           "nivel": 1,
           "fecha": "2026-11-09",
           "nota": "listado de supermercados de Comafi del 9/11 (GitHub Actions): idéntico al del 8/11, mismo día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-10",
+          "nota": "listado de supermercados del 10/11 igual al del 9/11 (día y %)"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -32707,7 +32743,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-09",
+      "verificado": "2026-11-10",
       "id": "comafi-petshops-mar-jue-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -32824,6 +32860,12 @@
           "nivel": 1,
           "fecha": "2026-11-09",
           "nota": "listado de supermercados de Comafi del 9/11 (GitHub Actions): idéntico al del 8/11, mismo día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-10",
+          "nota": "listado de supermercados del 10/11 igual al del 9/11 (día y %)"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -37458,7 +37500,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-09",
+      "verificado": "2026-11-10",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -37551,6 +37593,12 @@
           "nivel": 1,
           "fecha": "2026-11-09",
           "nota": "listado de supermercados de Comafi del 9/11 (GitHub Actions): idéntico al del 8/11, mismo día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-10",
+          "nota": "listado de supermercados del 10/11 igual al del 9/11 (día y %)"
         }
       ],
       "id": "cuotas-comafi-makro-3",
@@ -39998,7 +40046,7 @@
       "vigencia_desde": "2026-09-15",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx",
-      "verificado": "2026-11-09",
+      "verificado": "2026-11-10",
       "confianza": "alta",
       "fuentes": [
         {
@@ -40084,6 +40132,12 @@
           "nivel": 1,
           "fecha": "2026-11-09",
           "nota": "listado de supermercados de Comafi del 9/11 (GitHub Actions): idéntico al del 8/11, mismo día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-10",
+          "nota": "listado de supermercados del 10/11 igual al del 9/11 (día y %)"
         }
       ]
     },

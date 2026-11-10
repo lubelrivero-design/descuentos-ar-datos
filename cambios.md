@@ -1,5 +1,32 @@
 # Cambios
 
+## 2026-11-10 — Martes sin altas ni bajas a mano: MODO confirma Ciudad en Farmaonline hasta fin de año y la ICBC de Farmacity; Comafi confirma 6; Macro renueva 155 por script
+
+**1067 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 8 (6 Comafi, 2 por bases de MODO). Con vigencia asumida: **0**.
+
+- Macro (`node tools/cargar-macro.js`): `Macro: 155 promos en porcentaje armadas de 5427 filas (997 de MODO quedan afuera por no tener provincia conocida, 4189 ya vencidas) · 0 altas · 155 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano`. (Corrió con la lectura de Macro del 9/11, antes de que llegara el texto de hoy.)
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 9/11 y la corrida programada de hoy no había arrancado. Disparé `recolectar.yml` completo y a los ~12 minutos llegó el commit "Texto de las fuentes al 2026-11-10 07:53" con `leido: 2026-11-10` para 39 fuentes. Siguen viejas: ICBC y Frávega (8/11, lectura de casa), Supervielle (4/11), BPN (1/10), McDonald's y Musimundo (27/8).
+
+### Cambios
+- **`ciudad-farmaonline-10`**: vigencia estirada del 30/11 al **31/12/2026**. Lo dicen las bases del propio Banco Ciudad publicadas en MODO (slug nuevo `10off-3y6csi-farmaonline-cyber-ciudad-nov26`): todos los días, 10% con tope $10.000 por transacción + hasta 6 cuotas, crédito Ciudad por QR MODO, del 1/11 al 31/12/2026. El catálogo de Ciudad de hoy también la trae igual.
+
+### Confirmadas
+- **`icbc-farmacity-gtl-simplicity-viernes-20`**: los legales de ICBC en MODO (slug nuevo) dicen lo mismo que tenemos (viernes, 20% + 3 cuotas, tope $6.000 por semana). Ahí la fecha final es 26/03/2027 y en el sitio de ICBC 31/03/2027: no cambia nada, el 26/3 es el último viernes antes del 31.
+- **Comafi (6)**: el listado de supermercados de hoy es igual al de ayer (ChangoMás, Coto x2, Makro x2, petshops). Las otras 4 secciones siguen trabadas en Cloudflare.
+
+### Visto y no cargado
+- **MODO, slugs nuevos con el tope cortado** ("tope de reintegro de hasta $12", "$10", "$5"): **Farmaplus** martes 15% online, compra mínima $75.000, 10/11 al 30/12; **Vacalin** lunes, jueves y viernes 20% online, mínimo $30.000, hasta el 31/12; **Sportline** martes 20% hasta el 24/11; **Octaviano** jueves y viernes 20% en local, hasta el 31/12 (y sin provincia). No se cargan: el tope no se lee completo ni en el legal.
+- Los slugs de Macro en MODO (Farmacity, Simplicity) los maneja el script de Macro; no se tocan a mano.
+- Se fueron de MODO las de Cyber Monday (Galicia, Casa Silvia, Del Puente, Gani, Hendel, Rosen, Leloir, Openfarma) y Cooperativa Obrera aniversario: ninguna estaba cargada.
+
+### Agenda del día
+- **Trabajadas (las 8)**: **comafi** (6 confirmadas), **icbc** y **fravega** (sin lectura nueva de casa: siguen en el 8/11, ya trabajadas ayer; las de Frávega que vencían el 9/11 salieron solas por vigencia), **farmacity** ("/promociones-bancarias" sigue dando "No encontramos resultados"), **la-anonima** (403 Forbidden), **maxiconsumo** (hoy ni siquiera los botones "LEGALES": solo el cartel de bienvenida de Moreno), **shell** (sigue el sorteo de Las Vegas terminado), **dr-ahorro** (la tienda, sin promos bancarias). Lo de farmacias se cubrió por el lado de MODO (ver arriba).
+- **Quedaron**: ninguna.
+- Para Lucía (se repite): URL nueva para **farmacity** e **ypf**; **la-anonima** y **yaguar** bloquean al runner; **maxiconsumo** necesita abrir los legales; la ficha de **dr-ahorro** sigue diciendo error 526; **frávega** necesita lectura desde casa para ver si renovaron BBVA, Galicia, Macro, Santander y Credicoop.
+
+
 ## 2026-11-09 — Lunes: llegó la lectura de casa de ICBC y Frávega (la primera desde el 2/11). **1 alta** (ICBC 15% + 3 cuotas los viernes en jugueterías, tanda nueva), 2 comercios sacados de promos de cuotas, 62 confirmadas a mano; Macro por script
 
 **1067 promos (ayer 1065).** Altas a mano: 1. Bajas a mano: 0. Confirmadas a mano: 62 (48 ICBC, 8 Frávega, 6 Comafi). Con vigencia asumida: **0**.
