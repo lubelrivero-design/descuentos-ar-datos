@@ -1,5 +1,31 @@
 # Cambios
 
+## 2026-11-11 — Miércoles tranquilo: sin altas ni bajas a mano; Comafi confirma 6; Macro por script (1 alta, 9 revividas, 8 bajas); Frávega e YPF vinieron vacías
+
+**1068 promos (ayer 1067; la diferencia es el alta de Macro).** Visibles: **410** (ayer 408). Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 6 (Comafi). Con vigencia asumida: **0**.
+
+- Macro (`node tools/cargar-macro.js`), primero con la lectura del 10/11 y después con la de hoy:
+  - `Macro: 157 promos en porcentaje armadas de 5432 filas (990 de MODO quedan afuera por no tener provincia conocida, 4195 ya vencidas) · 0 altas · 152 renovadas · 5 revividas · 3 bajas · 0 ya estaban cargadas a mano`
+  - `Macro: 159 promos en porcentaje armadas de 5434 filas (986 de MODO quedan afuera por no tener provincia conocida, 4197 ya vencidas) · 1 altas · 149 renovadas · 9 revividas · 8 bajas · 0 ya estaban cargadas a mano`
+  - Ojo: que la segunda pasada dé 9 revividas y 8 bajas apenas unos minutos después de la primera suena a promos que entran y salen según la lectura. No las toqué (son del script), pero vale mirarlo.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 10/11. Disparé `recolectar.yml` completo y a las 07:55 llegó el commit 588afbb "Texto de las fuentes al 2026-11-11 07:55". Siguen viejas: ICBC (8/11, lectura de casa), Supervielle (4/11), BPN (1/10), McDonald's y Musimundo (27/8), y hoy también **YPF** (vino vacía, quedó la del 10/11).
+
+### Confirmadas
+- **Comafi (6)**: el listado de supermercados de hoy es igual al de ayer: `comafi-changomas-martes`, `comafi-coto-martes-30`, `comafi-makro-miercoles-20`, `cuotas-comafi-makro-3`, `comafi-petshops-mar-jue-20`, `comafi-puppis-mar-jue-20`. Las otras 4 secciones (combustible, salud, promos del mes, MODO) siguen trabadas en "Verificación de seguridad en curso".
+
+### Visto y no cargado
+- **MODO**: los mismos 48 slugs que ayer, con las bases completas (47 de 47). Nada nuevo.
+- **Comafi**, títulos sin detalle (sin tope ni vigencia): Aiello y Alvear los martes, Cooperativa Obrera, Cordiez, Cereales El Diamante, Disco/Jumbo/Vea/Diarco los miércoles, Coto 10% y 25% por MODO. No se cargan sin las bases.
+
+### Agenda del día
+- **Trabajadas (las 8)**: **comafi** (6 confirmadas), **icbc** (sigue la lectura de casa del 8/11, ya trabajada el 9/11), **fravega** (hoy GitHub la leyó, pero vino solo el menú y el pie, sin promos: no se tocó nada; la lectura buena sigue siendo la del 8/11 en el commit eab1e0b), **dr-ahorro** (la tienda, sin promos bancarias, igual que ayer), **vital** (solo los botones "Por día / Por medio de pago", las promos no se cargan en el texto), **yaguar** (bloqueo de Cloudflare), **ypf** (vino vacía), **shell** (sigue el sorteo de Las Vegas, terminado el 18/10).
+- **Quedaron**: ninguna.
+- Para Lucía (se repite): **frávega** necesita lectura desde casa para ver si renovaron BBVA, Galicia, Macro, Santander y Credicoop (vencieron el 9/11); URL nueva para **ypf** y **farmacity**; **vital** necesita que la receta abra las pestañas por día; **yaguar** y **la-anonima** bloquean al runner; la ficha de **dr-ahorro** sigue diciendo error 526 aunque la página carga.
+- Sigue pendiente de decisión humana: **41 visibles llevan más de 10 días sin verificar** (13 Patagonia, 8 Comafi de las pestañas bloqueadas —combustible y farmacias, del 18/10—, 6 Cuenta DNI, y sueltas). El instructivo dice bajarlas a `baja`; como las corridas anteriores, no las bajé porque la fuente no se puede leer y eso no prueba que hayan terminado.
+
+
 ## 2026-11-10 — Martes sin altas ni bajas a mano: MODO confirma Ciudad en Farmaonline hasta fin de año y la ICBC de Farmacity; Comafi confirma 6; Macro renueva 155 por script
 
 **1067 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 8 (6 Comafi, 2 por bases de MODO). Con vigencia asumida: **0**.
