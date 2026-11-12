@@ -1,5 +1,39 @@
 # Cambios
 
+## 2026-11-12 — Jueves sin altas ni bajas a mano; Comafi confirma 6; Macro por script (13 revividas, 14 bajas); MODO vino sin las bases
+
+**1068 promos (igual que ayer).** Visibles hoy: **409** (ayer 410; la diferencia sale de Macro). Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 6 (Comafi). Con vigencia asumida: **0**.
+
+- Macro (`node tools/cargar-macro.js`), primero con la lectura del 11/11 y después con la de hoy:
+  - `Macro: 159 promos en porcentaje armadas de 5434 filas (982 de MODO quedan afuera por no tener provincia conocida, 4201 ya vencidas) · 0 altas · 159 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano`
+  - `Macro: 158 promos en porcentaje armadas de 5510 filas (1064 de MODO quedan afuera por no tener provincia conocida, 4201 ya vencidas) · 0 altas · 145 renovadas · 13 revividas · 14 bajas · 0 ya estaban cargadas a mano`
+  - Se repite lo de ayer: con la lectura nueva entran y salen una docena de promos de Macro. No las toqué (son del script), pero vale que alguien mire si es la fuente o el script.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 11/11 (la corrida programada de ayer de `recolectar.yml` había terminado en **failure**). Disparé el workflow completo a las 07:42 y a las ~07:55 llegó el commit 2499ded "Texto de las fuentes al 2026-11-12 07:54". Problemas de la lectura de hoy:
+- **MODO**: vino el listado de títulos pero la sección de bases dice "0 de 0 links": hoy no hubo detalle. No se tocó nada de MODO.
+- **Vea**: la pestaña del lunes vino sin las promos (sí están martes a sábado). Página lenta, no ausencia: no se retiró nada.
+- **La Anónima** (vino vacía) y **Frávega** (bloqueo de CloudFront): quedó la lectura del 11/11.
+- **Santander**: timeout, como siempre.
+- Siguen viejas: ICBC (8/11, lectura de casa), Supervielle (4/11), BPN (1/10), McDonald's y Musimundo (27/8).
+
+### Confirmadas
+- **Comafi (6)**: el listado de supermercados de hoy es idéntico al de ayer: `comafi-changomas-martes`, `comafi-coto-martes-30` (35% martes, como ya estaba cargada), `comafi-makro-miercoles-20`, `cuotas-comafi-makro-3`, `comafi-petshops-mar-jue-20`, `comafi-puppis-mar-jue-20`. Las otras 4 secciones siguen trabadas en "Verificación de seguridad en curso".
+
+### Agenda del día
+- **Trabajadas (las 8)**:
+  - **dr-ahorro**: la tienda carga, pero sin promos bancarias. Nada para cargar.
+  - **fravega**: hoy bloqueada (CloudFront); queda la del 11/11, que era solo menú. Nada se tocó.
+  - **comafi**: 6 confirmadas (arriba).
+  - **icbc**: sigue la lectura de casa del 8/11, ya trabajada el 9/11. Ojo: `icbc-sodimac-jueves-25` vence hoy según su vigencia.
+  - **axion**: solo títulos ("Promoción combustible Super", promos de pelotas, Coca-Cola, Lollapalooza); las bases están truncadas y no hay promos bancarias. No se carga nada.
+  - **farmacity**: la URL `/promociones-bancarias` da "No encontramos resultados" (es un buscador, no una página de promos). Solo cupones de producto (FARMA10/FARMA20). Hace falta una URL nueva.
+  - **la-anonima**: vino vacía hoy; la de ayer era la tienda online sin promos bancarias.
+  - **shell**: sigue el sorteo de Las Vegas, terminado el 18/10. Su única promo (`galicia-combustible-dia10`) ya está vencida desde el 10/10.
+- **Quedaron**: ninguna.
+- Para Lucía (se repite): **frávega** e **icbc** necesitan lectura desde casa; URL nueva para **ypf** y **farmacity**; **la-anonima** y **yaguar** bloquean al runner; revisar por qué MODO hoy no bajó las bases y por qué falló la corrida programada del 11/11.
+- Sigue pendiente de decisión humana: las visibles con más de 10 días sin verificar (Patagonia, Comafi de las pestañas bloqueadas, Cuenta DNI y sueltas). Como las corridas anteriores, no las bajé porque la fuente no se puede leer y eso no prueba que hayan terminado.
+
 ## 2026-11-11 — Miércoles tranquilo: sin altas ni bajas a mano; Comafi confirma 6; Macro por script (1 alta, 9 revividas, 8 bajas); Frávega e YPF vinieron vacías
 
 **1068 promos (ayer 1067; la diferencia es el alta de Macro).** Visibles: **410** (ayer 408). Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 6 (Comafi). Con vigencia asumida: **0**.
