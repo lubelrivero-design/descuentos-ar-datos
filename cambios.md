@@ -1,5 +1,34 @@
 # Cambios
 
+## 2026-11-13 — Viernes sin altas ni bajas a mano; Comafi confirma 6; Macro por script (8 revividas, 7 bajas)
+
+**1068 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 6 (Comafi). Con vigencia asumida: **0**. `validar.js --arreglar` salió sin errores (sigue el aviso de 614 sin verificar hace más de 10 días).
+
+- Macro (`node tools/cargar-macro.js`), primero con la lectura del 12/11 y después con la de hoy:
+  - `Macro: 158 promos en porcentaje armadas de 5510 filas (1062 de MODO quedan afuera por no tener provincia conocida, 4203 ya vencidas) · 0 altas · 158 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano`
+  - `Macro: 159 promos en porcentaje armadas de 5553 filas (1100 de MODO quedan afuera por no tener provincia conocida, 4203 ya vencidas) · 0 altas · 151 renovadas · 8 revividas · 7 bajas · 0 ya estaban cargadas a mano`
+  - Tercer día seguido que con la lectura nueva entran y salen unas cuantas promos de Macro. Son del script, no las toqué; vale que alguien mire si es la fuente o el script.
+
+### Cómo se juntó el texto
+A las 07:47 `crudo/` estaba en el 12/11. Disparé `recolectar.yml` completo y a las 08:00 llegó el commit 210af0a "Texto de las fuentes al 2026-11-13 08:00" (36 de 43 fuentes con lectura de hoy). No se pudieron leer hoy y quedó la lectura anterior: **axion, la-anonima, supervielle, ypf** (vinieron vacías), **bpn** (no contestó en 234 s), **fravega** (bloqueo de CloudFront), **icbc** (timeout). No se borró nada de ninguna.
+
+### Confirmadas
+- **Comafi (6)**: el listado de supermercados de hoy es idéntico al de ayer: `comafi-changomas-martes`, `comafi-coto-martes-30`, `comafi-makro-miercoles-20`, `cuotas-comafi-makro-3`, `comafi-petshops-mar-jue-20`, `comafi-puppis-mar-jue-20`. Las otras 4 secciones (combustible, salud, promos del mes, MODO) siguen trabadas en "Verificación de seguridad en curso" de Cloudflare.
+
+### Agenda del día
+- **Trabajadas (las 8)**:
+  - **dr-ahorro**: la tienda carga, pero sin promos bancarias (solo productos, 2x1, combos). Nada para cargar.
+  - **fravega**: hoy bloqueada otra vez; queda la del 11/11, que era solo menú. Nada se tocó.
+  - **comafi**: 6 confirmadas (arriba).
+  - **icbc**: sigue la lectura de casa del 8/11, ya trabajada el 9/11; hoy timeout desde GitHub. Nada nuevo.
+  - **maxiconsumo**: catálogo de productos de la sucursal Moreno; lo único bancario es el legal "promociones bancarias con tarjetas de crédito no válidas pagando desde la web". Nada para cargar.
+  - **vital**: la página dice "Conocé todas nuestras promociones bancarias" y muestra las pestañas Lunes a Domingo, **pero vacías**: el contenido debe estar en imágenes o cargarse al tocar cada pestaña. A la receta le falta hacer clic en las pestañas o leer los `alt` de las imágenes.
+  - **yaguar**: "Sorry, you have been blocked" (Cloudflare bloquea al runner), igual que siempre.
+  - **shell**: sigue el sorteo de Las Vegas terminado; su única promo (`galicia-combustible-dia10`) está vencida desde el 10/10.
+- **Quedaron**: ninguna.
+- Para Lucía (se repite): **frávega** e **icbc** necesitan lectura desde casa (la de ICBC ya tiene 5 días); **vital** necesita que la receta abra las pestañas de los días; URL nueva para **ypf** y **farmacity**; **la-anonima** y **yaguar** bloquean al runner.
+- Sigue pendiente de decisión humana: las visibles con más de 10 días sin verificar (614 en total según `validar.js`). Como las corridas anteriores, no las bajé porque la fuente no se puede leer y eso no prueba que hayan terminado.
+
 ## 2026-11-12 — Jueves sin altas ni bajas a mano; Comafi confirma 6; Macro por script (13 revividas, 14 bajas); MODO vino sin las bases
 
 **1068 promos (igual que ayer).** Visibles hoy: **409** (ayer 410; la diferencia sale de Macro). Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 6 (Comafi). Con vigencia asumida: **0**.
