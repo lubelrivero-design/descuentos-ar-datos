@@ -1,5 +1,31 @@
 # Cambios
 
+## 2026-11-16 — Lunes sin altas ni bajas a mano; nada de la agenda trajo datos cargables; Macro por script sin cambios
+
+**1068 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 0. Con vigencia asumida: **0**. `validar.js --arreglar` salió sin errores (sigue el aviso de 681 sin verificar hace más de 10 días).
+
+- Macro (`node tools/cargar-macro.js`):
+  - `Macro: 159 promos en porcentaje armadas de 5663 filas (1192 de MODO quedan afuera por no tener provincia conocida, 4219 ya vencidas) · 0 altas · 159 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano`
+  - Hoy sin entradas ni salidas (el script corrió sobre la lectura de Macro del 15/11).
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 15/11 (más la lectura desde casa del 15/11 20:05 de comafi y fravega). Disparé `recolectar.yml` solo con las fuentes de la agenda que se leen desde GitHub (`yaguar ypf axion shell`) y a las 07:44 llegó el commit 06c15a4 "Texto de las fuentes al 2026-11-16 07:44". **El resto de `crudo/` sigue con la lectura del 15/11**: no corrí la recolección completa porque ninguna otra fuente estaba en la agenda. No se borró nada de ninguna.
+
+### Agenda del día
+- **Trabajadas (las 8)**:
+  - **dr-ahorro**: sigue el error 526 de Cloudflare / solo productos y combos. Nada para cargar.
+  - **fravega**: lectura desde casa del 15/11, pero es solo el menú y el pie (ninguna promo bancaria en el texto). Nada se tocó. A la receta le falta entrar a "Promociones Bancarias".
+  - **comafi**: lectura desde casa del 15/11 con el listado de supermercados idéntico al que ya se trabajó ayer (las 6 de siempre ya tienen `verificado` 15/11; no las fecho con hoy porque el texto es de ayer). Combustible, salud, promos del mes y MODO siguen trabadas en la "Verificación de seguridad" de Cloudflare **incluso desde casa**. Ojo: el listado trae Jumbo/Disco/Vea miércoles 20%, Cooperativa Obrera, Cordiez, Alvear, Aiello martes y otras que no tenemos cargadas, pero todas "sin detalle" (sin tope ni vigencia): no se cargan con datos incompletos.
+  - **icbc**: sigue la lectura de casa del 8/11 (8 días), ya trabajada. Nada nuevo.
+  - **yaguar**: "Sorry, you have been blocked" (Cloudflare bloquea a GitHub). Nada para cargar.
+  - **ypf**: `/promociones` sigue con "Lo sentimos, esta página no está disponible". Hace falta URL nueva.
+  - **axion**: igual que siempre, solo títulos de bases ("Descuento Super") sin %, días ni medio de pago. A la receta le falta abrir "LEER MÁS".
+  - **shell**: sigue el sorteo de Las Vegas terminado (18/10). Su promo (`galicia-combustible-dia10`) ya vencida.
+- **Quedaron**: ninguna.
+- Para Lucía (se repite): **comafi** (Cloudflare frena 4 de 5 secciones aun desde casa), **fravega** (la receta no lee las promos bancarias), **icbc** (lectura de casa de hace 8 días), **yaguar** bloqueado, URL nueva para **ypf**, **axion** necesita abrir las bases.
+- Sigue pendiente de decisión humana: las visibles con más de 10 días sin verificar (681, subiendo todos los días). No las bajé: la fuente no se puede leer y eso no prueba que hayan terminado.
+
+
 ## 2026-11-15 — Domingo sin altas ni bajas a mano; Comafi confirma 6; Macro por script (3 revividas, 1 baja)
 
 **1068 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 6 (Comafi). Con vigencia asumida: **0**. `validar.js --arreglar` salió sin errores (sigue el aviso de 645 sin verificar hace más de 10 días).
