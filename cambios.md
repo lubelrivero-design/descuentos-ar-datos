@@ -1,5 +1,34 @@
 # Cambios
 
+## 2026-11-17 — Martes sin altas ni bajas a mano; Comafi confirma 6 (lectura del 16/11); Macro por script (5 revividas, 5 bajas)
+
+**1068 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 6 (Comafi). `validar.js --arreglar` salió sin errores (sigue el aviso de 700 visibles sin verificar hace más de 10 días).
+
+- Macro (`node tools/cargar-macro.js`):
+  - `Macro: 159 promos en porcentaje armadas de 5665 filas (1192 de MODO quedan afuera por no tener provincia conocida, 4221 ya vencidas) · 0 altas · 154 renovadas · 5 revividas · 5 bajas · 0 ya estaban cargadas a mano`
+  - Son del script, no las toqué.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 16/11 (hubo una corrida completa ayer a las 14:24). Disparé `recolectar.yml` solo con las fuentes de la agenda que se leen desde GitHub (`farmacity la-anonima maxiconsumo shell`) y a las 07:44 llegó el commit 82c5da4 "Texto de las fuentes al 2026-11-17 07:44". El resto de `crudo/` queda con la lectura del 16/11. No se borró nada de ninguna fuente.
+
+### Confirmadas
+- **Comafi (6)**: el listado de supermercados leído el 16/11 a la tarde coincide con el del 15/11: `comafi-changomas-martes`, `comafi-coto-martes-30`, `comafi-makro-miercoles-20`, `cuotas-comafi-makro-3`, `comafi-petshops-mar-jue-20`, `comafi-puppis-mar-jue-20`. Las fuentes nuevas van con fecha 16/11 (la del `leido:`), no con la de hoy. Combustible, salud, promos del mes y MODO siguen trabadas en la "Verificación de seguridad" de Cloudflare.
+
+### Agenda del día
+- **Trabajadas (las 8)**:
+  - **dr-ahorro**: igual que ayer (error 526 / solo productos y combos). Nada para cargar.
+  - **fravega**: hoy también bloqueada desde GitHub; queda la lectura de casa del 15/11 (solo menú y pie). Nada se tocó.
+  - **comafi**: 6 confirmadas (arriba). El listado sigue trayendo Jumbo/Disco/Vea/Diarco/CORDIEZ miércoles 20%, Alvear/Aiello/Cooperativa Obrera martes 20%, Coto 10% y 25% martes, Pezcalandia, Coquitos y otras **sin detalle** (sin tope ni vigencia): no se cargan con datos incompletos.
+  - **farmacity**: leída hoy, pero `/promociones-bancarias` contesta "No encontramos resultados para promociones-bancarias". La URL ya no existe: **hace falta URL nueva**. Sus promos vienen de los bancos; no se tocaron.
+  - **la-anonima**: vino vacía otra vez; queda la del 11/11 (ofertas de heladeras, ninguna promo bancaria). Nada se tocó.
+  - **maxiconsumo**: leída hoy. La página de promociones tiene las pestañas Lunes a Domingo y 18 botones "LEGALES", pero las promos no salen en el texto (son imágenes). A la receta le falta abrir los LEGALES. Nada para cargar.
+  - **shell**: hoy bloqueada ("The request could not be satisfied"); la del 16/11 sigue siendo el sorteo de Las Vegas terminado (18/10). Nada para cargar.
+- **Quedaron**: ninguna.
+- `node tools/cruzar.js`: 0 promos con vigencia asumida para cruzar.
+- Para Lucía (se repite): **comafi** (Cloudflare frena 4 de 5 secciones), **fravega** (la receta no lee las promos bancarias), URL nueva para **farmacity** e **ypf**, **maxiconsumo** y **vital** necesitan que la receta abra las tarjetas/legales, **la-anonima** viene vacía desde GitHub, **yaguar** bloqueado, **axion** necesita abrir las bases.
+- Sigue pendiente de decisión humana: las visibles con más de 10 días sin verificar (700, sigue subiendo). No las bajé: la fuente no se puede leer y eso no prueba que hayan terminado.
+
+
 ## 2026-11-16 — Lunes sin altas ni bajas a mano; nada de la agenda trajo datos cargables; Macro por script sin cambios
 
 **1068 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 0. Con vigencia asumida: **0**. `validar.js --arreglar` salió sin errores (sigue el aviso de 681 sin verificar hace más de 10 días).
