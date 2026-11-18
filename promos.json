@@ -56838,7 +56838,26 @@
           "nota": "listado de supermercados de Comafi del 8/11 (las otras secciones trabadas en Cloudflare): \"Coto | 25% | MODO | martes\", igual que el 7/11. Sin detalle de tope ni vigencia"
         }
       ],
-      "confianza": "alta"
+      "confianza": "alta",
+      "bancos": [
+        "bna_mas",
+        "santander",
+        "bbva",
+        "galicia",
+        "santa_fe",
+        "san_juan",
+        "santa_cruz",
+        "credicoop",
+        "supervielle",
+        "comafi",
+        "columbia",
+        "icbc",
+        "yoy",
+        "macro",
+        "ciudad",
+        "buepp",
+        "hipotecario"
+      ]
     },
     {
       "id": "macro-api-misiones-ahora-estudiantes-jue-vie-15",
