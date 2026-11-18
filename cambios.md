@@ -1,5 +1,34 @@
 # Cambios
 
+## 2026-11-18 — Miércoles sin altas ni bajas a mano; Comafi confirma 6 (lectura del 17/11); Macro por script con más movimiento que de costumbre (8 altas, 59 bajas)
+
+**1076 promos (ayer 1068; las 8 de más son altas de Macro).** Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 6 (Comafi). `validar.js --arreglar` salió sin errores: completó la confianza de las 8 altas nuevas de Macro, que llegaban sin ella. Sigue el aviso de 687 visibles sin verificar hace más de 10 días.
+
+- Macro (`node tools/cargar-macro.js`):
+  - `Macro: 135 promos en porcentaje armadas de 5350 filas (939 de MODO quedan afuera por no tener provincia conocida, 4226 ya vencidas) · 8 altas · 100 renovadas · 27 revividas · 59 bajas · 0 ya estaban cargadas a mano`
+  - Son del script, no las toqué. **Ojo, para que lo mire un humano:** son 59 bajas y 27 revividas en un día, contra 5 y 5 de ayer, y la lectura de hoy trae 315 filas menos (5350 contra 5665). Puede ser una rotación normal de Macro a mitad de mes o una lectura incompleta del 18/11.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 17/11 (corrida completa de ayer a las 14:10). Disparé `recolectar.yml` con las fuentes de la agenda que se leen desde GitHub más Macro (`vital yaguar ypf shell macro`) y llegó el commit dba8179 "Texto de las fuentes al 2026-11-18 07:44". El resto de `crudo/` queda con la lectura del 17/11. No se borró nada de ninguna fuente.
+
+### Confirmadas
+- **Comafi (6)**: el listado de supermercados leído el 17/11 a la tarde es idéntico al del 16/11 (solo cambian los Ray ID de Cloudflare): `comafi-changomas-martes`, `comafi-coto-martes-30`, `comafi-makro-miercoles-20`, `cuotas-comafi-makro-3`, `comafi-petshops-mar-jue-20`, `comafi-puppis-mar-jue-20`. La fuente nueva y el `verificado` van con fecha 17/11, que es la del `leido:`, no la de hoy.
+
+### Agenda del día
+- **Trabajadas (las 8)**:
+  - **dr-ahorro**: leída el 17/11, sigue mostrando solo productos (Fabogesic, etc.), ninguna promo bancaria. Nada para cargar.
+  - **fravega**: hoy tampoco entró desde GitHub; la última lectura sigue siendo la de casa del 15/11 (solo menú y pie). Nada se tocó.
+  - **comafi**: 6 confirmadas (arriba). Combustible, salud, promos del mes y MODO siguen trabadas en la "Verificación de seguridad" de Cloudflare. Las del listado que vienen **sin detalle** (Jumbo/Disco/Vea/Diarco/CORDIEZ, Coto 10% y 25%, Pezcalandia, etc.) siguen sin cargarse porque les faltan tope y vigencia.
+  - **vital**: leída hoy. La página carga entera (sucursales, pestañas Lunes a Domingo, "Medios de Pago"), pero las promos no salen en el texto: son imágenes o tarjetas que la receta no abre. Nada para cargar.
+  - **yaguar**: hoy bloqueada otra vez ("Verificación de seguridad en curso"); la del 17/11 era un bloqueo de Cloudflare. Nada para cargar.
+  - **ypf**: leída hoy, pero `/promociones` contesta "Lo sentimos, esta página no está disponible en este momento". Fuera del menú del sitio no hay nada. **Hace falta URL nueva.**
+  - **shell**: hoy bloqueada ("The request could not be satisfied"); la del 16/11 sigue siendo el sorteo de Las Vegas, que terminó el 18/10. Su única promo no se tocó.
+- **Quedaron**: ninguna.
+- `node tools/cruzar.js`: 0 promos con vigencia asumida para cruzar.
+- Para Lucía (se repite): **comafi** (Cloudflare frena 4 de 5 secciones), **fravega** (bloqueada desde GitHub, y la receta no lee las promos bancarias), URL nueva para **farmacity** e **ypf**, **maxiconsumo** y **vital** necesitan que la receta abra las tarjetas o los legales, **la-anonima** viene vacía desde GitHub, **yaguar** y **shell** bloqueadas, **axion** necesita abrir las bases. Además, mirar el salto de bajas de Macro.
+- Sigue pendiente de decisión humana: las visibles con más de 10 días sin verificar (687). No las bajé: la fuente no se puede leer, y eso no prueba que hayan terminado.
+
+
 ## 2026-11-17 — Martes sin altas ni bajas a mano; Comafi confirma 6 (lectura del 16/11); Macro por script (5 revividas, 5 bajas)
 
 **1068 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 6 (Comafi). `validar.js --arreglar` salió sin errores (sigue el aviso de 700 visibles sin verificar hace más de 10 días).
