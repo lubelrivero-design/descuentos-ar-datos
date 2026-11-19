@@ -1,5 +1,32 @@
 # Cambios
 
+## 2026-11-19 — Jueves: Comafi vuelve a listar Rappi 30% (revivida, para mirar); agenda sin novedades; Macro por script
+
+**1084 promos (ayer 1076; las 8 de más son altas de Macro).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 1 (Comafi Rappi). Confirmadas a mano: 6 (Comafi, lectura del 18/11). `validar.js --arreglar` salió sin errores: completó la confianza de las 8 altas nuevas de Macro. Sigue el aviso de 677 visibles sin verificar hace más de 10 días.
+
+- **⚠ Para que lo mire un humano — revivida `comafi-rappi-unico-30`**: se había dado de baja el 31/10 porque desapareció del listado de Comafi el 2/11. No estuvo en ninguna lectura del 2/11 al 17/11, y en la del 18/11 a la tarde volvió: `Rappi [solo segmento ÚNICO/Black] | 30% | Los Lunes, Martes, Miércoles, Jueves, Viernes y Domingos`, igual en día y % a la de octubre. La tarjeta viene **sin detalle**, así que no hay tope ni vigencia nuevos leídos: la cargué con `vigencia_desde` 18/11, `vigencia_hasta` 30/11 **asumida** (`vigencia_asumida: 2026-11-19`, sale con el cartel ámbar) y el tope como *no publicado* en vez de repetir los $30.000 del legal de octubre. Si alguien la lee desde casa con el legal, que complete tope y vigencia.
+
+- Macro (`node tools/cargar-macro.js`):
+  - `Macro: 146 promos en porcentaje armadas de 5385 filas (964 de MODO quedan afuera por no tener provincia conocida, 4229 ya vencidas) · 8 altas · 107 renovadas · 31 revividas · 28 bajas · 0 ya estaban cargadas a mano`
+  - Son del script, no las toqué. Hoy la lectura trae 5385 filas (ayer 5350, anteayer 5665): sigue más baja que el 17/11 y otra vez hay muchas revividas (31), o sea que parte de las 59 bajas de ayer volvieron. Pinta a que Macro rota lo que publica, no a que esas promos terminaran.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 18/11 (corrida completa de ayer a las 13:47). Disparé `recolectar.yml` con las fuentes de la agenda que se leen desde GitHub más Macro (`axion farmacity la-anonima shell macro`) y llegó el commit 0b2403a "Texto de las fuentes al 2026-11-19 07:47". El resto de `crudo/` queda con la lectura del 18/11. No se borró nada de ninguna fuente.
+
+### Confirmadas
+- **Comafi (6)**: el listado del 18/11 es idéntico al del 16 y 17/11 salvo por la tarjeta de Rappi: `comafi-changomas-martes`, `comafi-coto-martes-30`, `comafi-makro-miercoles-20`, `cuotas-comafi-makro-3`, `comafi-petshops-mar-jue-20`, `comafi-puppis-mar-jue-20`. Fuente y `verificado` con fecha 18/11 (la del `leido:`).
+
+### Agenda del día
+- **Trabajadas (las 8)**:
+  - **comafi**: ver arriba (6 confirmadas + Rappi revivida).
+  - **dr-ahorro**: leída el 18/11, sigue sin promos bancarias (solo menú). Nada para cargar.
+  - **fravega**: sigue sin entrar desde GitHub (CloudFront); la última lectura buena es la de casa del 15/11 y es solo menú y pie. Nada se tocó.
+  - **axion**: leída hoy, igual que ayer. Lista "Promoción Combustible Super" con sus bases, pero en el texto solo viene la primera línea ("Bases y Condiciones Descuento Super 1. Del Organizador…"): ni medio de pago, ni %, ni días. No se carga nada. Para que aporte, la receta tendría que entrar al "LEER MÁS" de esa promo.
+  - **farmacity**: leída hoy entera, pero `/promociones-bancarias` contesta "No encontramos resultados para promociones-bancarias": la URL de la receta ya no existe. Solo hay productos (2x1, -20%) y un "Hasta 6 cuotas sin interés en seleccionados*" sin banco. **Hay que buscarle URL nueva a la receta.** Las promos de Farmacity siguen respaldadas desde los bancos (Ciudad, Comafi).
+  - **la-anonima**: leída hoy, pero vino solo el menú y el pie (1,6 KB; el 11/11 vino la portada con productos). Ninguna promo bancaria. Nada para cargar.
+  - **shell**: leída hoy. El sitio de Shell Box cambió: ya no está el sorteo de F1, ahora muestra "10% Descuento en V-Power / Tiendas / lubricantes" del club de puntos de Shell Box, sin medio de pago, sin días ni legal. No es una promo de banco o billetera, no se carga. Su única promo (`galicia-combustible-dia10`) ya estaba vencida y no se toca.
+- **Quedaron**: ninguna.
+
 ## 2026-11-18 — Miércoles sin altas ni bajas a mano; Comafi confirma 6 (lectura del 17/11); Macro por script con más movimiento que de costumbre (8 altas, 59 bajas)
 
 **1076 promos (ayer 1068; las 8 de más son altas de Macro).** Altas a mano: 0. Bajas a mano: 0. Confirmadas a mano: 6 (Comafi). `validar.js --arreglar` salió sin errores: completó la confianza de las 8 altas nuevas de Macro, que llegaban sin ella. Sigue el aviso de 687 visibles sin verificar hace más de 10 días.
