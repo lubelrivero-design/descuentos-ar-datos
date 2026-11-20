@@ -1,5 +1,33 @@
 # Cambios
 
+## 2026-11-20 — Viernes sin altas ni bajas a mano; Comafi confirma 7 (lectura del 19/11); el resto de la agenda no trae nada cargable; Macro por script
+
+**1088 promos (ayer 1084; las 4 de más son el neto de Macro).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 0. Confirmadas a mano: 7 (Comafi). `validar.js --arreglar` salió sin errores. Sigue el aviso de visibles sin verificar hace más de 10 días: hoy 731 (ayer 677).
+
+- **⚠ Para que lo mire un humano — `comafi-rappi-unico-30` perdió el cartel ámbar.** Le sumé la lectura de Comafi del 19/11 (sigue la tarjeta "Rappi [solo segmento ÚNICO/Black] | 30% | lunes a viernes y domingos") y `validar.js --arreglar` le borró la `vigencia_asumida` (era del 19/11 y la fuente es del mismo día). Pero la tarjeta sigue **sin legal**: la vigencia hasta el 30/11 y el tope (no publicado) siguen sin leerse en ninguna parte. Rappi tampoco ayuda (ver abajo). Si alguien la abre desde casa con el detalle, que complete tope y vigencia; si conviene que siga con el cartel, hay que volver a ponerle la marca a mano y revisar por qué el auditor acepta una fuente del mismo día que la marca.
+
+- Macro (`node tools/cargar-macro.js`):
+  - `Macro: 145 promos en porcentaje armadas de 5413 filas (978 de MODO quedan afuera por no tener provincia conocida, 4234 ya vencidas) · 4 altas · 122 renovadas · 19 revividas · 24 bajas · 0 ya estaban cargadas a mano`
+  - Son del script, no las toqué. Las filas vuelven a subir (5413, ayer 5385) y otra vez hay revividas (19): sigue la rotación de Macro.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 19/11 (corrida completa de ayer a las 13:52). Disparé `recolectar.yml` con las fuentes de la agenda que se leen desde GitHub más Macro (`rappi maxiconsumo vital yaguar shell macro`) y llegó el commit cbd240c "Texto de las fuentes al 2026-11-20 07:44". El resto de `crudo/` queda con la lectura del 19/11. No se borró nada de ninguna fuente.
+
+### Confirmadas
+- **Comafi (7)**: el listado del 19/11 es idéntico al del 18/11 (solo cambian los Ray ID del bloqueo de Cloudflare en combustible/salud/promos del mes/MODO, que siguen sin entrar desde GitHub): `comafi-changomas-martes`, `comafi-coto-martes-30`, `comafi-makro-miercoles-20`, `cuotas-comafi-makro-3`, `comafi-petshops-mar-jue-20`, `comafi-puppis-mar-jue-20` y `comafi-rappi-unico-30`. Fuente y `verificado` con fecha 19/11 (la del `leido:`).
+
+### Agenda del día
+- **Trabajadas (las 8)**:
+  - **comafi**: ver arriba.
+  - **dr-ahorro**: lectura del 19/11, igual que siempre: solo productos, ninguna promo bancaria. Nada para cargar.
+  - **fravega**: sigue la lectura de casa del 15/11 (menú y pie). Nada se tocó.
+  - **rappi** (deuda, sostiene `comafi-rappi-unico-30`): leída hoy. El sitio es un calendario de T&C con **solo títulos y fechas, sin el texto de las bases**: "Promoción Comafi <> Rappi" figura con fecha 19/1–31/1 (es la de enero, no confirma noviembre), "30% OFF YoY" 1/1–30/11, "Promo Banco Provincia 20%" 1/7–27/12, "Promoción Ualá 2026" 4/8–31/12. Sin días, topes ni medios no se carga ni se revive nada (`uala-rappi`, `cuenta-dni-rappi` y `galicia-rappi` siguen en baja). Para que aporte, la receta tendría que abrir cada evento y bajar su texto.
+  - **maxiconsumo**: leída hoy (Moreno). La página de promociones tiene 18 tarjetas, pero el texto solo trae los botones "LEGALES": el contenido está en imágenes. Nada para cargar; la receta tendría que entrar a cada legal.
+  - **vital**: leída hoy, solo vienen los filtros ("Por día / Por medio de pago") sin ninguna tarjeta: las promos cargan aparte o detrás de un clic. Nada para cargar.
+  - **yaguar**: no se pudo leer (Cloudflare, "Verificación de seguridad en curso"); la última lectura (17/11) también es un bloqueo. No tiene promos cargadas.
+  - **shell**: no se pudo leer hoy (CloudFront, "The request could not be satisfied"); la del 19/11 es el club de puntos de Shell Box, sin promos bancarias. Su única promo ya estaba vencida y no se tocó.
+- **Quedaron**: ninguna.
+
 ## 2026-11-19 — Jueves: Comafi vuelve a listar Rappi 30% (revivida, para mirar); agenda sin novedades; Macro por script
 
 **1084 promos (ayer 1076; las 8 de más son altas de Macro).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 1 (Comafi Rappi). Confirmadas a mano: 6 (Comafi, lectura del 18/11). `validar.js --arreglar` salió sin errores: completó la confianza de las 8 altas nuevas de Macro. Sigue el aviso de 677 visibles sin verificar hace más de 10 días.
