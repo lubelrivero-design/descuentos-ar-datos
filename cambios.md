@@ -1,5 +1,31 @@
 # Cambios
 
+## 2026-11-21 — Sábado sin altas ni bajas a mano; Comafi confirma 7; el resto de la agenda no trae nada cargable; Macro por script
+
+**1093 promos (ayer 1088; las 5 de más son el neto de Macro).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 0. Confirmadas a mano: 7 (Comafi, lectura de hoy). `validar.js --arreglar` salió sin errores (completó la confianza de 5 altas nuevas de Macro). Sigue el aviso de visibles sin verificar hace más de 10 días: hoy 730 (ayer 731).
+
+- Macro (`node tools/cargar-macro.js`):
+  - `Macro: 150 promos en porcentaje armadas de 5440 filas (980 de MODO quedan afuera por no tener provincia conocida, 4253 ya vencidas) · 5 altas · 123 renovadas · 22 revividas · 21 bajas · 0 ya estaban cargadas a mano`
+  - Son del script, no las toqué. Sigue la rotación de Macro (22 revividas).
+
+### Cómo se juntó el texto
+A las 07:40 `crudo/` estaba en el 20/11. Disparé `recolectar.yml` completo y llegó el commit abfc3ce "Texto de las fuentes al 2026-11-21 07:53" (unos 13 minutos). 36 fuentes leídas hoy; las que no se pudieron leer quedan con su lectura anterior (Frávega 15/11, Shell 19/11, más las de siempre). No se borró nada de ninguna fuente.
+
+### Confirmadas
+- **Comafi (7)**: el listado de supermercados de hoy es idéntico al del 19 y 20/11 (combustible, salud, promos del mes y MODO siguen trabados en Cloudflare desde GitHub): `comafi-changomas-martes`, `comafi-coto-martes-30`, `comafi-makro-miercoles-20`, `cuotas-comafi-makro-3`, `comafi-petshops-mar-jue-20`, `comafi-puppis-mar-jue-20` y `comafi-rappi-unico-30`. Fuente y `verificado` al 21/11. Las de combustible y Farmacity de Comafi (`comafi-axion-lunes-20`, `comafi-ypf-sabado-20`, `comafi-shell-domingo-20`, `comafi-puma-viernes-20`, `comafi-farmacity-viernes-15`, etc.) no se pueden releer desde el 18/10 porque esas secciones no entran desde GitHub: **hace falta una lectura de Comafi desde la PC de Lucía**. No las toqué.
+
+### Agenda del día
+- **Trabajadas (las 7 que dio la agenda)**:
+  - **comafi**: ver arriba.
+  - **dr-ahorro**: leída hoy. Ya no da el error SSL 526 (la cabecera está desactualizada), pero `/promociones` muestra la home con productos y ninguna promo bancaria. Nada para cargar.
+  - **fravega**: hoy bloqueada (CloudFront); sigue la lectura de casa del 15/11, que es solo menú y pie, sin legales. Nada se tocó.
+  - **ypf**: leída hoy, `/promociones` dice "Lo sentimos, esta página no está disponible en este momento". Nada para cargar; la URL de la receta parece muerta.
+  - **axion**: leída hoy. Solo títulos ("BBCC Promoción Combustible Super", "Desafío redondo", promos de pelotas, Coca-Cola, Lollapalooza 2025, Movistar Arena) sin días, % ni medios de pago: las bases están detrás de "LEER MÁS". Nada para cargar; la receta tendría que entrar a cada una.
+  - **farmacity**: leída hoy, `/promociones-bancarias` devuelve "No encontramos resultados": la URL cambió. Nada para cargar.
+  - **shell**: hoy bloqueada (CloudFront); la del 19/11 es el club de puntos de Shell Box (10% en V-Power, tiendas y lubricantes con puntos), sin promos bancarias ni días. Nada se tocó.
+- **Quedaron**: ninguna (la agenda trajo 7, no 8: la sección "deuda" vino vacía porque no hay promos con vigencia asumida; `cruzar.js` da 0).
+- **Para Lucía**: ypf y farmacity necesitan URL nueva en `tools/recolectar.js`; axion necesita que la receta abra cada "LEER MÁS".
+
 ## 2026-11-20 — Viernes sin altas ni bajas a mano; Comafi confirma 7 (lectura del 19/11); el resto de la agenda no trae nada cargable; Macro por script
 
 **1088 promos (ayer 1084; las 4 de más son el neto de Macro).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 0. Confirmadas a mano: 7 (Comafi). `validar.js --arreglar` salió sin errores. Sigue el aviso de visibles sin verificar hace más de 10 días: hoy 731 (ayer 677).
