@@ -1,5 +1,30 @@
 # Cambios
 
+## 2026-11-23 — Lunes sin altas ni bajas a mano; la agenda no trae nada cargable; Macro por script
+
+**1093 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 0. Confirmadas a mano: 0. `validar.js --arreglar` salió sin errores. Sigue el aviso de visibles sin verificar hace más de 10 días: 731 (igual que ayer).
+
+- Macro (`node tools/cargar-macro.js`):
+  - `Macro: 153 promos en porcentaje armadas de 5435 filas (970 de MODO quedan afuera por no tener provincia conocida, 4255 ya vencidas) · 0 altas · 140 renovadas · 13 revividas · 7 bajas · 0 ya estaban cargadas a mano`
+  - Son del script, no las toqué.
+
+### Cómo se juntó el texto
+A las 07:41 `crudo/` estaba en el 22/11 (más la lectura de casa de Comafi y Frávega del 22/11 20:05). Disparé `recolectar.yml` completo y llegó el commit 33f6383 "Texto de las fuentes al 2026-11-23 07:54". 36 fuentes leídas hoy. Hoy no se pudieron leer (quedan con su lectura anterior, no se borró nada): BPN (no contestó, lectura del 1/10), Frávega (CloudFront, 22/11 de casa), ICBC (timeout, sigue en la del 8/11), La Anónima (vacía, 19/11), Shell (CloudFront, 22/11), Supervielle (vacía, 4/11) y Yaguar (Cloudflare, 17/11). **ICBC lleva 15 días sin leerse y Supervielle 19**: sus promos quedan como estaban.
+- Disco y Diarco vinieron hoy bastante más cortas que ayer (a Disco le faltan las tarjetas de cuotas que ayer sí traía, vigentes hasta el 30/11). Parece página a medio cargar: no se retiró nada por ausencia.
+
+### Agenda del día
+- **Trabajadas (las 7 que dio la agenda)**:
+  - **comafi**: la lectura de casa del 22/11 20:05 trae el mismo listado de supermercados que ya se usó ayer (el diff es solo el Ray ID de Cloudflare en las otras secciones). Nada nuevo; las 7 confirmadas ayer siguen con `verificado` 22/11. Combustible, salud, promos del mes y MODO siguen trabadas en Cloudflare también desde casa.
+  - **fravega**: la lectura de casa del 22/11 es solo menú y pie (ahora con un link "Promociones Bancarias" en el pie, que la receta podría seguir). Hoy desde GitHub, bloqueada. Nada se tocó.
+  - **dr-ahorro**: lectura del 22/11, la home con productos, sin promos bancarias. Nada para cargar.
+  - **yaguar**: bloqueada por Cloudflare hoy y ayer; la del 17/11 es la página de bloqueo. Nada para cargar.
+  - **ypf**: leída hoy, pero `ypf.com/promociones` devuelve el menú institucional (autoridades, inversores) sin una sola promo. La URL no sirve.
+  - **axion**: leída hoy, igual que ayer: solo el menú; "BENEFICIOS Y PROMOCIONES" es un link que la receta no abre. Nada para cargar.
+  - **shell**: hoy bloqueada (CloudFront); la del 22/11 es el club de puntos de Shell Box (10% en V-Power, tiendas y lubricantes canjeando puntos), sin promos bancarias. No se carga: no es un descuento por medio de pago.
+- **Quedaron**: ninguna (la agenda trajo 7: la sección "deuda" vino vacía, `cruzar.js` da 0 promos con vigencia asumida).
+- **Para Lucía**: ypf necesita URL nueva; axion, abrir "BENEFICIOS Y PROMOCIONES"/cada "LEER MÁS"; fravega, seguir el link "Promociones Bancarias" del pie; la-anonima y vital necesitan que la receta espere/haga clic; ICBC y Supervielle no se leen hace más de dos semanas.
+
+
 ## 2026-11-22 — Domingo sin altas ni bajas a mano; Comafi confirma 7; el resto de la agenda no trae nada cargable; Macro por script
 
 **1093 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 0. Confirmadas a mano: 7 (Comafi, lectura de hoy). `validar.js --arreglar` salió sin errores. Sigue el aviso de visibles sin verificar hace más de 10 días: hoy 731 (ayer 730).
