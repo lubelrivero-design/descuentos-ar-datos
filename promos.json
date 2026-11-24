@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -15052,7 +15052,7 @@
       "vigencia_desde": "2026-02-03",
       "vigencia_hasta": "2027-01-31",
       "fuente": "https://www.modo.com.ar/promos/20-comafi-changomas-feb26",
-      "verificado": "2026-11-22",
+      "verificado": "2026-11-23",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15251,6 +15251,12 @@
           "nivel": 1,
           "fecha": "2026-11-22",
           "nota": "listado de Comafi del 22/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 21/11 en comercio, día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-23",
+          "nota": "listado de Comafi del 23/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 22/11 en comercio, día y %"
         }
       ]
     },
@@ -32028,7 +32034,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-22",
+      "verificado": "2026-11-23",
       "id": "comafi-coto-martes-30",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -32241,6 +32247,12 @@
           "nivel": 1,
           "fecha": "2026-11-22",
           "nota": "listado de Comafi del 22/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 21/11 en comercio, día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-23",
+          "nota": "listado de Comafi del 23/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 22/11 en comercio, día y %"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -32251,7 +32263,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-22",
+      "verificado": "2026-11-23",
       "id": "comafi-makro-miercoles-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -32440,6 +32452,12 @@
           "nivel": 1,
           "fecha": "2026-11-22",
           "nota": "listado de Comafi del 22/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 21/11 en comercio, día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-23",
+          "nota": "listado de Comafi del 23/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 22/11 en comercio, día y %"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -32941,7 +32959,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-22",
+      "verificado": "2026-11-23",
       "id": "comafi-petshops-mar-jue-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -33130,6 +33148,12 @@
           "nivel": 1,
           "fecha": "2026-11-22",
           "nota": "listado de Comafi del 22/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 21/11 en comercio, día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-23",
+          "nota": "listado de Comafi del 23/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 22/11 en comercio, día y %"
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -37443,7 +37467,7 @@
       "tope_publicado": false,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-22",
+      "verificado": "2026-11-23",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -37554,6 +37578,12 @@
           "nivel": 1,
           "fecha": "2026-11-22",
           "nota": "listado de Comafi del 22/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 21/11 en comercio, día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-23",
+          "nota": "listado de Comafi del 23/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 22/11 en comercio, día y %"
         }
       ],
       "id": "comafi-rappi-unico-30",
@@ -37787,7 +37817,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-22",
+      "verificado": "2026-11-23",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -37952,6 +37982,12 @@
           "nivel": 1,
           "fecha": "2026-11-22",
           "nota": "listado de Comafi del 22/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 21/11 en comercio, día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-23",
+          "nota": "listado de Comafi del 23/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 22/11 en comercio, día y %"
         }
       ],
       "id": "cuotas-comafi-makro-3",
@@ -40399,7 +40435,7 @@
       "vigencia_desde": "2026-09-15",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx",
-      "verificado": "2026-11-22",
+      "verificado": "2026-11-23",
       "confianza": "alta",
       "fuentes": [
         {
@@ -40557,6 +40593,12 @@
           "nivel": 1,
           "fecha": "2026-11-22",
           "nota": "listado de Comafi del 22/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 21/11 en comercio, día y %"
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-23",
+          "nota": "listado de Comafi del 23/11 (solo títulos, sección supermercados; las demás secciones siguen en la verificación de Cloudflare): idéntico al del 22/11 en comercio, día y %"
         }
       ]
     },

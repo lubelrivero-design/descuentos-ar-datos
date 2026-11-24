@@ -1,5 +1,32 @@
 # Cambios
 
+## 2026-11-24 — Martes sin altas ni bajas a mano; Comafi confirma 7; las fuentes nuevas de la agenda no traen nada cargable; Macro por script
+
+**1093 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 0. Confirmadas a mano: 7 (Comafi, lectura del 23/11). `validar.js --arreglar` salió sin errores. Sigue el aviso de visibles sin verificar hace más de 10 días: 733 (ayer 731).
+
+- Macro (`node tools/cargar-macro.js`):
+  - `Macro: 153 promos en porcentaje armadas de 5435 filas (965 de MODO quedan afuera por no tener provincia conocida, 4260 ya vencidas) · 0 altas · 153 renovadas · 0 revividas · 0 bajas · 0 ya estaban cargadas a mano`
+  - Corrió sobre la lectura de Macro del 23/11 (hoy no se releyó). Son del script, no las toqué.
+
+### Cómo se juntó el texto
+**A las 07:41 `crudo/` estaba en el 23/11: el cron de las 7 no había corrido.** Disparé `recolectar.yml` solo con las fuentes de la agenda que se leen desde GitHub (`farmacity la-anonima maxiconsumo shell`) y llegó el commit fb4ba5a "Texto de las fuentes al 2026-11-24 07:44" en unos 3 minutos. **El resto de `crudo/` sigue con la lectura del 23/11** (34 fuentes, incluida una segunda pasada de las 16:34 de ayer que trajo cambios en MODO, Disco, Diarco, Naranja X y Credicoop y que hoy no se trabajó porque no estaba en la agenda). Hoy no se pudieron leer: La Anónima (vacía otra vez, sigue en la del 19/11) y Shell (CloudFront, sigue en la del 22/11). Siguen sin leerse desde antes: BPN (1/10), ICBC (8/11), Supervielle (4/11), Yaguar (17/11). No se borró nada.
+
+### Confirmadas
+- **Comafi (7)**: el listado de supermercados del 23/11 es idéntico al del 22/11 (las otras secciones siguen trabadas en Cloudflare): `comafi-changomas-martes`, `comafi-coto-martes-30`, `comafi-makro-miercoles-20`, `cuotas-comafi-makro-3`, `comafi-petshops-mar-jue-20`, `comafi-puppis-mar-jue-20` y `comafi-rappi-unico-30`. Fuente sumada y `verificado` al **23/11** (la fecha real del `leido:`, no la de hoy).
+
+### Agenda del día
+- **Trabajadas (las 7 que dio la agenda)**:
+  - **comafi**: ver arriba. Combustible, salud, promos del mes y MODO siguen sin poder leerse, así que las de combustible y Farmacity de Comafi siguen con `verificado` 18/10.
+  - **fravega**: sigue siendo la lectura de casa del 22/11 (solo menú y pie). Nada para cargar.
+  - **dr-ahorro**: lectura del 23/11, la home sin promos bancarias. Nada para cargar.
+  - **farmacity** (leída hoy): la URL `/promociones-bancarias` ya no existe: el sitio contesta "No encontramos resultados para promociones-bancarias" y muestra productos sueltos (2x1, 2da al 80%), ninguna promo de banco. Nada para cargar.
+  - **maxiconsumo** (leída hoy): la página de promociones carga los días (Lunes a Domingo) y 18 botones "LEGALES", pero las promos son imágenes y el texto no trae ni banco ni %. Nada para cargar.
+  - **la-anonima**: hoy vino vacía otra vez; la del 19/11 es solo menú y pie. Nada para cargar.
+  - **shell**: bloqueada hoy (CloudFront); la del 22/11 es el club de puntos de Shell Box, sin promos bancarias. No se carga.
+- **Quedaron**: ninguna (la agenda trajo 7; la sección "deuda" vino vacía, `cruzar.js` da 0 promos con vigencia asumida).
+- **Para Lucía**: farmacity necesita URL nueva (la de promociones bancarias da "no encontramos resultados"); maxiconsumo necesita que la receta lea el `alt` de las imágenes o abra cada "LEGALES"; ypf y axion siguen como ayer (URL nueva / abrir "LEER MÁS"); fravega, seguir el link "Promociones Bancarias" del pie; la-anonima necesita que la receta espere/haga clic; ICBC y Supervielle no se leen hace más de dos semanas. El cron de las 7 de GitHub no corrió hoy a tiempo.
+
+
 ## 2026-11-23 — Lunes sin altas ni bajas a mano; la agenda no trae nada cargable; Macro por script
 
 **1093 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 0. Confirmadas a mano: 0. `validar.js --arreglar` salió sin errores. Sigue el aviso de visibles sin verificar hace más de 10 días: 731 (igual que ayer).
