@@ -1,5 +1,33 @@
 # Cambios
 
+## 2026-11-25 — Miércoles sin altas ni bajas a mano; Comafi confirma 7; el resto de la agenda no trae nada cargable; Macro por script
+
+**1096 promos (ayer 1093; las 3 de más son altas del script de Macro).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 0. Confirmadas a mano: 7 (Comafi, lectura del 25/11). `validar.js --arreglar` salió sin errores. Visibles sin verificar hace más de 10 días: 729 (ayer 733).
+
+- Macro (`node tools/cargar-macro.js`), corrido dos veces porque la primera fue antes de que llegara el texto de hoy:
+  - 1ª (lectura del 24/11): `Macro: 152 promos en porcentaje armadas de 5433 filas (958 de MODO quedan afuera por no tener provincia conocida, 4268 ya vencidas) · 2 altas · 140 renovadas · 10 revividas · 13 bajas · 0 ya estaban cargadas a mano`
+  - 2ª (lectura del 25/11): `Macro: 155 promos en porcentaje armadas de 5443 filas (957 de MODO quedan afuera por no tener provincia conocida, 4272 ya vencidas) · 1 altas · 132 renovadas · 22 revividas · 20 bajas · 0 ya estaban cargadas a mano`
+  - **Para mirar**: las "revividas" y "bajas" son casi todas el mismo comercio cambiando de % (p. ej. Carnicería Padilla mié 25%→30%, Gijón 20%→30%, Mercado del Lago y Un Rincón de Napoli 25%→20%, Lario 20%→30%). Son del script, no las toqué.
+
+### Cómo se juntó el texto
+**A las 07:41 `crudo/` estaba en el 24/11: el cron de las 7 no había corrido.** Disparé `recolectar.yml` completo y llegó el commit "Texto de las fuentes al 2026-11-25 07:54" en unos 13 minutos. 36 fuentes leídas hoy. No se pudieron leer (quedan con su lectura anterior, no se borró nada): BPN (1/10), Frávega (CloudFront, 22/11 de casa), ICBC (8/11), La Anónima (19/11), Shell (CloudFront, 22/11), Supervielle (4/11) y Yaguar (Cloudflare, 17/11).
+
+### Confirmadas
+- **Comafi (7)**: el listado de supermercados del 25/11 es idéntico al del 23 y 24/11 (las otras secciones siguen trabadas en Cloudflare): `comafi-changomas-martes`, `comafi-coto-martes-30`, `comafi-makro-miercoles-20`, `cuotas-comafi-makro-3`, `comafi-petshops-mar-jue-20`, `comafi-puppis-mar-jue-20` y `comafi-rappi-unico-30`. Fuente sumada y `verificado` al 25/11.
+
+### Agenda del día
+- **Trabajadas (las 7 que dio la agenda)**:
+  - **comafi** (25/11): ver arriba. El listado trae también tarjetas de MODO sin detalle (Disco/Jumbo/Vea/Diarco/Cordiez miércoles 20%, Alvear/Aiello/Cooperativa Obrera martes 20%, Pezcalandia, Coquitos): sin tope ni vigencia, no se cargan. Combustible, salud, promos del mes y MODO siguen sin leerse: las de combustible y Farmacity de Comafi siguen con `verificado` 18/10.
+  - **dr-ahorro** (25/11): la home con productos, sin promos bancarias. Nada para cargar.
+  - **fravega**: bloqueada hoy; la de casa del 22/11 es solo menú y pie. Nada para cargar.
+  - **vital** (25/11): la página de promos bancarias carga los botones (por día, por medio de pago) pero no las promos. Nada para cargar.
+  - **yaguar**: bloqueada (Cloudflare), la del 17/11 es la página de bloqueo. Nada para cargar.
+  - **ypf** (25/11): "Lo sentimos, esta página no está disponible en este momento". Nada para cargar.
+  - **shell**: bloqueada hoy (CloudFront); la del 22/11 son canjes de puntos de Shell Box (10% V-Power, tiendas, lubricantes) sin días ni medio bancario. No se carga.
+- **Quedaron**: ninguna (la agenda trajo 7; la sección "deuda" vino vacía, `cruzar.js` da 0 promos con vigencia asumida).
+- **Para Lucía**: ypf necesita URL nueva; vital necesita que la receta espere o haga clic en "Ver todos"; yaguar, fravega y shell bloquean a GitHub (leerlas desde casa); ICBC (17 días) y Supervielle (21 días) siguen sin leerse. El cron de las 7 de GitHub tampoco corrió hoy a tiempo.
+
+
 ## 2026-11-24 — Martes sin altas ni bajas a mano; Comafi confirma 7; las fuentes nuevas de la agenda no traen nada cargable; Macro por script
 
 **1093 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 0. Confirmadas a mano: 7 (Comafi, lectura del 23/11). `validar.js --arreglar` salió sin errores. Sigue el aviso de visibles sin verificar hace más de 10 días: 733 (ayer 731).
