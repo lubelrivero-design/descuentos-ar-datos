@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27",
+  "actualizado": "2026-11-28",
   "promos": [
     {
       "id": "mp-coto-viernes",
@@ -15052,7 +15052,7 @@
       "vigencia_desde": "2026-02-03",
       "vigencia_hasta": "2027-01-31",
       "fuente": "https://www.modo.com.ar/promos/20-comafi-changomas-feb26",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "confianza": "alta",
       "fuentes": [
         {
@@ -15275,6 +15275,12 @@
           "nivel": 1,
           "fecha": "2026-11-27",
           "nota": "Listado de supermercados de Comafi del 27/11: ChangoMás martes 20%, igual que el 26/11."
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-28",
+          "nota": "Listado de supermercados de Comafi del 28/11 (solo títulos; el resto trabado en Cloudflare): Changomas martes 20% MODO, igual que el 27/11."
         }
       ]
     },
@@ -32052,7 +32058,7 @@
       "tope_periodo": null,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "id": "comafi-coto-martes-30",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -32289,6 +32295,12 @@
           "nivel": 1,
           "fecha": "2026-11-27",
           "nota": "Listado de supermercados de Comafi del 27/11: Coto martes 35%, igual que el 26/11."
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-28",
+          "nota": "Listado de supermercados de Comafi del 28/11 (solo títulos; el resto trabado en Cloudflare): Coto martes 35%, igual que el 27/11."
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -32299,7 +32311,7 @@
       "tope_periodo": "semanal",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "id": "comafi-makro-miercoles-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -32512,6 +32524,12 @@
           "nivel": 1,
           "fecha": "2026-11-27",
           "nota": "Listado de supermercados de Comafi del 27/11: Makro miércoles 20%, igual que el 26/11."
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-28",
+          "nota": "Listado de supermercados de Comafi del 28/11 (solo títulos; el resto trabado en Cloudflare): Makro miércoles 20% MODO, igual que el 27/11."
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -33013,7 +33031,7 @@
       "tope_periodo": "mensual",
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "id": "comafi-petshops-mar-jue-20",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
@@ -33226,6 +33244,12 @@
           "nivel": 1,
           "fecha": "2026-11-27",
           "nota": "Listado de supermercados de Comafi del 27/11: Delivery Pet Food / Natural Life martes a jueves 20% y cuotas, igual que el 26/11."
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-28",
+          "nota": "Listado de supermercados de Comafi del 28/11 (solo títulos; el resto trabado en Cloudflare): Puppis/Delivery Pet Food/Natural life/Leocan/Zoocopet 20% y cuotas MODO de martes a jueves, igual que el 27/11."
         }
       ],
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236"
@@ -37539,7 +37563,7 @@
       "tope_publicado": false,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -37674,6 +37698,12 @@
           "nivel": 1,
           "fecha": "2026-11-27",
           "nota": "Listado de supermercados de Comafi del 27/11: Rappi 30% (segmento Único/Black) dom a vie, igual que el 26/11."
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-28",
+          "nota": "Listado de supermercados de Comafi del 28/11 (solo títulos; el resto trabado en Cloudflare): Rappi 30% (Único/Black) de lunes a viernes y domingos, igual que el 27/11."
         }
       ],
       "id": "comafi-rappi-unico-30",
@@ -37907,7 +37937,7 @@
       "tope_publicado": true,
       "zona": "Nacional",
       "confianza": "alta",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "medio": "comafi",
       "medio_nombre": "Banco Comafi",
       "fuentes": [
@@ -38096,6 +38126,12 @@
           "nivel": 1,
           "fecha": "2026-11-27",
           "nota": "Listado de supermercados de Comafi del 27/11: Makro 3 cuotas todos los días, igual que el 26/11."
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-28",
+          "nota": "Listado de supermercados de Comafi del 28/11 (solo títulos; el resto trabado en Cloudflare): Makro 3 cuotas todos los días, igual que el 27/11."
         }
       ],
       "id": "cuotas-comafi-makro-3",
@@ -40543,7 +40579,7 @@
       "vigencia_desde": "2026-09-15",
       "vigencia_hasta": "2026-11-30",
       "fuente": "https://www.promocionescomafi.com/beneficios.aspx",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "confianza": "alta",
       "fuentes": [
         {
@@ -40725,6 +40761,12 @@
           "nivel": 1,
           "fecha": "2026-11-27",
           "nota": "Listado de supermercados de Comafi del 27/11: Puppis martes a jueves 20% y cuotas, igual que el 26/11."
+        },
+        {
+          "url": "https://www.promocionescomafi.com/beneficios.aspx?trade=1236",
+          "nivel": 1,
+          "fecha": "2026-11-28",
+          "nota": "Listado de supermercados de Comafi del 28/11 (solo títulos; el resto trabado en Cloudflare): Puppis 20% y cuotas MODO de martes a jueves, igual que el 27/11."
         }
       ]
     },
@@ -42807,12 +42849,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-0, Otros Beneficios): 30% de reintegro General"
         }
       ],
@@ -43067,12 +43109,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2027-01-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-A, Librerias): 10% y 3 cuotas sin interés General"
         }
       ],
@@ -43144,12 +43186,12 @@
       "vigencia_desde": "2026-11-26",
       "vigencia_hasta": "2027-03-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Entretenimiento): 20% de reintegro Selecta"
         }
       ],
@@ -43253,12 +43295,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -43480,20 +43522,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $14.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-11-05",
-      "vigencia_hasta": "2026-11-25",
+      "vigencia_hasta": "2027-03-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-25",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-25",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Gastronomia): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-26)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-provincia-de-buenos-aires-rapanui-todos-10",
@@ -43592,12 +43633,12 @@
       "vigencia_desde": "2026-11-05",
       "vigencia_hasta": "2027-03-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Hogar y Deco): 10% y 12 cuotas sin interés General"
         }
       ],
@@ -43663,20 +43704,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Además, 3 cuotas sin interés. El banco no publica el tope de reintegro.",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-11-03",
-      "vigencia_hasta": "2026-11-25",
+      "vigencia_hasta": "2027-01-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-25",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-25",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Librerias): 10% y 3 cuotas sin interés General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-26)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-provincia-de-buenos-aires-libreria-centro-todos-20",
@@ -43818,12 +43858,12 @@
       "vigencia_desde": "2026-10-09",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -44080,12 +44120,12 @@
       "vigencia_desde": "2026-06-24",
       "vigencia_hasta": "2027-05-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Otros Beneficios): 20% de reintegro Selecta"
         }
       ],
@@ -44225,7 +44265,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Además, 3 cuotas sin interés. Tope de reintegro: $20.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-11-01",
-      "vigencia_hasta": "2027-01-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -44237,7 +44277,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-provincia-de-buenos-aires-lola-quintana-todos-20",
@@ -44265,12 +44306,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -44335,12 +44376,12 @@
       "vigencia_desde": "2026-08-04",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Otros Beneficios): 35% de reintegro General"
         }
       ],
@@ -44681,20 +44722,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Además, 12 cuotas sin interés. El banco no publica el tope de reintegro.",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-08-25",
-      "vigencia_hasta": "2026-11-17",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-16",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-16",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Turismo): 10% y hasta 12 cuotas sin interés Selecta"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-18)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-provincia-de-buenos-aires-kos-pilar-hotel-todos-10",
@@ -44723,12 +44763,12 @@
       "vigencia_desde": "2026-11-20",
       "vigencia_hasta": "2027-03-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Turismo): 10% y hasta 12 cuotas sin interés Selecta"
         }
       ],
@@ -44756,15 +44796,15 @@
       "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 20%. Solo para clientes Macro Selecta. Además, 12 cuotas sin interés. El banco no publica el tope de reintegro.",
       "zona": "CABA",
       "vigencia_desde": "2026-09-04",
-      "vigencia_hasta": "2026-11-30",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-C, Indumentaria): 10% y hasta 12 cuotas sin interés Selecta / 20% y hasta 12 cuotas sin interés Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-C, Indumentaria): 10% y hasta 12 cuotas sin interés Selecta / 20% y hasta 12 cuotas sin interés Selecta / 20% y hasta 12 cuotas sin interés Selecta"
         }
       ],
       "origen": "macro-api",
@@ -44791,20 +44831,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Además, 12 cuotas sin interés. El banco no publica el tope de reintegro.",
       "zona": "CABA",
       "vigencia_desde": "2026-09-04",
-      "vigencia_hasta": "2026-11-20",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-20",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-20",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-C, Indumentaria): 20% y hasta 12 cuotas sin interés Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-C, Indumentaria): 20% de reintegro y hasta 12 cuotas Selecta / 20% y hasta 12 cuotas sin interés Selecta"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-21)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-caba-eterna-cadencia-todos-10",
@@ -44868,18 +44907,18 @@
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": false,
-      "requisitos": "Con tarjeta de crédito Macro. Además, 3 cuotas sin interés. El banco no publica el tope de reintegro.",
+      "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Además, 3 cuotas sin interés. El banco no publica el tope de reintegro.",
       "zona": "CABA",
       "vigencia_desde": "2026-09-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-C, Otros Beneficios): 15% y hasta 3 cuotas sin interés Platinum / 15% y hasta 3 cuotas sin interés Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-C, Otros Beneficios): 15% y hasta 3 cuotas sin interés Selecta"
         }
       ],
       "origen": "macro-api",
@@ -44943,20 +44982,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $5.000 (el banco no aclara si es por mes o por compra).",
       "zona": "CABA",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-25",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-25",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-25",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-C, Otros Beneficios): 30% de reintegro General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-26)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-san-luis-bistrea-brunch-coffe-todos-20",
@@ -44984,12 +45022,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -45022,12 +45060,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -45060,12 +45098,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -45098,12 +45136,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -45261,12 +45299,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -45299,12 +45337,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -45335,20 +45373,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $10.000 (el banco no aclara si es por mes o por compra).",
       "zona": "San Luis",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-26",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-26",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-26",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Otros Beneficios): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-27)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-san-luis-punta-del-agua-mie-20",
@@ -45370,13 +45407,13 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Otros Beneficios): 20% de reintegro General / 20% de reintegro General / 30% de reintegro Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Otros Beneficios): 20% de reintegro General / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
@@ -45447,12 +45484,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -45479,12 +45516,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Supermercados): 20% de reintegro General / 25% de reintegro Platinum"
         }
       ],
@@ -45662,7 +45699,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $10.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Santiago del Estero",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -45674,7 +45711,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-san-juan-play-cinema-sab-dom-30",
@@ -45771,7 +45809,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "San Juan",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -45783,7 +45821,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-san-juan-al-rojo-vivo-mie-20",
@@ -45871,18 +45910,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "San Juan",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Otros Beneficios): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
@@ -45914,12 +45953,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -45947,12 +45986,12 @@
       "vigencia_desde": "2027-01-01",
       "vigencia_hasta": "2027-01-15",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -46022,20 +46061,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $10.000 (el banco no aclara si es por mes o por compra).",
       "zona": "San Juan",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-24",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-24",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-24",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Otros Beneficios): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-25)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-san-juan-patagonia-todos-20",
@@ -46063,12 +46101,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -46090,18 +46128,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "San Juan",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Supermercados): 20% de reintegro General / 25% de reintegro Platinum"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Supermercados): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
@@ -46122,18 +46160,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "San Juan",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Supermercados): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Supermercados): 20% de reintegro General / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
@@ -46157,20 +46195,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "San Juan",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-25",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-25",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-25",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Supermercados): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-26)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-mendoza-1912-todos-30",
@@ -47604,12 +47641,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2027-03-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -48094,12 +48131,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2027-03-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Indumentaria): 10% y hasta 12 cuotas sin interés General"
         }
       ],
@@ -48133,12 +48170,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Otros Beneficios): 20% y hasta 3 cuotas sin interés Selecta"
         }
       ],
@@ -48171,12 +48208,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -48286,12 +48323,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -48401,12 +48438,12 @@
       "vigencia_desde": "2026-11-05",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -48439,12 +48476,12 @@
       "vigencia_desde": "2026-11-05",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -48518,12 +48555,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2027-01-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Turismo): 10%  y hasta 6 cuotas sin interés Selecta"
         }
       ],
@@ -48557,12 +48594,12 @@
       "vigencia_desde": "2026-08-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Turismo): 20% y hasta 12 cuotas Selecta"
         }
       ],
@@ -48596,12 +48633,12 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Turismo): 20% y hasta 12 cuotas sin interés Selecta"
         }
       ],
@@ -48633,7 +48670,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Además, 12 cuotas sin interés. El banco no publica el tope de reintegro.",
       "zona": "Mendoza",
       "vigencia_desde": "2026-09-03",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -48645,7 +48682,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-mendoza-la-morada-lodge-todos-10",
@@ -48674,12 +48712,12 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-M, Turismo): 10% y hasta 12 cuotas sin interés Selecta"
         }
       ],
@@ -48707,12 +48745,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Gastronomia): 20% de reintegro General / 20% de reintegro General"
         }
       ],
@@ -48736,16 +48774,16 @@
       "tope_publicado": true,
       "requisitos": "Con tarjeta de débito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Tope de reintegro: $50.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Misiones",
-      "vigencia_desde": "2026-11-01",
+      "vigencia_desde": "2026-12-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Gastronomia): 25% de reintegro General / 25% de reintegro General"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Gastronomia): 25% de reintegro General"
         }
       ],
       "origen": "macro-api",
@@ -48771,12 +48809,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 20% de reintegro General / 20% de reintegro General"
         }
       ],
@@ -48797,21 +48835,21 @@
       ],
       "descuento_pct": 10,
       "cuotas": 6,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "tope_publicado": false,
-      "requisitos": "Con tarjeta de crédito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Además, 6 cuotas sin interés. El banco no publica el tope de reintegro.",
+      "tope_monto": 99999,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de crédito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Además, 6 cuotas sin interés. Tope de reintegro: $99.999 (el banco no aclara si es por mes o por compra).",
       "zona": "Misiones",
-      "vigencia_desde": "2026-10-27",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-12-01",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-10-28",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-10-28",
-          "nota": "API de beneficios de Macro (AR-N, Otros Beneficios): 10% + hasta 6 cuotas sin interés General"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 10% de reintegro y 6 cuotas sin interés General"
         }
       ],
       "origen": "macro-api",
@@ -48837,12 +48875,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 15% de reintegro General / 15% de reintegro General"
         }
       ],
@@ -48866,16 +48904,16 @@
       "tope_publicado": true,
       "requisitos": "Con tarjeta de débito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Tope de reintegro: $19.250 (el banco no aclara si es por mes o por compra).",
       "zona": "Misiones",
-      "vigencia_desde": "2026-12-01",
+      "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 25% de reintegro General"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 25% de reintegro General / 25% de reintegro General"
         }
       ],
       "origen": "macro-api",
@@ -48901,21 +48939,20 @@
       "tope_publicado": true,
       "requisitos": "Con tarjeta de crédito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Además, 6 cuotas sin interés. Tope de reintegro: $61.600 (el banco no aclara si es por mes o por compra).",
       "zona": "Misiones",
-      "vigencia_desde": "2026-11-01",
-      "vigencia_hasta": "2026-11-25",
+      "vigencia_desde": "2026-12-01",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-25",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-25",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 15% y 6 cuotas sin interés General"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 15% de reintegro y 6 cuotas sin interés General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-26)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-misiones-ahora-misiones-20-lun-mar-mie-20",
@@ -48932,21 +48969,21 @@
       ],
       "descuento_pct": 20,
       "cuotas": 6,
-      "tope_monto": null,
-      "tope_periodo": null,
-      "tope_publicado": false,
-      "requisitos": "Con tarjeta de crédito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Además, 6 cuotas sin interés. El banco no publica el tope de reintegro.",
+      "tope_monto": 61600,
+      "tope_periodo": "sin_aclarar",
+      "tope_publicado": true,
+      "requisitos": "Con tarjeta de crédito Macro. Es parte del programa provincial \"Ahora\": vale en los comercios adheridos de ese rubro. Además, 6 cuotas sin interés. Tope de reintegro: $61.600 (el banco no aclara si es por mes o por compra).",
       "zona": "Misiones",
-      "vigencia_desde": "2026-10-27",
-      "vigencia_hasta": "2026-10-31",
+      "vigencia_desde": "2026-12-01",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-10-28",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-10-28",
-          "nota": "API de beneficios de Macro (AR-N, Otros Beneficios): 20% + hasta 6 cuotas sin interés General"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 20% de reintegro y 6 cuotas sin interés General"
         }
       ],
       "origen": "macro-api",
@@ -48972,12 +49009,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 15% de reintegro General / 15% de reintegro General"
         }
       ],
@@ -49011,12 +49048,12 @@
       "vigencia_desde": "2026-12-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 20% de reintegro y 6 cuotas sin interés General"
         }
       ],
@@ -49048,12 +49085,12 @@
       "vigencia_desde": "2026-12-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Otros Beneficios): 5% de reintegro y 6 cuotas sin interés General"
         }
       ],
@@ -49116,12 +49153,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Salud y Belleza): 25% de reintegro y 3 cuotas sin interés General / 25% y 3 cuotas sin interés General"
         }
       ],
@@ -49148,12 +49185,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Salud y Belleza): 25% de reintegro General / 25% de reintegro General"
         }
       ],
@@ -49182,12 +49219,12 @@
       "vigencia_desde": "2026-11-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-N, Supermercados): 10% de reintegro General / 10% de reintegro General"
         }
       ],
@@ -49296,20 +49333,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Neuquén",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-25",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-25",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-25",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Gastronomia): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-26)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-neuquen-bodega-malma-todos-20",
@@ -49375,12 +49411,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -49451,12 +49487,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -49489,12 +49525,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -49642,12 +49678,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -49680,12 +49716,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -49793,20 +49829,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Neuquén",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-26",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-26",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-26",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Gastronomia): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-27)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-neuquen-alta-vision-todos-20",
@@ -49834,12 +49869,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -49894,18 +49929,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Neuquén",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
@@ -49937,12 +49972,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -49967,7 +50002,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Neuquén",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -49979,7 +50014,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-neuquen-carniceria-el-nieto-i-mie-20",
@@ -49996,18 +50032,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Neuquén",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
@@ -50078,12 +50114,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -50116,12 +50152,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -50154,12 +50190,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -50186,12 +50222,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General / 30% de reintegro Selecta"
         }
       ],
@@ -50357,18 +50393,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Neuquén",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
@@ -50400,12 +50436,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -50471,12 +50507,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -50542,12 +50578,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -50619,12 +50655,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -50696,12 +50732,12 @@
       "vigencia_desde": "2026-09-22",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -50773,12 +50809,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -50800,18 +50836,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Neuquén",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Supermercados): 20% de reintegro General / 25% de reintegro Platinum"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Supermercados): 20% de reintegro General / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
@@ -50837,12 +50873,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Supermercados): 20% de reintegro General / 25% de reintegro Platinum"
         }
       ],
@@ -50867,20 +50903,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Neuquén",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-26",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-26",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-26",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Supermercados): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-27)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-neuquen-hosteria-las-walkirias-todos-10",
@@ -50942,12 +50977,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Entretenimiento): 30% de reintegro General"
         }
       ],
@@ -51739,20 +51774,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Río Negro",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-26",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-26",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-26",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Gastronomia): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-27)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-rio-negro-punta-princesa-todos-30",
@@ -52122,12 +52156,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -52149,18 +52183,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Río Negro",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
@@ -52187,12 +52221,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 30% de reintegro General"
         }
       ],
@@ -52225,12 +52259,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -52252,18 +52286,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Río Negro",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum"
         }
       ],
       "origen": "macro-api",
@@ -52295,12 +52329,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -52327,12 +52361,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -52365,12 +52399,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -52403,12 +52437,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -52441,12 +52475,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -52479,12 +52513,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-R, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -52595,12 +52629,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -52633,12 +52667,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Gastronomia): 20% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -52665,12 +52699,12 @@
       "vigencia_desde": "2026-09-25",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Gastronomia): 15% de reintegro General"
         }
       ],
@@ -52736,12 +52770,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -52770,18 +52804,18 @@
       "tope_monto": null,
       "tope_periodo": null,
       "tope_publicado": false,
-      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 5% y 10%. El banco no publica el tope de reintegro.",
+      "requisitos": "Con tarjeta de crédito Macro. El banco no publica el tope de reintegro.",
       "zona": "Santa Fe",
       "vigencia_desde": "2026-11-13",
       "vigencia_hasta": "2027-01-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Indumentaria): 10% de reintegro General / 5% de reintegro General"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Indumentaria): 5% de reintegro General"
         }
       ],
       "origen": "macro-api",
@@ -52847,12 +52881,12 @@
       "vigencia_desde": "2026-11-03",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Indumentaria): 15% y hasta 3 cuotas sin interés General"
         }
       ],
@@ -52915,12 +52949,12 @@
       "vigencia_desde": "2026-08-14",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Otros Beneficios): 10% de reintegro General"
         }
       ],
@@ -53051,12 +53085,12 @@
       "vigencia_desde": "2026-10-21",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Otros Beneficios): 15% y hasta 12 cuotas sin interés General"
         }
       ],
@@ -53089,12 +53123,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -53160,12 +53194,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -53296,12 +53330,12 @@
       "vigencia_desde": "2026-05-12",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 20% de reintegro General / 25% de reintegro Platinum"
         }
       ],
@@ -53649,7 +53683,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $5.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Santa Fe",
       "vigencia_desde": "2026-08-10",
-      "vigencia_hasta": "2027-01-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -53661,7 +53695,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-santa-fe-pescaderia-santa-lucia-mie-15",
@@ -53708,26 +53743,25 @@
         "miercoles"
       ],
       "descuento_pct": 15,
-      "tope_monto": 25000,
+      "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de débito Macro. Solo para clientes Macro Selecta. Tope de reintegro: $25.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de débito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Santa Fe",
       "vigencia_desde": "2026-08-26",
-      "vigencia_hasta": "2026-11-24",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-24",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-24",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 15% de reintegro Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 15% de reintegro General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-25)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-santa-fe-pollo-mio-mie-10",
@@ -53749,12 +53783,12 @@
       "vigencia_desde": "2026-08-26",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 10% de reintegro Selecta"
         }
       ],
@@ -53813,12 +53847,12 @@
       "vigencia_desde": "2026-09-15",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 10% de reintegro General"
         }
       ],
@@ -53943,12 +53977,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 20% de reintegro General"
         }
       ],
@@ -54008,12 +54042,12 @@
       "vigencia_desde": "2026-07-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 10% de reintegro General"
         }
       ],
@@ -54260,7 +54294,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Tucumán",
       "vigencia_desde": "2026-11-03",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -54272,7 +54306,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-tucuman-nutritienda-y-salud-mie-20",
@@ -54558,20 +54593,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Tierra del Fuego",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-24",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-24",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-24",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Gastronomia): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-25)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-tierra-del-fuego-el-asador-steak-house-todos-30",
@@ -54676,12 +54710,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Gastronomia): 20% de reintegro General"
         }
       ],
@@ -54753,12 +54787,12 @@
       "vigencia_desde": "2026-10-23",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -54785,12 +54819,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -54856,12 +54890,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -54894,12 +54928,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -54921,18 +54955,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Tierra del Fuego",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Otros Beneficios): 20% de reintegro General / 30% de reintegro Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
@@ -54964,12 +54998,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -55039,20 +55073,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $10.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Tierra del Fuego",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-25",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-25",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-25",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Otros Beneficios): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-26)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-tierra-del-fuego-tranex-sab-dom-30",
@@ -55075,12 +55108,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Otros Beneficios): 30% de reintegro General"
         }
       ],
@@ -55107,12 +55140,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Otros Beneficios): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -55137,7 +55170,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Tierra del Fuego",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -55149,7 +55182,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-tierra-del-fuego-don-atilio-mie-20",
@@ -55169,7 +55203,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Tierra del Fuego",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -55181,7 +55215,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-tierra-del-fuego-minimercado-super-mie-20",
@@ -55264,18 +55299,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Tierra del Fuego",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Supermercados): 20% de reintegro General / 30% de reintegro Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Supermercados): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
@@ -55382,7 +55417,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Corrientes",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -55394,7 +55429,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-corrientes-la-panera-rosa-nea-todos-20",
@@ -55490,12 +55526,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2027-03-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Gastronomia): 30% de reintegro Selecta / 30% de reintegro Selecta"
         }
       ],
@@ -55525,16 +55561,16 @@
       "tope_publicado": false,
       "requisitos": "Con tarjeta de crédito Macro. El banco no publica el tope de reintegro.",
       "zona": "Córdoba",
-      "vigencia_desde": "2026-10-01",
+      "vigencia_desde": "2026-12-01",
       "vigencia_hasta": "2027-01-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Indumentaria): 20% de reintegro General / 20% de reintegro General"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Indumentaria): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
@@ -55761,20 +55797,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Además, 12 cuotas sin interés. El banco no publica el tope de reintegro.",
       "zona": "Córdoba",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-26",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-26",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-26",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Turismo): 10% y hasta 12 cuotas sin interés Selecta"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-27)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-cordoba-la-olivia-hotel-boutique-web-todos-10",
@@ -55842,12 +55877,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Turismo): 10% y hasta 12 cuotas sin interés Selecta"
         }
       ],
@@ -55990,12 +56025,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-H, Supermercados): 20% de reintegro General / 30% de reintegro Selecta"
         }
       ],
@@ -56022,12 +56057,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-W, Supermercados): 20% de reintegro General"
         }
       ],
@@ -56052,20 +56087,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Corrientes",
       "vigencia_desde": "2026-09-30",
-      "vigencia_hasta": "2026-11-26",
+      "vigencia_hasta": "2026-12-30",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-26",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-26",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-W, Supermercados): 20% de reintegro General / 25% de reintegro Platinum"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-27)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-corrientes-los-crios-mie-20",
@@ -56087,12 +56121,12 @@
       "vigencia_desde": "2026-09-30",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-W, Supermercados): 20% de reintegro General"
         }
       ],
@@ -56260,20 +56294,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Córdoba",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-24",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-24",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-24",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Gastronomia): 20% de reintegro General"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-25)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-cordoba-gastronomia-en-rio-cuarto-todos-20",
@@ -56299,7 +56332,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Córdoba",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -56311,7 +56344,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-cordoba-gastronomia-en-villa-maria-todos-20",
@@ -56620,18 +56654,18 @@
       "tope_monto": 15000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Según la tarjeta, entre 20% y 25%. Con Macro Selecta, 30%. Tope de reintegro: $15.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Córdoba",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Supermercados): 20% de reintegro General / 25% de reintegro Platinum"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Supermercados): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
@@ -56657,12 +56691,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Supermercados): 20% de reintegro General"
         }
       ],
@@ -56689,12 +56723,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Supermercados): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -56817,13 +56851,13 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Supermercados): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Supermercados): 20% de reintegro General / 25% de reintegro Platinum / 30% de reintegro Selecta / 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
@@ -56881,12 +56915,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -56979,12 +57013,12 @@
       "vigencia_desde": "2026-08-03",
       "vigencia_hasta": "2026-12-30",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Otros Beneficios): 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -57051,12 +57085,12 @@
       "vigencia_desde": "2026-05-12",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -57386,12 +57420,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 20% de reintegro General"
         }
       ],
@@ -57488,7 +57522,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Tope de reintegro: $100.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Río Negro",
       "vigencia_desde": "2026-11-01",
-      "vigencia_hasta": "2027-01-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -57500,7 +57534,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-corrientes-la-calandria-mie-25",
@@ -57520,7 +57555,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $20.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Corrientes",
       "vigencia_desde": "2026-09-30",
-      "vigencia_hasta": "2026-12-30",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -57532,7 +57567,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-cordoba-carnicerias-en-la-carlota-mie-25",
@@ -57816,7 +57852,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Tope de reintegro: $25.000 (el banco no aclara si es por mes o por compra).",
       "zona": "San Juan",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -57828,7 +57864,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "modo-diarco-barrio-vie-dom-20-nov",
@@ -57924,12 +57961,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Supermercados): 25% de reintegro Platinum"
         }
       ],
@@ -57989,12 +58026,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-J, Otros Beneficios): 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -58021,12 +58058,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Otros Beneficios): 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -58048,18 +58085,18 @@
       "tope_monto": 20000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $20.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $20.000 (el banco no aclara si es por mes o por compra).",
       "zona": "San Luis",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Otros Beneficios): 25% de reintegro Platinum / 30% de reintegro Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-D, Otros Beneficios): 25% de reintegro Platinum"
         }
       ],
       "origen": "macro-api",
@@ -58085,12 +58122,12 @@
       "vigencia_desde": "2026-10-26",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Supermercados): 25% de reintegro Platinum"
         }
       ],
@@ -58145,18 +58182,18 @@
       "tope_monto": 20000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $20.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $20.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Corrientes",
       "vigencia_desde": "2026-09-30",
       "vigencia_hasta": "2026-12-30",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-W, Supermercados): 25% de reintegro Platinum / 30% de reintegro Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-W, Supermercados): 25% de reintegro Platinum"
         }
       ],
       "origen": "macro-api",
@@ -58182,12 +58219,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -58212,7 +58249,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $20.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Neuquén",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -58224,7 +58261,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-san-luis-distribuidora-mag-mie-30",
@@ -58277,20 +58315,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Tope de reintegro: $25.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Tierra del Fuego",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-20",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-20",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-20",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Supermercados): 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-21)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-santa-fe-el-gauchito-1-mie-30",
@@ -58312,12 +58349,12 @@
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 30% de reintegro Selecta"
         }
       ],
@@ -58405,18 +58442,18 @@
       "tope_monto": 20000,
       "tope_periodo": "sin_aclarar",
       "tope_publicado": true,
-      "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $20.000 (el banco no aclara si es por mes o por compra).",
+      "requisitos": "Con tarjeta de crédito Macro. Tope de reintegro: $20.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Tierra del Fuego",
       "vigencia_desde": "2026-10-01",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
-          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Supermercados): 25% de reintegro Platinum / 30% de reintegro Selecta"
+          "fecha": "2026-11-28",
+          "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-V, Supermercados): 25% de reintegro Platinum"
         }
       ],
       "origen": "macro-api",
@@ -58442,12 +58479,12 @@
       "vigencia_desde": "2026-11-05",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-B, Otros Beneficios): 35% reintegro General"
         }
       ],
@@ -58478,7 +58515,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Tope de reintegro: $25.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-11-05",
-      "vigencia_hasta": "2027-03-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -58490,7 +58527,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-neuquen-carniceria-el-nieto-mie-30",
@@ -58510,20 +58548,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Tope de reintegro: $25.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Neuquén",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-11-20",
+      "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-20",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-20",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-Q, Otros Beneficios): 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-21)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-tierra-del-fuego-distri-tdf-mie-25",
@@ -58576,7 +58613,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Con Macro Selecta, 30%. Tope de reintegro: $20.000 (el banco no aclara si es por mes o por compra).",
       "zona": "San Luis",
       "vigencia_desde": "2026-10-01",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -58588,7 +58625,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-santa-fe-frioteka-rafaela-jue-25",
@@ -58610,12 +58648,12 @@
       "vigencia_desde": "2026-09-03",
       "vigencia_hasta": "2026-12-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Supermercados): 25% de reintegro Platinum / 30% de reintegro Selecta"
         }
       ],
@@ -58739,20 +58777,19 @@
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Tope de reintegro: $20.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Córdoba",
       "vigencia_desde": "2026-11-07",
-      "vigencia_hasta": "2026-11-24",
+      "vigencia_hasta": "2027-03-31",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-24",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-24",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-X, Gastronomia): 30% de reintegro Selecta"
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta",
-      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-25)."
+      "confianza": "alta"
     },
     {
       "id": "macro-api-santa-fe-tokyo-lun-mar-mie-vie-sab-dom-20",
@@ -58780,12 +58817,12 @@
       "vigencia_desde": "2026-12-18",
       "vigencia_hasta": "2026-12-23",
       "fuente": "https://www.macro.com.ar/beneficios",
-      "verificado": "2026-11-27",
+      "verificado": "2026-11-28",
       "fuentes": [
         {
           "url": "https://www.macro.com.ar/beneficios",
           "nivel": 1,
-          "fecha": "2026-11-27",
+          "fecha": "2026-11-28",
           "nota": "Catálogo de Macro en MODO; provincia según la API de Macro del 28/10/2026 (AR-S, Indumentaria): 20% y hasta 12 cuotas sin interés General / 25% y hasta 12 cuotas sin interés Platinum / 30% y hasta 12 cuotas sin interés Selecta"
         }
       ],
@@ -58849,7 +58886,7 @@
       "requisitos": "Con tarjeta de crédito Macro. Solo para clientes Macro Selecta. Tope de reintegro: $30.000 (el banco no aclara si es por mes o por compra).",
       "zona": "Provincia de Buenos Aires",
       "vigencia_desde": "2026-10-19",
-      "vigencia_hasta": "2026-12-31",
+      "vigencia_hasta": "2026-11-27",
       "fuente": "https://www.macro.com.ar/beneficios",
       "verificado": "2026-11-27",
       "fuentes": [
@@ -58861,7 +58898,8 @@
         }
       ],
       "origen": "macro-api",
-      "confianza": "alta"
+      "confianza": "alta",
+      "baja_motivo": "Macro dejó de listarla en su catálogo completo (lectura del 2026-11-28)."
     },
     {
       "id": "macro-api-neuquen-carniceria-el-nieto-mie-25",

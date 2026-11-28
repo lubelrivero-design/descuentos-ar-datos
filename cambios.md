@@ -1,5 +1,32 @@
 # Cambios
 
+## 2026-11-28 — Sábado sin altas ni bajas a mano; Comafi confirma 7; el resto de la agenda vino igual que ayer; Macro por script
+
+**1096 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 0. Confirmadas a mano: 7 (Comafi, lectura del 28/11). `validar.js --arreglar` salió sin errores. Visibles sin verificar hace más de 10 días: 749 (ayer 752).
+
+- Macro (`node tools/cargar-macro.js`, sobre la lectura del 28/11):
+  - `Macro: 158 promos en porcentaje armadas de 5550 filas (1043 de MODO quedan afuera por no tener provincia conocida, 4286 ya vencidas) · 0 altas · 134 renovadas · 24 revividas · 18 bajas · 0 ya estaban cargadas a mano`
+  - Son del script, no las toqué.
+
+### Cómo se juntó el texto
+**A las 07:41 `crudo/` estaba en el 27/11: el cron de las 7 no había corrido, quinto día seguido.** Disparé `recolectar.yml` completo y llegó "Texto de las fuentes al 2026-11-28 07:54" en unos 13 minutos. No se pudieron leer (quedan con su lectura anterior, no se borró nada): BPN (1/10), Frávega (22/11 de casa), ICBC (8/11), La Anónima (19/11), Santander (ERROR, como siempre), Supervielle (4/11) y Yaguar (17/11). McDonald's y Musimundo siguen con lecturas de agosto.
+
+### Confirmadas
+- **Comafi (7)**: el listado de supermercados del 28/11 es idéntico al del 27/11 (solo cambian los Ray ID de Cloudflare en las otras secciones): `comafi-changomas-martes`, `comafi-coto-martes-30` (35% martes), `comafi-makro-miercoles-20`, `cuotas-comafi-makro-3`, `comafi-petshops-mar-jue-20`, `comafi-puppis-mar-jue-20` y `comafi-rappi-unico-30`. Fuente sumada y `verificado` al 28/11.
+
+### Agenda del día
+- **Trabajadas (las 7 que dio la agenda)**:
+  - **dr-ahorro** (28/11): igual que ayer, la home con productos, sin promos bancarias. Nada para cargar.
+  - **fravega**: sigue con la lectura de casa del 22/11, solo menú y pie. Nada para cargar.
+  - **comafi** (28/11): ver arriba. Las tarjetas de MODO sin detalle siguen sin tope ni vigencia: no se cargan. Combustible, salud, promos del mes y MODO siguen trabadas en Cloudflare.
+  - **ypf** (28/11): "Lo sentimos, esta página no está disponible en este momento" (igual que ayer). La URL de promociones parece muerta. Nada para cargar.
+  - **axion** (28/11): listado de bases y condiciones ("Descuento Super", Desafío Redondo, pelotas, Coca-Cola, Lollapalooza) sin días ni medio bancario. Idéntico a ayer. No se carga.
+  - **farmacity** (28/11): "No encontramos resultados para promociones-bancarias": la URL ya no existe. Nada para cargar.
+  - **shell** (28/11): igual que ayer, beneficios del club de puntos de Shell Box sin días ni banco. No se carga.
+- **Quedaron**: ninguna (la agenda trajo 7; la sección "deuda" vino vacía, `cruzar.js` da 0 promos con vigencia asumida).
+- **Para Lucía**: las recetas de **ypf** (`/promociones` da "página no disponible") y **farmacity** (`/promociones-bancarias` da "no encontramos resultados") apuntan a URLs que ya no existen: hay que buscarles la página nueva, por eso "nunca aportan". El cron de las 7 de GitHub va cinco días seguidos sin correr a tiempo. Lo demás, como ayer (maxiconsumo, vital, yaguar, ICBC, Supervielle).
+
+
 ## 2026-11-27 — Viernes sin altas ni bajas a mano; Comafi confirma 7; el resto de la agenda no trae nada cargable; Macro por script
 
 **1096 promos (igual que ayer).** Altas a mano: 0. Bajas a mano: 0. Revividas a mano: 0. Confirmadas a mano: 7 (Comafi, lectura del 27/11). `validar.js --arreglar` salió sin errores. Visibles sin verificar hace más de 10 días: 752 (ayer 728).
